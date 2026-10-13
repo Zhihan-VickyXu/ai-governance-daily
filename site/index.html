@@ -1,0 +1,488 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#EDF0F4" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#10141B" media="(prefers-color-scheme: dark)">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="AI 治理日报">
+<meta name="description" content="每日汇集全球 AI 立法、政策标准、国际治理与安全事件。">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🛰️</text></svg>">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<title>AI 治理与安全日报</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;500;700&family=Noto+Serif+SC:wght@600;900&display=swap" onload="this.onload=null;this.rel='stylesheet'">
+<style>
+:root{
+  --bg:#EDF0F4; --paper:#F8F9FB; --ink:#18202E; --muted:#5A6475; --rule:#CBD2DC; --rule-strong:#9AA5B5;
+  --soft:#E0E5EE; --accent:#3346B8; --accent-ink:#FFFFFF;
+  --l1:#B4C0E6; --l2:#4F62CC; --l3:#C73A5E; --signal:var(--l3);
+  --band:rgba(51,70,184,.05); --panel:#F6F8FB;
+  --serif:"Noto Serif SC","Source Han Serif SC","Songti SC","STSong","SimSun",serif;
+  --sans:"Noto Sans SC","PingFang SC","Hiragino Sans GB","Microsoft YaHei",system-ui,sans-serif;
+  --gutter:20px;
+  color-scheme:light;
+  box-sizing:border-box;
+  padding-top:env(safe-area-inset-top,0px);
+  padding-bottom:env(safe-area-inset-bottom,0px);
+}
+@media (prefers-color-scheme:dark){
+  :root:not([data-theme="light"]){
+    --bg:#10141B; --paper:#171C25; --ink:#E5E9F0; --muted:#98A2B3; --rule:#2B3341; --rule-strong:#4A5466;
+    --soft:#222A37; --accent:#8C9BF2; --accent-ink:#10141B;
+    --l1:#5A67A0; --l2:#7C8DF0; --l3:#EF7898;
+    --band:rgba(140,155,242,.06); --panel:#151A22; color-scheme:dark;
+  }
+}
+:root[data-theme="dark"]{
+  --bg:#10141B; --paper:#171C25; --ink:#E5E9F0; --muted:#98A2B3; --rule:#2B3341; --rule-strong:#4A5466;
+  --soft:#222A37; --accent:#8C9BF2; --accent-ink:#10141B;
+  --l1:#5A67A0; --l2:#7C8DF0; --l3:#EF7898;
+  --band:rgba(140,155,242,.06); --panel:#151A22; color-scheme:dark;
+}
+*,*::before,*::after{box-sizing:inherit}
+html{scroll-padding-top:env(safe-area-inset-top,0px);-webkit-text-size-adjust:100%;text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--sans);font-size:16px;line-height:1.7;-webkit-font-smoothing:antialiased;-webkit-tap-highlight-color:transparent}
+a{color:inherit}
+button,input,select,textarea{font:inherit;color:inherit}
+button{touch-action:manipulation}
+:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.wrap{max-width:1180px;margin:0 auto;padding-left:max(var(--gutter),env(safe-area-inset-left,0px));padding-right:max(var(--gutter),env(safe-area-inset-right,0px))}
+
+/* Masthead */
+.mast{display:flex;flex-wrap:wrap;align-items:flex-end;justify-content:space-between;gap:16px 32px;padding:40px 0 22px}
+.mast h1{font-family:var(--serif);font-weight:900;font-size:clamp(32px,6vw,60px);line-height:1.08;margin:0;letter-spacing:.02em}
+.mast p{margin:10px 0 0;color:var(--muted);max-width:36em}
+.actions{display:flex;gap:10px;flex-wrap:wrap}
+.btn{display:inline-flex;align-items:center;justify-content:center;gap:6px;border:1px solid var(--rule);background:var(--paper);padding:8px 14px;min-height:40px;border-radius:8px;cursor:pointer;font-size:15px;line-height:1.3}
+.btn:hover{border-color:var(--ink)}
+.btn.primary{background:var(--accent);border-color:var(--accent);color:var(--accent-ink)}
+.btn.primary:hover{filter:brightness(1.08)}
+.btn[disabled]{opacity:.5;cursor:default}
+
+/* Volume panel */
+.vol{background:var(--panel);border:1px solid var(--rule);border-radius:14px;padding:18px 20px 14px;margin-bottom:32px}
+.vol-top{display:flex;flex-wrap:wrap;justify-content:space-between;align-items:flex-start;gap:10px 24px;margin-bottom:14px}
+.vol-title{font-family:var(--serif);font-weight:600;font-size:18px;margin:0;line-height:1.3}
+.readout{margin:4px 0 0;font-size:14px;color:var(--muted);min-height:1.7em}
+.readout b{color:var(--ink);font-weight:500}
+.readout .hi{color:var(--l3);font-weight:500}
+.legend{display:flex;gap:14px;font-size:12px;color:var(--muted);align-items:center;padding-top:4px}
+.legend span{display:inline-flex;align-items:center;gap:6px;white-space:nowrap}
+.legend i{display:inline-block;width:12px;height:8px;border-radius:2px}
+.chart{position:relative}
+.bands{position:absolute;left:0;right:0;top:0;display:grid;grid-template-columns:repeat(30,minmax(0,1fr));gap:2px;pointer-events:none}
+.bands span{background:var(--band);border-radius:6px 6px 0 0}
+.bars{--th:10px;position:relative;display:grid;grid-template-columns:repeat(30,minmax(0,1fr));gap:2px;height:124px;align-items:stretch;border-bottom:1px solid var(--rule-strong)}
+.bar{position:relative;display:flex;align-items:flex-end;justify-content:center;background:none;border:0;padding:0 1px 3px;margin:0;cursor:pointer;border-radius:5px 5px 0 0}
+.bar:hover{background:var(--soft)}
+.bar.sel{background:var(--soft);box-shadow:inset 0 0 0 1.5px var(--ink)}
+.stack{display:flex;flex-direction:column-reverse;gap:2px;width:100%;max-width:22px;transform-origin:bottom}
+.t{display:block;height:var(--th);border-radius:2px}
+.t.l1{background:var(--l1)}.t.l2{background:var(--l2)}.t.l3{background:var(--l3)}
+.nil{display:block;height:2px;width:4px;margin:0 auto;border-radius:1px;background:var(--rule-strong);opacity:.6}
+.bar.today::after{content:"";position:absolute;left:50%;bottom:-5px;width:6px;height:6px;margin-left:-3px;border-radius:50%;background:var(--ink)}
+.labels{display:grid;grid-template-columns:repeat(30,minmax(0,1fr));gap:2px;margin-top:9px;font-size:11px;color:var(--muted);line-height:1.2;font-variant-numeric:tabular-nums}
+.lab{white-space:nowrap;justify-self:start;overflow:visible}
+.lab.end{justify-self:end;color:var(--ink);font-weight:500}
+.vol-foot{display:flex;justify-content:flex-end;min-height:0}
+.vol-foot .linkbtn{margin-top:10px}
+.bars.grow .stack{animation:grow .7s cubic-bezier(.2,.7,.2,1) both}
+@keyframes grow{from{transform:scaleY(0)}to{transform:scaleY(1)}}
+.linkbtn{background:none;border:0;padding:4px 0;color:var(--accent);cursor:pointer;font-size:14px;text-decoration:underline;text-underline-offset:3px}
+
+/* Layout */
+.layout{display:grid;grid-template-columns:minmax(0,1fr);gap:20px;padding-bottom:64px}
+.filters,main{min-width:0}
+@media (min-width:900px){
+  .layout{grid-template-columns:210px minmax(0,1fr);gap:56px}
+  .filters{position:sticky;top:calc(env(safe-area-inset-top,0px) + 20px);align-self:start}
+}
+.filter-bar{display:flex;gap:8px;align-items:center;margin-bottom:22px}
+.ftoggle{display:none}
+.filters .group{margin-bottom:22px}
+.filters h2{font-size:13px;font-weight:500;color:var(--muted);margin:0 0 8px}
+.chips{display:flex;gap:6px;overflow-x:auto;padding-bottom:2px;scrollbar-width:none;-webkit-overflow-scrolling:touch}
+.chips::-webkit-scrollbar{display:none}
+@media (min-width:900px){.chips{flex-direction:column;overflow:visible}}
+.chip{flex:none;text-align:left;background:none;border:1px solid transparent;border-radius:6px;padding:4px 10px;cursor:pointer;font-size:15px;white-space:nowrap}
+.chip:hover{border-color:var(--rule)}
+.chip[aria-pressed="true"]{background:var(--ink);color:var(--bg)}
+.chip .n{color:var(--muted);font-size:12px;margin-left:6px}
+.chip[aria-pressed="true"] .n{color:inherit;opacity:.7}
+.search{flex:1;min-width:0;width:100%;border:1px solid var(--rule);background:var(--paper);border-radius:8px;padding:8px 10px;font-size:16px;min-height:40px}
+
+/* Day groups (unchanged typography) */
+.status{color:var(--muted);padding:24px 0}
+.day{display:grid;grid-template-columns:1fr;gap:4px 28px;padding:6px 0 26px}
+@media (min-width:640px){.day{grid-template-columns:88px minmax(0,1fr)}}
+.day-date{font-family:var(--serif);line-height:1}
+.day-date .d{font-size:48px;font-weight:900;display:block}
+.day-date .m{font-size:14px;color:var(--muted);font-family:var(--sans);display:block;margin-top:6px}
+@media (max-width:639px){.day-date{display:flex;align-items:baseline;gap:10px}.day-date .d{font-size:36px}.day-date .m{margin:0}}
+.brief{margin:4px 0 14px;padding:10px 14px;background:var(--soft);border-radius:4px;max-width:44em;font-size:15px}
+.item{display:grid;grid-template-columns:22px minmax(0,1fr);gap:12px;padding:14px 0;border-top:1px solid var(--rule)}
+.item:first-of-type{border-top:0}
+.sig{display:flex;gap:2px;align-items:flex-end;height:16px;margin-top:7px}
+.sig span{width:4px;background:var(--rule);border-radius:1px}
+.sig span:nth-child(1){height:6px}.sig span:nth-child(2){height:11px}.sig span:nth-child(3){height:16px}
+.sig span.on{background:var(--l2)}
+.sig.hi span.on{background:var(--l3)}
+.item h3{font-family:var(--serif);font-weight:600;font-size:18px;line-height:1.45;margin:0}
+.item h3 a{text-decoration:none}
+.item h3 a:hover{text-decoration:underline;text-underline-offset:3px}
+.item p{margin:6px 0 8px;max-width:44em;color:var(--ink)}
+.meta{display:flex;flex-wrap:wrap;gap:6px 14px;font-size:13px;color:var(--muted);align-items:center}
+.tag{background:var(--soft);color:var(--ink);padding:1px 8px;border-radius:3px}
+.meta .also a{color:var(--muted);text-underline-offset:3px}
+.updated{margin:0;font-size:13px;color:var(--muted);text-align:right;line-height:1.5}
+.updated b{color:var(--ink);font-weight:500}
+.more{display:flex;justify-content:center;padding:8px 0 4px}
+@media (max-width:599px){.updated{text-align:left}}
+.empty{padding:32px 0;color:var(--muted)}
+.note{font-size:13px;color:var(--muted);border-top:1px solid var(--rule);padding-top:14px;margin-top:24px;max-width:44em}
+
+/* Phones (iPhone 17: 402pt, Pro Max: 440pt) */
+@media (max-width:899px){
+  .ftoggle{display:inline-flex;flex:none}
+  .filter-bar{margin-bottom:0}
+  .filter-groups{display:none;padding-top:14px}
+  .filters.open .filter-groups{display:block}
+  .filters .group{margin-bottom:14px}
+  .filters .group:last-child{margin-bottom:0}
+  .filters{border-bottom:1px solid var(--rule);padding-bottom:16px}
+  .chips{margin-left:calc(-1 * var(--gutter));margin-right:calc(-1 * var(--gutter));padding-left:var(--gutter);padding-right:var(--gutter);scroll-padding-left:var(--gutter)}
+  .chip{min-height:36px;border-color:var(--rule);background:var(--paper)}
+  .chip[aria-pressed="true"]{border-color:var(--ink)}
+}
+@media (max-width:599px){
+  :root{--gutter:16px}
+  .mast{padding:24px 0 18px;gap:14px}
+  .mast p{font-size:15px}
+  .vol{padding:14px 12px 12px;border-radius:12px;margin-bottom:24px;margin-left:-4px;margin-right:-4px}
+  .vol-top{margin-bottom:12px;row-gap:4px}
+  .legend{padding-top:0}
+  .vol-title{font-size:17px}
+  .legend{gap:12px}
+  .bars,.bands{gap:1.5px}
+  .labels{gap:1.5px;font-size:10.5px}
+  .bar{padding:0 .5px 3px;border-radius:3px 3px 0 0}
+}
+@media (prefers-reduced-motion:reduce){.bars.grow .stack{animation:none}}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header class="mast">
+    <div>
+      <h1>AI 治理与安全日报</h1>
+      <p>每日汇集全球 AI 立法、政策标准、国际治理与安全事件，按日期和主题整理。</p>
+    </div>
+    <p class="updated" id="updated"></p>
+  </header>
+
+  <section class="vol" aria-labelledby="volTitle">
+    <div class="vol-top">
+      <div>
+        <h2 class="vol-title" id="volTitle">近 30 天资讯量</h2>
+        <p class="readout" id="readout" aria-live="polite"></p>
+      </div>
+      <div class="legend" aria-hidden="true">
+        <span><i style="background:var(--l3)"></i>重大</span>
+        <span><i style="background:var(--l2)"></i>值得关注</span>
+        <span><i style="background:var(--l1)"></i>一般</span>
+      </div>
+    </div>
+    <div class="chart">
+      <div class="bands" id="bands" aria-hidden="true"></div>
+      <div class="bars" id="bars" role="group" aria-label="每日资讯量，每个方块代表一条资讯"></div>
+      <div class="labels" id="labels" aria-hidden="true"></div>
+    </div>
+    <div class="vol-foot"><button class="linkbtn" id="clearDay" type="button" hidden>查看全部日期</button></div>
+  </section>
+
+  <div class="layout">
+    <aside class="filters" id="filters" aria-label="筛选">
+      <div class="filter-bar">
+        <input class="search" id="q" type="search" placeholder="搜索关键词、机构、法案" aria-label="搜索">
+        <button class="btn ftoggle" id="ftoggle" type="button" aria-expanded="false" aria-controls="fgroups">筛选<span id="fcount"></span></button>
+      </div>
+      <div class="filter-groups" id="fgroups">
+        <div class="group"><h2>类别</h2><div class="chips" id="cats"></div></div>
+        <div class="group"><h2>地区</h2><div class="chips" id="regions"></div></div>
+        <div class="group"><h2>重要度</h2><div class="chips" id="imps"></div></div>
+        <div class="group"><h2>语言</h2><div class="chips" id="langs"></div></div>
+      </div>
+    </aside>
+
+    <main>
+      <div id="list"><p class="status">正在读取资讯库…</p></div>
+      <p class="note">每天北京时间早上 7 点自动更新。资讯来自 Bing 新闻、Google 新闻和 arXiv，按关键词规则筛选、分类并合并同一事件的报道；外文报道保留原文标题，摘要取自原文网页的简介。细节请以原文为准。</p>
+    </main>
+  </div>
+</div>
+
+<script>
+const CATS = ["立法与监管","政策与标准","国际治理","安全事件","安全研究","行业动态"];
+const REGIONS = ["中国","美国","欧洲","全球/多边","其他"];
+const IMPS = [[1,"全部"],[2,"值得关注以上"],[3,"仅重大"]];
+const LANGS = [[null,"全部"],["zh","中文"],["en","外文"]];
+const LEVEL = ["","一般","值得关注","重大"];
+const WK = "日一二三四五六";
+const PAGE_DAYS = 14;
+const state = { items:[], days:{}, updated:null, loaded:false, cat:null, region:null, minImp:1, lang:null, q:"", day:null, animated:false, showDays:PAGE_DAYS };
+let stripStats = { by:{}, days:[] };
+
+const $ = id => document.getElementById(id);
+function el(tag, attrs, ...kids){
+  const n = document.createElement(tag);
+  if (attrs) for (const [k,v] of Object.entries(attrs)){
+    if (v == null || v === false) continue;
+    if (k === "class") n.className = v;
+    else if (k === "text") n.textContent = v;
+    else if (k.startsWith("on")) n.addEventListener(k.slice(2), v);
+    else n.setAttribute(k, v === true ? "" : v);
+  }
+  for (const c of kids.flat()) if (c != null) n.append(c.nodeType ? c : document.createTextNode(String(c)));
+  return n;
+}
+const pad = n => String(n).padStart(2,"0");
+const fmt = d => d.getFullYear()+"-"+pad(d.getMonth()+1)+"-"+pad(d.getDate());
+const parse = s => { const [y,m,d] = String(s).split("-").map(Number); return new Date(y,(m||1)-1,d||1); };
+const today = () => fmt(new Date());
+const md = s => { const d = parse(s); return `${d.getMonth()+1}月${d.getDate()}日`; };
+const safeUrl = u => /^https?:\/\//i.test(String(u||"")) ? u : null;
+const regionsOf = it => Array.isArray(it.regions) ? it.regions : (it.region ? [it.region] : []);
+const langOf = it => it.lang || (/[\u4e00-\u9fff]{2}/.test(it.title||"") ? "zh" : "en");
+const imp = it => Math.min(3, Math.max(1, Number(it.importance)||1));
+const isPhone = () => window.matchMedia("(max-width:599px)").matches;
+const resetPaging = () => { state.showDays = PAGE_DAYS; };
+
+function baseFiltered(){
+  const q = state.q.trim().toLowerCase();
+  return state.items.filter(it =>
+    (!state.cat || it.category === state.cat) &&
+    (!state.region || regionsOf(it).includes(state.region)) &&
+    imp(it) >= state.minImp &&
+    (!state.lang || langOf(it) === state.lang) &&
+    (!q || [it.title,it.summary,it.source,it.category,...regionsOf(it)].join(" ").toLowerCase().includes(q))
+  );
+}
+
+function renderChips(){
+  const counts = (key, val) => state.items.filter(it => key==="cat" ? it.category===val : regionsOf(it).includes(val)).length;
+  const mk = (label, pressed, onclick, n) => el("button",{class:"chip",type:"button","aria-pressed":String(pressed),onclick}, label, n!=null ? el("span",{class:"n",text:n}) : null);
+  $("cats").replaceChildren(
+    mk("全部类别", !state.cat, () => { state.cat = null; resetPaging(); renderAll(); }),
+    ...CATS.map(c => mk(c, state.cat===c, () => { state.cat = state.cat===c ? null : c; resetPaging(); renderAll(); }, counts("cat",c)))
+  );
+  $("regions").replaceChildren(
+    mk("全部地区", !state.region, () => { state.region = null; resetPaging(); renderAll(); }),
+    ...REGIONS.map(r => mk(r, state.region===r, () => { state.region = state.region===r ? null : r; resetPaging(); renderAll(); }, counts("region",r)))
+  );
+  $("imps").replaceChildren(...IMPS.map(([v,l]) => mk(l, state.minImp===v, () => { state.minImp = v; resetPaging(); renderAll(); })));
+  $("langs").replaceChildren(...LANGS.map(([v,l]) => mk(l, state.lang===v, () => { state.lang = v; resetPaging(); renderAll(); },
+    v ? state.items.filter(it => langOf(it)===v).length : null)));
+  const active = (state.cat?1:0) + (state.region?1:0) + (state.minImp>1?1:0) + (state.lang?1:0);
+  $("fcount").textContent = active ? `（${active}）` : "";
+}
+
+function stripEnd(){
+  let end = today();
+  for (const it of state.items) if (it.date > end) end = it.date;
+  return end;
+}
+
+function setReadout(ds){
+  const r = $("readout"); const { by, days } = stripStats;
+  const key = ds || state.day;
+  if (!state.loaded){ r.textContent = ""; return; }
+  if (key){
+    const b = by[key] || {n:0,l1:0,l2:0,l3:0};
+    const d = parse(key);
+    const parts = [];
+    if (b.l3) parts.push(el("span",{class:"hi",text:`重大 ${b.l3}`}));
+    if (b.l2) parts.push(`值得关注 ${b.l2}`);
+    if (b.l1) parts.push(`一般 ${b.l1}`);
+    const detail = [];
+    parts.forEach((p,i) => { if (i) detail.push("，"); detail.push(p); });
+    r.replaceChildren(el("b",{text:`${d.getMonth()+1}月${d.getDate()}日 周${WK[d.getDay()]}`}), "　",
+      b.n ? `${b.n} 条：` : "没有收录资讯", ...detail);
+    return;
+  }
+  let n = 0, hi = 0, top = null;
+  for (const ds of days){ const b = by[ds]; if (!b) continue; n += b.n; hi += b.l3; if (!top || b.n > by[top].n) top = ds; }
+  if (!n){ r.textContent = "这段时间没有符合筛选的资讯。"; return; }
+  r.replaceChildren("共 ", el("b",{text:String(n)}), " 条，其中 ", el("span",{class:"hi",text:`重大 ${hi}`}), " 条。",
+    isPhone() ? "" : "最多的一天是 ", isPhone() ? "" : el("b",{text:md(top)}), isPhone() ? "" : `（${by[top].n} 条）。`);
+}
+
+function renderStrip(){
+  const items = baseFiltered();
+  const endS = stripEnd(), end = parse(endS), tS = today();
+  const days = [];
+  for (let i = 29; i >= 0; i--){ const d = new Date(end); d.setDate(d.getDate()-i); days.push(fmt(d)); }
+  const by = {};
+  for (const it of items){ const b = (by[it.date] ||= {n:0,l1:0,l2:0,l3:0}); b.n++; b["l"+imp(it)]++; }
+  stripStats = { by, days };
+
+  const maxN = Math.max(1, ...days.map(d => by[d] ? by[d].n : 0));
+  const Hmax = isPhone() ? 104 : 132, cap = isPhone() ? 16 : 20;
+  const th = Math.max(3, Math.min(cap, Math.floor((Hmax - 8 - 2*(maxN-1)) / maxN)));
+  const H = Math.max(isPhone() ? 64 : 80, Math.min(Hmax, maxN*(th+2) + 26));
+  const wrap = $("bars");
+  wrap.style.setProperty("--th", th + "px");
+  wrap.style.height = H + "px";
+
+  const segs = []; let segStart = 0;
+  days.forEach((ds, i) => { if (i > 0 && parse(ds).getDay() === 1){ segs.push([segStart, i]); segStart = i; } });
+  segs.push([segStart, days.length]);
+  const bandsEl = $("bands"); bandsEl.style.height = H + "px";
+  bandsEl.replaceChildren(...segs.map(([a,b], k) => el("span",{style:`grid-column:${a+1} / ${b+1};${k % 2 === (segs.length-1) % 2 ? "" : "background:transparent"}`})));
+
+  const bars = days.map(ds => {
+    const d = parse(ds); const b = by[ds];
+    const stack = el("span",{class:"stack"});
+    if (b){
+      for (let k=0;k<b.l3;k++) stack.append(el("i",{class:"t l3"}));
+      for (let k=0;k<b.l2;k++) stack.append(el("i",{class:"t l2"}));
+      for (let k=0;k<b.l1;k++) stack.append(el("i",{class:"t l1"}));
+    } else stack.append(el("i",{class:"nil"}));
+    const cls = "bar" + (state.day===ds ? " sel" : "") + (ds===tS ? " today" : "");
+    return el("button",{
+      class:cls, type:"button",
+      "aria-label":`${d.getMonth()+1}月${d.getDate()}日，${b?b.n:0} 条` + (b&&b.l3?`，其中重大 ${b.l3} 条`:""),
+      "aria-pressed":String(state.day===ds),
+      onmouseenter:() => setReadout(ds), onmouseleave:() => setReadout(null),
+      onfocus:() => setReadout(ds), onblur:() => setReadout(null),
+      onclick:() => { state.day = state.day===ds ? null : ds; resetPaging(); renderAll(); }
+    }, stack);
+  });
+  wrap.replaceChildren(...bars);
+
+  const firstMonday = days.findIndex(ds => parse(ds).getDay() === 1);
+  $("labels").replaceChildren(...days.map((ds, i) => {
+    const d = parse(ds); let t = "";
+    if (i === 29) t = ds === tS ? "今天" : `${d.getMonth()+1}/${d.getDate()}`;
+    else if (d.getDay() === 1 && i <= 25) t = `${d.getMonth()+1}/${d.getDate()}`;
+    else if (i === 0 && (firstMonday < 0 || firstMonday > 3)) t = `${d.getMonth()+1}/${d.getDate()}`;
+    return el("span",{class:"lab"+(i===29?" end":""),text:t});
+  }));
+
+  if (state.loaded && !state.animated && state.items.length){
+    wrap.classList.add("grow"); state.animated = true; setTimeout(() => wrap.classList.remove("grow"), 900);
+  }
+  $("clearDay").hidden = !state.day;
+  setReadout(null);
+}
+
+function renderList(){
+  const list = $("list");
+  if (!state.loaded) return;
+  let items = baseFiltered();
+  if (state.day) items = items.filter(it => it.date === state.day);
+  if (!state.items.length){
+    list.replaceChildren(el("p",{class:"empty",text:"资讯库还是空的。第一次自动更新完成后，这里会出现当天的资讯。"}));
+    return;
+  }
+  if (!items.length){
+    list.replaceChildren(el("div",{class:"empty"},
+      el("p",{text: state.day ? `${md(state.day)}没有符合筛选的资讯。` : "没有符合当前筛选的资讯。"}),
+      el("button",{class:"btn",type:"button",onclick:()=>{Object.assign(state,{cat:null,region:null,minImp:1,lang:null,q:"",day:null}); $("q").value=""; resetPaging(); renderAll();}},"清除全部筛选")));
+    return;
+  }
+  const groups = {};
+  for (const it of items) (groups[it.date] ||= []).push(it);
+  const allDates = Object.keys(groups).sort().reverse();
+  const dates = allDates.slice(0, state.showDays);
+  const nodes = dates.map(ds => {
+    const d = parse(ds);
+    const brief = state.days[ds] && state.days[ds].brief;
+    const rows = groups[ds].sort((a,b) => imp(b)-imp(a));
+    return el("section",{class:"day","aria-label":md(ds)},
+      el("div",{class:"day-date"}, el("span",{class:"d",text:d.getDate()}), el("span",{class:"m",text:`${d.getMonth()+1}月 · 周${WK[d.getDay()]}`})),
+      el("div",null,
+        brief && !state.cat && !state.region && !state.lang && !state.q ? el("p",{class:"brief",text:brief}) : null,
+        ...rows.map(renderItem))
+    );
+  });
+  if (allDates.length > dates.length){
+    nodes.push(el("div",{class:"more"}, el("button",{class:"btn",type:"button",onclick:()=>{ state.showDays += PAGE_DAYS; renderList(); }},
+      `显示更早的资讯（还有 ${allDates.length - dates.length} 天）`)));
+  }
+  list.replaceChildren(...nodes);
+}
+
+function renderItem(it){
+  const w = imp(it); const url = safeUrl(it.url);
+  const allAlso = (Array.isArray(it.also) ? it.also : []).filter(a => a && a.source);
+  const also = allAlso.slice(0, 3);
+  const coverage = Math.max(Number(it.coverage)||1, allAlso.length + 1);
+  return el("article",{class:"item"},
+    el("div",{class:"sig"+(w===3?" hi":""),title:"重要度："+LEVEL[w],"aria-label":"重要度："+LEVEL[w]},
+      el("span",{class:w>=1?"on":""}), el("span",{class:w>=2?"on":""}), el("span",{class:w>=3?"on":""})),
+    el("div",null,
+      el("h3",null, url ? el("a",{href:url,target:"_blank",rel:"noopener noreferrer",text:it.title||"(无标题)"}) : (it.title||"(无标题)")),
+      it.summary ? el("p",{text:it.summary}) : null,
+      el("div",{class:"meta"},
+        it.source ? el("span",{text:it.source}) : null,
+        it.category ? el("span",{class:"tag",text:it.category}) : null,
+        regionsOf(it).length ? el("span",{text:regionsOf(it).join("、")}) : null,
+        also.length ? el("span",{class:"also"}, "另见 ", ...also.flatMap((a,i) => {
+          const u = safeUrl(a.url);
+          const node = u ? el("a",{href:u,target:"_blank",rel:"noopener noreferrer",text:a.source}) : a.source;
+          return i ? ["、", node] : [node];
+        }), coverage > also.length + 1 ? ` 等 ${coverage} 家` : "") : null,
+        it.addedBy === "manual" ? el("span",{text:"手动收录"}) : null
+      )
+    )
+  );
+}
+
+function renderUpdated(){
+  const u = $("updated");
+  if (!state.updated){ u.textContent = ""; return; }
+  const d = new Date(state.updated);
+  if (isNaN(d)){ u.textContent = ""; return; }
+  u.replaceChildren("更新于 ", el("b",{text:`${d.getMonth()+1}月${d.getDate()}日 ${pad(d.getHours())}:${pad(d.getMinutes())}`}));
+}
+
+function renderAll(){ renderChips(); renderStrip(); renderList(); renderUpdated(); }
+
+async function getJSON(path){
+  const r = await fetch(path, { cache:"no-cache" });
+  if (!r.ok) throw new Error(path + " " + r.status);
+  return r.json();
+}
+
+async function load(){
+  try {
+    const [store, days] = await Promise.all([getJSON("data/items.json"), getJSON("data/days.json").catch(() => ({}))]);
+    state.items = (Array.isArray(store.items) ? store.items : []).filter(it => it && it.date && it.title);
+    state.updated = store.updated || null;
+    const m = {};
+    for (const [k,v] of Object.entries(days || {})) m[k] = typeof v === "string" ? { brief:v } : v;
+    state.days = m;
+    state.loaded = true;
+    renderAll();
+  } catch (e){
+    $("list").replaceChildren(el("p",{class:"status",text:"读取资讯失败，刷新页面再试。如果是在电脑上直接双击打开的 index.html，需要通过网址访问才能读取数据。"}));
+  }
+}
+
+$("q").addEventListener("input", e => { state.q = e.target.value; resetPaging(); renderAll(); });
+$("clearDay").addEventListener("click", () => { state.day = null; resetPaging(); renderAll(); });
+$("ftoggle").addEventListener("click", () => {
+  const f = $("filters"); const open = !f.classList.contains("open");
+  f.classList.toggle("open", open); $("ftoggle").setAttribute("aria-expanded", String(open));
+});
+let rz; window.addEventListener("resize", () => { clearTimeout(rz); rz = setTimeout(renderStrip, 150); });
+document.addEventListener("visibilitychange", () => { if (document.visibilityState === "visible" && state.loaded) load(); });
+
+renderAll();
+load();
+</script>
+</body>
+</html>

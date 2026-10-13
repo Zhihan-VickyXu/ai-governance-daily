@@ -1,0 +1,4 @@
+{
+  "_说明": "在 items 里添加你想手动收录的资讯，下次自动更新时会写入网站。字段：date（YYYY-MM-DD）、title、summary、url、source、category、regions、importance（1 一般 / 2 值得关注 / 3 重大）。",
+  "items": []
+}

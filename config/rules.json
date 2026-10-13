@@ -1,0 +1,34 @@
+{
+  "_说明": "筛选和分类规则。英文词按词首匹配、不分大小写（regulat 能匹配 regulation、regulator）；3 个字母以内的英文词（如 AI、EU、UN）要求完整匹配且区分大小写；中文词按包含匹配。改完提交即可，下次运行生效。",
+
+  "ai_terms": ["AI", "A.I.", "artificial intelligence", "LLM", "chatbot", "frontier model", "foundation model", "generative", "deepfake", "machine learning", "OpenAI", "Anthropic", "DeepMind", "ChatGPT", "Claude", "Gemini", "人工智能", "大模型", "生成式", "智能体", "深度合成", "算法推荐", "机器学习"],
+
+  "strong_terms": ["regulat", "legislat", "AI Act", "executive order", "governance", "safety institute", "security institute", "misalign", "oversight", "treaty", "moratorium", "liabilit", "enforcement", "export control", "red line", "loss of control", "catastrophic risk", "监管", "治理", "立法", "法案", "法规", "条例", "管理办法", "暂行办法", "安全治理", "失控", "安全事件", "备案", "出口管制"],
+
+  "medium_terms": ["law", "bill", "polic", "safety", "risk", "standard", "guideline", "framework", "audit", "court", "lawsuit", "ban", "incident", "breach", "watchdog", "regulator", "senate", "congress", "parliament", "commission", "ministry", "alignment", "evaluation", "政策", "风险", "安全", "标准", "指南", "框架", "伦理", "处罚", "罚款", "起诉", "监督", "评估", "对齐"],
+
+  "negative_terms": ["stock", "shares", "earnings", "revenue", "valuation", "funding round", "raises $", "IPO", "smartphone", "laptop", "deal of the day", "discount", "price cut", "best AI", "how to use", "股价", "市值", "融资", "上市", "财报", "手机", "降价", "优惠", "带货", "发布会"],
+
+  "high_signal_terms": ["signed into law", "signs bill", "passes", "passed", "enacted", "executive order", "takes effect", "into force", "Security Council", "General Assembly", "summit", "fined", "fine of", "banned", "escaped", "breach", "red line", "签署", "通过", "施行", "生效", "印发", "发布实施", "安理会", "联合国大会", "峰会", "罚款", "叫停"],
+
+  "authority_domains": [".gov", ".gov.cn", ".gov.uk", "europa.eu", "un.org", "oecd.org", "cac.gov.cn"],
+  "authority_sources": ["Reuters", "Associated Press", "AP News", "Bloomberg", "Financial Times", "The New York Times", "The Wall Street Journal", "The Washington Post", "BBC", "The Guardian", "Politico", "Axios", "CNBC", "新华社", "新华网", "人民日报", "人民网", "央视", "中国新闻网", "财新", "澎湃新闻", "南方周末", "第一财经"],
+
+  "categories": [
+    ["安全事件", ["incident", "breach", "hack", "rogue", "misalign", "escaped", "jailbreak", "leak", "deepfake scam", "attack", "安全事件", "泄露", "失控", "越狱", "攻击", "诈骗"]],
+    ["国际治理", ["UN", "United Nations", "G7", "G20", "OECD", "summit", "treaty", "bilateral", "international", "联合国", "峰会", "国际", "多边", "双边", "全球治理"]],
+    ["立法与监管", ["bill", "law", "AI Act", "legislat", "regulat", "fine", "enforce", "lawsuit", "court", "sued", "attorney general", "法案", "立法", "法规", "条例", "监管", "罚款", "起诉", "法院", "检察"]],
+    ["政策与标准", ["polic", "standard", "guideline", "framework", "executive order", "NIST", "ISO", "strategy", "政策", "标准", "指南", "框架", "办法", "意见", "规划", "战略"]],
+    ["安全研究", ["arxiv", "paper", "research", "study", "alignment", "interpretab", "evaluation", "benchmark", "red team", "研究", "论文", "对齐", "评测", "可解释"]]
+  ],
+
+  "regions": [
+    ["中国", ["China", "Chinese", "Beijing", "中国", "网信", "国务院", "工信部", "北京", "上海", "深圳", "香港"]],
+    ["美国", ["US", "U.S.", "United States", "America", "Congress", "White House", "California", "Senate", "federal", "Trump", "美国", "国会", "白宫", "加州", "特朗普"]],
+    ["欧洲", ["EU", "European", "Europe", "Brussels", "UK", "Britain", "British", "Germany", "France", "欧盟", "欧洲", "英国", "德国", "法国"]],
+    ["全球/多边", ["UN", "United Nations", "global", "G7", "G20", "OECD", "international", "联合国", "全球", "国际"]]
+  ],
+
+  "min_score": 4,
+  "max_items_per_run": 30
+}

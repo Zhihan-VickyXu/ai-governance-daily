@@ -1,0 +1,62 @@
+{
+  "_说明": "type 可选 bing / gnews / rss。bing 和 gnews 填 q（搜索词）和 lang（zh 或 en）；rss 填 url。max 是每个来源最多读几条，lookback_hours 可单独覆盖回溯时长，category 会强制指定类别，max_selected 限制这个来源每天最多入选几条，enabled 设为 false 可临时停用。",
+  "feeds": [
+    {
+      "name": "Bing 新闻：AI 监管立法",
+      "type": "bing",
+      "lang": "en",
+      "q": "AI regulation OR \"AI Act\" OR \"AI bill\" OR \"AI law\""
+    },
+    {
+      "name": "Bing 新闻：AI 安全与治理",
+      "type": "bing",
+      "lang": "en",
+      "q": "\"AI safety\" OR \"AI governance\" OR \"frontier AI\""
+    },
+    {
+      "name": "Bing 新闻：AI 安全事件",
+      "type": "bing",
+      "lang": "en",
+      "q": "AI incident OR \"AI agents\" misalignment OR \"AI Security Institute\""
+    },
+    {
+      "name": "Bing 新闻：人工智能监管",
+      "type": "bing",
+      "lang": "zh",
+      "q": "人工智能 监管 OR 人工智能 治理 OR 人工智能 立法"
+    },
+    {
+      "name": "Bing 新闻：人工智能安全",
+      "type": "bing",
+      "lang": "zh",
+      "q": "人工智能安全 OR 大模型 安全 OR 网信办 人工智能"
+    },
+    {
+      "name": "Google 新闻：AI regulation",
+      "type": "gnews",
+      "lang": "en",
+      "q": "\"AI regulation\" OR \"AI Act\" OR \"AI legislation\""
+    },
+    {
+      "name": "Google 新闻：AI safety",
+      "type": "gnews",
+      "lang": "en",
+      "q": "\"AI safety\" OR \"AI governance\" OR \"frontier AI\" OR \"AI incident\""
+    },
+    {
+      "name": "Google 新闻：人工智能治理",
+      "type": "gnews",
+      "lang": "zh",
+      "q": "人工智能 治理 OR 人工智能 监管 OR 人工智能安全"
+    },
+    {
+      "name": "arXiv：AI 安全与治理论文",
+      "type": "rss",
+      "max": 30,
+      "lookback_hours": 96,
+      "url": "https://export.arxiv.org/api/query?search_query=abs:%22AI%20safety%22%20OR%20abs:%22AI%20governance%22%20OR%20abs:%22frontier%20AI%22&sortBy=submittedDate&sortOrder=descending&max_results=40",
+      "category": "安全研究",
+      "max_selected": 4
+    }
+  ]
+}
