@@ -1,6 +1,359 @@
 {
- "updated": "2026-10-13T14:19:05+08:00",
+ "updated": "2026-10-14T09:31:17+08:00",
  "items": [
+  {
+   "id": "2026-10-14-e0d79528412574d6",
+   "date": "2026-10-14",
+   "title": "法本信息10月13日回应AI安全话题：FarAI GPTCoder通过网信办备案，金融合规产品落地_公司新闻",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBLZHJCTTA1ek5nVExLN3NBT1FtUXlvQWlEVEhHYUFpWEZoaXkycHVkdFBvX0pqTDNIOW9UdE9YTG9xZTBkcWg4OHBSRHFGTm9sS3NKWm4zMmdUSi0wTzVsQVNn?oc=5",
+   "source": "证券之星",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "中国"
+   ],
+   "importance": 2,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-10-14T09:31:17+08:00",
+   "keys": [
+    "8344365839c8dee5",
+    "e0d79528412574d6"
+   ]
+  },
+  {
+   "id": "2026-10-14-98e61fbd4c22a1a8",
+   "date": "2026-10-14",
+   "title": "EC-Council Releases ADG 2.0 and Offers Its AI Governance Crosswalks Free to Every Government, Regulator, and Standards Body as Nations Split on AI Rules",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOa0pydzJpT3daeEo0Q3BtdGZ6ejZGMXprT0ExdVFoelJRTXhPbllFZUVGcDVDYmV3a2NjdjhmZWZuZmFtcTJHeEp6QXI5TWpNYzJ6dW9OM01mMlhpdnZpemNLVHVtUG5sOVd1elJoUUJicWZtOWNvMXdDRWg1Ml91S1NObzhfRmJ2elJXZXpTX2djWmh2X0NwdmU1Ull3U01FVnZpUzVSeG53aFdTSW5mZERxMWhCUVJpTHFpLTd6NFBRb1JNTHlRMEd0SFpUOUtCZk03WjFEUnFqYkpQVkZuTjlpQlNkb1czSmFzN3FXVlFteXFLZk16NDJOYVRzRTZu0gGAAkFVX3lxTE5rSnJ3MmlPd1p4SjRDcG10Znp6NkYxemtPQTF1UWh6UlFNeE9uWUVlRUZwNUNiZXdrY2N2OGZlZm5mYW1xMkd4SnpBcjlNak1jMnp1b04zTWYyWGl2dml6Y0tUdW1Qbmw5V3V6UmhRQmJxZm05Y28xd0NFaDUyX3VLU05vOF9GYnZ6UldlelNfZ2NaaHZfQ3B2ZTVSWXdTTUVWdmlTNVJ4bndoV1NJbmZkRHExaEJRUmlMcWktN3o0UFFvUk1MeVEwR3RIWlQ5S0JmTTdaMURScWpiSlBWRm5OOWlCU2RvVzNKYXM3cVdWUW15cUtmTXo0Mk5hVHNFNm4?oc=5",
+   "source": "CISO Mag",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-14T09:31:17+08:00",
+   "keys": [
+    "401d5af4551f57f7",
+    "98e61fbd4c22a1a8"
+   ]
+  },
+  {
+   "id": "2026-10-14-3e76b830b30634cf",
+   "date": "2026-10-14",
+   "title": "AEGIS：面向美国与欧盟监管框架下自适应医疗AI上市后治理的可操作基础设施",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAxdENOUER3RmpTM0d0bmduVGg0NzBCWmREVmJBa2NXVWJFaTFmNU5CRGtyRWU1VWtqX291dE5yc0R1UFI4eEpNb2ZhV0VUOFRsM09IVzdXZTA5N3BOQTV1ZHZpMFRaZzRLU0FocDln?oc=5",
+   "source": "生物通",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "美国",
+    "欧洲"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-10-14T09:31:17+08:00",
+   "keys": [
+    "07af5da64bf49c42",
+    "3e76b830b30634cf"
+   ]
+  },
+  {
+   "id": "2026-10-14-64c5a62139097cb6",
+   "date": "2026-10-14",
+   "title": "AI监管｜400学者发公开信吁设国际机构 订安全标准及通报机制",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMikgNBVV95cUxNM3FmZ0l0UkQ0M3ExSUZIeHBNU3o0Y3FuNldya1hOaFlGeTNRTmtzV1dJU0lkUnhSNTd3RW9ER3F1UXpPNW9zR1BwZWpYZkM3UDNaSi1IQ2lSeGFMa2VSM2lpLXYwbmhUN3JuakVJS2YzWExILTF1UVY4ZFdmSGFWX0pmWVE1Zl9KNUxrWU1BeGNSak9WVFFyZ3owU0ZjQ09VQmZ6LUIyQjdUb0dMbG9fenFPNEs5SUREbDUtRzNMREp1ZWp0UWNpMFFsRTkweWVnWjN6R3FZYXM5bTUweUN5MWQ2SE9NVTJWQ1otd0t6R0NVLTJNcXZpQ2QwUWY2eVE0MGVWeGJ2azZBWG1PNHItdVAtRWJfRmVvY2Mtdjc2VjdMSnR6WERGaU8xakpmcE9OdXpsMVAyMXNMQTg1YzgzT0J5NUpWYnVGb1E3bk9fQzU0eEJMb2U2WTBPdlBneFJsUncxYlFLMzdLWDlhZHVKODBNel9uYjV6OFh6UXB1emVsN3VjV3BpbFA2WFJyYWxKUEE?oc=5",
+   "source": "星島頭條",
+   "also": [],
+   "coverage": 1,
+   "category": "国际治理",
+   "regions": [
+    "全球/多边"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-10-14T09:31:17+08:00",
+   "keys": [
+    "1302df397df7630d",
+    "64c5a62139097cb6"
+   ]
+  },
+  {
+   "id": "2026-10-14-9d03f1368c1a7fb2",
+   "date": "2026-10-14",
+   "title": "AI governance needs more than a policy document",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQ3g0YTF4MlVTb0pvS0ZSc1pQWXg4ekhuMWlxUVhXRWMwWEItSkR1TjdBMWxJcVBpSHpSVElGemc0UnlTc2o2ZW5IMlZiMUZjalFmUGk2VXlOZG5qRUljc1RoZ0VYRi1NTUctVXZmdUh4MWRJZEdxaHRvemtsX1NkRUwwVkFmeU5G?oc=5",
+   "source": "Sophos",
+   "also": [],
+   "coverage": 1,
+   "category": "政策与标准",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-14T09:31:17+08:00",
+   "keys": [
+    "9d03f1368c1a7fb2",
+    "c989d77193f0f12b"
+   ]
+  },
+  {
+   "id": "2026-10-14-0eed474eef872e15",
+   "date": "2026-10-14",
+   "title": "79% of company execs say employees work around their AI governance policies",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbmIwRFFzYzVDM21xaGdjUmJnMWduNFN0SkdUREJ3WmRCSVpNWTZrTDlIeUpMb1VTdHprNzh4OFZzZlV0a3YxTDBEd01ObnR1VXc5bGMtcDNDb3FRWUxtU2ZyanQtZWZ1b3U0TllyTWlzd1REeGxtZmhfVTNZSUo0YVRDY0xKalUyRDZXTkJWWFkzNUt3emVCbFAtQl9PeHVIYTEtOHRrR1c5ZzFuQUVnejhYUWJ2YWVQa1daX2xySndqdENnNkczbDBEZEh2QQ?oc=5",
+   "source": "North Country Now",
+   "also": [],
+   "coverage": 1,
+   "category": "政策与标准",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-14T09:31:17+08:00",
+   "keys": [
+    "0eed474eef872e15",
+    "573789deac1bd779"
+   ]
+  },
+  {
+   "id": "2026-10-14-137dcdfbe7ff3598",
+   "date": "2026-10-14",
+   "title": "ST信安10月13日回应AI安全话题：领元AI安全网关定位多模型AI网关与治理平台_公司新闻",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBWdzZfUE9lLVZmYkJwZmh2YmxNd3paWEpYLW1sRE1GQ1pzd1FhSWVYRFdtZ0RzclhaWl9FemhlQzd6VW81MVZ2ZGt5SDVzY29kVTZZUUNETkRBV0JnY2hEZG5R?oc=5",
+   "source": "证券之星",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-10-14T09:31:17+08:00",
+   "keys": [
+    "137dcdfbe7ff3598",
+    "828cf4d2b6de4123"
+   ]
+  },
+  {
+   "id": "2026-10-14-8591b2e719068696",
+   "date": "2026-10-14",
+   "title": "Nearly 3,000 Californians weigh in on state's approach to AI regulation",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxONzJKRmNsTGphZFZHNkRxMlFXVjlMZHlXbGZfUDhUN3ZGQ0JBQ3o2WlFYYVlUWl9Sc3lBVTE4dEFlbG5DY2dJQ0FWQXpWN01rWFhLY2N4eDNNS3Njc0FIWld3V250UFlDc3hoMmZKNWd0SW1QR2dqam5KTElnQmhKWjNqa08xMmZIOTY4UnJ3ekNmQzVQWTdjWUFib0E3bXYwWHE1WlVfWldJSnV0cVE1SGhxQ2hVOTJ4X0llTHB4RDFpLW8yWGRQWFp5TEQ1eFQxalNING5UOV9HUmJuU29iTVFCM0FmX0tzQ1E?oc=5",
+   "source": "ABC10",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "美国"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-14T09:31:17+08:00",
+   "keys": [
+    "645160496fb2e640",
+    "8591b2e719068696"
+   ]
+  },
+  {
+   "id": "2026-10-14-afadc9f7a92c1c93",
+   "date": "2026-10-14",
+   "title": "Organized Money: Charting a New Course on AI Regulation (With Rep. Pramila Jayapal)",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeVh6bzMtcENwcFFscmR1d3JITnRSMlNuLTBVaTFkNVNLTzhQQUcwN3V0aDR0cWZjRUxjQzd2c3N5Smx0R09rRVRmcGZEQkpfOTdHSURLWWJub05sQkNsUUN3Y0VTOGpjT3ZUd1Q1bmxjNjhEZnRhTENqd1VQUWcwVlUwQkl3RjR6V3BBeDJDb3kyOGhaMjNGSWl5Yk9xUWJHbGd3ZFI4RUM0bG0waVctVkpn?oc=5",
+   "source": "The American Prospect",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-14T09:31:17+08:00",
+   "keys": [
+    "a8f5c9f23d30472c",
+    "afadc9f7a92c1c93"
+   ]
+  },
+  {
+   "id": "2026-10-14-6f91664aa431b658",
+   "date": "2026-10-14",
+   "title": "What corporate AI regulation can take from the climate response",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdms1ajBDTjZzZ2NjSU9CTHd5VzI2YmxmOXZBSHJQSXVMcmtnc3Ytc0N0dVpxTGM1NjI4Y3BfVnBsOWNvQjlPdVhwMktseURKd2NKcDl5RUVfVkRBYnllWWJDVE5DSE9aWmU2SU12M01Oem9rZDhGTEQwVzFTdnM2R084cVBWdjF6RWEwSHUyV2NnaGtGOUZjZUpfVlhCUQ?oc=5",
+   "source": "Lexology",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-14T09:31:17+08:00",
+   "keys": [
+    "6f91664aa431b658",
+    "bbbd4f7a77a8d230"
+   ]
+  },
+  {
+   "id": "2026-10-14-da65144e44676cf2",
+   "date": "2026-10-14",
+   "title": "Pressed by UK lawmakers, Anthropic, Google, Meta, OpenAI differ on AI regulation",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOa284dU1vUzR1VVNHanJZX1QwRllWcVlWWmNLUWw2M3RFbVNOOXhMU3ZmTmNpa3hRV254QTgxbVV1S1NXb0xCcTFmRlRXNUJVVVowNWhzZzlxOXU4bnctNzc5UU5TQjlmTmdXT0NKU0VSR1hfMVAtNlZJeW15alBQUjlIcWtETjRwN1Fra2hCVWsyV3J0U2stSzZWNTBEeFBXSmdhdEV0M0UyQjFmRzNiMXlTR29WRXl6M3RF0gFaQVVfeXFMUDdXb1BsWVlaZHpDMlBDbXF2U0ZRVWpwbUZTeEtDa0NmRmtmakRlbEI1X1k4S3lqRUh6YlFTTDRDVDhWTWhDT1lFMmE3dGdjc3huLVgxQ1NCZ2xR?oc=5",
+   "source": "MLex",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "欧洲"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-14T09:31:17+08:00",
+   "keys": [
+    "5a0ba4e1a74791c5",
+    "da65144e44676cf2"
+   ]
+  },
+  {
+   "id": "2026-10-14-2db146ff3e6cc031",
+   "date": "2026-10-14",
+   "title": "Leaders in Responsible AI Governance and Innovation",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOR3ZIY2FVNkdHUVJNOE5GR0hmYjBVR3VhSENxVGxnSFQtMmctaXQ1cEhzWXZzQ3Q1d09ieHJOOGl1ZVJ6OWdGdHpOdWhJT0xhWE54aFd5QTN1bHlpQ1RPaFFLNXpLeG1UblVPak1Nbng3eDFnc0xNQ09iQzJjSlZsdEYyMXlsTTFKUU5hN28yUnR3ZFZYYzN2VDhOTVVKZ9IBngFBVV95cUxOR3ZIY2FVNkdHUVJNOE5GR0hmYjBVR3VhSENxVGxnSFQtMmctaXQ1cEhzWXZzQ3Q1d09ieHJOOGl1ZVJ6OWdGdHpOdWhJT0xhWE54aFd5QTN1bHlpQ1RPaFFLNXpLeG1UblVPak1Nbng3eDFnc0xNQ09iQzJjSlZsdEYyMXlsTTFKUU5hN28yUnR3ZFZYYzN2VDhOTVVKZw?oc=5",
+   "source": "USBE and Information Technology",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-14T09:31:17+08:00",
+   "keys": [
+    "2db146ff3e6cc031",
+    "8d6aef7bf7fa37f0"
+   ]
+  },
+  {
+   "id": "2026-10-14-7c85f965b4d73337",
+   "date": "2026-10-14",
+   "title": "AI governance challenges emerge as enterprises deploy autonomous agents",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcENxallUUjNNMkx4TjJMd0ctMmxGSUY3bnNBRVZzS0ZuRXYtUi1qZURiMWJEeUVLLUl3d1ZuNUxKLW8xZTdzQXV0NUpLbXpVRzJJQ2NLNmM0NzdVVW9IMFJLVkFiQUhzS3haeUctNFYyNGV6OWZtTkpKbE0weXFJX1NsTjdJZFlJVFdUdHNLMDk4VTU3aU5Sb0lseTV2QWlnV19R?oc=5",
+   "source": "SC Media",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-14T09:31:17+08:00",
+   "keys": [
+    "17f0c7095cab0175",
+    "7c85f965b4d73337"
+   ]
+  },
+  {
+   "id": "2026-10-14-d778b68e1c8c13d2",
+   "date": "2026-10-14",
+   "title": "What Is Workday (WDAY) Really Gaining From Its Latest AI Governance Deal?",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQLTV4VUVzTmZQVy1aZTFtTWdyNkFKSUhGNjZtblh6R3dlMXlnNHdOZ1I5STJTUEZoOUhPZkpXbWo2amY0OU1FN3g3YlVnZDVQeC1aMGkwczRkdklXc2gzTXQ2UTNwRFAwQTVISjRpRG9EV2NqX21QTjVtSDgwaUpKaWZxYUNHVkUySllTd2xfZVFBNEZod0p1aVlaNEY1MUE?oc=5",
+   "source": "Yahoo Finance",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-14T09:31:17+08:00",
+   "keys": [
+    "27d544e4c6d0b5ee",
+    "d778b68e1c8c13d2"
+   ]
+  },
+  {
+   "id": "2026-10-14-2135ce367f4fed52",
+   "date": "2026-10-14",
+   "title": "The Next MFA: Why AI Governance Is About to Become a Cyber Insurance Requirement",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOazB5N3FvLVZCSDhTUTM4TXg1UjZEXzJ4S2p0OEZCM1JiSUVka2p4NkxpVndBZmdiNjE4OUZwX3k1Ym9tbk10Q2l6U2VSTmNlQXkwelY5Z044U0MtUE5fcllkQW5ka0J1cm1hUmZzSHN4TnJmaGh3Z2Jad1lZYlhiLVhBNWtWdHlmWExpS0QzUEJINEJkMTg2R3BuS1QtRlVoY2fSAaIBQVVfeXFMTmsweTdxby1WQkg4U1EzOE14NVI2RF8yeEtqdDhGQjNSYklFZGtqeDZMaVZ3QWZnYjYxODlGcF95NWJvbW5NdENpelNlUk5jZUF5MHpWOWdOOFNDLVBOX3JZZEFuZGtCdXJtYVJmc0hzeE5yZmhod2diWndZWWJYYi1YQTVrVnR5ZlhMaUtEM1BCSDRCZDE4NkdwbktULUZVaGNn?oc=5",
+   "source": "CISO Mag",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-14T09:31:17+08:00",
+   "keys": [
+    "2135ce367f4fed52",
+    "47b52047f2d9bd3f"
+   ]
+  },
+  {
+   "id": "2026-10-14-e12177917a625c91",
+   "date": "2026-10-14",
+   "title": "ByteDance's Seed Lab Creates First Dedicated AI Safety & Alignment Unit in China, Led by Yan Lin to Address Agent and CBRN Risks",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBFU3EyWURIY2xvMWZVeGpabGtrbUFxaGd1cUh3VFJYS3BISDZUUnNJcnJfaUZFZmlxcmt3QlVXYkM2NFNxV1JHV0J3OE95RDBnaHVFUlFTVGk3eU94Q2JvOUhHeGU0VnpZU0UwR3lHMGktODBpbHc?oc=5",
+   "source": "BigGo Finance",
+   "also": [],
+   "coverage": 1,
+   "category": "安全研究",
+   "regions": [
+    "中国"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-14T09:31:17+08:00",
+   "keys": [
+    "dde7ac88cbeeca55",
+    "e12177917a625c91"
+   ]
+  },
   {
    "id": "2026-10-13-32f9d4546efb20a8",
    "date": "2026-10-13",
@@ -37,6 +390,349 @@
    ]
   },
   {
+   "id": "2026-10-13-15d8fb264f36d0b5",
+   "date": "2026-10-13",
+   "title": "Microsoft President Brad Smith Urges Strict Global AI Regulation",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNa0k5cjdEWXpYVWpjck11NndHZkVkUHFtdk9kWm03QXdPZmtnVTdWaUpQOThzTmpJT1NlYzAwblVWX1JyQl83RnNxdGduc2FMZnN1QW9SbVNEQ1AzUEh4YUZqMzVEUnVfc2tZR0s4YWptdXVITWpyZG9tcWZ5SFhPX2NOTjlvaDBrYUw1VW9JRVlQalFvckZjcHBrdzFpV2JmdDI3R1JGM3ptYmlOaUppM01xY9IBuAFBVV95cUxQMEt3bkRMdzBOeW1HczhIYzEwZXEwb0ZxOEMtc2JoeWNoYW0tUGdiRUdWSVRmUVVFWm9odHBQbmNoLXY2c3FqcDVqMGp3ZTF1X2VZQnpnSmZyekdoczBxTW9odTdkVUFFTHNWTjQ1VFhDcGV2bWNJUEpHR1otV2dncHlnbEp0NzhzMzN5V2RWMmxlNDhJLXltRHViZ3Vqdmg3c1RPZGFKdXJLSTBxbGJSd0laaEFPbTJa?oc=5",
+   "source": "LatestLY",
+   "also": [
+    {
+     "source": "Adgully.com",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNHpxMF9sWFFBTllfTzJoNmwzb2F1UWlnQUxaeE5aajZsU2VSSG55S3I2LTEtaHhnWkVZakJlQjZoRWR2X0pSdzRZZV8yWldVSzNyYXVvYnljS0RBYTJOYmV2a1FzaTQxUWxaUlV0djlnNEtfeHNxZHprSnNQcHJ0WkJrM1lETDlqMFVEWlVBSkR5RGNBbjBGYm5QdXVBams?oc=5"
+    },
+    {
+     "source": "MLex",
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1IaG5lN3R2eWdHdXJEM3d6eE92SGsySTBGUDRkcHkxaGNGY3ZSM1BpdXRkYW4wNXpibkJKeS0yOTZHQTFWMDdZV25QWndJVkF6Q0RuTlJpd0xJd9IBWkFVX3lxTE1IaG5lN3R2eWdHdXJEM3d6eE92SGsySTBGUDRkcHkxaGNGY3ZSM1BpdXRkYW4wNXpibkJKeS0yOTZHQTFWMDdZV25QWndJVkF6Q0RuTlJpd0xJdw?oc=5"
+    }
+   ],
+   "coverage": 3,
+   "category": "立法与监管",
+   "regions": [
+    "全球/多边"
+   ],
+   "importance": 2,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-13T14:19:05+08:00",
+   "keys": [
+    "0e948399d5948165",
+    "15d8fb264f36d0b5",
+    "4f3d57967d26903b",
+    "79b4199908f10383",
+    "c49c5803c07d809d",
+    "ddaa3a1f54c1b801"
+   ]
+  },
+  {
+   "id": "2026-10-13-a773bb076d706a1b",
+   "date": "2026-10-13",
+   "title": "Key watchdogs signal they will step up AI regulation",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSkdvZHBzd3dCRTlKdWhZelZWTkVnRGFxelQwYXBwZkl2R3l4a3BVY1RxMGJiVmpBRFVtN3kyalV5ZFFISGxnMUc2TEpKZENaOFFfc1BMUmphS1pXdW5jSVVtblVrSlowT1NSS0VPU3RIYTlnVUtFTXpCbkZnZy1wRmFIb0RvVENTMTVJNUJPcFdRbVEwb2NOSEN2Zw?oc=5",
+   "source": "Semafor",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-14T09:31:17+08:00",
+   "keys": [
+    "851e13efd7098d68",
+    "a773bb076d706a1b"
+   ]
+  },
+  {
+   "id": "2026-10-13-814dca58f4e685ea",
+   "date": "2026-10-13",
+   "title": "Three frameworks, one AI governance challenge",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNU3l0LW5oZDZqbWYycUUxaU51NFVPelI0aENjdTBkOFR5WGczQk0zTlpKVFh5NjVzaTJyQkJLcWtPR2ZZZVBuY3ZDN2FiSmtwLS03bjIyQVRYNml2NkVXTjdxTXNiQ1dEQWdsRGxITVNUQS1jeUl2YUFQWG9jUGtob3g1OW85ckFVc19hUjF6LUFCcmZ1bko2bUhCMUwxcmgxNmJr?oc=5",
+   "source": "Electronic Payments International",
+   "also": [],
+   "coverage": 1,
+   "category": "政策与标准",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-14T09:31:17+08:00",
+   "keys": [
+    "814dca58f4e685ea",
+    "e077cc730b03aa75"
+   ]
+  },
+  {
+   "id": "2026-10-13-bdc65f8133afb157",
+   "date": "2026-10-13",
+   "title": "Proposed Bill Would Create White House Office to Coordinate Federal AI Governance",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNazRKczk5TTRyS1JVZlEwQ0ExX09oR3lTT2xLaDdWREtKS2d6NnFKdFN5ZmVTS3ZNX0RZSjBlSmxkZ2p2bjhPMnk3aXduOWZYTEtWSnVraFNNbTNmcVJkM2hQMHJjYjBNNkE4aFlKcy16WTNKa2FOdVBWeURaRXJ5NWpTVHMtMENRRWVadXdwN1gxTURnVnhRSFhtMHdNV0Jwd0ZkS05wdTgwWnZMLV90X1dXbVpBMDliREg4VW9WQk9ReGpOVmF3NFktc3FTUQ?oc=5",
+   "source": "CDO Magazine",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "美国"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-14T09:31:17+08:00",
+   "keys": [
+    "05f399d626cb015f",
+    "bdc65f8133afb157"
+   ]
+  },
+  {
+   "id": "2026-10-13-4b9c17b59e31337a",
+   "date": "2026-10-13",
+   "title": "美欧银行监管机构加强AI风险审查 警惕自主智能体与网络攻击威胁",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMjlTdG45aE9pMVZDVC1RRjZyMFNiRXBJeWhubFREcG1iRUdGMmNiMmtXMExsM3FDREd1eGtjV1d3OEh3OUNZV3ppM25Hc0NCQjU4UlE4YzVIeVY4RGZRLWVfNlNlbWlaOUZ1a3RZRFRja25xUUt0c3Q4VXlTc0xiemFRWmxOMG5sMmlhV291OA?oc=5",
+   "source": "21财经",
+   "also": [],
+   "coverage": 1,
+   "category": "安全事件",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-10-14T09:31:17+08:00",
+   "keys": [
+    "4b9c17b59e31337a",
+    "61a1256a74f12bd3"
+   ]
+  },
+  {
+   "id": "2026-10-13-f03f9f51a0371f67",
+   "date": "2026-10-13",
+   "title": "Opinion: New York still needs more AI regulation",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMDFkUjN4Mkl1alB2UWtxME82RExma3BUS0U2WUUzMGQ3am41VEhJbEFyMjZIR3YxSWpzcG9GTlJfWldUaHdJUUVMbXl0U3p5WS0xYlJSVEZrY29OYWlnNmthOThoeFZrYWF1NkhZWHEzM0NPWDdvV2F3a2c0ZmRKNXY4VjJ0bmtOdUl4bXhKZVNGMjluOGRkaTRMNTlIcWUzdENqYkp1bHBmVFNRM0wwLWJPM3pJZG1kRVVGYndGcERVVlFUUmc?oc=5",
+   "source": "City & State New York",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-14T09:31:17+08:00",
+   "keys": [
+    "84803522a69d686e",
+    "f03f9f51a0371f67"
+   ]
+  },
+  {
+   "id": "2026-10-13-f709b6edfe5389a5",
+   "date": "2026-10-13",
+   "title": "AI regulation must do more than avoid certain doom",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPS0FjejhUTnUtVlRaQUt6MzdRczRmYjZwY3NTZE53RkY1bi1VUVF2ZVRkNE9kSnhhQW5KT0NiMTZwcUl4VTI3RGJBbkVZVEhtd1hTR1J6dUtGc20yaU5iNkNlenFVbFdJYUdBTl9xdWhBZmZXMGVVMmdlTlRkMEFKck9qcDJGZmZWVlE?oc=5",
+   "source": "Latinoamérica 21",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-14T09:31:17+08:00",
+   "keys": [
+    "54984c0a2b5177d7",
+    "f709b6edfe5389a5"
+   ]
+  },
+  {
+   "id": "2026-10-13-6a8faca661beef09",
+   "date": "2026-10-13",
+   "title": "EU AI Act Deadlines After the Digital Omnibus: What Applies From December 2026 to August 2028",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNa2phQVhKVTlkcy11aG9FazJYUDhJVFZndzhYeWxKYVdIOUd3bXZ5OGcyc1Y0b2NvdThMQTduTm5IMndUS2drYU5QWEo5QUlLV1FGZnZNbXMwcElfc3V4cU1fSHlmY1FjRUpxQ0Utd1N4U0VQb0gwRmRPR0RnVi1lVGdmMVhkR1MwMzNqM0RpdUFzQXJFOWtFNlZjQUNKYVh6X3l2V0xLUERQM09mNHo2ZWtSRXJXcGJyMEM4RzZaSW14ODFyT1d4ZTQ3UQ?oc=5",
+   "source": "Technology Org",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "欧洲"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-14T09:31:17+08:00",
+   "keys": [
+    "23839e99e0cb5b72",
+    "6a8faca661beef09"
+   ]
+  },
+  {
+   "id": "2026-10-13-32244aec43dcfa9d",
+   "date": "2026-10-13",
+   "title": "OpenAI Brings Text Watermarks to the EU (EU AI Act 2026)",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9LYWE1eFRlUjQ2alE3MWJxa2xqV1JqcVloVnBRSTRKQnU3RmRsMkx3NU9ZRGRrYkJOTTEyNFBfODduVHNtNUJnUERKVnlxdHlhTFQxSVpRenk1bVh5LUNEeEdkNHh4cVFiZmc?oc=5",
+   "source": "ALM Corp",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "欧洲"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-14T09:31:17+08:00",
+   "keys": [
+    "32244aec43dcfa9d",
+    "88bb036ca3bb73e3"
+   ]
+  },
+  {
+   "id": "2026-10-13-d422c1e8ae75b1c0",
+   "date": "2026-10-13",
+   "title": "IBM India Chief Praises India’s Balanced Approach to AI Regulation and Innovation",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQzJxR0FDNTZ0VkpfbnlhRjF2dnlnMGV5NkZoVDBfTlExc010R3d1YVB0eWxsRU1qS2pBaVBxOEpMSVBOa0dhTzduTmlaLU9LLWxrOG02ZlY5a0lqLUhlUlNPM1VzWlRRNDZwSlJ5Z2pkWlRpYl8tdmlsc2E2d0o0MFRPU0hsV0lXbzhucjh5b2V2TTVoaG12S0lkTGU5dG9VZVpUcHFaOW9tNlJRdGc?oc=5",
+   "source": "INDIA New England News",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-14T09:31:17+08:00",
+   "keys": [
+    "6c4d3b519b72be5c",
+    "d422c1e8ae75b1c0"
+   ]
+  },
+  {
+   "id": "2026-10-13-bc9b7fd4048ec80a",
+   "date": "2026-10-13",
+   "title": "New transparency obligations under the EU AI Act",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPb3hIZlJQMWpxTnFNbm1VeE1BWmVoQTNHb2I5RzhxOE1QN0JyM1RMMnFfR3BHN3lLemd2ZEtndTlETjNqMnlJNmlrQlBzNW9JbHVDWG1xT2l2dGlKZ0NhX1c5em9TQXJJZzk2ZUlCZHNpdTZwTDBPenFOVzR5RV9UQzlJTC1SaTRrOF9kN3RNSFF2UQ?oc=5",
+   "source": "Browne Jacobson",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "欧洲"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-14T09:31:17+08:00",
+   "keys": [
+    "8a435666b3db3afe",
+    "bc9b7fd4048ec80a"
+   ]
+  },
+  {
+   "id": "2026-10-13-a78a3115f39b2f42",
+   "date": "2026-10-13",
+   "title": "The Politics of Global AI Governance",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE54TVZXb0tTQ2oxZTBjYlU5Q3lkTGFLUUNBVVpnNF9XNk9VNDd3THdzUGpBQlRTR2xZZVEzVkttcXludkVxNnFZVlVURG9BRUxGdUZ2bGdyV21kX29CQ0ZIQzlOZzd0YUFad1dEalFWWGY3QUs4a1pDc0Rn?oc=5",
+   "source": "Global Security Review",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "全球/多边"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-14T09:31:17+08:00",
+   "keys": [
+    "59e989024f0c859e",
+    "a78a3115f39b2f42"
+   ]
+  },
+  {
+   "id": "2026-10-13-a74e83d07cca8a4d",
+   "date": "2026-10-13",
+   "title": "Who owns AI governance?",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBSZEUyMGl4ZG9fekRXMXBZZjFvdGJJamU1eV9OSldxcE9Va19HWDFxNmtWYzBzSnpYalY4QXdCaGRFeGlLVFB2U2I0Qk8yUmRwSW9ULUY4dDJ2SHkyS2g0dzB4Ti1TMDc3YlVlNjJ3?oc=5",
+   "source": "Oracle Blogs",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-14T09:31:17+08:00",
+   "keys": [
+    "45470645b14b579c",
+    "a74e83d07cca8a4d"
+   ]
+  },
+  {
+   "id": "2026-10-13-5ed7b14380e4ad81",
+   "date": "2026-10-13",
+   "title": "AI Governance Needs an Internet-Style Network, Not a Global Overseer",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcFhJV0s3VjVmV3V6N05rLVZGeEZDX3dkNHIzbzFPYXZ6U09CY0UwU1RFSkNDY1hUYzVBano0TThRVTZORUQ4eWRZczVBTG1OMTEwYmNYREplU3FuMTJGa0lhX0ZhN1E5MXRzVnBSY1ZkR3BFYkU4cEpoREdCMWk4am5ObTdqVzh3VXd3MDNtdzVaTlVtVnlB?oc=5",
+   "source": "Tech Policy Press",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "全球/多边"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-14T09:31:17+08:00",
+   "keys": [
+    "5ed7b14380e4ad81",
+    "da9e95858821a9da"
+   ]
+  },
+  {
+   "id": "2026-10-13-a053ae8a5f6c6ac9",
+   "date": "2026-10-13",
+   "title": "HR Path buys SnapAI to deepen AI governance expertise",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYTlNTG9SckVQNHc4dm5mNWw2Vm5ZUFBGclhEeUlmNUF0Sm9VRVd2RmZVRUhUMkdYQUtIU0o3NFJWSWJxWWJVX3p2ZXZ3UlVRc1B0a2g0S21nb0p1MzdGTVEyay1KSXBlLUlNNXowZ2NjMXpYeEtHRko0M3NKWDFOTWJ3SzNpaWtCREthVXhvWUFOOVRtMDVoWXZGdlNPUHlEVV9ueFFHZmltZ0M4Qnc?oc=5",
+   "source": "Staffing Industry Analysts",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-14T09:31:17+08:00",
+   "keys": [
+    "4aa55e5e2b6f549c",
+    "a053ae8a5f6c6ac9"
+   ]
+  },
+  {
    "id": "2026-10-13-7104ce8fb562b92a",
    "date": "2026-10-13",
    "title": "Britain Best Positioned to Lead Global AI Regulation, Says Microsoft Chief",
@@ -64,35 +760,6 @@
     "acc362af0b2d5d34",
     "ad64aeba8eb4d32d",
     "d69460944842adff"
-   ]
-  },
-  {
-   "id": "2026-10-13-15d8fb264f36d0b5",
-   "date": "2026-10-13",
-   "title": "Microsoft President Brad Smith Urges Strict Global AI Regulation",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNa0k5cjdEWXpYVWpjck11NndHZkVkUHFtdk9kWm03QXdPZmtnVTdWaUpQOThzTmpJT1NlYzAwblVWX1JyQl83RnNxdGduc2FMZnN1QW9SbVNEQ1AzUEh4YUZqMzVEUnVfc2tZR0s4YWptdXVITWpyZG9tcWZ5SFhPX2NOTjlvaDBrYUw1VW9JRVlQalFvckZjcHBrdzFpV2JmdDI3R1JGM3ptYmlOaUppM01xY9IBuAFBVV95cUxQMEt3bkRMdzBOeW1HczhIYzEwZXEwb0ZxOEMtc2JoeWNoYW0tUGdiRUdWSVRmUVVFWm9odHBQbmNoLXY2c3FqcDVqMGp3ZTF1X2VZQnpnSmZyekdoczBxTW9odTdkVUFFTHNWTjQ1VFhDcGV2bWNJUEpHR1otV2dncHlnbEp0NzhzMzN5V2RWMmxlNDhJLXltRHViZ3Vqdmg3c1RPZGFKdXJLSTBxbGJSd0laaEFPbTJa?oc=5",
-   "source": "LatestLY",
-   "also": [
-    {
-     "source": "Adgully.com",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNHpxMF9sWFFBTllfTzJoNmwzb2F1UWlnQUxaeE5aajZsU2VSSG55S3I2LTEtaHhnWkVZakJlQjZoRWR2X0pSdzRZZV8yWldVSzNyYXVvYnljS0RBYTJOYmV2a1FzaTQxUWxaUlV0djlnNEtfeHNxZHprSnNQcHJ0WkJrM1lETDlqMFVEWlVBSkR5RGNBbjBGYm5QdXVBams?oc=5"
-    }
-   ],
-   "coverage": 2,
-   "category": "立法与监管",
-   "regions": [
-    "全球/多边"
-   ],
-   "importance": 1,
-   "lang": "en",
-   "addedBy": "auto",
-   "createdAt": "2026-10-13T14:19:05+08:00",
-   "keys": [
-    "15d8fb264f36d0b5",
-    "4f3d57967d26903b",
-    "79b4199908f10383",
-    "c49c5803c07d809d"
    ]
   },
   {
@@ -590,8 +1257,13 @@
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMkdWMWdtZHpPVGw2ckJseDNGd1FVVGE5ZVo2cUd6TEpSTE1xRlJNNXY2X1RLRWo0ZTAtOTc2VFRaQTBuMjNrX2ZjYkZyNUphUlBrWnNwb1hmWGNmRDN1bHFkMVRuelNRSHdXNFN3WWVzSXpTLWk4eldfNEVRTDdvVWttZ19zOEFjZjlLbkpKWXpZVlVHV3RyQW1RZ0NfMTBSTHc?oc=5",
    "source": "TechCrunch",
-   "also": [],
-   "coverage": 1,
+   "also": [
+    {
+     "source": "PYMNTS.com",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOY3MxdDhBWE43dGVnNW05aEx5Z0hQX3BSQ3Y1WE1sQlZIM0hGY0hOSllUbVVRcVBqUWpRRUYwZjlIU2h2Tlp2R1Z2d2w3bzhhSjA2X3o4STRqYVNzNnZPVENMeDZYYkM4Q2pDSmhYV29ZQmlFY2dBS25TN01hM2ZleFZyWndTWUpaNjAwZ0w0QnNwTE9TcGxNVDJ0R3JyTTA?oc=5"
+    }
+   ],
+   "coverage": 2,
    "category": "立法与监管",
    "regions": [
     "欧洲"
@@ -602,7 +1274,9 @@
    "createdAt": "2026-10-13T14:19:05+08:00",
    "keys": [
     "108c74ccf99ed5eb",
-    "994c449619170069"
+    "623ae43dc5a206ae",
+    "994c449619170069",
+    "d8bf313809d4e123"
    ]
   },
   {
