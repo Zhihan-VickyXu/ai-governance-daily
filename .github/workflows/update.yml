@@ -2,7 +2,8 @@ name: 每日更新并发布
 
 on:
   schedule:
-    - cron: "0 23 * * *"   # UTC 23:00，即北京时间每天早上 7:00
+    - cron: "17 14 * * *"  # 美西时间早上 7:17（冬令时 6:17）
+    - cron: "37 18 * * *"  # 美西时间上午 11:37（冬令时 10:37），备用
   workflow_dispatch:        # 可在 Actions 页面手动运行
   push:
     branches: [main]        # 修改网页或配置后自动重新发布（这时不抓取）
@@ -31,6 +32,8 @@ jobs:
 
       - name: 抓取并整理资讯
         if: github.event_name != 'push'
+        env:
+          TZ_OFFSET_HOURS: "-7"   # 按美西时间划分日期
         run: python scripts/update.py
 
       - name: 保存到仓库
@@ -42,7 +45,7 @@ jobs:
           if git diff --cached --quiet; then
             echo "没有新内容"
           else
-            git commit -m "资讯更新 $(TZ=Asia/Shanghai date +%F)"
+            git commit -m "资讯更新 $(TZ=America/Los_Angeles date +%F)"
             git push
           fi
 
