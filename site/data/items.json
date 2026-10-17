@@ -1,6 +1,72 @@
 {
- "updated": "2026-10-17T10:16:56-07:00",
+ "updated": "2026-10-17T13:54:02-07:00",
  "items": [
+  {
+   "id": "2026-10-17-5d45c1ed844961da",
+   "date": "2026-10-17",
+   "title": "195款备案大模型，藏着广东“AI生态雨林密码”",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE82UDdYQjlEVE1XVDNBTDZHamxMNmFTTVZyQmNwcnhPVTZiNWRBQUlBeU9xUE1zU1dPSGJ5MDVmUmpZaEtyNlBtczZiZ0VwNnVPTFZuMjNFdDc0eFRYcHNHMVkwQU94UEhZNmhDUUhUQkJweFNSRTFlVjl1bVhKZw?oc=5",
+   "source": "新浪网",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-10-17T13:54:02-07:00",
+   "keys": [
+    "5d45c1ed844961da",
+    "67a51eaff69c11d1"
+   ]
+  },
+  {
+   "id": "2026-10-17-a2be35fd11da728f",
+   "date": "2026-10-17",
+   "title": "Anthropic’s AI Safety Bill Has an Alarming Threshold for Government Action",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNk85UDhheTRLWlR3YUtHQ2FjUnU2dVg5Q3dIa1Y4b1p5bS1XajV1REJSMWotUUN4XzZLZGNIajBmRm45M0p5aTdBb0p3R082SHJFNVVXcFRKXzZBZGJsRURfWXhBNmRNdEJYYnJsaGVGM3ZNSXV5UE1NSkZTS0hSU2FsSS1nUVBnSGtBdGk2Sm11S0xqUkZNT3dRTDNTNVpwel9lS0pycU9jZHkxZUFRb1FCemdJdDdKUkhr?oc=5",
+   "source": "Mother Jones",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-17T13:54:02-07:00",
+   "keys": [
+    "a2be35fd11da728f",
+    "e492e04343ed5fa2"
+   ]
+  },
+  {
+   "id": "2026-10-17-5c9d5c694a0d886c",
+   "date": "2026-10-17",
+   "title": "UN Tech Envoy calls for minimum AI safety standards and independent testing",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUWVkWF9jRnNOdm41WHBSdHk0dnNpMnFmcVVXUlRqcjFYYzlPTG9iSm1ydVdRNVpJOWlWcG56Y1NXcnlhV1JHWUVDQnNYMkRELTluYzlSUUpselRjUzhLUURnaEhNQ1h5TzRMZTlvWTJ5T3FobVNYdjJTLUFRYUxtQ2lKTXQzYXBoajI3Z00tWkhWbG05UUxLdG83dmZHbHphQ1lMWGJDblRybXdMS01KSk5Tc0o?oc=5",
+   "source": "Tech Review Africa",
+   "also": [],
+   "coverage": 1,
+   "category": "国际治理",
+   "regions": [
+    "全球/多边"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-17T13:54:02-07:00",
+   "keys": [
+    "21f3db930ddaa54e",
+    "5c9d5c694a0d886c"
+   ]
+  },
   {
    "id": "2026-10-17-61c37f3e68b30c3b",
    "date": "2026-10-17",
@@ -112,6 +178,28 @@
    ]
   },
   {
+   "id": "2026-10-16-3e8f24640b9d0cd2",
+   "date": "2026-10-16",
+   "title": "EU pushes AI revolution at Dublin summit amid investment gaps and regulatory debates",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNLXpscjIzRkRzd1FEbWRXZG52SlpzZUVTU0dyN254WVROeFhuTkN3RXBRei1GbzFQZGxPbGkxeVZqMmhvdXpZM3VNRXc1MFhoT0VJT1hYZWV5d0QwWjFwbENvMjhTMF9kUXBKR00zMjBwSlMzQklLZEs4RzNzN0lCWTlBQ3BBaVFIZndhbDh6TzVuTHUxZm9DYlJ1YXJQV2pXcU1oYjdLekEtNXUyTDRqRnpCSVFTMEdpZ3c?oc=5",
+   "source": "https://streamlinefeed.co.ke/",
+   "also": [],
+   "coverage": 1,
+   "category": "国际治理",
+   "regions": [
+    "欧洲"
+   ],
+   "importance": 2,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-17T13:54:02-07:00",
+   "keys": [
+    "3e8f24640b9d0cd2",
+    "cf011fffe1a93950"
+   ]
+  },
+  {
    "id": "2026-10-16-d392258cc1bf6ef2",
    "date": "2026-10-16",
    "title": "Anthropic quietly pitches its own AI safety bill to lawmakers",
@@ -216,6 +304,50 @@
    "keys": [
     "a6f4b0bb39b62c46",
     "d896ed2c2c656f50"
+   ]
+  },
+  {
+   "id": "2026-10-16-b67feaea42ecc83a",
+   "date": "2026-10-16",
+   "title": "Exclusive / Conservative AI safety group proposes export controls, visa restrictions",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOLVRXa3RmcEFXMjc5cUVncEhUQVF3Rm9xODF3d2tMeE90c1J5VkJ6bDY3d1VsWEpqQ3U5bzdWZnJzalFLc0dTaFZCeFdxMGhYX3NqdElWWWRnUEQ0QkZFejFSMGI1R1FQaVhybjdkLVFfalc3SEdySDg3VUdMVXNFeV9BWWN2YVVpR2FrVnY4SURpLTY3cjg0YkJpQUtVWFhPek1FUEFObWNEdElzaTROQTllQTM?oc=5",
+   "source": "Semafor",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-17T13:54:02-07:00",
+   "keys": [
+    "b67feaea42ecc83a",
+    "f4189103c81cead1"
+   ]
+  },
+  {
+   "id": "2026-10-16-2cfda6ffec0c3d39",
+   "date": "2026-10-16",
+   "title": "广东已备案195款大模型 位居全国前列",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE55WFpVaF8wdkVkOGpLQi1sb09yNGVyOTlkWXNiQUd6VFRLbUhkREZkQWxZN1JVbWxCeGxyOTgxZll6SXlvNHkwVFZIQnd0OTc3b0J3dE5iN2J1OHBQ?oc=5",
+   "source": "www.caiwennews.com",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-10-17T13:54:02-07:00",
+   "keys": [
+    "2cfda6ffec0c3d39",
+    "fd47ce29a7d43423"
    ]
   },
   {
@@ -928,8 +1060,13 @@
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeEl6WDdyLWthMVhreXZnbFNaY1htaUR1WUNfX2staGVxVFhhQVA3SFZwQkRockpwMTBUb0tvRU1KREZVay1TS1I3OFR3YUR3aElTREZ4elcySzluNVlNcFZBOFFpN0FHdnJuNHRZVmVjUUY1Y2oxZkM2eGMtQk40RVVhQW1xaFFrQkxjMkJOc0ktdnR1RjdmUjFvS1p0ckhXTjNiRGdjdjEteWJrcjlDbHV3RQ?oc=5",
    "source": "Washington Times",
-   "also": [],
-   "coverage": 1,
+   "also": [
+    {
+     "source": "The Next Web",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9DV2JCeFJKSzhJZURHVFNHb2U3Q25xS3ZNcXFMY3lTczV6RHBjRU5keThvTnN4cXRaVWVsMzhvRU5LSGZjMDJyLVM5U04tYnlUMFlCVzZjN1VJZmdTbWlaaFIzemFGeERrZ21DaU84ejhnUQ?oc=5"
+    }
+   ],
+   "coverage": 2,
    "category": "立法与监管",
    "regions": [
     "其他"
@@ -940,7 +1077,9 @@
    "createdAt": "2026-10-16T08:56:19+08:00",
    "keys": [
     "0e328b8d0b70ce63",
-    "9ecbec1ade934583"
+    "967b0ef8836cbabd",
+    "9ecbec1ade934583",
+    "ef5388768cdd6b40"
    ]
   },
   {
