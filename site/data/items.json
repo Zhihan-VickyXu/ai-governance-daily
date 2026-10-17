@@ -1,6 +1,201 @@
 {
- "updated": "2026-10-16T08:56:19+08:00",
+ "updated": "2026-10-17T10:16:56-07:00",
  "items": [
+  {
+   "id": "2026-10-17-61c37f3e68b30c3b",
+   "date": "2026-10-17",
+   "title": "Nvidia’s Huang Shuns Need For AI Safety Regulations, In Contrast To Anthropic CEO Amodei’s View At Dreamforce Conference",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOS1pGZnJZN09ldFdfYncydnpmNzdBME9ISnVsbWx3QkZHWWVoSVFFbmhBcGtwWEREX3F6cXlKRjhBd3o3UV9LUzJGS1d0TkxiTnNDcGtrZzA1WlVlNHdta0c2aDNubXgwbS1TNWZVblR2VFBYRTRmVFpVTEtGN3FySjhDeW9NYXNHaUJlTldmLWtOYzFGeEllam9Sa3g0dVJmSXlKSVFQdlA3TWpkU19Oa2s1WDJnNmFjN3RNaWU2aXJnR3h0am4wa1NldUtzT2Y3cm85QlZFWQ?oc=5",
+   "source": "Stocktwits",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-17T10:16:56-07:00",
+   "keys": [
+    "61c37f3e68b30c3b",
+    "fd28bfd125acfef8"
+   ]
+  },
+  {
+   "id": "2026-10-17-3e94eafb26c776ef",
+   "date": "2026-10-17",
+   "title": "中国AI代理被指首现“失控”行为 官方提守牢AI安全底线",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBhTHJkTk93a0tyb1JONVJhX2xVdDFXWWl4RWp0NmhhbW9TaVk4S09VcjN0a3VTTWdQWmI3aUNGdG11MUVZNzJhTElubG1kU3poWTJxeEYtVWlpajlTVVVnWHpWb2xGWTFsckE?oc=5",
+   "source": "联合早报",
+   "also": [],
+   "coverage": 1,
+   "category": "安全事件",
+   "regions": [
+    "中国"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-10-17T10:16:56-07:00",
+   "keys": [
+    "3e94eafb26c776ef",
+    "c3fa18fab1c1f76a"
+   ]
+  },
+  {
+   "id": "2026-10-17-9bf89bec5d4da5a1",
+   "date": "2026-10-17",
+   "title": "Anthropic向美议员推介自拟AI安全法案草案",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1weXo0d2luWXVHeGJtQmN6d0MxSTBWWmpQRGUwbnlROVQtT3NXVHNncUNQMlFla3BFcjVQMzFHTmY5TlRFLVdiZ0psYnktTHNFYTI3TWRlN3BzNlVsUFE2eXB2TjJLU0Z0YlE?oc=5",
+   "source": "联合早报",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-10-17T10:16:56-07:00",
+   "keys": [
+    "00d453d79620d302",
+    "9bf89bec5d4da5a1"
+   ]
+  },
+  {
+   "id": "2026-10-17-5514519789f3b10b",
+   "date": "2026-10-17",
+   "title": "California Gov Newsom boosts AI regulation as he eyes 2028 presidential run",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdWtzS3Z0V1lyTlMwXzJFdEVhSTB4S0J6MDJza1l2akRYZkN1WGJoRzdqWnM4a2FodVp6OGQxeC1iMVZmTmRUS1JuZmZyMTM4Rk1kRUNtUm1rVXI5Y3NiMFRQY1hyNGM5LWRMQzJLalF0dEw1SERsbXB1ZEFYZjRFWDJKTzViaXI0cnR4dlVHczdtVk9NTzJlamVMQTlVT1NlWDUtbWRKNTUtTXQwcU9vZmtRRWNDbEpZaWZGbNIBwgFBVV95cUxOS0gyRmFTaUxnUHZwVUppMXJkOENlZTZTS29PSGdIWVBQYWZZNF9LZUo4UGh3RlBzcFNFQ3RMNkloTFVzQmVxWGl2WFdpUXdONExFcTJuRXR4LTNaMFlHazVjbElPT1JSWTNQTHFwMTItb2ZWZzhUOHQxMnM1ckJmSmpoQnhWNEpHU0l2anVGckM2RVFpWFIxTFNzZEFXU21nOW16WGJmQlNVWXdKX0p2UExNaTFPTzYwRThXRkt3YWZjdw?oc=5",
+   "source": "Al Jazeera",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "美国"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-17T10:16:56-07:00",
+   "keys": [
+    "5514519789f3b10b",
+    "b72c0ee9bfc069bd"
+   ]
+  },
+  {
+   "id": "2026-10-17-538ce9e5341cf54e",
+   "date": "2026-10-17",
+   "title": "‘AI must remain under human direction’: EU puts the AI Act to the test",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeWFISWdkdm9aNF9sTUh3SWl4a2tQemJabEV5Q1ZZamVZNnhPMTBuZVNSRWU1TEVmSGdOaFRxVkZKVmxyTGs5RTBQV2xrSjBGVEpYQWg3SnRFenc5QTJCa0o0bGEtcXJ0QUY5WGN5YnUyVWh6cXAxa2d3RDVqYlhUQ05pdWk?oc=5",
+   "source": "The Next Web",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "欧洲"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-17T10:16:56-07:00",
+   "keys": [
+    "1114ba920bdb7f08",
+    "538ce9e5341cf54e"
+   ]
+  },
+  {
+   "id": "2026-10-16-d392258cc1bf6ef2",
+   "date": "2026-10-16",
+   "title": "Anthropic quietly pitches its own AI safety bill to lawmakers",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0ydWVrbHdHeGNraEdTSHQ5eExwZ2lLRUU1U1BoVFJUTWNLenpWTXJOMHNnWnhaa0thQXlRbk1KdEliVVVGUEJXZWwtcWtUZE9Ielo2X05DaHJKSmJpd05rRl9vMWdQQUE4ZnVRRFBLQ3hlcm9FNG12bg?oc=5",
+   "source": "Politico",
+   "also": [
+    {
+     "source": "Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcENENWdpRlloLVpNclIyQWpIM3JSV3VHZklqOWZlQ0NJYnB2TWg2ZlhPMndNbS1qM2pWM0dTTVFZQ2l1SmxTT1h3VjZJNVpXTWhZTHRnLThqYm9UeFJ4ZEp0U3JROG1sUFJrN3Z6SEFKN2tPcU5teHZ6cU9JUDh4X1laZVZJMkZNNXNSZnJlZDdOX0dFMlM5REZCSGRHR3AydkdCbUY3RU9zYTRoNzdz?oc=5"
+    },
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOGgzckNkaE5BdjZxdVMta2hsdVczMHFrZ2U4aFgzY2VsLVF5VEFpd1FMQVc1V084YTZQU0IyMkdWbXZTbEtpdlhFWHR2SUI1SDdsczFmeERfNHhfOXRpR2NLTVhjRWF4YWNYaDBPWXJDSXpqLUgtSERBY1lHejU3MTl0T2pPMzlKRDlsdmFNM3kwQk1YSFlyMnpDN1FSVG0xM2xqNTZrbnNxQTVkT3drcVJSVm0zNFlYOUstZzlDYldrc1p5OWJR?oc=5"
+    },
+    {
+     "source": "Storyboard18",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcEpqUElNWkRNMkNkQUtSLURwZWZ6OHZ4MzJLSHR2eUhBbGtmOHNtSHk5bjN2VUQyNWt4R1ZROEU3WlFTbXFid0JXOW5Da3Rfb2duWXdHVDh6REYxUE1RZm8xa3pwX0FjSFU5ay1RZ0tjdnpIVy0xZjZLLWxWQWlKdWhaQWFXUzNKNkxuOFlmLTlKLTI4OVJWVHBVbzZJWm5LOTB2NmhjODZmODFsdDZGNjN2SEdpVTJHSWdVOVFCYTNEaEkxd2JCWWZpaURXbkVZU1hYMNIB2gFBVV95cUxQVkhMYzQ0c3BrQ211MVJmcTFUai1RTUJKdnhtcWh5bGhjbFpSUnAzQkZrdVdveDVxOE1UejZVRUtsanRpWjFrT2dHRXVFSnhIRHRXOUgxeld2U0t5NGFWXzNEcm1OWEJWT2ExM25nOGhadGx5NTJJQmhhQy1aaXA4aDhzY1VYcTMybnhWaDdTZ3hiWWRMZ29INUJrSjR1TFd2bUpabTJmaDBDQWo1N0s0d3VGcTNacXV5UmtFb0YtT29yV2FEWlZyS25YdlU0aDhMWVByRE9iQ0JRZw?oc=5"
+    }
+   ],
+   "coverage": 4,
+   "category": "立法与监管",
+   "regions": [
+    "美国"
+   ],
+   "importance": 2,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-17T10:16:56-07:00",
+   "keys": [
+    "129e8d86989c721e",
+    "13a73130fd2639ba",
+    "1681255d5b39084a",
+    "6dc44a5bbbb59834",
+    "951da3e2447c371b",
+    "a9757f4bea297307",
+    "d392258cc1bf6ef2",
+    "d6d41f8f52b068f5"
+   ]
+  },
+  {
+   "id": "2026-10-16-1259091880d92541",
+   "date": "2026-10-16",
+   "title": "Anthropic向美国国会议员介绍前沿AI安全监管法案草案 拟限定政府叫停模型条件",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE84SS1UQWgtenVhbHEzZjlWNVdnbWl5OHlOVjBwdEp2cHNmYlVmUnVtSTc1NjNtYU04SkdxR2x2UlJLUUEtdEU5RDZHNkZYT09xT2RPVA?oc=5",
+   "source": "虎嗅网",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "美国"
+   ],
+   "importance": 2,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-10-17T10:16:56-07:00",
+   "keys": [
+    "1259091880d92541",
+    "d37494b8b9e085ba"
+   ]
+  },
+  {
+   "id": "2026-10-16-5161dad78ed56dca",
+   "date": "2026-10-16",
+   "title": "Anthropic推AI安全法案：超50人死伤、10亿美元损失时可叫停模型",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1NbUlNa3I5S3UxcXBsZjZBSUp3NE5FYVJNQ3NoTnJqaUFxOUhuY1pMcXMzbU9XbGs3MVhXWW9hMk9PNXliOXhlaHNlNnI?oc=5",
+   "source": "凤凰网科技",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 2,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-10-17T10:16:56-07:00",
+   "keys": [
+    "5161dad78ed56dca",
+    "6a89a7e764f4ca89"
+   ]
+  },
   {
    "id": "2026-10-16-a6f4b0bb39b62c46",
    "date": "2026-10-16",
@@ -21,6 +216,504 @@
    "keys": [
     "a6f4b0bb39b62c46",
     "d896ed2c2c656f50"
+   ]
+  },
+  {
+   "id": "2026-10-16-ceb582e43aacba40",
+   "date": "2026-10-16",
+   "title": "Anthropic Pitches Congress a $1B AI Safety Bill [2026]",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE02TktqLWk5VDIzRnAxVjFGYV9SYkExcFE4dkhWVFZ4allka1VCOFpmYTlsZFVPMy1EajZTV0dkRFVzOEtabnFDLVdvckFWbmRBbjdLVmNpOFA3Q19CalNUUUVzMkdubWlaQVZYVQ?oc=5",
+   "source": "shattered.io",
+   "also": [
+    {
+     "source": "https://tech-insider.org/",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE03QldDcThFcXI1NnZSWGZZU2UzdWxGak40MWZESTB6Ni12VUFKcVd0UDVJSFBZYnViSGlBaTk2UklwUnVmOFB3SlNYN1ZPUE5YeWJCbl8tdXgyWHdsYTBHZGVxQVVMNWJUZEE1RWJOcDY0dXc?oc=5"
+    }
+   ],
+   "coverage": 2,
+   "category": "立法与监管",
+   "regions": [
+    "美国"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-17T10:16:56-07:00",
+   "keys": [
+    "5fcf4cd97f224caf",
+    "80a9ee1e0e4a4367",
+    "b194c16127aa1485",
+    "ceb582e43aacba40"
+   ]
+  },
+  {
+   "id": "2026-10-16-d7322d8e9fd44b51",
+   "date": "2026-10-16",
+   "title": "SpaceX政策主管将就纽约市议会人工智能安全调查出庭作证|Anthropic|OpenAI|埃隆·马斯克|加利福尼亚州|霍桑",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMy1lQzFpMnNBa1FFZFR5ZGppRHUzcjF5TFFOQ2JqVzdaSFFQamZ3cHBoUnRibXd1Nmk5WlJyMjFac2RpUUNCSkRjSTgyM0lJWDRLUmMxV0hFOFdMdll6Mk1aQ1NLa1hLbFg5VlRIZ0tvaDZLZTBxWjZ0UEFNRWJjODRRSHB3enE1RklIamNKbmNXYnlKSF9z?oc=5",
+   "source": "finance.sina.com.cn",
+   "also": [
+    {
+     "source": "Moomoo",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9TVHIyWEx4REdYWjFGbmtxZ2lfSFFqdmpZYllJNDA4djFCU1pOME5UTFdXbkN3TUVsVEtULXdMZ1F3N3Q5NXVQMjYybkdZRjlVb1Z6RTVMeDlkdXRQ?oc=5"
+    }
+   ],
+   "coverage": 2,
+   "category": "政策与标准",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-10-17T10:16:56-07:00",
+   "keys": [
+    "3b08c4278ca74ba3",
+    "9e73d85505d3fa50",
+    "ad3f73599915824e",
+    "d7322d8e9fd44b51"
+   ]
+  },
+  {
+   "id": "2026-10-16-1f6572b8f3c37cc2",
+   "date": "2026-10-16",
+   "title": "Anthropic secretly lobbies Congress to advance legislation on frontier AI regulation",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYkVFdXBMYS1HbllodjNYNHdJQTE0cDVIQU01YjgtOWh3NVRVN01xOGVjTVdtMUI1SXBKa0Y1SDBLVjZpQTZKdXVfTjFVUG8zNHZxZHlSMWVVeFI1UU9Cd3BrODdqdnBfTVVEZkdOQmp3SXFoYTFtTmhLck85U2RuTzdCYzA4TW1uUWRhUkhWbG5oWkJlYVVjck02bWZFeUhsUHMxVk1zN0hfNFNrOVdfQktwWFhCWVk?oc=5",
+   "source": "富途牛牛",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "美国"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-17T10:16:56-07:00",
+   "keys": [
+    "1f6572b8f3c37cc2",
+    "2ef268b434ccb0d3"
+   ]
+  },
+  {
+   "id": "2026-10-16-1b358fd7361d8fb2",
+   "date": "2026-10-16",
+   "title": "Anthropic向美国立法者提交AI安全法案，设定严格干预门槛 提供者 Investing.com",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ZR01ldnRrVHZnM19pWHo5dHVBb3JxX05ZcVQ2TnRtWGg1d1JzS2o5VkFvbmpXWDh0azZEa3BHT1FVMl9yeTl3VTJ2SklfYjR0M05wTE45R0tSVFNIR3hJZjYtdE5ReDhUZmc?oc=5",
+   "source": "英为财情 Investing.com",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "美国"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-10-17T10:16:56-07:00",
+   "keys": [
+    "1b358fd7361d8fb2",
+    "e4eef7b653af612f"
+   ]
+  },
+  {
+   "id": "2026-10-16-95af6c41568de835",
+   "date": "2026-10-16",
+   "title": "Regulating advanced AI under the EU AI Act: the old, the new and the practical challenges",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNN1NtY0RrRzAyUHNSRnhCay1zQU80UkllT0N3UkJTcGdTV3QwdGtNUXRTZjdMczgyU0VfdUxELTlBNWpoUG5wRHgtVG9zWEZmTHlsSzc1ck5NTWM0RmJMRW0wNWZpVURWNUZncHJScDdCNVZtUnNwS3l0SUNEMWtCSnM1aW41SEZUN1BXbklRRlVFTE53cEh5N3hnS2Q0ZDhuTjExdDBVc2MyeXBodDZnaTVIVk03UFM4OWtiLWJoeHRhYk1vQzNCdVpyWXMxWjFEa3c?oc=5",
+   "source": "Sciences Po",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "欧洲"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-17T10:16:56-07:00",
+   "keys": [
+    "95af6c41568de835",
+    "a1f65351e0dfb163"
+   ]
+  },
+  {
+   "id": "2026-10-16-6d3afc29eab2feea",
+   "date": "2026-10-16",
+   "title": "Anthropic秘密游说国会 推动制定前沿AI监管法案",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5XRTZoNkFYemFwckJRRVlUN2dUMTI0d1FHM0YzbDNBZEtzcHJNajRCSDBHeFkxd1lBU2FXam9NRV9yZFB4TllqMA?oc=5",
+   "source": "财联社",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "美国"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-10-17T10:16:56-07:00",
+   "keys": [
+    "4149005db2d2a690",
+    "6d3afc29eab2feea"
+   ]
+  },
+  {
+   "id": "2026-10-16-5132c20831d4ea8a",
+   "date": "2026-10-16",
+   "title": "Anthropic已私下向美国国会部分议员推荐其AI监管法案草案- AI 人工智能",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5walVhMWxWQXR0Z0M0Q0JTQkhhZzlIckZzdTdpQkNIdmtZVm1MMVd2OWMyUG94WUM0RXhrQU10cGVnNzl6WnMxNFliOEVPMmhaSjJIeHNVOU43WTBHYTdIdw?oc=5",
+   "source": "cnBeta.COM",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "美国"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-10-17T10:16:56-07:00",
+   "keys": [
+    "5132c20831d4ea8a",
+    "553c8831f9c90b56"
+   ]
+  },
+  {
+   "id": "2026-10-16-a6c37691d5bf589d",
+   "date": "2026-10-16",
+   "title": "AI公司主动寻求监管！Anthropic向美国政府提交AI监管法案草案拟设“杀伤红线” 提供者智通财经",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4zSTQ4eWNkQ3I5ZGY2Y2o3b0kzV1FrWUFkVTZKWVZsRk40NldaZUFRdHVJM0RueDdmUGNwRUtHWGt0TWUyY1FzOHU3VVh2cm1veVRfLW1ZQ2pQNUpyaS1wMUpRbVJ0N0xYWXQySEdQSlM?oc=5",
+   "source": "英为财情 Investing.com",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "美国"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-10-17T10:16:56-07:00",
+   "keys": [
+    "6a579e9ab7853b91",
+    "a6c37691d5bf589d"
+   ]
+  },
+  {
+   "id": "2026-10-16-2d8471a76d3f7417",
+   "date": "2026-10-16",
+   "title": "Proposed AI Governance Framework: Risk-Mitigation Recommendations for Health Plans",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPamtFUUlTdmVhMVBuVFgyUTJpNUFycUQ2LWpJUXZsUnc3b2Z2Qlc3bnNtU25LTjl3ZTZlX3JNV2FLbXJzY2o0QU5NaXUwZHdtRG81TkRpRVEyMlkzMUFJekFFekRkLUNldWh2b2EyelJad0hwVzhlSXFmbUxFdDVQem5rMFdWdENpLTlJczNmeldlejFDNlZOMURjWEh5MFBXMXlQX3FXNlJHVXdPbVJpV1ZJWGZOaHNSbUkyVGFPYWRzYnZReFVjdy1tWQ?oc=5",
+   "source": "Crowell & Moring LLP",
+   "also": [],
+   "coverage": 1,
+   "category": "政策与标准",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-17T10:16:56-07:00",
+   "keys": [
+    "2d8471a76d3f7417",
+    "fce1f0a1006347af"
+   ]
+  },
+  {
+   "id": "2026-10-16-f6c687296def37c3",
+   "date": "2026-10-16",
+   "title": "Anthropic pitches bill to regulate frontier AI risks",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVk5jcWJmb1hlanlWYXcwZmZReGZfMkRWVkJnMGR5R0EyMGdxZWVqUWJreGsyUlg0b2hudlF6dEFZeThHVFVRVzU5STJZTTEzRlNZRjVRa1hkOHpsSzVkMm1LM0Y1NkdNOGx4eUNZOWZNT19OQWVLM3k1RXNaTWxadnUzV055aWx6?oc=5",
+   "source": "Tech in Asia",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-17T10:16:56-07:00",
+   "keys": [
+    "16cbe378ecb87bd5",
+    "f6c687296def37c3"
+   ]
+  },
+  {
+   "id": "2026-10-16-cf56652843348f51",
+   "date": "2026-10-16",
+   "title": "Anthropic co-founder backs 'common sense standards' for AI regulation",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWG5EQmVOUzR0YzFRUnk1OURZTjNZNGdTTXhENkRmVFQtNElMMzdiU1BqY2ljSTAzTFUwVGdZVTRTZUZneFhVUi16VkpQWWR0MTkzMk9Zb0pvSjVaTGtfaGx0SkNTMng0bHFpU2hDTlJNS0F5alhIVU5vODE2THVYNzYyTlhrdXhqMC1nQ2h5VXNDS3NfUDg5d29vR0NEMzJjVDMzczc0QmJyRlFPMVRvckRYbjZJT2lnRElucFJPV0F1LUE1dE5hMWhGWGFNczls?oc=5",
+   "source": "Nikkei Asia",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-17T10:16:56-07:00",
+   "keys": [
+    "ab0e5649cb18c84b",
+    "cf56652843348f51"
+   ]
+  },
+  {
+   "id": "2026-10-16-552ed613ba1fb2ab",
+   "date": "2026-10-16",
+   "title": "What the EU Commission draft proposes for AI Act fines",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRGZWTUZWc0hZNXFBdmtXSy1oQ0MyZUgxRV9PMURHZmhaVDJIeE5lY3JpVlBJeUg4aWhQX0JmcGFOUXpfVk44TFR6eHVjLWtIYnIzZF96Q3Rucy05NjZGZncyTF9wN0FfLVRBSXZWQXJ5Nzk4SGJ1LUFyQWJ0cmYwRUxaZ191aW8?oc=5",
+   "source": "NeoTeo",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "欧洲"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-17T10:16:56-07:00",
+   "keys": [
+    "278f7416fc46e4ee",
+    "552ed613ba1fb2ab"
+   ]
+  },
+  {
+   "id": "2026-10-16-5112e0589c165d7f",
+   "date": "2026-10-16",
+   "title": "CERT-In flags AI agent cyber risks: Govt urges companies to tighten security, eyes AI regulation",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQamNzbER5T05YUV83a1RDeTF6a3Y2T21JLTFVSXd4Q3NGQk9rOS1ORzE0akdZWjIyaldNN1EyMkRWYlFnRjVRWE1CNUdYaHhYRE8yOWdpNXo3UHd3dTVFVXU1UzF4RTZFeFVScXZLTFBMN0s3WkE2YjVFMVNPRXRhYkZoaUxxRzJqMTVjVWdOdkEwSnkzazJrZmMwMEE2TXBFaXJ2YzN3VTBmekFnRzFmVm5SSDdXZm1SZmVTUWpxamNfYlhNR1JRZzhXZG16a0NqYUN5eUZoT3F5bzFCaGxTUm5vcGRSS0szQVl2edIB8gFBVV95cUxPVWZta3dIOVhXY28wQTBIZFNGMmh3Q1pJS0ZkT3NVaU44bFkwSjBzblc3UEZRM0N0aHJvTVpYbHB5RDliS2d1Z3FnS3pmY29oU3oyTkJCdkJOb21FdW45QUtyZjd6U1VyV19jdWJGWlVRTWttc2liQzdBa1JCY19JelYwWk5FZDlZY3BGRDZubGtWVnN6c2lYMnVYTEI1VmJ6QjljYWc0RnVEZkUzNF9CR1lmQ3E2dHNZNl9WblYxd2gzWFNHRG5UZnBjTXVRSlNxc2VwOFpjRmJhOUNUQ1NsdVYyaXRYNWlYZHcybWN2WWp0dw?oc=5",
+   "source": "Moneycontrol.com",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-17T10:16:56-07:00",
+   "keys": [
+    "1f8b2388b0ec169b",
+    "5112e0589c165d7f"
+   ]
+  },
+  {
+   "id": "2026-10-16-135962d9d2a56a3c",
+   "date": "2026-10-16",
+   "title": "American Medical Association rolls out governance framework for agentic AI solutions",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWHpsNFBWMDdsUVpza0hwN3BMeUZnSEhhdkNIWWNNS01KUWg2ZFZpLU5KSktYUFo2alVPQTJRQlV6eEZqdWo4cU50R2hXc19hb29pU1c3ZzJSVkl4dTY0Nk5yc3ZtUDRRV09NN1lsUmRmSmJrZTRxTXoyTU1fZGF3bEZ0MFlNQUVCTWQ3Wm9SUWpoNjdjSTRMTnBVQkkydTI5T2lJUG9BTHlSNzRnOGloTncyWXowOC1CcFJ0cDFTY0NCdw?oc=5",
+   "source": "Fierce Healthcare",
+   "also": [],
+   "coverage": 1,
+   "category": "政策与标准",
+   "regions": [
+    "美国"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-17T10:16:56-07:00",
+   "keys": [
+    "135962d9d2a56a3c",
+    "71f6c3383bb577c5"
+   ]
+  },
+  {
+   "id": "2026-10-16-d4bc2ff36164021c",
+   "date": "2026-10-16",
+   "title": "The EU AI Act: What HR leaders need to do now",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5pSDloX2RybHl5Uk1lZVJPV193Ym5aTWVjcldRZWNfOHg4aWV1empYTjFoUlpBWEE0VW1xLWh5VHM0NndFNFhyYl9yUzg3MzV3VHVXTGZxcEw1UXlWYkRVeXhfVTBjVjRSLVJzZERvakhHQnF4NkdvTQ?oc=5",
+   "source": "HR Executive",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "欧洲"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-17T10:16:56-07:00",
+   "keys": [
+    "bb6657c8a9612d38",
+    "d4bc2ff36164021c"
+   ]
+  },
+  {
+   "id": "2026-10-16-94b17ed77bdc40c5",
+   "date": "2026-10-16",
+   "title": "EU AI Act: probes could extend time limit for fines",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbTRUM0VlYmZTclNnZzlJYUZVMGZIdHVNYTVxQlZNY0tzODRUU1Bld0FmT012VlBoX1pRRDhhSWNTX01icFhyeDF1NE83YXJCUWlLQnQzU08zeXNtUW1QWmtDQUROcEpyOWdRbHdXZkxrakdWV1hCRmNPeHlpOW1xNkV4b0hfMUZ5SVE?oc=5",
+   "source": "ActuIA",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "欧洲"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-17T10:16:56-07:00",
+   "keys": [
+    "94b17ed77bdc40c5",
+    "b61306295c887f03"
+   ]
+  },
+  {
+   "id": "2026-10-16-f2c7fd200ff1d200",
+   "date": "2026-10-16",
+   "title": "EU AI Act Deadlines Moved: Credential Press Reissues 16 Exam and AI Act Books",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOU09KTGFHS0pncXdvRG1IMTRjVzMyRzJKWGJFS3VVWjBmXzVoRl9TdWd5VHNkUERtYlc0czM0X2JLbDBmT1NhZW5FZXZOeHd3NVFKdFFYQ0JZZG1KV05qMTVjUGVRZkRaRWhSSnJfTVZoeGNraGg0ZWhPa3hFLWdkaXBUbWg3d3NDSjJYZ2IzeHhfYnk5LVRpLUtiQlZRNEdvQ1Y4STd3OHlqeG9JUUROQ3hRWUFBNUxubUtoRGRPV3A0aS1sWEVBY0syVQ?oc=5",
+   "source": "The Tennessean",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "欧洲"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-17T10:16:56-07:00",
+   "keys": [
+    "62648643eb5a246a",
+    "f2c7fd200ff1d200"
+   ]
+  },
+  {
+   "id": "2026-10-16-1464758153f57d7a",
+   "date": "2026-10-16",
+   "title": "White House task force given 4-month window to determine government role in AI regulation",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPR1d1VVQzUjhKTWRwdk9JR3lTWTdqdjh5eWRqdlByS19MYUkzSHhPR2wxNG5zd1Vva0lYU0o1dmt1WlEzU0hFWk5GSFJfaUFQLWNXaEdHNG14VXgyMWxQR1VpSnduVFlxbS1QdXJwbmV1aW9lbXFXb0kzV1dNT1BZS005c0hjamMyWVZUdGVFWkR2UXZRTXBhdkM4aGphTmJLM3RleF9EZG5TQnpIYTlSWkNrMllhemJnM0dRdXd1cWx6TjVa?oc=5",
+   "source": "WDRB",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "美国"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-17T10:16:56-07:00",
+   "keys": [
+    "1464758153f57d7a",
+    "d8bdf30ff6c0e04b"
+   ]
+  },
+  {
+   "id": "2026-10-16-4a4669da1e21d397",
+   "date": "2026-10-16",
+   "title": "Why Westchester businesses require federal regulation for AI | Opinion",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPLXNTelJHbGpLUXctbWkyeC1HQUJ2Z0FwQkI4Y2ZxS2ZLT0M4VDQ5STRqVE5kamtYU1R2bWZTSXNEQjNxa1V6Nk5KdzY3OWxfS3hMRFU2YmRpd1VxeVpRNlZRV3JUZGxDb2J6MmJ4a19rZFkwbmxKTi1adlFzQnkxNTRlUFdzU0RnU053Z21wRkJJNjFobTJCUmtMQjVKNzVi?oc=5",
+   "source": "Lohud",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "美国"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-17T10:16:56-07:00",
+   "keys": [
+    "4a4669da1e21d397",
+    "cf56058895c63121"
+   ]
+  },
+  {
+   "id": "2026-10-16-f4db34f38a6e938a",
+   "date": "2026-10-16",
+   "title": "AI Legislative Update: Oct. 16, 2026",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQN0pwVnQ0VVNrY0doNnlWMDdpaTZYeFRhTF9jTVgzLXVSQUdIM3VsUlRUTnJwRng1WEpHX1hxY19KbWdFcUlXR21xZWpBMmNLY2IzemxiOTlaNE5UYXlqZ2hPdVZlX3BTWWNBTElPd2hFWUlCV3V6cFBpS2RIWXBtVV9oZ1E?oc=5",
+   "source": "Transparency Coalition",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-17T10:16:56-07:00",
+   "keys": [
+    "cd4acb9f816d887e",
+    "f4db34f38a6e938a"
+   ]
+  },
+  {
+   "id": "2026-10-16-8e4782517c9f7ebc",
+   "date": "2026-10-16",
+   "title": "Rep. Zach Nunn, Sarah Trone Garriott see federal role in regulating AI",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOY1RJSms2VGFIeTZwU1BXbGJkX0VKbzZuWFQta0pHZlF4UW80a2tScW9rSGVEVVlocVVwVGkwRFE2NTIwWWsybXpSMDFISE1wYkl6U2pmZ1U0N3M2cTFDd2l5NllwZE83Y256VHlTYUVTMTNMd0hJbU05SXdBalY2QUhlSGdKd05hYkJoSmdlUnVSR1NUbl91aHI5QTVCQ0MtT3ZyUklVb3hCRFdKMVdTV0xPcDRicVowRWFCckJRS2lzRG9BT3F2ckZadnVaT1V1b3BEM2ZKekhmVG1sSTlIc3l0cU0?oc=5",
+   "source": "The Des Moines Register",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "美国"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-17T10:16:56-07:00",
+   "keys": [
+    "8e4782517c9f7ebc",
+    "dea654e0ca90b529"
+   ]
+  },
+  {
+   "id": "2026-10-16-4ddad12fccac3e1c",
+   "date": "2026-10-16",
+   "title": "Proposed AI regulations could be some of the most strict in the country",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVVJWaHd4UkFReGhZclpTR2JLUHI0elFoY2lrM0wzcWlkeWtLb21EX2s1VjJEUElPZVZKRzJTWW0tUHRVX1NQcHF1elNjVTZTMkJCRTBvREU2anNpaXZCdnQ5WlRiR0FJWUJ6eVBnYzB6Z2xOcjQ2OFlQYU5xeUZ3cy1oNTJtNjlV?oc=5",
+   "source": "WBUR",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-17T10:16:56-07:00",
+   "keys": [
+    "4ddad12fccac3e1c",
+    "c36584e23d151ad2"
    ]
   },
   {
@@ -74,8 +767,13 @@
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ZT1dCaTNyRkxRWXJvRUxiNUdyUmduQjFITUczeUNUaUNRT1VOeVdlcDE0eG1xNEtWOHF4SG1DVjlXUlZ5NFBXamYxVjQyVl9paVVkSGtkX2stZnlQTEl0dmVkcXpVM3E2SW9EcUZ4UFpyQV9iLXc?oc=5",
    "source": "Northeastern Global News",
-   "also": [],
-   "coverage": 1,
+   "also": [
+    {
+     "source": "Northeastern University",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVEtjZUcyaXdXSThySk1VYW5XS2lXLWtJYjNIQ3ZHUG02SnZwWGNkQ0F4aUpsNU41Z1Z2SXNNaHFzMWxMXzlzLVdNY05wcUNqWi1LdWdCWnFUMDFqWWcxS3o5aERnWmE5RFpVUXpZcGtVRHg4SlpYM0xPeVFMWXBrQ3VRMG9OSFF3REY0VDVuS2UtcVgya1JIdHNFaElwdVB2RG5IYWNYNy1oUQ?oc=5"
+    }
+   ],
+   "coverage": 2,
    "category": "行业动态",
    "regions": [
     "其他"
@@ -85,7 +783,9 @@
    "addedBy": "auto",
    "createdAt": "2026-10-16T08:56:19+08:00",
    "keys": [
+    "394d72155625e3c6",
     "39e2eeeed4b319f6",
+    "999ae8ff9dbb608d",
     "a5fbf061c9dc1bf4"
    ]
   },
