@@ -79,8 +79,8 @@ button{touch-action:manipulation}
 .bar{position:relative;display:flex;align-items:flex-end;justify-content:center;background:none;border:0;padding:0 1px 3px;margin:0;cursor:pointer;border-radius:5px 5px 0 0}
 .bar:hover{background:var(--soft)}
 .bar.sel{background:var(--soft);box-shadow:inset 0 0 0 1.5px var(--ink)}
-.stack{display:flex;flex-direction:column-reverse;gap:2px;width:100%;max-width:22px;transform-origin:bottom}
-.t{display:block;height:var(--th);border-radius:2px}
+.stack{display:flex;flex-direction:column-reverse;gap:2px;width:100%;max-width:22px;max-height:100%;overflow:hidden;transform-origin:bottom}
+.t{display:block;flex:none;height:var(--th);border-radius:2px}
 .t.l1{background:var(--l1)}.t.l2{background:var(--l2)}.t.l3{background:var(--l3)}
 .nil{display:block;height:2px;width:4px;margin:0 auto;border-radius:1px;background:var(--rule-strong);opacity:.6}
 .bar.today::after{content:"";position:absolute;left:50%;bottom:-5px;width:6px;height:6px;margin-left:-3px;border-radius:50%;background:var(--ink)}
@@ -329,12 +329,17 @@ function renderStrip(){
   stripStats = { by, days };
 
   const maxN = Math.max(1, ...days.map(d => by[d] ? by[d].n : 0));
-  const Hmax = isPhone() ? 104 : 132, cap = isPhone() ? 16 : 20;
-  const th = Math.max(3, Math.min(cap, Math.floor((Hmax - 8 - 2*(maxN-1)) / maxN)));
-  const H = Math.max(isPhone() ? 64 : 80, Math.min(Hmax, maxN*(th+2) + 26));
+  const phone = isPhone();
+  const Hmax = phone ? 112 : 140, cap = phone ? 16 : 20;
+  // 每天条数不多时一条资讯一个方块；放不下时改成按比例的色段，保证不会溢出图表
+  const tileTh = Math.min(cap, Math.floor((Hmax - 10 - 2*(maxN-1)) / maxN));
+  const tiles = tileTh >= 5;
+  const H = tiles ? Math.max(phone ? 64 : 80, Math.min(Hmax, maxN*(tileTh+2) + 26)) : Hmax;
+  const avail = H - 16;
   const wrap = $("bars");
-  wrap.style.setProperty("--th", th + "px");
+  wrap.style.setProperty("--th", (tiles ? tileTh : 4) + "px");
   wrap.style.height = H + "px";
+  wrap.setAttribute("aria-label", tiles ? "每日资讯量，每个方块代表一条资讯" : "每日资讯量，色段长短按条数比例");
 
   const segs = []; let segStart = 0;
   days.forEach((ds, i) => { if (i > 0 && parse(ds).getDay() === 1){ segs.push([segStart, i]); segStart = i; } });
@@ -345,10 +350,18 @@ function renderStrip(){
   const bars = days.map(ds => {
     const d = parse(ds); const b = by[ds];
     const stack = el("span",{class:"stack"});
-    if (b){
+    if (b && tiles){
       for (let k=0;k<b.l3;k++) stack.append(el("i",{class:"t l3"}));
       for (let k=0;k<b.l2;k++) stack.append(el("i",{class:"t l2"}));
       for (let k=0;k<b.l1;k++) stack.append(el("i",{class:"t l1"}));
+    } else if (b){
+      const levels = [["l3",b.l3],["l2",b.l2],["l1",b.l1]].filter(x => x[1] > 0);
+      const gaps = 2 * (levels.length - 1);
+      const total = Math.max(levels.length * 3 + gaps, Math.round(b.n / maxN * avail));
+      for (const [cls, n] of levels){
+        const h = Math.max(3, Math.floor(n / b.n * (total - gaps)));
+        stack.append(el("i",{class:"t "+cls, style:`height:${h}px`}));
+      }
     } else stack.append(el("i",{class:"nil"}));
     const cls = "bar" + (state.day===ds ? " sel" : "") + (ds===tS ? " today" : "");
     return el("button",{
