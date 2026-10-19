@@ -136,6 +136,8 @@ button{touch-action:manipulation}
 .item p{margin:6px 0 8px;max-width:44em;color:var(--ink)}
 .meta{display:flex;flex-wrap:wrap;gap:6px 14px;font-size:13px;color:var(--muted);align-items:center}
 .tag{background:var(--soft);color:var(--ink);padding:1px 8px;border-radius:3px}
+.badge{border:1px solid currentColor;padding:0 6px;border-radius:3px;font-size:12px;line-height:1.6}
+.badge.official{color:var(--l3)}.badge.a{color:var(--l2)}.badge.b{color:var(--muted)}
 .meta .also a{color:var(--muted);text-underline-offset:3px}
 .updated{margin:0;font-size:13px;color:var(--muted);text-align:right;line-height:1.5}
 .updated b{color:var(--ink);font-weight:500}
@@ -214,12 +216,13 @@ button{touch-action:manipulation}
         <div class="group"><h2>地区</h2><div class="chips" id="regions"></div></div>
         <div class="group"><h2>重要度</h2><div class="chips" id="imps"></div></div>
         <div class="group"><h2>语言</h2><div class="chips" id="langs"></div></div>
+        <div class="group"><h2>来源</h2><div class="chips" id="tiers"></div></div>
       </div>
     </aside>
 
     <main>
       <div id="list"><p class="status">正在读取资讯库…</p></div>
-      <p class="note">每天美西时间早上 7 点自动更新。资讯来自 Bing 新闻、Google 新闻和 arXiv，按关键词规则筛选、分类并合并同一事件的报道；外文报道保留原文标题，摘要取自原文网页的简介。细节请以原文为准。</p>
+      <p class="note">每天美西时间早上 7 点自动更新。资讯以官方机构、权威媒体和专业媒体为主，另有 Google 新闻检索和 arXiv 论文，按规则筛选、分类并合并同一事件的报道；外文报道保留原文标题，摘要取自原文网页的简介。细节请以原文为准。</p>
     </main>
   </div>
 </div>
@@ -229,10 +232,13 @@ const CATS = ["立法与监管","政策与标准","国际治理","安全事件",
 const REGIONS = ["中国","美国","欧洲","全球/多边","其他"];
 const IMPS = [[1,"全部"],[2,"值得关注以上"],[3,"仅重大"]];
 const LANGS = [[null,"全部"],["zh","中文"],["en","外文"]];
+const TIERS = [[null,"全部"],["official","官方"],["a","权威媒体"],["b","专业媒体"]];
+const TIER_LABEL = {official:"官方", a:"权威媒体", b:"专业媒体"};
+const TIER_RANK = {official:3, a:2, b:1};
 const LEVEL = ["","一般","值得关注","重大"];
 const WK = "日一二三四五六";
 const PAGE_DAYS = 14;
-const state = { items:[], days:{}, updated:null, loaded:false, cat:null, region:null, minImp:1, lang:null, q:"", day:null, animated:false, showDays:PAGE_DAYS };
+const state = { items:[], days:{}, updated:null, loaded:false, cat:null, region:null, minImp:1, lang:null, tier:null, q:"", day:null, animated:false, showDays:PAGE_DAYS };
 let stripStats = { by:{}, days:[] };
 
 const $ = id => document.getElementById(id);
@@ -267,6 +273,7 @@ function baseFiltered(){
     (!state.region || regionsOf(it).includes(state.region)) &&
     imp(it) >= state.minImp &&
     (!state.lang || langOf(it) === state.lang) &&
+    (!state.tier || it.tier === state.tier) &&
     (!q || [it.title,it.summary,it.source,it.category,...regionsOf(it)].join(" ").toLowerCase().includes(q))
   );
 }
@@ -285,7 +292,9 @@ function renderChips(){
   $("imps").replaceChildren(...IMPS.map(([v,l]) => mk(l, state.minImp===v, () => { state.minImp = v; resetPaging(); renderAll(); })));
   $("langs").replaceChildren(...LANGS.map(([v,l]) => mk(l, state.lang===v, () => { state.lang = v; resetPaging(); renderAll(); },
     v ? state.items.filter(it => langOf(it)===v).length : null)));
-  const active = (state.cat?1:0) + (state.region?1:0) + (state.minImp>1?1:0) + (state.lang?1:0);
+  $("tiers").replaceChildren(...TIERS.map(([v,l]) => mk(l, state.tier===v, () => { state.tier = v; resetPaging(); renderAll(); },
+    v ? state.items.filter(it => it.tier===v).length : null)));
+  const active = (state.cat?1:0) + (state.region?1:0) + (state.minImp>1?1:0) + (state.lang?1:0) + (state.tier?1:0);
   $("fcount").textContent = active ? `（${active}）` : "";
 }
 
@@ -403,7 +412,7 @@ function renderList(){
   if (!items.length){
     list.replaceChildren(el("div",{class:"empty"},
       el("p",{text: state.day ? `${md(state.day)}没有符合筛选的资讯。` : "没有符合当前筛选的资讯。"}),
-      el("button",{class:"btn",type:"button",onclick:()=>{Object.assign(state,{cat:null,region:null,minImp:1,lang:null,q:"",day:null}); $("q").value=""; resetPaging(); renderAll();}},"清除全部筛选")));
+      el("button",{class:"btn",type:"button",onclick:()=>{Object.assign(state,{cat:null,region:null,minImp:1,lang:null,tier:null,q:"",day:null}); $("q").value=""; resetPaging(); renderAll();}},"清除全部筛选")));
     return;
   }
   const groups = {};
@@ -413,11 +422,11 @@ function renderList(){
   const nodes = dates.map(ds => {
     const d = parse(ds);
     const brief = state.days[ds] && state.days[ds].brief;
-    const rows = groups[ds].sort((a,b) => imp(b)-imp(a));
+    const rows = groups[ds].sort((a,b) => imp(b)-imp(a) || (TIER_RANK[b.tier]||0)-(TIER_RANK[a.tier]||0));
     return el("section",{class:"day","aria-label":md(ds)},
       el("div",{class:"day-date"}, el("span",{class:"d",text:d.getDate()}), el("span",{class:"m",text:`${d.getMonth()+1}月 · 周${WK[d.getDay()]}`})),
       el("div",null,
-        brief && !state.cat && !state.region && !state.lang && !state.q ? el("p",{class:"brief",text:brief}) : null,
+        brief && !state.cat && !state.region && !state.lang && !state.tier && !state.q ? el("p",{class:"brief",text:brief}) : null,
         ...rows.map(renderItem))
     );
   });
@@ -440,6 +449,7 @@ function renderItem(it){
       el("h3",null, url ? el("a",{href:url,target:"_blank",rel:"noopener noreferrer",text:it.title||"(无标题)"}) : (it.title||"(无标题)")),
       it.summary ? el("p",{text:it.summary}) : null,
       el("div",{class:"meta"},
+        TIER_LABEL[it.tier] ? el("span",{class:"badge "+it.tier,text:TIER_LABEL[it.tier]}) : null,
         it.source ? el("span",{text:it.source}) : null,
         it.category ? el("span",{class:"tag",text:it.category}) : null,
         regionsOf(it).length ? el("span",{text:regionsOf(it).join("、")}) : null,

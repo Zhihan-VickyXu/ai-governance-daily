@@ -1,4 +1,6 @@
 {
-  "_说明": "在 items 里添加你想手动收录的资讯，下次自动更新时会写入网站。字段：date（YYYY-MM-DD）、title、summary、url、source、category、regions、importance（1 一般 / 2 值得关注 / 3 重大）。",
-  "items": []
+  "_说明": "items：手动收录的资讯，下次自动更新时写入网站。字段：date（YYYY-MM-DD）、title、summary、url、source、category、regions、importance（1 一般 / 2 值得关注 / 3 重大）。block_sources：不想再看到的来源，填来源名称（如 \"Yahoo Finance\"）或网站域名（如 \"example.com\"），已收录的也会撤下。block_urls：不想要的单条资讯，填它的完整链接。",
+  "items": [],
+  "block_sources": [],
+  "block_urls": []
 }

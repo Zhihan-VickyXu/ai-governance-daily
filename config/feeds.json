@@ -1,62 +1,75 @@
 {
-  "_说明": "type 可选 bing / gnews / rss。bing 和 gnews 填 q（搜索词）和 lang（zh 或 en）；rss 填 url。max 是每个来源最多读几条，lookback_hours 可单独覆盖回溯时长，category 会强制指定类别，max_selected 限制这个来源每天最多入选几条，enabled 设为 false 可临时停用。",
+  "_说明": "新闻来源。type 可选 rss / gnews / bing。rss 填 url；gnews 和 bing 填 q（搜索词，可以用 site: 限定网站）和 lang（zh 或 en）。tier 是来源档次：official 官方、a 权威媒体、b 专业媒体，不填则按 config/rules.json 的名单自动判断。min_score 可单独放宽或收紧这个来源的入选门槛（专门报道 AI 政策的来源可以设为 0）。max 是最多读几条，max_selected 是每次最多入选几条，lookback_hours 单独设回溯时长，category 强制指定类别，enabled 设为 false 临时停用。",
+
   "feeds": [
-    {
-      "name": "Bing 新闻：AI 监管立法",
-      "type": "bing",
-      "lang": "en",
-      "q": "AI regulation OR \"AI Act\" OR \"AI bill\" OR \"AI law\""
-    },
-    {
-      "name": "Bing 新闻：AI 安全与治理",
-      "type": "bing",
-      "lang": "en",
-      "q": "\"AI safety\" OR \"AI governance\" OR \"frontier AI\""
-    },
-    {
-      "name": "Bing 新闻：AI 安全事件",
-      "type": "bing",
-      "lang": "en",
-      "q": "AI incident OR \"AI agents\" misalignment OR \"AI Security Institute\""
-    },
-    {
-      "name": "Bing 新闻：人工智能监管",
-      "type": "bing",
-      "lang": "zh",
-      "q": "人工智能 监管 OR 人工智能 治理 OR 人工智能 立法"
-    },
-    {
-      "name": "Bing 新闻：人工智能安全",
-      "type": "bing",
-      "lang": "zh",
-      "q": "人工智能安全 OR 大模型 安全 OR 网信办 人工智能"
-    },
-    {
-      "name": "Google 新闻：AI regulation",
-      "type": "gnews",
-      "lang": "en",
-      "q": "\"AI regulation\" OR \"AI Act\" OR \"AI legislation\""
-    },
-    {
-      "name": "Google 新闻：AI safety",
-      "type": "gnews",
-      "lang": "en",
-      "q": "\"AI safety\" OR \"AI governance\" OR \"frontier AI\" OR \"AI incident\""
-    },
-    {
-      "name": "Google 新闻：人工智能治理",
-      "type": "gnews",
-      "lang": "zh",
-      "q": "人工智能 治理 OR 人工智能 监管 OR 人工智能安全"
-    },
-    {
-      "name": "arXiv：AI 安全与治理论文",
-      "type": "rss",
-      "max": 30,
-      "lookback_hours": 96,
-      "url": "https://export.arxiv.org/api/query?search_query=abs:%22AI%20safety%22%20OR%20abs:%22AI%20governance%22%20OR%20abs:%22frontier%20AI%22&sortBy=submittedDate&sortOrder=descending&max_results=40",
-      "category": "安全研究",
-      "max_selected": 4
-    }
+    {"group": "权威媒体（通过 Google 新闻按网站检索）"},
+    {"name": "通讯社与大报", "type": "gnews", "lang": "en", "max": 60,
+     "q": "AI (regulation OR safety OR governance OR law OR policy) (site:reuters.com OR site:apnews.com OR site:bloomberg.com OR site:ft.com OR site:wsj.com OR site:nytimes.com OR site:washingtonpost.com)"},
+    {"name": "政策类媒体", "type": "gnews", "lang": "en", "max": 60,
+     "q": "AI (regulation OR safety OR governance OR law OR policy) (site:politico.com OR site:politico.eu OR site:axios.com OR site:semafor.com OR site:thehill.com OR site:punchbowl.news)"},
+    {"name": "国际媒体", "type": "gnews", "lang": "en", "max": 50,
+     "q": "AI (regulation OR safety OR governance OR law) (site:economist.com OR site:bbc.com OR site:theguardian.com OR site:asia.nikkei.com OR site:scmp.com OR site:aljazeera.com OR site:euronews.com)"},
+    {"name": "中文权威媒体", "type": "gnews", "lang": "zh", "max": 60,
+     "q": "人工智能 (监管 OR 治理 OR 安全 OR 立法 OR 政策) (site:caixin.com OR site:thepaper.cn OR site:yicai.com OR site:21jingji.com OR site:jiemian.com OR site:infzm.com OR site:zaobao.com)"},
+    {"name": "中国官方与官媒", "type": "gnews", "lang": "zh", "max": 50,
+     "q": "人工智能 (监管 OR 治理 OR 安全 OR 办法 OR 标准) (site:gov.cn OR site:cac.gov.cn OR site:miit.gov.cn OR site:xinhuanet.com OR site:people.com.cn OR site:cctv.com OR site:chinanews.com.cn)"},
+
+    {"group": "专业媒体（直接订阅）"},
+    {"name": "Tech Policy Press", "type": "rss", "tier": "b", "url": "https://www.techpolicy.press/feed/"},
+    {"name": "MIT Technology Review · AI", "type": "rss", "tier": "b", "url": "https://www.technologyreview.com/topic/artificial-intelligence/feed"},
+    {"name": "The Verge · AI", "type": "rss", "tier": "b", "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml"},
+    {"name": "The Verge · Policy", "type": "rss", "tier": "b", "url": "https://www.theverge.com/rss/policy/index.xml"},
+    {"name": "Wired · AI", "type": "rss", "tier": "b", "url": "https://www.wired.com/feed/tag/ai/latest/rss"},
+    {"name": "Ars Technica · AI", "type": "rss", "tier": "b", "url": "https://arstechnica.com/ai/feed/"},
+    {"name": "Ars Technica · Tech Policy", "type": "rss", "tier": "b", "url": "https://feeds.arstechnica.com/arstechnica/tech-policy"},
+    {"name": "The Hill · Technology", "type": "rss", "tier": "a", "url": "https://thehill.com/policy/technology/feed/"},
+    {"name": "POLITICO Europe · Technology", "type": "rss", "tier": "a", "url": "https://www.politico.eu/section/technology/feed/"},
+    {"name": "The Guardian · AI", "type": "rss", "tier": "a", "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss"},
+    {"name": "BBC · Technology", "type": "rss", "tier": "a", "url": "https://feeds.bbci.co.uk/news/technology/rss.xml"},
+    {"name": "New York Times · Technology", "type": "rss", "tier": "a", "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"},
+    {"name": "Euractiv · Tech", "type": "rss", "tier": "b", "url": "https://www.euractiv.com/sections/tech/feed/"},
+    {"name": "Rest of World", "type": "rss", "tier": "b", "url": "https://restofworld.org/feed/latest"},
+    {"name": "专业媒体（Google 新闻检索）", "type": "gnews", "lang": "en", "max": 50,
+     "q": "AI (site:lawfaremedia.org OR site:iapp.org OR site:euractiv.com OR site:restofworld.org OR site:404media.co OR site:theinformation.com OR site:platformer.news)"},
+    {"name": "36氪", "type": "rss", "tier": "b", "url": "https://36kr.com/feed"},
+    {"name": "虎嗅", "type": "rss", "tier": "b", "url": "https://www.huxiu.com/rss/0.xml"},
+
+    {"group": "AI 政策与安全通讯"},
+    {"name": "Transformer", "type": "rss", "tier": "b", "min_score": 0, "url": "https://www.transformernews.ai/feed"},
+    {"name": "AI Safety Newsletter (CAIS)", "type": "rss", "tier": "b", "min_score": 0, "url": "https://newsletter.safe.ai/feed"},
+    {"name": "The EU AI Act Newsletter", "type": "rss", "tier": "b", "min_score": 0, "category": "立法与监管", "url": "https://artificialintelligenceact.substack.com/feed"},
+    {"name": "Import AI", "type": "rss", "tier": "b", "min_score": 0, "url": "https://importai.substack.com/feed"},
+    {"name": "ChinAI", "type": "rss", "tier": "b", "min_score": 0, "url": "https://chinai.substack.com/feed"},
+    {"name": "AI Safety in China（安远 AI）", "type": "rss", "tier": "b", "min_score": 0, "url": "https://aisafetychina.substack.com/feed"},
+
+    {"group": "官方机构"},
+    {"name": "英国 AI 安全研究所", "type": "rss", "tier": "official", "min_score": 0, "url": "https://www.gov.uk/government/organisations/ai-security-institute.atom"},
+    {"name": "英国科学创新技术部", "type": "rss", "tier": "official", "url": "https://www.gov.uk/government/organisations/department-for-science-innovation-and-technology.atom"},
+    {"name": "美国 NIST", "type": "rss", "tier": "official", "url": "https://www.nist.gov/news-events/news/rss.xml"},
+    {"name": "美国 FTC", "type": "rss", "tier": "official", "url": "https://www.ftc.gov/feeds/press-release.xml"},
+    {"name": "欧盟与国际组织（Google 新闻检索）", "type": "gnews", "lang": "en", "max": 40,
+     "q": "\"artificial intelligence\" OR \"AI Act\" (site:europa.eu OR site:oecd.org OR site:un.org OR site:coe.int)"},
+
+    {"group": "研究机构与智库"},
+    {"name": "CSET", "type": "rss", "tier": "b", "category": "安全研究", "url": "https://cset.georgetown.edu/feed/"},
+    {"name": "Ada Lovelace Institute", "type": "rss", "tier": "b", "url": "https://www.adalovelaceinstitute.org/feed/"},
+    {"name": "智库（Google 新闻检索）", "type": "gnews", "lang": "en", "max": 40,
+     "q": "AI (governance OR safety OR regulation) (site:brookings.edu OR site:csis.org OR site:carnegieendowment.org OR site:rand.org OR site:cfr.org OR site:governance.ai OR site:hai.stanford.edu)"},
+    {"name": "arXiv：AI 安全与治理论文", "type": "rss", "tier": "b", "category": "安全研究", "max": 30, "max_selected": 4, "lookback_hours": 96,
+     "url": "https://export.arxiv.org/api/query?search_query=abs:%22AI%20safety%22%20OR%20abs:%22AI%20governance%22%20OR%20abs:%22frontier%20AI%22&sortBy=submittedDate&sortOrder=descending&max_results=40"},
+
+    {"group": "AI 实验室"},
+    {"name": "OpenAI", "type": "rss", "tier": "official", "url": "https://openai.com/news/rss.xml"},
+    {"name": "Google DeepMind", "type": "rss", "tier": "official", "url": "https://deepmind.google/blog/rss.xml"},
+
+    {"group": "广泛检索（来源不限，入选门槛更高）"},
+    {"name": "Google 新闻：AI 监管与安全", "type": "gnews", "lang": "en", "max": 60,
+     "q": "\"AI regulation\" OR \"AI Act\" OR \"AI safety\" OR \"AI governance\" OR \"frontier AI\""},
+    {"name": "Google 新闻：人工智能治理", "type": "gnews", "lang": "zh", "max": 60,
+     "q": "人工智能 治理 OR 人工智能 监管 OR 人工智能安全"},
+
+    {"group": "已停用"},
+    {"name": "Bing 新闻：AI 监管", "type": "bing", "lang": "en", "enabled": false, "q": "AI regulation OR \"AI Act\" OR \"AI safety\""},
+    {"name": "Bing 新闻：人工智能监管", "type": "bing", "lang": "zh", "enabled": false, "q": "人工智能 监管 OR 人工智能 治理"}
   ]
 }

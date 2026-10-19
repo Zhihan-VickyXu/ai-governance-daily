@@ -9,7 +9,7 @@
 ```
 每天北京时间 7:00
   GitHub Actions 运行 scripts/update.py
-    ├─ 抓取：从 Bing 新闻、Google 新闻、arXiv 抓取最近 36 小时的报道
+    ├─ 抓取：从官方机构、权威媒体、专业媒体、Google 新闻检索和 arXiv 抓取最近 36 小时的报道
     ├─ 去重：跳过以前处理过的（记录在 data/seen.json）
     ├─ 筛选：按 config/rules.json 的关键词打分，过滤融资、股价、新品这类无关报道
     ├─ 合并：标题相似的报道视为同一事件，合并成一条，记下共有几家来源
@@ -30,6 +30,27 @@
 - **合并同一事件靠标题相似度。** 同一种语言、措辞接近的报道能合并；中英文报道同一件事、或者标题差别很大时，会分成两条。
 - **分类和重要度靠关键词。** 大多数情况下准确，偶尔会有偏差。可以调 `config/rules.json` 改善，见下文。
 - **今日要点是统计式的。** 内容是「收录几条、各类别几条、哪条报道最多」，不是对新闻内容的概括。你也可以自己写，见下文。
+
+## 信息来源与质量控制
+
+来源分三档，每条资讯前会标出档次，网页上也可以按来源筛选：
+
+- **官方**：政府和监管机构（英国 AI 安全研究所、美国 NIST 和 FTC、欧盟、OECD、联合国、中国网信办等），以及 OpenAI、Google DeepMind 等实验室的官方发布。
+- **权威媒体**：Reuters、AP、Bloomberg、FT、WSJ、纽约时报、华盛顿邮报、Politico、Axios、Semafor、The Hill、BBC、卫报、经济学人等；中文有财新、澎湃、第一财经、21 世纪经济报道、界面、南方周末、联合早报、新华社、人民日报、央视等。
+- **专业媒体**：MIT Technology Review、Wired、Ars Technica、The Verge、Tech Policy Press、Lawfare、IAPP、Euractiv、Rest of World 等科技与政策媒体；Transformer、CAIS 的 AI Safety Newsletter、EU AI Act Newsletter、Import AI、ChinAI、安远 AI 的 AI Safety in China 等专业通讯；Brookings、CSIS、Carnegie、RAND、CSET、Ada Lovelace Institute 等智库；36 氪、虎嗅；以及 arXiv 论文。
+
+质量控制规则：
+
+- 官方、权威、专业来源在打分时有加分，同一事件有多家报道时优先选它们的链接；两家以上权威或专业来源都报道了的事件，重要度会提高。
+- 不在名单里的来源，入选门槛更高，每次最多入选 8 条，重要度一般不超过「值得关注」。
+- 财经聚合站、股票社区、内容农场等在黑名单里，直接排除。
+- Google 新闻的跳转链接会尽量还原成原文地址，这样能读到摘要，在中国大陆也能打开。还原失败时保留原链接。
+
+来源名单在 `config/rules.json` 的 `source_tiers` 里，新闻来源在 `config/feeds.json` 里，都可以自己增删。
+
+**来源体检**：每次运行后，在 Actions 里点开这次运行，页面底部的摘要里有一张表，列出每个来源读到几条、新候选几条、入选几条。❌ 表示连不上，⚠️ 表示连上了但没有内容，连续失败的会标出次数。长期失败的来源可以在 `config/feeds.json` 里设 `"enabled": false` 停用。
+
+**屏蔽来源或单条资讯**：编辑 `manual.json`，把来源名称或域名加进 `block_sources`，把单条资讯的链接加进 `block_urls`。下次运行时会生效，已收录的相应资讯也会撤下。
 
 ## 搭建步骤（约 10 分钟）
 
@@ -93,7 +114,9 @@ https://你的用户名.github.io/ai-governance-daily/
 | `negative_terms` | 排除词，每个扣 4 分 |
 | `min_score` | 入选门槛，默认 4 分 |
 | `high_signal_terms` | 出现时重要度加一级 |
-| `authority_sources` / `authority_domains` | 合并报道时优先选这些来源作为主链接；政府官网来源会让重要度加一级 |
+| `source_tiers` | 来源分档：`official` 官方、`tier_a` 权威媒体、`tier_b` 专业媒体、`block` 黑名单。含「.」的条目按域名匹配，其余按来源名称匹配 |
+| `tier_bonus` | 各档来源的加分 |
+| `unknown_extra_score` / `unknown_max_per_run` | 名单外来源要多达到几分才入选、每次最多入选几条 |
 | `categories` / `regions` | 每个类别和地区的判断词，命中最多的类别胜出 |
 | `max_items_per_run` | 每次最多新增几条 |
 
@@ -167,7 +190,7 @@ https://你的用户名.github.io/ai-governance-daily/
 摘要来自原文网页的简介。有些网站不提供简介或屏蔽了抓取；Google 新闻的链接是跳转地址，读不到原文简介。点标题可以看原文。
 
 **在中国大陆访问**
-`github.io` 的访问可能不稳定；网页使用的 Google 字体加载不了时会自动改用系统字体，不影响阅读；Google 新闻来源的链接需要能访问 Google 才能打开，Bing 来源的链接会直接指向原文网站。
+`github.io` 的访问可能不稳定；网页使用的 Google 字体加载不了时会自动改用系统字体，不影响阅读；Google 新闻的链接会尽量还原成原文地址，个别还原失败的仍需要能访问 Google 才能打开。
 
 **定时任务停了**
 GitHub 会暂停 60 天内没有任何活动的公开仓库的定时任务。这个项目每天都会自动提交，一般不会触发；如果真的停了，在 Actions 页面点 **Enable workflow** 即可。
