@@ -1,6 +1,809 @@
 {
- "updated": "2026-10-18T13:59:48-07:00",
+ "updated": "2026-10-19T13:03:12-07:00",
  "items": [
+  {
+   "id": "2026-10-19-ad8128755ad7c5a4",
+   "date": "2026-10-19",
+   "title": "First harmonised standard supporting the AI Act published in the Official Journal",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeGhkN3NQeThrV1ZMSExfXzVDWTd2dV9hcW9EYUpoMmc1ekNScE9nWEFuTk5NZXFMaXpMNk9lWG1ObWRYZVVPYXFTZDliRkNjdUtHa3V3cjFxcGludFlRMkxhOTV3TGd4dnZiYUlQNExuV19TeDBRS3ZDLWRLNHY1LTFlc2VXWUNBdC05bmxVd1RlNzVodE1IUW5PaVpiRXhCc3BLSFF3QlBsY3hNc1JrRWFJNFotTUZ4UGFr?oc=5",
+   "source": "Shaping Europe’s digital future",
+   "tier": "official",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 2,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-19T13:03:09-07:00",
+   "keys": [
+    "751b4443a00cf634",
+    "ad8128755ad7c5a4"
+   ]
+  },
+  {
+   "id": "2026-10-19-7488a657cd05d4c6",
+   "date": "2026-10-19",
+   "title": "构建完整闭环，人工智能赋能钢铁行业首批标准发布",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ab3BNZ1NMMWpmWWFNTHhwMWloV2d2ZkJCS0ZhUDQzODlmTWNUOXRMYllSTnpURk0zbmp6bThsQ2NYNzBxWFFzZnZ5N3pXRGhfN0Y3VEc5LUk?oc=5",
+   "source": "Jiemian.com",
+   "tier": "a",
+   "also": [
+    {
+     "source": "新华网",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMzRqRTMyNGVMNks1Z2pmZ3F4SmI0U3B2UjJGV3kxVF9MY190RWdZRG1xc0RVV1BqWDhVWU9sc0tGSFRuMmNONFhjVmlQWmpwOVlqWndwX1FTS1FRUTROZ1ItUnpNWUsxeWdQaTV0VGpYYzlYalQyZklqdzcxUW9ycnU0UnA?oc=5"
+    }
+   ],
+   "coverage": 2,
+   "category": "政策与标准",
+   "regions": [
+    "其他"
+   ],
+   "importance": 2,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-10-19T13:03:09-07:00",
+   "keys": [
+    "06656ee9a1907a12",
+    "7488a657cd05d4c6",
+    "c042a47a9f4f4ff0",
+    "eba8a64c291179a3"
+   ]
+  },
+  {
+   "id": "2026-10-19-9eacafa71a21f895",
+   "date": "2026-10-19",
+   "title": "Anthropic’s weak AI bill undermines its ‘safety first’ approach",
+   "summary": "The leaked draft bill is weaker than the FRONTIER Act and makes Anthropic’s safety-first pitch ring hollow",
+   "url": "https://www.transformernews.ai/p/anthropic-leaked-ai-bill-undermines-safety-first-approach",
+   "source": "Transformer",
+   "tier": "b",
+   "also": [
+    {
+     "source": "Transformer | Substack",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaDJHQ3pVRlNwcjVhd01pSzUyWTNSM2VvbDZMYm9JTGRlbEpuT0VLYmJHQjN5bFJfVDY5b2dBSjloRVZCc3ZkQ2JySXlES3cybGd6OE53VHhtbmlmb1M0R3ctYm4zY3M0MHNUWWt2QkN0TTBRUkFWLU5BQy1GNzZsbUg0YzlrSmoyNGYyQnh3SEt0Q3JZ?oc=5"
+    }
+   ],
+   "coverage": 2,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 2,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-19T13:03:09-07:00",
+   "keys": [
+    "9eacafa71a21f895",
+    "b07f1f0c032e229b",
+    "ccb5fde547e14380",
+    "d27cc02902d4bb8f"
+   ]
+  },
+  {
+   "id": "2026-10-19-b012581fc8e39e5f",
+   "date": "2026-10-19",
+   "title": "Wanted: Tech experts to help Congress regulate AI",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdFc4MzBKQ3g3c0FKOFhoSDl6YWNpTEdsblRzY2RTUkFONnIzbkN6ZlRicUVCdTRvdmZVVjB2SF81a2tsWHc4NXVGR0NPanBPNTNSZWRFcU00bk4wcmlUbk1BWG9ocnQ4VVptcTd0UXh0Tk0zenZlTS1DeTRkMlM4WWJqVmNlVV9PT1E?oc=5",
+   "source": "Politico",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "美国"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-19T13:03:09-07:00",
+   "keys": [
+    "6f56e28da355832d",
+    "b012581fc8e39e5f"
+   ]
+  },
+  {
+   "id": "2026-10-19-cab16dd80bc945f6",
+   "date": "2026-10-19",
+   "title": "五角大楼考虑对人工智能实验室实施出口管制",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5VeVFQV1BJVWxoRVhkLUZSRUd5UnVNbUFkejlZRU52UzI1aDJuanVtS1c5MzgzZ2NfeFhROHhyRjZzLVVEMHVZRWVwcmJIRm85cTVr?oc=5",
+   "source": "第一财经",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-10-19T13:03:09-07:00",
+   "keys": [
+    "cab16dd80bc945f6",
+    "f4e0c5267bd4a5d4"
+   ]
+  },
+  {
+   "id": "2026-10-19-cc83e68dae75de1f",
+   "date": "2026-10-19",
+   "title": "潘功胜：审慎评估人工智能对金融市场、货币政策影响，前瞻性做好政策准备",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9NelFpMWxkek41cTNKRFhsOE0ydkotWXBnZXFRQWl4UG85Y3FISHBGV0NRWWZDeFY1emw2UmQ2VlFMWjNPNzhQbmhiN0gyRnpVWUw4?oc=5",
+   "source": "第一财经",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "政策与标准",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-10-19T13:03:09-07:00",
+   "keys": [
+    "a626f97c28fca69d",
+    "cc83e68dae75de1f"
+   ]
+  },
+  {
+   "id": "2026-10-19-570d2d1975e61bba",
+   "date": "2026-10-19",
+   "title": "关于货币政策框架、人民币汇率、人工智能影响等，潘功胜演讲全文发布",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1NNTRzbHBEWHVocVgyQWt1VHV2LUZtZTF1V3dITlJlV0RHUlktLTZSQUs1bjE2eWZic25QUjVGdVZhOEs4NGVzT2xTekpfVndrZHBDdmJXcTFCSUtMTXdDMg?oc=5",
+   "source": "ThePaper.cn",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "政策与标准",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-10-19T13:03:09-07:00",
+   "keys": [
+    "570d2d1975e61bba",
+    "7accc88492741eb6"
+   ]
+  },
+  {
+   "id": "2026-10-19-364326f541ea79d5",
+   "date": "2026-10-19",
+   "title": "UK risks becoming 'AI customer' rather than creator, advisers warn",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOS2ZURzdyRkdLUHZfaGw1NVp6UDBWMWw0U29RdDUtYUcxcHMwYVJ1QVR3Y2FpVFRJblRwbUVFSzByaXFlTDZPNWlBUjFoUEJTYVU0bWNzV2lLSnMzRGNENTlQendNcHNHUGNZejRrcGFHeWJrMTJaRGFBbEpXYUtjSGtwN2E2QVc1S1NfLThyS2ZyUHhtU3FlQmd1dXZGTy1WenczSlNvWGt3bkdLai1ydTF1LUVDZ28?oc=5",
+   "source": "Reuters",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "欧洲"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-19T13:03:09-07:00",
+   "keys": [
+    "364326f541ea79d5",
+    "730f979e3c8aa866"
+   ]
+  },
+  {
+   "id": "2026-10-19-196e3e4eaccb8c28",
+   "date": "2026-10-19",
+   "title": "AI Chip Startup Tenstorrent Raises Funds at $6.2 Billion Value",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYzZDYVZiSDJlOGllcXY0WmJtb0I1U1R0a0xyOWpibFViaFk2anJnZUxMTk5FdmhWQWVwZGVRWWxhM0VndEg0UGJkRHlqMUFxLTJzR1YxYndCdjFxQXBHcUp2UmN1b2txTl8zcGoyRjhDOXd0VjljblVMcXI5aFBTTXpQNEt5UkFZUlhoMERrNDg2cmI1UTRaaEoyUWRBYkplY05Rak1YYmVlMER3LVJvYy1n?oc=5",
+   "source": "Bloomberg.com",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-19T13:03:09-07:00",
+   "keys": [
+    "196e3e4eaccb8c28",
+    "f5039f23ad1b5bf7"
+   ]
+  },
+  {
+   "id": "2026-10-19-278226599b51472a",
+   "date": "2026-10-19",
+   "title": "Does China really prize AI speed over safety?",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbWkyWlBhV1MzcEhmQzBoVnVDeDBmM0x0NVBGYy1lWDlsOFBHWFJTSVpmTnB1cG1iRVozZ3VmVkN0ZmRyRVd3OVN2ZllSd2Uwd1hGMi1DMjkyY2NsMmJOcWxQVXdLeXkwOFh3QklDbjJoR1RWS1VCcVVfdURnaG9qTE9YdHJPUW5aMzNlc3ZqT1c?oc=5",
+   "source": "The Economist",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "中国"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-19T13:03:09-07:00",
+   "keys": [
+    "278226599b51472a",
+    "831c047e593fb57b"
+   ]
+  },
+  {
+   "id": "2026-10-19-a3de16929bf0cdce",
+   "date": "2026-10-19",
+   "title": "马军：我们该担心的是AI“安全性”还是其他？",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBEZk9DbnlOZ094QUdrcnZteGNxLUpkcXRQamdyNU91aUJ0dWNPcXVuRXRrWHp4Y3JnVmdVWDJHamdoYzdOSDN6d2t0cmlrOHpXQk9oeU1jeUZLUkVjOWExR0R3WFpDeHM?oc=5",
+   "source": "联合早报",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-10-19T13:03:09-07:00",
+   "keys": [
+    "778a99ed30422b36",
+    "a3de16929bf0cdce"
+   ]
+  },
+  {
+   "id": "2026-10-19-0ae39ccbbf62a901",
+   "date": "2026-10-19",
+   "title": "央行如何应对AI浪潮？潘功胜称应前瞻性做好政策考量和准备",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE02NDVnQy02YUp2LXdUMDFBeG9lam95QTBrN2d6M0QzaFpMcFBtTzV1WUZmSHZ0WWxScmd3T1JFbmxtSXl4S1owRnB3VzdudkduQy04RnZ6eF9scm9ha0ltbTl3?oc=5",
+   "source": "财新",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "政策与标准",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-10-19T13:03:09-07:00",
+   "keys": [
+    "0ae39ccbbf62a901",
+    "5b70042e82104d95"
+   ]
+  },
+  {
+   "id": "2026-10-19-a9dc8892314f1ee5",
+   "date": "2026-10-19",
+   "title": "世界银行原高级副行长：AI或加剧收入分化，各国应推动全球政策协调",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5qUm9NR2NWWFRxLS1LYlRvaVh1NXFPMGtKVmVleThlWjhGZTB5blhKcjFkWFVzS0NwOXUyd1g0Zk9vOTFodzdjdjdWNDJNZ1hpRmpWaFNTcmQ5aXlYUVBNQg?oc=5",
+   "source": "ThePaper.cn",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "政策与标准",
+   "regions": [
+    "全球/多边"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-10-19T13:03:09-07:00",
+   "keys": [
+    "12a9ada721436d89",
+    "a9dc8892314f1ee5"
+   ]
+  },
+  {
+   "id": "2026-10-19-725a4f5c36ea76a3",
+   "date": "2026-10-19",
+   "title": "AI赋能高速安全与能效管理 广西机械工业研究院斩获全国交通创新大赛奖项",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1NTEFRRXdfRHdPN2IwZVl0NHRmNjZtaTU2Rm5DTGcydkF6M2JmRHYyNnFaTzU5UUtYblpZYnlodkdkbm9YSF8wZk81RVFLMExsdFkxVDhqRVNDNllUU1p0RU5XSW5ON1d5Smc?oc=5",
+   "source": "人民网",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "安全研究",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-10-19T13:03:09-07:00",
+   "keys": [
+    "725a4f5c36ea76a3",
+    "b91059b8335fbe7b"
+   ]
+  },
+  {
+   "id": "2026-10-19-6785877cd7006f54",
+   "date": "2026-10-19",
+   "title": "Ex-OpenAI worker accused of planting device had Saudi support says court filing",
+   "summary": "The Saudi government did not immediately respond to BBC requests for comment.",
+   "url": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-19T13:03:09-07:00",
+   "keys": [
+    "6785877cd7006f54",
+    "6f3b861f3eac4c69"
+   ]
+  },
+  {
+   "id": "2026-10-19-a69082856ab6d108",
+   "date": "2026-10-19",
+   "title": "The EU AI Act Mandates AI Incident Reporting—If We’re Lucky",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQenVtclc0YUNuT3pwOGdEVjhrc1c2VFFoS1pyV0Nob2VVMmZtSEMtVTFmZU5veEtVWWg4bkwzVDdpNEhlekVVTWFKXzFSSmtkVUU4enE0elBacXRXWTFQdy0xWTc2V3NYUVkwQzktYno1WjFrajlicUdYN0ZJSlZldUZFOHNfbmRYdnA5SnZkdzJsc1NndXVEQTU2Qm8?oc=5",
+   "source": "Lawfare",
+   "tier": "b",
+   "also": [],
+   "coverage": 1,
+   "category": "安全事件",
+   "regions": [
+    "欧洲"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-19T13:03:09-07:00",
+   "keys": [
+    "04b3b47d815808f1",
+    "a69082856ab6d108"
+   ]
+  },
+  {
+   "id": "2026-10-19-b6c6242afc7536ed",
+   "date": "2026-10-19",
+   "title": "Pentagon’s Emil Michael Vows Export Controls if AI Labs Don’t Cooperate With Government",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObmdSSTR2bXpfeXJENFBKOHcwQ2ZlTmk4T29NN0NOejdvSzA5V2J6ckRhZ3VpT2hHb21mZ2txd3lXeGVfX1RWR2xUMnRiOWRXLVJ1ZkxYNDd1UkhrZmlNZFFnOEN6WG9QWHdmcXYwZElmOTRoVk9raDI1ZHVVTDNmb1NFRG11alBTUWVFUFJSVGpYbHlBNXRQUWtKYWF3bzZtSFNHY240UFVqVXlQUnRqWUx3?oc=5",
+   "source": "The Information",
+   "tier": "b",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-19T13:03:09-07:00",
+   "keys": [
+    "5c4b77d72f7017f8",
+    "b6c6242afc7536ed"
+   ]
+  },
+  {
+   "id": "2026-10-19-d149f35556542a0d",
+   "date": "2026-10-19",
+   "title": "Disney Asked Character.AI to Go Bankrupt for a Get-Out-of-Lawsuits Card",
+   "summary": "The entertainment giant hopes to get trust and safety tech, among other IP, from a startup whose chatbots dozens of states allege encouraged minors to self-harm and kill their parents.",
+   "url": "https://www.wired.com/story/disney-asked-characterai-to-go-bankrupt-for-a-get-out-of-lawsuits-card/",
+   "source": "Wired",
+   "tier": "b",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-19T13:03:09-07:00",
+   "keys": [
+    "d149f35556542a0d",
+    "d503ea130a41b879"
+   ]
+  },
+  {
+   "id": "2026-10-19-776c2d78f3bed4b4",
+   "date": "2026-10-19",
+   "title": "Disney found a way to buy Character.AI without buying its lawsuits",
+   "summary": "Character.AI faces claims its bots encouraged minors to self-harm and kill their parents.",
+   "url": "https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits/",
+   "source": "Ars Technica",
+   "tier": "b",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-19T13:03:09-07:00",
+   "keys": [
+    "776c2d78f3bed4b4",
+    "80df1c923eaafe88"
+   ]
+  },
+  {
+   "id": "2026-10-19-e45b65a0656d2f0e",
+   "date": "2026-10-19",
+   "title": "Police Say Scammers Used AI to Clone a Sheriff’s Voice",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbmNIYU5iNGtZVXNVSGdONGdHUFhFWG9MeTJ3OThyNDctOHlmVW5DbGlnYlNQRWptaDhnN0FFMGtvVHJST2w0dEI2SHVvLUkxLTBScGRnblJ3d1NpX3JGWG5zM2d1TFpac1d5cjBTc2p3bG5qamt4NTVYMjdsS3hoUWktSEY?oc=5",
+   "source": "404 Media",
+   "tier": "b",
+   "also": [],
+   "coverage": 1,
+   "category": "政策与标准",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-19T13:03:09-07:00",
+   "keys": [
+    "71be74dbdf318aad",
+    "e45b65a0656d2f0e"
+   ]
+  },
+  {
+   "id": "2026-10-19-ac99afb9058c3b1f",
+   "date": "2026-10-19",
+   "title": "Thought for the week: Preparing for AI incidents",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5WRU5RR1lNSGN5MTdoUXZLMkpvaHVFWTRiX3c3TnMzWnhLZG9SLUZTSEtHX3ptVnhZNlR4ejJIRVYzaDAxMXhtVUpDX0hvUzFaS05CZ0NHa3pXM2RUWTJxVzRZeTJyVTNMSVExWmszOUtCQVZlYXlLTmFlNA?oc=5",
+   "source": "IAPP",
+   "tier": "b",
+   "also": [],
+   "coverage": 1,
+   "category": "安全事件",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-19T13:03:09-07:00",
+   "keys": [
+    "974da2ad23329492",
+    "ac99afb9058c3b1f"
+   ]
+  },
+  {
+   "id": "2026-10-19-1a723bce4cf95568",
+   "date": "2026-10-19",
+   "title": "The EU AI Act and UK AI regulation: A product law perspective",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTFhWWC1JYjV2eElqSFRFSWNqXzJ4ZFR2R0xpUVVNLU0yUXJqQVpKQ19Xb3FLRC1KQ1A2WjhsRDFnQTY5czB1MmFlbGhSZmFjNTRrWjlZVGtfZXd1TC1OclYxenpoVHN4U2tTejE5M2xsakluTF9zZXQxZV9zNi0zZGQwTVAxemRSVmhHeHZiTEFDbzNZazJjeFV6RlM?oc=5",
+   "source": "Hogan Lovells Cadwalader",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "欧洲"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-19T13:03:09-07:00",
+   "keys": [
+    "1a723bce4cf95568",
+    "dc8f4e38a732bda7"
+   ]
+  },
+  {
+   "id": "2026-10-18-8029fdc16ecac99c",
+   "date": "2026-10-18",
+   "title": "吉大正元：公司在AI安全和抗量子产品方面储备了相关技术，但相关收入占比较低",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0tVDNFb1l6Y0Vkdk40MDdjWUw5d3RXeXRyWGFYU1NXLVdVUW5LQlR2SjBZeGl4RWZ4Rm5wVnFBNWpZZkJFNjNiMTZTQU4tN2FJaTN2V0Jn?oc=5",
+   "source": "Jiemian.com",
+   "tier": "a",
+   "also": [
+    {
+     "source": "第一财经",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5Ra1ZfdE1hMXZVb280eVNHNmlrdmFuX25kakxuYWMzWkM0T3BHT3NwbUVZOURLM1VDWURxb0pFazFNV1dkOGdVSlhNSEN4Z1U1SUlkeQ?oc=5"
+    }
+   ],
+   "coverage": 2,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 2,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-10-19T13:03:09-07:00",
+   "keys": [
+    "1af129fbac65bb76",
+    "1e52868be0799d52",
+    "8029fdc16ecac99c",
+    "98cb0753f45b969b"
+   ]
+  },
+  {
+   "id": "2026-10-18-616db188f87189ab",
+   "date": "2026-10-18",
+   "title": "China considers export controls on AI, chips",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBVNjVEeGFwdmtNQzc2aDljc0tuY1JVR3Jhc3JPby1ReGRWaXhJMVF5M1dJTERzVXdIZmN2ZTZwOE1LX0RCaElEcm1GNTU1Vk5SY1p5dmJRSmVoSnU5ZUdQV2Y3UkRLYmNNcmJlVTM5NmR4R0hueHctRXl3?oc=5",
+   "source": "Semafor",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "中国"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-19T13:03:09-07:00",
+   "keys": [
+    "616db188f87189ab",
+    "9fd0e3d44fade118"
+   ]
+  },
+  {
+   "id": "2026-10-18-1f17a94823c9584d",
+   "date": "2026-10-18",
+   "title": "Cyberattack on French supermarkets tells us more about food security than AI safety",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMHZHaTJEYTVaZHl5RmhSZWlLWDFhcVpkUFJwOEtBNF9qSzdfZm9lWEIta3dXaDN1anBuUF9UM2tpenRoVE1ReGJWV0dfZ0hNa3d4UV95NDNrN0VNVmJUUktueFB5bm56WmlHMDkzc3lfc1dVS2F2TEJFZVVHTlNsb0o4dXQyUDdfdEhMdXlpZGpPZw?oc=5",
+   "source": "POLITICO.eu",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-19T13:03:09-07:00",
+   "keys": [
+    "1f17a94823c9584d",
+    "b0482508f7663d26"
+   ]
+  },
+  {
+   "id": "2026-10-18-b56ac964d949c65a",
+   "date": "2026-10-18",
+   "title": "\"I'll put everything into this.\" Bill Gross turns his life's work into an AI machine.",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNR3ppdmtzWk16bjVUWFNJdF8wS2RLYlo5YjdFTUdESE1NbXdXc0RSVE1XdWdsOUk2Z184em9WR1c1R1dMbWk2cjdWMG5HV0JTM2QtNG5WSnIwX29zYVVqaHFtRUNwTkRma194aU5LSjRqb1N0eVdyM0lxZGJZZlBZUU5R?oc=5",
+   "source": "Axios",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-19T13:03:09-07:00",
+   "keys": [
+    "53858583f723e714",
+    "b56ac964d949c65a"
+   ]
+  },
+  {
+   "id": "2026-10-18-d1eeccbaf79f5dfd",
+   "date": "2026-10-18",
+   "title": "政策红利接连释放，AI人工智能ETF平安(512930)交投活跃",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9DOVhSbGt0YWpDSUVhc0FVT29FZ1ZyNXFuWUtvRjZRZHU5cWVzS0Vvd2JGNGtmYXZ1WFJ2YUlTc1ZOYnQxc2RMUFVUSnRaQ2w4M2ZELXBB?oc=5",
+   "source": "Jiemian.com",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "政策与标准",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-10-19T13:03:09-07:00",
+   "keys": [
+    "2b8f2a355565fb89",
+    "d1eeccbaf79f5dfd"
+   ]
+  },
+  {
+   "id": "2026-10-18-7d85a04234c00880",
+   "date": "2026-10-18",
+   "title": "众声｜吴越怒斥AI换脸带货，平台治理不能坐等受害者站出来",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAzbENrNVRTbXF0Q2xoUUgxZG1ubXZqTTVFb2RMNWZpUi1WN1duS1NrUVJGcUdyaFdGUy1MUDg0cTB2Wk9rRnJGckJTYW5KMHgxV3lQZzdqZzkyaVB3SHBVXw?oc=5",
+   "source": "ThePaper.cn",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-10-19T13:03:09-07:00",
+   "keys": [
+    "7d85a04234c00880",
+    "de4e0369a5347313"
+   ]
+  },
+  {
+   "id": "2026-10-18-ad11aabb30d8bd94",
+   "date": "2026-10-18",
+   "title": "强调以落地应用牵引技术创新，南方基金司南投顾关注人工智能产业政策的推进节奏| 界面新闻",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1SMHU2WnFTZjM1elg1dWJiUEY5SXZtLXBNNWJGM2IxeDBJNnRDeFJkem54UUhqMU15NkgxeEUtanZWRFlqXzdxNjhlVkJOLVNJVWREbXVzaWQ?oc=5",
+   "source": "Jiemian.com",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "政策与标准",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-10-19T13:03:09-07:00",
+   "keys": [
+    "0b9c95ee605019e9",
+    "ad11aabb30d8bd94"
+   ]
+  },
+  {
+   "id": "2026-10-18-d3c400d5c2f6e953",
+   "date": "2026-10-18",
+   "title": "黄益平对话罗伯特·鲁宾：AI将加剧供需失衡，政策应未雨绸缪",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE56MEk2aEgxVzJHcXhNMW9oSDRpanZZXzI2U2w2anVjRnRhYl82c21Wa1JubU96Q2Q2NENUdmJ5dXNNT3lhSjZaeHFHcWw1bWc1WlZz?oc=5",
+   "source": "第一财经",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "政策与标准",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-10-19T13:03:09-07:00",
+   "keys": [
+    "9345c0e61642e8e2",
+    "d3c400d5c2f6e953"
+   ]
+  },
+  {
+   "id": "2026-10-18-4e24792b8f8cefb9",
+   "date": "2026-10-18",
+   "title": "“人工智能+文旅”试点落地 政策红利开启场景化赛道",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBzMHFzeHNFSWZNbjF2ZjVobC1jaGZjb21XdFVrNHlhZXB0Q2o2bkVDNEpIRE5WVFFJb200M29JZGJrWnNyTkdHdzExRmVybG42X1RXWFJvU2pSTHhyNjVQTjVxSjBnMHJycmtBWVZic2liU2VoblJYakJ3?oc=5",
+   "source": "新华网",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "政策与标准",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-10-19T13:03:09-07:00",
+   "keys": [
+    "32075e23f7d37db2",
+    "4e24792b8f8cefb9"
+   ]
+  },
+  {
+   "id": "2026-10-18-06c1beb54408a4e3",
+   "date": "2026-10-18",
+   "title": "2027年AI趋势转向结果：企业价值鸿沟与Agent治理成核心议题",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB4bUZINFBxZmpzSU5OM3VmcURmQldaemVCRUpxcmVrWTY5YVVVejR2ZUlLMVgxbFRYZU9GREpJTUJYNEpMQ2Z3NnZaeWotZWs1WkdhZg?oc=5",
+   "source": "虎嗅网",
+   "tier": "b",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-10-19T13:03:09-07:00",
+   "keys": [
+    "06c1beb54408a4e3",
+    "44c5fb0999e7a7de"
+   ]
+  },
+  {
+   "id": "2026-10-18-946fe4661d3d9905",
+   "date": "2026-10-18",
+   "title": "Anthropic gives outside AI watchdog “employee-like” access",
+   "summary": "The outside watchdog can publish its findings without Anthropic's approval.",
+   "url": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/",
+   "source": "Ars Technica",
+   "tier": "b",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-19T13:03:09-07:00",
+   "keys": [
+    "946fe4661d3d9905",
+    "df122b63a73c3ff5"
+   ]
+  },
+  {
+   "id": "2026-10-18-d7c3b8b4411f25b6",
+   "date": "2026-10-18",
+   "title": "AI智能体失控偷爬高德数据，腾讯有义务上报监管吗？",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1GY09rbEJMNWlzNlhrby1DOHFiQkhxR0paSEMyVThKeTJFV1Fhc1duaGFaRWtJNVdyZE12T0dwdDREczRXTFc1dDFNajJ1V0s0RVFIZTVaQUczS3pSbW1mVw?oc=5",
+   "source": "搜狐网",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "安全事件",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-10-19T13:03:09-07:00",
+   "keys": [
+    "038d0f54b39d9b21",
+    "d7c3b8b4411f25b6"
+   ]
+  },
   {
    "id": "2026-10-18-381d161c7d7d5769",
    "date": "2026-10-18",
@@ -21,7 +824,8 @@
    "keys": [
     "381d161c7d7d5769",
     "a1a5f5787b5bb1e9"
-   ]
+   ],
+   "tier": ""
   },
   {
    "id": "2026-10-18-a4203b275ceec67a",
@@ -43,29 +847,8 @@
    "keys": [
     "176526cd89c3e215",
     "a4203b275ceec67a"
-   ]
-  },
-  {
-   "id": "2026-10-18-bc6e0133ae9e4d3b",
-   "date": "2026-10-18",
-   "title": "AI Governance: From Ethical Principles to Evidence-Based Practice",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONkl2b056OEdsanBMcmhDY1ZyV1NyS1dleEVrbGxSTmtLNC1ydGRoUEpjRlpXeEhQa1h0b3dmM183SUZWcVM0YzVZbnk3TjlySk1iYWJIRDRCTWhWVHdDWDdOWjZjNHFrTENLdEMyNjZZSXdIVlAtNXU3NGF0NnFiNE9aWDJ3TzFiV1ByUw?oc=5",
-   "source": "Vietnam.vn",
-   "also": [],
-   "coverage": 1,
-   "category": "行业动态",
-   "regions": [
-    "其他"
    ],
-   "importance": 1,
-   "lang": "en",
-   "addedBy": "auto",
-   "createdAt": "2026-10-18T13:59:48-07:00",
-   "keys": [
-    "bc6e0133ae9e4d3b",
-    "eac51c3f96860bd7"
-   ]
+   "tier": ""
   },
   {
    "id": "2026-10-18-93beb7f5be8a68d7",
@@ -87,7 +870,8 @@
    "keys": [
     "878c196bac9a1b86",
     "93beb7f5be8a68d7"
-   ]
+   ],
+   "tier": ""
   },
   {
    "id": "2026-10-18-abc69d4ad196977c",
@@ -109,7 +893,8 @@
    "keys": [
     "a9fe696c7c4a2cdb",
     "abc69d4ad196977c"
-   ]
+   ],
+   "tier": ""
   },
   {
    "id": "2026-10-18-731416472623c970",
@@ -131,7 +916,8 @@
    "keys": [
     "731416472623c970",
     "ab49ed29facfe805"
-   ]
+   ],
+   "tier": ""
   },
   {
    "id": "2026-10-18-6a7fc5bc72cffd2c",
@@ -153,29 +939,8 @@
    "keys": [
     "6a7fc5bc72cffd2c",
     "be495ec20e5f4253"
-   ]
-  },
-  {
-   "id": "2026-10-18-4d0232f1cd950c1e",
-   "date": "2026-10-18",
-   "title": "Anthropic Proposed AI Safety Bill to US Congress with Restrictions on Government",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPclU1M0NBSFd6bVdaeU1YSE1uTWpkR3lQRUhRRmgyRV9mN01IVGZzZHZ4Ny1QZU9waGJ4WXNDcHBNU2NaVUlhOVVGMjh1b3dZVDYtSXhFY3N4MnJabDFvdF93YVhhbm9IRUpRdWF0TV9QNkZQdzBmc1RTdFpxLW1SUklDdDVjc1FqcUIwemkxYzl0VTlVR2xDUmxxUFBBU0gyendXV3RkT0xzZw?oc=5",
-   "source": "Incrypted",
-   "also": [],
-   "coverage": 1,
-   "category": "立法与监管",
-   "regions": [
-    "美国"
    ],
-   "importance": 1,
-   "lang": "en",
-   "addedBy": "auto",
-   "createdAt": "2026-10-18T10:25:48-07:00",
-   "keys": [
-    "4d0232f1cd950c1e",
-    "4f9806c335f17856"
-   ]
+   "tier": ""
   },
   {
    "id": "2026-10-18-ae34d90630b8c8d9",
@@ -197,7 +962,8 @@
    "keys": [
     "2c364aa9af621f89",
     "ae34d90630b8c8d9"
-   ]
+   ],
+   "tier": ""
   },
   {
    "id": "2026-10-18-4eee56d4a9a6690a",
@@ -219,7 +985,8 @@
    "keys": [
     "4eee56d4a9a6690a",
     "c7812db9f9dd7d34"
-   ]
+   ],
+   "tier": ""
   },
   {
    "id": "2026-10-17-3ab7c0385cf4f290",
@@ -241,7 +1008,8 @@
    "keys": [
     "3ab7c0385cf4f290",
     "7bb6ef86ef14e6f0"
-   ]
+   ],
+   "tier": "b"
   },
   {
    "id": "2026-10-17-0197168993d69e4d",
@@ -263,7 +1031,8 @@
    "keys": [
     "0197168993d69e4d",
     "f0b763a0c9f28284"
-   ]
+   ],
+   "tier": ""
   },
   {
    "id": "2026-10-17-eef4db6ca6e88c95",
@@ -285,7 +1054,8 @@
    "keys": [
     "eef4db6ca6e88c95",
     "f45b0d81f786aa69"
-   ]
+   ],
+   "tier": ""
   },
   {
    "id": "2026-10-17-fcae9cf39ee61e43",
@@ -307,29 +1077,8 @@
    "keys": [
     "453e273278718ace",
     "fcae9cf39ee61e43"
-   ]
-  },
-  {
-   "id": "2026-10-17-9a7061cd1ef6a67a",
-   "date": "2026-10-17",
-   "title": "Nigeria's economic progress, AI regulation, and security ahead of elections | News - Economy",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPN2ZoRzJlaWNTZHhRQWd3Q0trQ0QxdjhvS0R3TlJsQ2pBUUR0b19pakxsSXNOSHREZl9rWnFIS1ZTOWlzMlYzUGV4UzY0OFJzdVY1WTNNd3h3STktRUFENERPUmQ1RXhzTW9MQzRwaXBRMkFMWWh4M05oVXFXWVlZRmNmYlN0dmZsVVNOSjlJejFXUDdYelBXOFh3?oc=5",
-   "source": "Head Topics",
-   "also": [],
-   "coverage": 1,
-   "category": "立法与监管",
-   "regions": [
-    "其他"
    ],
-   "importance": 1,
-   "lang": "en",
-   "addedBy": "auto",
-   "createdAt": "2026-10-18T10:25:48-07:00",
-   "keys": [
-    "951becefd86206a5",
-    "9a7061cd1ef6a67a"
-   ]
+   "tier": ""
   },
   {
    "id": "2026-10-17-51dfed8c67e12bd5",
@@ -351,7 +1100,8 @@
    "keys": [
     "51dfed8c67e12bd5",
     "a685239cb346cb5d"
-   ]
+   ],
+   "tier": ""
   },
   {
    "id": "2026-10-17-ebff5dbd9f0af744",
@@ -373,51 +1123,8 @@
    "keys": [
     "ebff5dbd9f0af744",
     "f5f39bdf1de4023b"
-   ]
-  },
-  {
-   "id": "2026-10-17-564924008c8de832",
-   "date": "2026-10-17",
-   "title": "Anthropic Proposes 'AI Safety Act' to Congress Amid Government Sanctions",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBzUThFY1ZISU9MU0ZmYjNTdGRYZXhnQ0EyQ3Q4N2RoajhNdk9JZ2pVZUlCQ2RGMUhPdm1jdzJIZFh0UnNFbkt3T3VsemFVci0xSGo5Qjh0NTN2YWFLVC03eVgtc0o1UWRhZGNLdEYxZERnSl9jUkE?oc=5",
-   "source": "BigGo Finance",
-   "also": [],
-   "coverage": 1,
-   "category": "行业动态",
-   "regions": [
-    "美国"
    ],
-   "importance": 1,
-   "lang": "en",
-   "addedBy": "auto",
-   "createdAt": "2026-10-18T10:25:48-07:00",
-   "keys": [
-    "2102cea2b900e408",
-    "564924008c8de832"
-   ]
-  },
-  {
-   "id": "2026-10-17-2f3d8d4d100aa5fb",
-   "date": "2026-10-17",
-   "title": "Anthropic floats bill to let U.S. block risky AI models",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdWpkUkNDSkZPXzBRSnkxTndzaHRnZUdpVDBpby1oOTZ0U25sQVJkTkZ2bzVRcTh1eXZuZFBRWEotSG83QzkxajRhTV9yZXYzVzdmd282dEpUTU9yTE9qU3VJYS0wbHRqSEg4N2Y2ZGMwN0JVU1lYb0hHUTFaakVRRFNuSVNWQ1d6T2pPa3dGM28xUQ?oc=5",
-   "source": "Briefs Finance",
-   "also": [],
-   "coverage": 1,
-   "category": "立法与监管",
-   "regions": [
-    "美国"
-   ],
-   "importance": 1,
-   "lang": "en",
-   "addedBy": "auto",
-   "createdAt": "2026-10-18T10:25:48-07:00",
-   "keys": [
-    "2f3d8d4d100aa5fb",
-    "8a8ba68e149cad55"
-   ]
+   "tier": ""
   },
   {
    "id": "2026-10-17-5d45c1ed844961da",
@@ -439,7 +1146,8 @@
    "keys": [
     "5d45c1ed844961da",
     "67a51eaff69c11d1"
-   ]
+   ],
+   "tier": ""
   },
   {
    "id": "2026-10-17-a2be35fd11da728f",
@@ -461,7 +1169,8 @@
    "keys": [
     "a2be35fd11da728f",
     "e492e04343ed5fa2"
-   ]
+   ],
+   "tier": ""
   },
   {
    "id": "2026-10-17-5c9d5c694a0d886c",
@@ -483,29 +1192,8 @@
    "keys": [
     "21f3db930ddaa54e",
     "5c9d5c694a0d886c"
-   ]
-  },
-  {
-   "id": "2026-10-17-61c37f3e68b30c3b",
-   "date": "2026-10-17",
-   "title": "Nvidia’s Huang Shuns Need For AI Safety Regulations, In Contrast To Anthropic CEO Amodei’s View At Dreamforce Conference",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOS1pGZnJZN09ldFdfYncydnpmNzdBME9ISnVsbWx3QkZHWWVoSVFFbmhBcGtwWEREX3F6cXlKRjhBd3o3UV9LUzJGS1d0TkxiTnNDcGtrZzA1WlVlNHdta0c2aDNubXgwbS1TNWZVblR2VFBYRTRmVFpVTEtGN3FySjhDeW9NYXNHaUJlTldmLWtOYzFGeEllam9Sa3g0dVJmSXlKSVFQdlA3TWpkU19Oa2s1WDJnNmFjN3RNaWU2aXJnR3h0am4wa1NldUtzT2Y3cm85QlZFWQ?oc=5",
-   "source": "Stocktwits",
-   "also": [],
-   "coverage": 1,
-   "category": "立法与监管",
-   "regions": [
-    "其他"
    ],
-   "importance": 1,
-   "lang": "en",
-   "addedBy": "auto",
-   "createdAt": "2026-10-17T10:16:56-07:00",
-   "keys": [
-    "61c37f3e68b30c3b",
-    "fd28bfd125acfef8"
-   ]
+   "tier": ""
   },
   {
    "id": "2026-10-17-3e94eafb26c776ef",
@@ -527,7 +1215,8 @@
    "keys": [
     "3e94eafb26c776ef",
     "c3fa18fab1c1f76a"
-   ]
+   ],
+   "tier": "a"
   },
   {
    "id": "2026-10-17-9bf89bec5d4da5a1",
@@ -549,7 +1238,8 @@
    "keys": [
     "00d453d79620d302",
     "9bf89bec5d4da5a1"
-   ]
+   ],
+   "tier": "a"
   },
   {
    "id": "2026-10-17-5514519789f3b10b",
@@ -571,7 +1261,8 @@
    "keys": [
     "5514519789f3b10b",
     "b72c0ee9bfc069bd"
-   ]
+   ],
+   "tier": "a"
   },
   {
    "id": "2026-10-17-538ce9e5341cf54e",
@@ -593,7 +1284,8 @@
    "keys": [
     "1114ba920bdb7f08",
     "538ce9e5341cf54e"
-   ]
+   ],
+   "tier": ""
   },
   {
    "id": "2026-10-16-d392258cc1bf6ef2",
@@ -646,7 +1338,8 @@
     "b2d55035c6fababe",
     "d392258cc1bf6ef2",
     "d6d41f8f52b068f5"
-   ]
+   ],
+   "tier": "a"
   },
   {
    "id": "2026-10-16-3e8f24640b9d0cd2",
@@ -668,7 +1361,8 @@
    "keys": [
     "3e8f24640b9d0cd2",
     "cf011fffe1a93950"
-   ]
+   ],
+   "tier": ""
   },
   {
    "id": "2026-10-16-1259091880d92541",
@@ -690,7 +1384,8 @@
    "keys": [
     "1259091880d92541",
     "d37494b8b9e085ba"
-   ]
+   ],
+   "tier": "b"
   },
   {
    "id": "2026-10-16-5161dad78ed56dca",
@@ -719,7 +1414,8 @@
     "6a89a7e764f4ca89",
     "8dd4a3d15c3af4ac",
     "d3e1f91c0be5f9b1"
-   ]
+   ],
+   "tier": ""
   },
   {
    "id": "2026-10-16-a6f4b0bb39b62c46",
@@ -741,29 +1437,30 @@
    "keys": [
     "a6f4b0bb39b62c46",
     "d896ed2c2c656f50"
-   ]
+   ],
+   "tier": ""
   },
   {
-   "id": "2026-10-16-4f5f35d3ab837f64",
+   "id": "2026-10-16-37665de2bddef566",
    "date": "2026-10-16",
-   "title": "特朗普政府联手硅谷大佬：支持监管松绑，让AI带飞全球经济-市场参考",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE02c1ZPNGxkMFE4ZTJXTmZ4NW5rV3RHQXhRUTl6eXZyMGl2TzZKcHFjcmRGRlBpWXJ4MGp4cV9YbHR0Y1NUOGw0bDFxVTZLX28?oc=5",
-   "source": "金十数据",
+   "title": "OwlSight: A Panoramic Monitor for Chain-of-Thought Reasoning",
+   "summary": "Chain-of-Thought (CoT) monitoring offers actionable evidence for oversight AI systems, with the potential to enable early detection and intervention.",
+   "url": "https://arxiv.org/abs/2610.23670v1",
+   "source": "arXiv",
+   "tier": "b",
    "also": [],
    "coverage": 1,
-   "category": "立法与监管",
+   "category": "安全研究",
    "regions": [
-    "美国",
-    "全球/多边"
+    "其他"
    ],
    "importance": 1,
-   "lang": "zh",
+   "lang": "en",
    "addedBy": "auto",
-   "createdAt": "2026-10-18T10:25:48-07:00",
+   "createdAt": "2026-10-19T13:03:09-07:00",
    "keys": [
-    "4f5f35d3ab837f64",
-    "8ace3f264b2f34d4"
+    "37665de2bddef566",
+    "6c3e9f38c41ad5c5"
    ]
   },
   {
@@ -786,7 +1483,8 @@
    "keys": [
     "b67feaea42ecc83a",
     "f4189103c81cead1"
-   ]
+   ],
+   "tier": "a"
   },
   {
    "id": "2026-10-16-2cfda6ffec0c3d39",
@@ -808,7 +1506,8 @@
    "keys": [
     "2cfda6ffec0c3d39",
     "fd47ce29a7d43423"
-   ]
+   ],
+   "tier": ""
   },
   {
    "id": "2026-10-16-ceb582e43aacba40",
@@ -837,7 +1536,8 @@
     "80a9ee1e0e4a4367",
     "b194c16127aa1485",
     "ceb582e43aacba40"
-   ]
+   ],
+   "tier": ""
   },
   {
    "id": "2026-10-16-d7322d8e9fd44b51",
@@ -866,51 +1566,8 @@
     "9e73d85505d3fa50",
     "ad3f73599915824e",
     "d7322d8e9fd44b51"
-   ]
-  },
-  {
-   "id": "2026-10-16-1f6572b8f3c37cc2",
-   "date": "2026-10-16",
-   "title": "Anthropic secretly lobbies Congress to advance legislation on frontier AI regulation",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYkVFdXBMYS1HbllodjNYNHdJQTE0cDVIQU01YjgtOWh3NVRVN01xOGVjTVdtMUI1SXBKa0Y1SDBLVjZpQTZKdXVfTjFVUG8zNHZxZHlSMWVVeFI1UU9Cd3BrODdqdnBfTVVEZkdOQmp3SXFoYTFtTmhLck85U2RuTzdCYzA4TW1uUWRhUkhWbG5oWkJlYVVjck02bWZFeUhsUHMxVk1zN0hfNFNrOVdfQktwWFhCWVk?oc=5",
-   "source": "富途牛牛",
-   "also": [],
-   "coverage": 1,
-   "category": "立法与监管",
-   "regions": [
-    "美国"
    ],
-   "importance": 1,
-   "lang": "en",
-   "addedBy": "auto",
-   "createdAt": "2026-10-17T10:16:56-07:00",
-   "keys": [
-    "1f6572b8f3c37cc2",
-    "2ef268b434ccb0d3"
-   ]
-  },
-  {
-   "id": "2026-10-16-1b358fd7361d8fb2",
-   "date": "2026-10-16",
-   "title": "Anthropic向美国立法者提交AI安全法案，设定严格干预门槛 提供者 Investing.com",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ZR01ldnRrVHZnM19pWHo5dHVBb3JxX05ZcVQ2TnRtWGg1d1JzS2o5VkFvbmpXWDh0azZEa3BHT1FVMl9yeTl3VTJ2SklfYjR0M05wTE45R0tSVFNIR3hJZjYtdE5ReDhUZmc?oc=5",
-   "source": "英为财情 Investing.com",
-   "also": [],
-   "coverage": 1,
-   "category": "立法与监管",
-   "regions": [
-    "美国"
-   ],
-   "importance": 1,
-   "lang": "zh",
-   "addedBy": "auto",
-   "createdAt": "2026-10-17T10:16:56-07:00",
-   "keys": [
-    "1b358fd7361d8fb2",
-    "e4eef7b653af612f"
-   ]
+   "tier": ""
   },
   {
    "id": "2026-10-16-95af6c41568de835",
@@ -932,7 +1589,8 @@
    "keys": [
     "95af6c41568de835",
     "a1f65351e0dfb163"
-   ]
+   ],
+   "tier": ""
   },
   {
    "id": "2026-10-16-6d3afc29eab2feea",
@@ -954,7 +1612,8 @@
    "keys": [
     "4149005db2d2a690",
     "6d3afc29eab2feea"
-   ]
+   ],
+   "tier": ""
   },
   {
    "id": "2026-10-16-5132c20831d4ea8a",
@@ -976,29 +1635,8 @@
    "keys": [
     "5132c20831d4ea8a",
     "553c8831f9c90b56"
-   ]
-  },
-  {
-   "id": "2026-10-16-a6c37691d5bf589d",
-   "date": "2026-10-16",
-   "title": "AI公司主动寻求监管！Anthropic向美国政府提交AI监管法案草案拟设“杀伤红线” 提供者智通财经",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4zSTQ4eWNkQ3I5ZGY2Y2o3b0kzV1FrWUFkVTZKWVZsRk40NldaZUFRdHVJM0RueDdmUGNwRUtHWGt0TWUyY1FzOHU3VVh2cm1veVRfLW1ZQ2pQNUpyaS1wMUpRbVJ0N0xYWXQySEdQSlM?oc=5",
-   "source": "英为财情 Investing.com",
-   "also": [],
-   "coverage": 1,
-   "category": "立法与监管",
-   "regions": [
-    "美国"
    ],
-   "importance": 1,
-   "lang": "zh",
-   "addedBy": "auto",
-   "createdAt": "2026-10-17T10:16:56-07:00",
-   "keys": [
-    "6a579e9ab7853b91",
-    "a6c37691d5bf589d"
-   ]
+   "tier": ""
   },
   {
    "id": "2026-10-16-2d8471a76d3f7417",
@@ -1020,7 +1658,8 @@
    "keys": [
     "2d8471a76d3f7417",
     "fce1f0a1006347af"
-   ]
+   ],
+   "tier": ""
   },
   {
    "id": "2026-10-16-f6c687296def37c3",
@@ -1042,7 +1681,8 @@
    "keys": [
     "16cbe378ecb87bd5",
     "f6c687296def37c3"
-   ]
+   ],
+   "tier": ""
   },
   {
    "id": "2026-10-16-cf56652843348f51",
@@ -1064,7 +1704,8 @@
    "keys": [
     "ab0e5649cb18c84b",
     "cf56652843348f51"
-   ]
+   ],
+   "tier": "a"
   },
   {
    "id": "2026-10-16-552ed613ba1fb2ab",
@@ -1086,29 +1727,8 @@
    "keys": [
     "278f7416fc46e4ee",
     "552ed613ba1fb2ab"
-   ]
-  },
-  {
-   "id": "2026-10-16-5112e0589c165d7f",
-   "date": "2026-10-16",
-   "title": "CERT-In flags AI agent cyber risks: Govt urges companies to tighten security, eyes AI regulation",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQamNzbER5T05YUV83a1RDeTF6a3Y2T21JLTFVSXd4Q3NGQk9rOS1ORzE0akdZWjIyaldNN1EyMkRWYlFnRjVRWE1CNUdYaHhYRE8yOWdpNXo3UHd3dTVFVXU1UzF4RTZFeFVScXZLTFBMN0s3WkE2YjVFMVNPRXRhYkZoaUxxRzJqMTVjVWdOdkEwSnkzazJrZmMwMEE2TXBFaXJ2YzN3VTBmekFnRzFmVm5SSDdXZm1SZmVTUWpxamNfYlhNR1JRZzhXZG16a0NqYUN5eUZoT3F5bzFCaGxTUm5vcGRSS0szQVl2edIB8gFBVV95cUxPVWZta3dIOVhXY28wQTBIZFNGMmh3Q1pJS0ZkT3NVaU44bFkwSjBzblc3UEZRM0N0aHJvTVpYbHB5RDliS2d1Z3FnS3pmY29oU3oyTkJCdkJOb21FdW45QUtyZjd6U1VyV19jdWJGWlVRTWttc2liQzdBa1JCY19JelYwWk5FZDlZY3BGRDZubGtWVnN6c2lYMnVYTEI1VmJ6QjljYWc0RnVEZkUzNF9CR1lmQ3E2dHNZNl9WblYxd2gzWFNHRG5UZnBjTXVRSlNxc2VwOFpjRmJhOUNUQ1NsdVYyaXRYNWlYZHcybWN2WWp0dw?oc=5",
-   "source": "Moneycontrol.com",
-   "also": [],
-   "coverage": 1,
-   "category": "立法与监管",
-   "regions": [
-    "其他"
    ],
-   "importance": 1,
-   "lang": "en",
-   "addedBy": "auto",
-   "createdAt": "2026-10-17T10:16:56-07:00",
-   "keys": [
-    "1f8b2388b0ec169b",
-    "5112e0589c165d7f"
-   ]
+   "tier": ""
   },
   {
    "id": "2026-10-16-135962d9d2a56a3c",
@@ -1130,7 +1750,8 @@
    "keys": [
     "135962d9d2a56a3c",
     "71f6c3383bb577c5"
-   ]
+   ],
+   "tier": ""
   },
   {
    "id": "2026-10-16-d4bc2ff36164021c",
@@ -1152,7 +1773,8 @@
    "keys": [
     "bb6657c8a9612d38",
     "d4bc2ff36164021c"
-   ]
+   ],
+   "tier": ""
   },
   {
    "id": "2026-10-16-94b17ed77bdc40c5",
@@ -1174,7 +1796,8 @@
    "keys": [
     "94b17ed77bdc40c5",
     "b61306295c887f03"
-   ]
+   ],
+   "tier": ""
   },
   {
    "id": "2026-10-16-f2c7fd200ff1d200",
@@ -1196,7 +1819,8 @@
    "keys": [
     "62648643eb5a246a",
     "f2c7fd200ff1d200"
-   ]
+   ],
+   "tier": ""
   },
   {
    "id": "2026-10-16-1464758153f57d7a",
@@ -1218,7 +1842,8 @@
    "keys": [
     "1464758153f57d7a",
     "d8bdf30ff6c0e04b"
-   ]
+   ],
+   "tier": ""
   },
   {
    "id": "2026-10-16-4a4669da1e21d397",
@@ -1240,7 +1865,8 @@
    "keys": [
     "4a4669da1e21d397",
     "cf56058895c63121"
-   ]
+   ],
+   "tier": ""
   },
   {
    "id": "2026-10-16-f4db34f38a6e938a",
@@ -1262,7 +1888,8 @@
    "keys": [
     "cd4acb9f816d887e",
     "f4db34f38a6e938a"
-   ]
+   ],
+   "tier": ""
   },
   {
    "id": "2026-10-16-8e4782517c9f7ebc",
@@ -1284,7 +1911,8 @@
    "keys": [
     "8e4782517c9f7ebc",
     "dea654e0ca90b529"
-   ]
+   ],
+   "tier": ""
   },
   {
    "id": "2026-10-16-4ddad12fccac3e1c",
@@ -1306,7 +1934,8 @@
    "keys": [
     "4ddad12fccac3e1c",
     "c36584e23d151ad2"
-   ]
+   ],
+   "tier": ""
   },
   {
    "id": "2026-10-16-8dd7138d8bc39911",
@@ -1328,7 +1957,8 @@
    "keys": [
     "8dd7138d8bc39911",
     "f1658a4a1e73176b"
-   ]
+   ],
+   "tier": ""
   },
   {
    "id": "2026-10-16-8276ace444d42436",
@@ -1350,7 +1980,8 @@
    "keys": [
     "0c09e042f732a98c",
     "8276ace444d42436"
-   ]
+   ],
+   "tier": ""
   },
   {
    "id": "2026-10-16-a5fbf061c9dc1bf4",
@@ -1379,7 +2010,8 @@
     "39e2eeeed4b319f6",
     "999ae8ff9dbb608d",
     "a5fbf061c9dc1bf4"
-   ]
+   ],
+   "tier": ""
   },
   {
    "id": "2026-10-16-c1476c229683ea64",
@@ -1401,7 +2033,8 @@
    "keys": [
     "c1476c229683ea64",
     "e38f63589e8f9945"
-   ]
+   ],
+   "tier": ""
   },
   {
    "id": "2026-10-16-666b2e1d015edec6",
@@ -1423,7 +2056,8 @@
    "keys": [
     "444ee5ae46be4e3e",
     "666b2e1d015edec6"
-   ]
+   ],
+   "tier": ""
   },
   {
    "id": "2026-10-16-d28fbf7ba4a6d1f2",
@@ -1445,7 +2079,8 @@
    "keys": [
     "46fee3d0162b9a62",
     "d28fbf7ba4a6d1f2"
-   ]
+   ],
+   "tier": ""
   },
   {
    "id": "2026-10-16-baeb8fdd16604273",
@@ -1467,7 +2102,8 @@
    "keys": [
     "68373c7f4d92fd75",
     "baeb8fdd16604273"
-   ]
+   ],
+   "tier": ""
   },
   {
    "id": "2026-10-16-b4e16a14cd33b32e",
@@ -1489,7 +2125,8 @@
    "keys": [
     "40684d8555d48baf",
     "b4e16a14cd33b32e"
-   ]
+   ],
+   "tier": ""
   },
   {
    "id": "2026-10-16-64ee7a19c853f334",
@@ -1511,7 +2148,8 @@
    "keys": [
     "09c774fd5b07c494",
     "64ee7a19c853f334"
-   ]
+   ],
+   "tier": "b"
   },
   {
    "id": "2026-10-16-9ecbec1ade934583",
@@ -1540,7 +2178,8 @@
     "967b0ef8836cbabd",
     "9ecbec1ade934583",
     "ef5388768cdd6b40"
-   ]
+   ],
+   "tier": ""
   },
   {
    "id": "2026-10-15-2a3e78a6b1856984",
@@ -1562,7 +2201,8 @@
    "keys": [
     "2a3e78a6b1856984",
     "91c1fc3603a3c7b7"
-   ]
+   ],
+   "tier": "a"
   },
   {
    "id": "2026-10-15-2daeae24a56faa83",
@@ -1584,7 +2224,8 @@
    "keys": [
     "2daeae24a56faa83",
     "6885cad2b36a0c04"
-   ]
+   ],
+   "tier": ""
   },
   {
    "id": "2026-10-15-231c0bf18fbb2caa",
@@ -1606,7 +2247,8 @@
    "keys": [
     "231c0bf18fbb2caa",
     "29a248f4a1591acc"
-   ]
+   ],
+   "tier": ""
   },
   {
    "id": "2026-10-15-59d1bb1759acec74",
@@ -1628,7 +2270,8 @@
    "keys": [
     "59d1bb1759acec74",
     "7b15a2d1509cf5c7"
-   ]
+   ],
+   "tier": ""
   },
   {
    "id": "2026-10-15-d3ab20bbca25e24c",
@@ -1650,7 +2293,8 @@
    "keys": [
     "4a80d729400cb154",
     "d3ab20bbca25e24c"
-   ]
+   ],
+   "tier": ""
   },
   {
    "id": "2026-10-15-d3843d57c0d3babb",
@@ -1672,7 +2316,8 @@
    "keys": [
     "4a6b26c62a802cdd",
     "d3843d57c0d3babb"
-   ]
+   ],
+   "tier": ""
   },
   {
    "id": "2026-10-15-8b071b19c54f8e2c",
@@ -1694,7 +2339,8 @@
    "keys": [
     "8b071b19c54f8e2c",
     "8b2010219c6eb35e"
-   ]
+   ],
+   "tier": ""
   },
   {
    "id": "2026-10-15-d6499c09e62a0f5c",
@@ -1716,7 +2362,8 @@
    "keys": [
     "510008158d19f03c",
     "d6499c09e62a0f5c"
-   ]
+   ],
+   "tier": ""
   },
   {
    "id": "2026-10-15-ff859b95bad98faa",
@@ -1738,7 +2385,8 @@
    "keys": [
     "160b935e4e2c48be",
     "ff859b95bad98faa"
-   ]
+   ],
+   "tier": ""
   },
   {
    "id": "2026-10-15-72c022f10cf5227c",
@@ -1760,29 +2408,8 @@
    "keys": [
     "48f33a289a8975f2",
     "72c022f10cf5227c"
-   ]
-  },
-  {
-   "id": "2026-10-15-8b1ab0eb2d01a66e",
-   "date": "2026-10-15",
-   "title": "Fleet Launches AI Governance to Give IT, Security Teams Control of AI Tools on Every Device",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUjdIQzRieldTYUtoTGt1QXl4bFRyUjB2QkpPN3YwUDg0V0RwY1gwTlJFazB5bVU2OU11VXFheVR4dFIxdGJQUXJ3cUI2T1R3MGtWbmFqUVFfMVNncjJnSXZSdk5wcGFEbm5qMUx6VVlidkRCeUY5dmJwNE92TTNpcUx1RzhIb05tR0Z1VFBmRGVSdHc2aG5QUjdacDZEX2NzTlNj?oc=5",
-   "source": "Yahoo Finance",
-   "also": [],
-   "coverage": 1,
-   "category": "行业动态",
-   "regions": [
-    "其他"
    ],
-   "importance": 1,
-   "lang": "en",
-   "addedBy": "auto",
-   "createdAt": "2026-10-16T08:56:19+08:00",
-   "keys": [
-    "8b1ab0eb2d01a66e",
-    "ffbec785803c70ff"
-   ]
+   "tier": ""
   },
   {
    "id": "2026-10-15-7ee55d2bc5961bea",
@@ -1804,7 +2431,8 @@
    "keys": [
     "7ee55d2bc5961bea",
     "e5f1f752eb7a2d57"
-   ]
+   ],
+   "tier": ""
   },
   {
    "id": "2026-10-15-4e1131c40f6e7548",
@@ -1827,29 +2455,8 @@
    "keys": [
     "4104336c3451caeb",
     "4e1131c40f6e7548"
-   ]
-  },
-  {
-   "id": "2026-10-15-8696936701345f3f",
-   "date": "2026-10-15",
-   "title": "比尔·盖茨计划投入大量个人资源推动更严格的AI监管",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA4Zm9xeExlai1kbFNHaFFHNFlBZnRGSy1pVTBIZ3Z5LWNnR1BSc0hYSVRkWkI4S3FxUmQ3dm1GMmZVWVd3OW9HanJ4dUtNTjdiam1XZF9NQnp3V1VaOUpnTDl5b0MyUQ?oc=5",
-   "source": "TradingView",
-   "also": [],
-   "coverage": 1,
-   "category": "立法与监管",
-   "regions": [
-    "其他"
    ],
-   "importance": 1,
-   "lang": "zh",
-   "addedBy": "auto",
-   "createdAt": "2026-10-16T08:56:19+08:00",
-   "keys": [
-    "8696936701345f3f",
-    "d152147b80f01732"
-   ]
+   "tier": ""
   },
   {
    "id": "2026-10-15-cb08eb964b1025de",
@@ -1871,7 +2478,8 @@
    "keys": [
     "1819909d49b79a7a",
     "cb08eb964b1025de"
-   ]
+   ],
+   "tier": ""
   },
   {
    "id": "2026-10-15-dd42bb1aa1b96241",
@@ -1893,7 +2501,8 @@
    "keys": [
     "69525ee1acd08b6f",
     "dd42bb1aa1b96241"
-   ]
+   ],
+   "tier": ""
   },
   {
    "id": "2026-10-15-ca85af261103fb6b",
@@ -1915,7 +2524,8 @@
    "keys": [
     "ca85af261103fb6b",
     "dfc92eeaf6544d5b"
-   ]
+   ],
+   "tier": ""
   },
   {
    "id": "2026-10-15-0d7f3a886494c9b5",
@@ -1937,7 +2547,8 @@
    "keys": [
     "0d7f3a886494c9b5",
     "6ffb07008256a1d6"
-   ]
+   ],
+   "tier": ""
   },
   {
    "id": "2026-10-15-273915009c3b86c4",
@@ -1959,7 +2570,8 @@
    "keys": [
     "273915009c3b86c4",
     "3876e87133240abf"
-   ]
+   ],
+   "tier": ""
   },
   {
    "id": "2026-10-15-dc5daf8ebffc447f",
@@ -1981,7 +2593,8 @@
    "keys": [
     "5d7bed8deb86cd32",
     "dc5daf8ebffc447f"
-   ]
+   ],
+   "tier": ""
   },
   {
    "id": "2026-10-15-2b4d05c57554fe29",
@@ -2003,7 +2616,8 @@
    "keys": [
     "2b4d05c57554fe29",
     "ee8f38e1b7718fac"
-   ]
+   ],
+   "tier": ""
   },
   {
    "id": "2026-10-15-e38fd39384d31574",
@@ -2025,7 +2639,8 @@
    "keys": [
     "8ff189fa923810d6",
     "e38fd39384d31574"
-   ]
+   ],
+   "tier": ""
   },
   {
    "id": "2026-10-15-f6557c149da598d1",
@@ -2047,7 +2662,8 @@
    "keys": [
     "354dba5ab7ff385b",
     "f6557c149da598d1"
-   ]
+   ],
+   "tier": ""
   },
   {
    "id": "2026-10-15-453067215bdc7655",
@@ -2069,7 +2685,8 @@
    "keys": [
     "453067215bdc7655",
     "a38c30ae4bd28c00"
-   ]
+   ],
+   "tier": ""
   },
   {
    "id": "2026-10-15-9f5e63233b46affc",
@@ -2091,51 +2708,8 @@
    "keys": [
     "7ff2321ec8931d88",
     "9f5e63233b46affc"
-   ]
-  },
-  {
-   "id": "2026-10-15-77288cf34633127a",
-   "date": "2026-10-15",
-   "title": "Eight in Ten UK Businesses Struggle to Keep Pace with AI Governance, IBM Study Finds",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPYllSV3VHTVpCVHNWS3ZoT1FEUThyZEVFdnBqbWRTTjcybkZ1Zlh0SnBGb3J3YkU1b3RUZlVldE5tY1N2RVUzZEFpQkFZOGU2MnZPYzc1aEtuSUFPYk1vX0swZFI0RDNTM240dGFtU2ttSklJQTVIQWVLcVV2aW1lX0ZtaWk3QmpiRTA5MlI2Wl9kN2p5d3dIUl9LM21RZUFvQmtNTVQwQU1OUXIxUUVUdEliTHdtb2RrMDBqQzlQTUZ5ZW9yUGtURXZROGtDdUlQMVZ1N2ZGSjVuYzNl?oc=5",
-   "source": "TradingView",
-   "also": [],
-   "coverage": 1,
-   "category": "安全研究",
-   "regions": [
-    "欧洲"
    ],
-   "importance": 1,
-   "lang": "en",
-   "addedBy": "auto",
-   "createdAt": "2026-10-15T09:09:59+08:00",
-   "keys": [
-    "1b82e4a192b2cd41",
-    "77288cf34633127a"
-   ]
-  },
-  {
-   "id": "2026-10-14-e0d79528412574d6",
-   "date": "2026-10-14",
-   "title": "法本信息10月13日回应AI安全话题：FarAI GPTCoder通过网信办备案，金融合规产品落地_公司新闻",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBLZHJCTTA1ek5nVExLN3NBT1FtUXlvQWlEVEhHYUFpWEZoaXkycHVkdFBvX0pqTDNIOW9UdE9YTG9xZTBkcWg4OHBSRHFGTm9sS3NKWm4zMmdUSi0wTzVsQVNn?oc=5",
-   "source": "证券之星",
-   "also": [],
-   "coverage": 1,
-   "category": "行业动态",
-   "regions": [
-    "中国"
-   ],
-   "importance": 2,
-   "lang": "zh",
-   "addedBy": "auto",
-   "createdAt": "2026-10-14T09:31:17+08:00",
-   "keys": [
-    "8344365839c8dee5",
-    "e0d79528412574d6"
-   ]
+   "tier": ""
   },
   {
    "id": "2026-10-14-c02139b2d0b80700",
@@ -2157,7 +2731,8 @@
    "keys": [
     "c02139b2d0b80700",
     "db6f7a3b27b68d23"
-   ]
+   ],
+   "tier": ""
   },
   {
    "id": "2026-10-14-1afa56a54b7c3486",
@@ -2179,7 +2754,8 @@
    "keys": [
     "1afa56a54b7c3486",
     "93ef3c5b36f65932"
-   ]
+   ],
+   "tier": ""
   },
   {
    "id": "2026-10-14-784a438f169cedc4",
@@ -2208,7 +2784,8 @@
     "784a438f169cedc4",
     "95274d710c00db61",
     "9d794e58653fcc69"
-   ]
+   ],
+   "tier": ""
   },
   {
    "id": "2026-10-14-c7c85378c768c211",
@@ -2230,7 +2807,8 @@
    "keys": [
     "b07d070a6b9eeab0",
     "c7c85378c768c211"
-   ]
+   ],
+   "tier": ""
   },
   {
    "id": "2026-10-14-16066c839169546b",
@@ -2252,7 +2830,8 @@
    "keys": [
     "16066c839169546b",
     "925fb26a45c67733"
-   ]
+   ],
+   "tier": ""
   },
   {
    "id": "2026-10-14-a50ac1c94e325ff0",
@@ -2274,7 +2853,8 @@
    "keys": [
     "491cd63937a2920a",
     "a50ac1c94e325ff0"
-   ]
+   ],
+   "tier": ""
   },
   {
    "id": "2026-10-14-539cd41740b0d06f",
@@ -2296,7 +2876,8 @@
    "keys": [
     "525e8f06cc69aca0",
     "539cd41740b0d06f"
-   ]
+   ],
+   "tier": ""
   },
   {
    "id": "2026-10-14-f621a2c6ff038fb4",
@@ -2318,7 +2899,8 @@
    "keys": [
     "26c10ff9320a8138",
     "f621a2c6ff038fb4"
-   ]
+   ],
+   "tier": ""
   },
   {
    "id": "2026-10-14-1204541f49b5cb24",
@@ -2340,7 +2922,8 @@
    "keys": [
     "1204541f49b5cb24",
     "718b619827b775af"
-   ]
+   ],
+   "tier": ""
   },
   {
    "id": "2026-10-14-3e48af2a57b341fc",
@@ -2362,7 +2945,8 @@
    "keys": [
     "3e48af2a57b341fc",
     "f11839a908c1b904"
-   ]
+   ],
+   "tier": ""
   },
   {
    "id": "2026-10-14-d1c84d603f903589",
@@ -2384,7 +2968,8 @@
    "keys": [
     "d1c84d603f903589",
     "f6cdab2f3b30bef4"
-   ]
+   ],
+   "tier": ""
   },
   {
    "id": "2026-10-14-c161f2b1c22f75f6",
@@ -2406,7 +2991,8 @@
    "keys": [
     "c161f2b1c22f75f6",
     "f1ac963e176323de"
-   ]
+   ],
+   "tier": ""
   },
   {
    "id": "2026-10-14-4047f810b8c165dc",
@@ -2428,7 +3014,8 @@
    "keys": [
     "4047f810b8c165dc",
     "7374c0381f1af8a5"
-   ]
+   ],
+   "tier": ""
   },
   {
    "id": "2026-10-14-354c5442781cee90",
@@ -2450,7 +3037,8 @@
    "keys": [
     "354c5442781cee90",
     "fbe6774735582db5"
-   ]
+   ],
+   "tier": ""
   },
   {
    "id": "2026-10-14-4c42764555a8082f",
@@ -2474,7 +3062,8 @@
     "18913bee95504110",
     "281b3406b49fac45",
     "4c42764555a8082f"
-   ]
+   ],
+   "tier": ""
   },
   {
    "id": "2026-10-14-b8193807d036b68d",
@@ -2496,7 +3085,8 @@
    "keys": [
     "188ef5dd2384ac36",
     "b8193807d036b68d"
-   ]
+   ],
+   "tier": ""
   },
   {
    "id": "2026-10-14-21395bf84c95a637",
@@ -2518,7 +3108,8 @@
    "keys": [
     "21395bf84c95a637",
     "4da067678c50dc8b"
-   ]
+   ],
+   "tier": ""
   },
   {
    "id": "2026-10-14-628bb9aa0a5120fd",
@@ -2540,7 +3131,8 @@
    "keys": [
     "628bb9aa0a5120fd",
     "b06a673c75b816ad"
-   ]
+   ],
+   "tier": ""
   },
   {
    "id": "2026-10-14-adeb6270da8df090",
@@ -2562,7 +3154,8 @@
    "keys": [
     "adeb6270da8df090",
     "be4f6b9011917362"
-   ]
+   ],
+   "tier": ""
   },
   {
    "id": "2026-10-14-b7fd11bf263663c1",
@@ -2584,29 +3177,8 @@
    "keys": [
     "3d383b31d35c5198",
     "b7fd11bf263663c1"
-   ]
-  },
-  {
-   "id": "2026-10-14-5e3a91725595f592",
-   "date": "2026-10-14",
-   "title": "Airia Enhances AI Governance With Expanded Living Disclosures and Two-Stage Intake Capabilities",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQOW9pc0JSVTNiS2lvczhZWXdFYzlhNkVsWGVPeDNKZXdjYzhqVzVmd3NrQ1BKbF84dzdHQ2RQeVFkdDNzRzVxeGdUUDFkZ3NiSkNzTVAyVF9sVXF3am8yekY4UWo2ampxN2dHM2ctSGMyWm1pd0xsUGZEUURFYjlHc1FYclhlTk9rY185RXZjWVc2THJZT2NGcklLZmJRNFkxSUN3?oc=5",
-   "source": "Yahoo Finance",
-   "also": [],
-   "coverage": 1,
-   "category": "行业动态",
-   "regions": [
-    "其他"
    ],
-   "importance": 1,
-   "lang": "en",
-   "addedBy": "auto",
-   "createdAt": "2026-10-15T09:09:59+08:00",
-   "keys": [
-    "48ecb0ceed34c134",
-    "5e3a91725595f592"
-   ]
+   "tier": ""
   },
   {
    "id": "2026-10-14-0d8c822fbd17743a",
@@ -2628,7 +3200,8 @@
    "keys": [
     "0d8c822fbd17743a",
     "b71e2cd36f14b025"
-   ]
+   ],
+   "tier": ""
   },
   {
    "id": "2026-10-14-98e61fbd4c22a1a8",
@@ -2650,7 +3223,8 @@
    "keys": [
     "401d5af4551f57f7",
     "98e61fbd4c22a1a8"
-   ]
+   ],
+   "tier": ""
   },
   {
    "id": "2026-10-14-3e76b830b30634cf",
@@ -2673,7 +3247,8 @@
    "keys": [
     "07af5da64bf49c42",
     "3e76b830b30634cf"
-   ]
+   ],
+   "tier": ""
   },
   {
    "id": "2026-10-14-64c5a62139097cb6",
@@ -2695,7 +3270,8 @@
    "keys": [
     "1302df397df7630d",
     "64c5a62139097cb6"
-   ]
+   ],
+   "tier": ""
   },
   {
    "id": "2026-10-14-9d03f1368c1a7fb2",
@@ -2717,7 +3293,8 @@
    "keys": [
     "9d03f1368c1a7fb2",
     "c989d77193f0f12b"
-   ]
+   ],
+   "tier": ""
   },
   {
    "id": "2026-10-14-0eed474eef872e15",
@@ -2739,29 +3316,8 @@
    "keys": [
     "0eed474eef872e15",
     "573789deac1bd779"
-   ]
-  },
-  {
-   "id": "2026-10-14-137dcdfbe7ff3598",
-   "date": "2026-10-14",
-   "title": "ST信安10月13日回应AI安全话题：领元AI安全网关定位多模型AI网关与治理平台_公司新闻",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBWdzZfUE9lLVZmYkJwZmh2YmxNd3paWEpYLW1sRE1GQ1pzd1FhSWVYRFdtZ0RzclhaWl9FemhlQzd6VW81MVZ2ZGt5SDVzY29kVTZZUUNETkRBV0JnY2hEZG5R?oc=5",
-   "source": "证券之星",
-   "also": [],
-   "coverage": 1,
-   "category": "行业动态",
-   "regions": [
-    "其他"
    ],
-   "importance": 1,
-   "lang": "zh",
-   "addedBy": "auto",
-   "createdAt": "2026-10-14T09:31:17+08:00",
-   "keys": [
-    "137dcdfbe7ff3598",
-    "828cf4d2b6de4123"
-   ]
+   "tier": ""
   },
   {
    "id": "2026-10-14-8591b2e719068696",
@@ -2783,7 +3339,8 @@
    "keys": [
     "645160496fb2e640",
     "8591b2e719068696"
-   ]
+   ],
+   "tier": ""
   },
   {
    "id": "2026-10-14-afadc9f7a92c1c93",
@@ -2805,7 +3362,8 @@
    "keys": [
     "a8f5c9f23d30472c",
     "afadc9f7a92c1c93"
-   ]
+   ],
+   "tier": ""
   },
   {
    "id": "2026-10-14-6f91664aa431b658",
@@ -2827,7 +3385,8 @@
    "keys": [
     "6f91664aa431b658",
     "bbbd4f7a77a8d230"
-   ]
+   ],
+   "tier": ""
   },
   {
    "id": "2026-10-14-da65144e44676cf2",
@@ -2849,7 +3408,8 @@
    "keys": [
     "5a0ba4e1a74791c5",
     "da65144e44676cf2"
-   ]
+   ],
+   "tier": ""
   },
   {
    "id": "2026-10-14-2db146ff3e6cc031",
@@ -2871,7 +3431,8 @@
    "keys": [
     "2db146ff3e6cc031",
     "8d6aef7bf7fa37f0"
-   ]
+   ],
+   "tier": ""
   },
   {
    "id": "2026-10-14-7c85f965b4d73337",
@@ -2893,29 +3454,8 @@
    "keys": [
     "17f0c7095cab0175",
     "7c85f965b4d73337"
-   ]
-  },
-  {
-   "id": "2026-10-14-d778b68e1c8c13d2",
-   "date": "2026-10-14",
-   "title": "What Is Workday (WDAY) Really Gaining From Its Latest AI Governance Deal?",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQLTV4VUVzTmZQVy1aZTFtTWdyNkFKSUhGNjZtblh6R3dlMXlnNHdOZ1I5STJTUEZoOUhPZkpXbWo2amY0OU1FN3g3YlVnZDVQeC1aMGkwczRkdklXc2gzTXQ2UTNwRFAwQTVISjRpRG9EV2NqX21QTjVtSDgwaUpKaWZxYUNHVkUySllTd2xfZVFBNEZod0p1aVlaNEY1MUE?oc=5",
-   "source": "Yahoo Finance",
-   "also": [],
-   "coverage": 1,
-   "category": "行业动态",
-   "regions": [
-    "其他"
    ],
-   "importance": 1,
-   "lang": "en",
-   "addedBy": "auto",
-   "createdAt": "2026-10-14T09:31:17+08:00",
-   "keys": [
-    "27d544e4c6d0b5ee",
-    "d778b68e1c8c13d2"
-   ]
+   "tier": ""
   },
   {
    "id": "2026-10-14-2135ce367f4fed52",
@@ -2937,29 +3477,8 @@
    "keys": [
     "2135ce367f4fed52",
     "47b52047f2d9bd3f"
-   ]
-  },
-  {
-   "id": "2026-10-14-e12177917a625c91",
-   "date": "2026-10-14",
-   "title": "ByteDance's Seed Lab Creates First Dedicated AI Safety & Alignment Unit in China, Led by Yan Lin to Address Agent and CBRN Risks",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBFU3EyWURIY2xvMWZVeGpabGtrbUFxaGd1cUh3VFJYS3BISDZUUnNJcnJfaUZFZmlxcmt3QlVXYkM2NFNxV1JHV0J3OE95RDBnaHVFUlFTVGk3eU94Q2JvOUhHeGU0VnpZU0UwR3lHMGktODBpbHc?oc=5",
-   "source": "BigGo Finance",
-   "also": [],
-   "coverage": 1,
-   "category": "安全研究",
-   "regions": [
-    "中国"
    ],
-   "importance": 1,
-   "lang": "en",
-   "addedBy": "auto",
-   "createdAt": "2026-10-14T09:31:17+08:00",
-   "keys": [
-    "dde7ac88cbeeca55",
-    "e12177917a625c91"
-   ]
+   "tier": ""
   },
   {
    "id": "2026-10-13-32f9d4546efb20a8",
@@ -2994,7 +3513,8 @@
     "32f9d4546efb20a8",
     "540423884e9c4e6a",
     "69a1921c40b4d1ed"
-   ]
+   ],
+   "tier": "a"
   },
   {
    "id": "2026-10-13-15d8fb264f36d0b5",
@@ -3029,7 +3549,8 @@
     "79b4199908f10383",
     "c49c5803c07d809d",
     "ddaa3a1f54c1b801"
-   ]
+   ],
+   "tier": ""
   },
   {
    "id": "2026-10-13-a773bb076d706a1b",
@@ -3051,7 +3572,8 @@
    "keys": [
     "851e13efd7098d68",
     "a773bb076d706a1b"
-   ]
+   ],
+   "tier": "a"
   },
   {
    "id": "2026-10-13-814dca58f4e685ea",
@@ -3073,7 +3595,8 @@
    "keys": [
     "814dca58f4e685ea",
     "e077cc730b03aa75"
-   ]
+   ],
+   "tier": ""
   },
   {
    "id": "2026-10-13-bdc65f8133afb157",
@@ -3095,7 +3618,8 @@
    "keys": [
     "05f399d626cb015f",
     "bdc65f8133afb157"
-   ]
+   ],
+   "tier": ""
   },
   {
    "id": "2026-10-13-4b9c17b59e31337a",
@@ -3117,7 +3641,8 @@
    "keys": [
     "4b9c17b59e31337a",
     "61a1256a74f12bd3"
-   ]
+   ],
+   "tier": ""
   },
   {
    "id": "2026-10-13-f03f9f51a0371f67",
@@ -3139,7 +3664,8 @@
    "keys": [
     "84803522a69d686e",
     "f03f9f51a0371f67"
-   ]
+   ],
+   "tier": ""
   },
   {
    "id": "2026-10-13-f709b6edfe5389a5",
@@ -3161,7 +3687,8 @@
    "keys": [
     "54984c0a2b5177d7",
     "f709b6edfe5389a5"
-   ]
+   ],
+   "tier": ""
   },
   {
    "id": "2026-10-13-6a8faca661beef09",
@@ -3183,7 +3710,8 @@
    "keys": [
     "23839e99e0cb5b72",
     "6a8faca661beef09"
-   ]
+   ],
+   "tier": ""
   },
   {
    "id": "2026-10-13-32244aec43dcfa9d",
@@ -3205,7 +3733,8 @@
    "keys": [
     "32244aec43dcfa9d",
     "88bb036ca3bb73e3"
-   ]
+   ],
+   "tier": ""
   },
   {
    "id": "2026-10-13-d422c1e8ae75b1c0",
@@ -3227,7 +3756,8 @@
    "keys": [
     "6c4d3b519b72be5c",
     "d422c1e8ae75b1c0"
-   ]
+   ],
+   "tier": ""
   },
   {
    "id": "2026-10-13-bc9b7fd4048ec80a",
@@ -3249,7 +3779,8 @@
    "keys": [
     "8a435666b3db3afe",
     "bc9b7fd4048ec80a"
-   ]
+   ],
+   "tier": ""
   },
   {
    "id": "2026-10-13-a78a3115f39b2f42",
@@ -3271,7 +3802,8 @@
    "keys": [
     "59e989024f0c859e",
     "a78a3115f39b2f42"
-   ]
+   ],
+   "tier": ""
   },
   {
    "id": "2026-10-13-a74e83d07cca8a4d",
@@ -3293,7 +3825,8 @@
    "keys": [
     "45470645b14b579c",
     "a74e83d07cca8a4d"
-   ]
+   ],
+   "tier": ""
   },
   {
    "id": "2026-10-13-5ed7b14380e4ad81",
@@ -3315,7 +3848,8 @@
    "keys": [
     "5ed7b14380e4ad81",
     "da9e95858821a9da"
-   ]
+   ],
+   "tier": "b"
   },
   {
    "id": "2026-10-13-a053ae8a5f6c6ac9",
@@ -3337,7 +3871,8 @@
    "keys": [
     "4aa55e5e2b6f549c",
     "a053ae8a5f6c6ac9"
-   ]
+   ],
+   "tier": ""
   },
   {
    "id": "2026-10-13-7104ce8fb562b92a",
@@ -3367,7 +3902,8 @@
     "acc362af0b2d5d34",
     "ad64aeba8eb4d32d",
     "d69460944842adff"
-   ]
+   ],
+   "tier": ""
   },
   {
    "id": "2026-10-13-9cc963757b1df7a6",
@@ -3389,7 +3925,8 @@
    "keys": [
     "9cc963757b1df7a6",
     "ada01048eeac8ada"
-   ]
+   ],
+   "tier": ""
   },
   {
    "id": "2026-10-13-45cbbf91a8b45d41",
@@ -3411,7 +3948,8 @@
    "keys": [
     "45cbbf91a8b45d41",
     "d87ed685fc5608d4"
-   ]
+   ],
+   "tier": ""
   },
   {
    "id": "2026-10-13-528865c87329b73c",
@@ -3433,7 +3971,8 @@
    "keys": [
     "528865c87329b73c",
     "62d207b983f61ac6"
-   ]
+   ],
+   "tier": ""
   },
   {
    "id": "2026-10-13-2de64cdf805d7ea7",
@@ -3455,7 +3994,8 @@
    "keys": [
     "2de64cdf805d7ea7",
     "a2ae754816cb130e"
-   ]
+   ],
+   "tier": ""
   },
   {
    "id": "2026-10-13-4dcde1e1ad6d7f55",
@@ -3477,7 +4017,8 @@
    "keys": [
     "4dcde1e1ad6d7f55",
     "fb4d11593ac7ab08"
-   ]
+   ],
+   "tier": ""
   },
   {
    "id": "2026-10-13-94ecbbbf96e48e74",
@@ -3499,7 +4040,8 @@
    "keys": [
     "94ecbbbf96e48e74",
     "f3bc3d297c66f145"
-   ]
+   ],
+   "tier": "a"
   },
   {
    "id": "2026-10-13-c7bbc67827bc2e19",
@@ -3521,7 +4063,8 @@
    "keys": [
     "c7bbc67827bc2e19",
     "eefc68ee509e0d20"
-   ]
+   ],
+   "tier": ""
   },
   {
    "id": "2026-10-12-e2c5ed240a2f2d23",
@@ -3562,7 +4105,8 @@
     "c6cba75aa30f6706",
     "e2c5ed240a2f2d23",
     "edfef96572a1e0b6"
-   ]
+   ],
+   "tier": ""
   },
   {
    "id": "2026-10-12-66b029b3f6e5be54",
@@ -3584,7 +4128,8 @@
    "keys": [
     "66b029b3f6e5be54",
     "745266ef5c678ddc"
-   ]
+   ],
+   "tier": "b"
   },
   {
    "id": "2026-10-12-fc7fda53b95221d1",
@@ -3606,7 +4151,8 @@
    "keys": [
     "dbfd2665277202aa",
     "fc7fda53b95221d1"
-   ]
+   ],
+   "tier": ""
   },
   {
    "id": "2026-10-12-e8eb68d95bc94fd9",
@@ -3628,7 +4174,8 @@
    "keys": [
     "3a8042398b299cfa",
     "e8eb68d95bc94fd9"
-   ]
+   ],
+   "tier": "b"
   },
   {
    "id": "2026-10-12-03572c3a813151c7",
@@ -3657,7 +4204,8 @@
     "49d8307a771ea00b",
     "5edad510b7414482",
     "8a255ebb6540144b"
-   ]
+   ],
+   "tier": ""
   },
   {
    "id": "2026-10-12-22f378318f4a320a",
@@ -3679,7 +4227,8 @@
    "keys": [
     "22f378318f4a320a",
     "3cd458a94389ee32"
-   ]
+   ],
+   "tier": "b"
   },
   {
    "id": "2026-10-12-b412a3375c7cdda6",
@@ -3701,7 +4250,8 @@
    "keys": [
     "b412a3375c7cdda6",
     "e9c15d4f17427b2c"
-   ]
+   ],
+   "tier": ""
   },
   {
    "id": "2026-10-12-dbc03144e65d9052",
@@ -3723,7 +4273,8 @@
    "keys": [
     "a66e9f0797a274fe",
     "dbc03144e65d9052"
-   ]
+   ],
+   "tier": "a"
   },
   {
    "id": "2026-10-12-22f680f5e237a633",
@@ -3745,7 +4296,8 @@
    "keys": [
     "22f680f5e237a633",
     "8998c5b5f55a125a"
-   ]
+   ],
+   "tier": ""
   },
   {
    "id": "2026-10-12-ee85cfc09f0af363",
@@ -3767,7 +4319,8 @@
    "keys": [
     "2bafa63b30cd3c0d",
     "ee85cfc09f0af363"
-   ]
+   ],
+   "tier": ""
   },
   {
    "id": "2026-10-12-fd1a67c2b02b146f",
@@ -3789,7 +4342,8 @@
    "keys": [
     "3ba9e5498f2d1188",
     "fd1a67c2b02b146f"
-   ]
+   ],
+   "tier": ""
   },
   {
    "id": "2026-10-12-d64d4bef586e575c",
@@ -3811,7 +4365,8 @@
    "keys": [
     "d64d4bef586e575c",
     "dc4adcd070364054"
-   ]
+   ],
+   "tier": ""
   },
   {
    "id": "2026-10-12-1e78e941b89bf124",
@@ -3833,7 +4388,8 @@
    "keys": [
     "1e78e941b89bf124",
     "37682e265922887f"
-   ]
+   ],
+   "tier": ""
   },
   {
    "id": "2026-10-12-c84452fb92f6a33a",
@@ -3855,7 +4411,8 @@
    "keys": [
     "6586e3ffc0b0659e",
     "c84452fb92f6a33a"
-   ]
+   ],
+   "tier": ""
   },
   {
    "id": "2026-10-12-4f6ce4bf54f40a21",
@@ -3877,7 +4434,8 @@
    "keys": [
     "255944081bf6bbcd",
     "4f6ce4bf54f40a21"
-   ]
+   ],
+   "tier": ""
   },
   {
    "id": "2026-10-12-994c449619170069",
@@ -3906,7 +4464,8 @@
     "623ae43dc5a206ae",
     "994c449619170069",
     "d8bf313809d4e123"
-   ]
+   ],
+   "tier": "b"
   },
   {
    "id": "2026-10-12-d4451bac032b858a",
@@ -3928,7 +4487,8 @@
    "keys": [
     "b61ff37e8b0abace",
     "d4451bac032b858a"
-   ]
+   ],
+   "tier": ""
   },
   {
    "id": "2026-10-12-f32d2e6855058d94",
@@ -3950,7 +4510,8 @@
    "keys": [
     "6771574f3186fe6d",
     "f32d2e6855058d94"
-   ]
+   ],
+   "tier": ""
   },
   {
    "id": "2026-10-12-a2808aa64488a1d1",
@@ -3972,7 +4533,8 @@
    "keys": [
     "a2808aa64488a1d1",
     "dda92ebbaf1d7f70"
-   ]
+   ],
+   "tier": ""
   },
   {
    "id": "2026-10-12-bbbdb467496c0c56",
@@ -3994,7 +4556,8 @@
    "keys": [
     "43d64bcf413d4ee6",
     "bbbdb467496c0c56"
-   ]
+   ],
+   "tier": "a"
   },
   {
    "id": "2026-10-12-09a83b8daea95768",
@@ -4016,7 +4579,8 @@
    "keys": [
     "09a83b8daea95768",
     "ba4ac708ce9395f5"
-   ]
+   ],
+   "tier": "a"
   },
   {
    "id": "2026-09-24-seed-01",
@@ -4036,7 +4600,8 @@
    "createdAt": "2026-09-25T09:00:00+08:00",
    "keys": [],
    "lang": "zh",
-   "coverage": 1
+   "coverage": 1,
+   "tier": "a"
   },
   {
    "id": "2026-09-24-seed-02",
@@ -4055,7 +4620,8 @@
    "createdAt": "2026-09-25T09:00:00+08:00",
    "keys": [],
    "lang": "zh",
-   "coverage": 1
+   "coverage": 1,
+   "tier": ""
   },
   {
    "id": "2026-09-23-seed-03",
@@ -4074,7 +4640,8 @@
    "createdAt": "2026-09-25T09:00:00+08:00",
    "keys": [],
    "lang": "zh",
-   "coverage": 1
+   "coverage": 1,
+   "tier": ""
   },
   {
    "id": "2026-09-23-seed-06",
@@ -4093,7 +4660,8 @@
    "createdAt": "2026-09-25T09:00:00+08:00",
    "keys": [],
    "lang": "zh",
-   "coverage": 1
+   "coverage": 1,
+   "tier": ""
   },
   {
    "id": "2026-09-22-seed-04",
@@ -4113,7 +4681,8 @@
    "createdAt": "2026-09-25T09:00:00+08:00",
    "keys": [],
    "lang": "zh",
-   "coverage": 1
+   "coverage": 1,
+   "tier": ""
   },
   {
    "id": "2026-09-21-seed-05",
@@ -4133,7 +4702,8 @@
    "createdAt": "2026-09-25T09:00:00+08:00",
    "keys": [],
    "lang": "zh",
-   "coverage": 1
+   "coverage": 1,
+   "tier": "a"
   },
   {
    "id": "2026-09-16-seed-07",
@@ -4152,7 +4722,8 @@
    "createdAt": "2026-09-25T09:00:00+08:00",
    "keys": [],
    "lang": "zh",
-   "coverage": 1
+   "coverage": 1,
+   "tier": "a"
   },
   {
    "id": "2026-09-16-seed-08",
@@ -4171,7 +4742,8 @@
    "createdAt": "2026-09-25T09:00:00+08:00",
    "keys": [],
    "lang": "zh",
-   "coverage": 1
+   "coverage": 1,
+   "tier": ""
   },
   {
    "id": "2026-09-14-seed-09",
@@ -4190,7 +4762,8 @@
    "createdAt": "2026-09-25T09:00:00+08:00",
    "keys": [],
    "lang": "zh",
-   "coverage": 1
+   "coverage": 1,
+   "tier": "official"
   },
   {
    "id": "2026-09-09-seed-10",
@@ -4209,7 +4782,8 @@
    "createdAt": "2026-09-25T09:00:00+08:00",
    "keys": [],
    "lang": "zh",
-   "coverage": 1
+   "coverage": 1,
+   "tier": ""
   },
   {
    "id": "2026-09-01-seed-11",
@@ -4228,7 +4802,8 @@
    "createdAt": "2026-09-25T09:00:00+08:00",
    "keys": [],
    "lang": "zh",
-   "coverage": 1
+   "coverage": 1,
+   "tier": "official"
   },
   {
    "id": "2026-08-26-seed-12",
@@ -4247,7 +4822,8 @@
    "createdAt": "2026-09-25T09:00:00+08:00",
    "keys": [],
    "lang": "zh",
-   "coverage": 1
+   "coverage": 1,
+   "tier": "a"
   }
  ]
 }
