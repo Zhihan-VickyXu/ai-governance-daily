@@ -1,6 +1,29 @@
 {
- "updated": "2026-10-19T13:03:12-07:00",
+ "updated": "2026-10-19T15:39:57-07:00",
  "items": [
+  {
+   "id": "2026-10-19-deab77b4cbffff74",
+   "date": "2026-10-19",
+   "title": "Anthropic游说推动AI安全法案 重大风险才准政府叫停模型",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORDB0ZVF4emYyQXQyVkh6T1c1Q253ckdoTjJwczRQOWEwM2NTU3dObE9CaUQxYUprRERmel9NOGRfTGJzZDhfNGJwTEwxTGg3dzF1NmpJa1VDSnh3T0dkQlA4aUJuYnl2UHhtcWxGaFRPdHdNcjVrY3kzX081UDJNcUV4OHA3aFhRci1wcVI2dF8yaHVmcElSdkluQ2Qxc05Ud3Znd2NBcw?oc=5",
+   "source": "DIGITIMES",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 2,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-10-19T15:39:55-07:00",
+   "keys": [
+    "32b10cd1450c2458",
+    "deab77b4cbffff74"
+   ]
+  },
   {
    "id": "2026-10-19-ad8128755ad7c5a4",
    "date": "2026-10-19",
@@ -82,6 +105,29 @@
     "b07f1f0c032e229b",
     "ccb5fde547e14380",
     "d27cc02902d4bb8f"
+   ]
+  },
+  {
+   "id": "2026-10-19-90e2ccb91854a720",
+   "date": "2026-10-19",
+   "title": "Anthropic, Nscale in talks for new $45 billion AI cloud computing deal, Bloomberg News reports",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcGMyclR5X0JrXzBKem90Uk1sZnBQNkcyRnlyc3ZnWTM4Q0ZoUWtKUzRrd1Y3aHlqaDRjT1pfaFdmV0pHYUFROFI3TFhTWVhtczJsM01PSF8tSEtXejB4emlhVjZGMmQzeWh0RXJoaS0tNDQ1SDhlZDRJZU5hZG5ibE85N3dxU21DS2ZKYm1NV2pVUUF4ZjF3XzQ1ZncwaHVMdXlWZ2FsWjRtQ1d0eFN2YUVQc2x4cTd6YjNwSTVuVUFQZw?oc=5",
+   "source": "Reuters",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-19T15:39:55-07:00",
+   "keys": [
+    "49e71911d62a084e",
+    "90e2ccb91854a720"
    ]
   },
   {
