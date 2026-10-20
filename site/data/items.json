@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T11:34:26-07:00",
+ "updated": "2026-10-20T14:53:30-07:00",
  "items": [
   {
    "id": "2026-10-20-c409c786ff780822",
@@ -45,6 +45,121 @@
    "keys": [
     "9a20afb59fe3f0bb",
     "ab15b1b9761841d0"
+   ]
+  },
+  {
+   "id": "2026-10-20-6e69d680a9486ec1",
+   "date": "2026-10-20",
+   "title": "Trump bets existing laws can police AI. Will they be enough?",
+   "summary": "The Trump administration is taking the position that existing criminal and civil laws will be enough to hold artificial intelligence developers accountable in an age of unpredictable AI agents, even as legal experts ques…",
+   "url": "https://thehill.com/policy/technology/6161259-trump-ai-regulation-strategy/",
+   "source": "The Hill",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "政策与标准",
+   "regions": [
+    "美国"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-20T14:53:27-07:00",
+   "keys": [
+    "29392d01e35a39fd",
+    "6e69d680a9486ec1"
+   ]
+  },
+  {
+   "id": "2026-10-20-5f972a8660ef0a20",
+   "date": "2026-10-20",
+   "title": "Someone Has to Take the AI Risk",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbG9rcllyNlV4blhqWFFNMUtWbW5WYVVIckd3ZTFPYm9yYjFDdmpMUmFOMlVQTWVxSXAyWmphVTljUnJnWFVEOFJnV1c4N3J4NmhDc2lkYWxGNE10M0l4LTllclZXcFBCcUN5RjFLdlprdEQ2T2VuTXRkVEhuRUV6WkpneS1YRlRiNFI5ZnhIaGE2UQ?oc=5",
+   "source": "Bloomberg.com",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-20T14:53:27-07:00",
+   "keys": [
+    "4ee90b3fbf1a4b1f",
+    "5f972a8660ef0a20"
+   ]
+  },
+  {
+   "id": "2026-10-20-93ee8a9fcf018dba",
+   "date": "2026-10-20",
+   "title": "OpenAI CEO Sam Altman wins dismissal of sister's lawsuit",
+   "summary": "A US district judge dismissed the case after Ann Altman had refused to attend an independent medical examination.",
+   "url": "https://www.bbc.co.uk/news/articles/c94g1502el58o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "美国"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-20T14:53:27-07:00",
+   "keys": [
+    "54671e774620bd98",
+    "93ee8a9fcf018dba"
+   ]
+  },
+  {
+   "id": "2026-10-20-2831ac0e4ae6439e",
+   "date": "2026-10-20",
+   "title": "AI safety device for deaf people wins UK James Dyson Award",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9RRU1KdHptV3dyVXFaTlF6RmtVeVRTVzh2MXpyaTFTd04wODFaWFAxUndNcW5iWFBnRVlTN1FqRlRxYjFZbXB0blNpT2t2WjFzdDlKZnNBSDdrUEhkc2lkanhTYW96TkVvc2RuOEFlSkdxTmpSbm95cHZucWF4dw?oc=5",
+   "source": "Reuters",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "欧洲"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-20T14:53:27-07:00",
+   "keys": [
+    "2831ac0e4ae6439e",
+    "dfa57777dc9d5d8f"
+   ]
+  },
+  {
+   "id": "2026-10-20-aedc77a9be5230c1",
+   "date": "2026-10-20",
+   "title": "Sam Altman’s three AI safety scenarios range from global oversight to a worst-case outcome: Report",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTVNwMHRISUpSR0R1d0tpU2xHOU90N1lHZ2ppSnAwVWpGZFZ5UEJqNGhIU25HZ1J6V0ZhQXgtZkZnOGhMTUhadzFwb0RzSHdzZTJqemVKZlJ5YnlTZmVFNjlrcmZIQlh5T2kwQm8wc3F3OFBQTEZFU2FZcEt2Ql9jdTlaSEM2WlRHbVBaMEpBeTdMQmJNV1RscWY4NDVGMW9JUERPMndTQmppTWgtOFhoRkJYWHd2NVQ0TjViTXRtZGdEeS1BRV9BV2NSd3JOLXE0a28tVXJnMjPSAd4BQVVfeXFMUDhXblc4TmdPTEs1VzMtb3RNVWFrQTRXYW5oM0sxUTVGX3REZ1VpSkdjSHYxYzhIbGpnWkNHM2IzUFBvUUhwa3RJT21aZzZIRGtOQ2VMQ2l0VEs5TkRHdkhoeVRjb1VnZWdBeXdKdVpXRzc5bkdSZHdCSElieTZmME1pSlprRzdJbXlBN053YnJMWU15T0Y0R21Va2pPeE01VlA2OW9Pckl3dTlDZnNNNDhhN2ZTWTFlaGVkZTJJQTJGTkNtNWFOaWJUM2hRaFg5TTZ1RmxDZngzakMwU3RB?oc=5",
+   "source": "Firstpost",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "全球/多边"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-20T14:53:27-07:00",
+   "keys": [
+    "aedc77a9be5230c1",
+    "be032cec1ca6b17d"
    ]
   },
   {
