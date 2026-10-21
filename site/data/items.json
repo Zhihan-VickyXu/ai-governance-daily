@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T11:47:11-07:00",
+ "updated": "2026-10-21T15:00:54-07:00",
  "items": [
   {
    "id": "2026-10-21-81a3d7cd1f33b26c",
@@ -22,6 +22,144 @@
    "keys": [
     "81a3d7cd1f33b26c",
     "f7ba937e4fec543c"
+   ]
+  },
+  {
+   "id": "2026-10-21-7918cce111485d3e",
+   "date": "2026-10-21",
+   "title": "Europe risks startup exodus as regulation, funding and skill gaps hamper AI adoption, AWS EMEA head says",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWlBCRzNNN1hVU0RydnVDdzB6MUtiWVlURnFsTHBMcXlhMWxjMnFvZHVfbmFzSmRPbEtlRlUzQVFxUUgwbEhDdHR5eFFOZXFxdWJ2M0tUTi1DRU4xa2lFMFBEVHdmc25KZUNlVGV2bVA1SnczQ3pCeGE1cjgzV1hVbk9hVjdOTmNOeFEtZEJsVHNpNllLWGtHSWZnd3UxMmFwa2pPVDdMTW8xUm42dmxXbmMxQS1HUDJHektqMnZ1bUJ6OFpFVF9DYzhUSHhIQ0VNTEVnRkdiWGg?oc=5",
+   "source": "Reuters",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "欧洲"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-21T15:00:52-07:00",
+   "keys": [
+    "7918cce111485d3e",
+    "c9496c82cf03419e"
+   ]
+  },
+  {
+   "id": "2026-10-21-97265c92918808df",
+   "date": "2026-10-21",
+   "title": "[共同关注]真相来了：“低价共享”AI大模型付费权益安全隐患突出专家：治理此类乱象需多方共同发力",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5BVkJzWk1wSWpzdmFySEtyMGxpaUV5eU9GTXdyYzh1bHBKVGw1OHcyLWh5Tm1RcU4ySlpaQW9Vam14WVdwZ21QNXVYc0dxeDA3eXVBaTg5T0ZlaGs1OVdlSzBtcWFGMG9UYmtNWUJWbEVnMTBDTVE?oc=5",
+   "source": "CCTV节目官网",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-10-21T15:00:52-07:00",
+   "keys": [
+    "97265c92918808df",
+    "ae49f84a71a1e0fb"
+   ]
+  },
+  {
+   "id": "2026-10-21-07ab04982eb74d9a",
+   "date": "2026-10-21",
+   "title": "AI Boom Has Years to Run Before Risks Bite, Chiavarone Says",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWHNvdmdVTm04ekhWSHp1dmRWT29SYjlCdjBPYWtOYkxSdkRMWE5iV3lCSDJzc3VNZUFxWGZOUVduMS1rZjhldkpaeVJjTUxydnRqZ2dMbUU5bzFZQ1RubjRTX0phaW5KendZZG9hVFpfclJ0bko5bXE3OVU0LXRCdi1vWmVOZW1aTExrSHp0V2FaSEVTVjJtOU9DOW0yRVFvRmZkZzFXVmU4ZWZYdEE?oc=5",
+   "source": "Bloomberg.com",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-21T15:00:52-07:00",
+   "keys": [
+    "07ab04982eb74d9a",
+    "200b4ff4949aa445"
+   ]
+  },
+  {
+   "id": "2026-10-21-1b4fb4a077248d34",
+   "date": "2026-10-21",
+   "title": "航运安全如何守？AI技术补位，人仍是最后关口",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5vZ29xenlLd19SX1ZGUG43SHZBV0djdWZsc1lfSWZLN2dpUWJfbkNEU3p6UXZmM2tTb25wdWx4WlhVSE5CZ2xuYlFqNExCSHM3RVkw?oc=5",
+   "source": "第一财经",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-10-21T15:00:52-07:00",
+   "keys": [
+    "1b4fb4a077248d34",
+    "5d75c0def1112eaa"
+   ]
+  },
+  {
+   "id": "2026-10-21-51d8ff46d7aab49f",
+   "date": "2026-10-21",
+   "title": "How to write an AI governance policy",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1sY0U3T2JCUEdrcDFtQWF2RDh5c2psYTE4b0dWR3EtZEtPMkt2bUVDUFcxelU4QUMwdkpQMjNZU3FSN2NOcXNkSG03OGxPTmtDRjhmTTkxQjhGQXdUU3lzOE94QUg4ZFBRMXhvQk4wNjc?oc=5",
+   "source": "ACAMS",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "政策与标准",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-21T15:00:52-07:00",
+   "keys": [
+    "4092d20eff144f25",
+    "51d8ff46d7aab49f"
+   ]
+  },
+  {
+   "id": "2026-10-21-d5a27c6475171e7d",
+   "date": "2026-10-21",
+   "title": "Artificial Intelligence Insurance Can Close the Loop in AI Safety Governance",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPX0tuZlV2dEVlTG10SWM2a2UxRnRJRTg3cVR4Sm51bTAydS05eTItUDlrUDBaZVpDMDVqRWVMdk5tUFNGT2RiVG8taHhzYm91V0ZzQUsyV1REVjRVal9LM1hEbUtnTFdPTEk4YXRHN3RnekhybDZ6UHRmWFBjcjZYd29fb3RoT1RLUmlWUUZIazlrSVJMVkF1SEFpaVFpcDRkalJRQzVBdVh4SERBU1NGUTdBeWdyUlBVUEgxeXZQd3lCUkNqUXgxbGRrVWNCNFNwZlZLOF9HMUh5a1pBYkE?oc=5",
+   "source": "Notion",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-21T15:00:52-07:00",
+   "keys": [
+    "82ba0cefb29bad6b",
+    "d5a27c6475171e7d"
    ]
   },
   {
@@ -344,6 +482,29 @@
    "keys": [
     "2a348c2bd996725f",
     "f3d2d956febfcabe"
+   ]
+  },
+  {
+   "id": "2026-10-20-8c354baa09a62022",
+   "date": "2026-10-20",
+   "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
+   "summary": "OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, stronger safeguards, modernized cybersecurity, and more resilient public institutions.",
+   "url": "https://openai.com/index/empowering-cyber-defenders",
+   "source": "OpenAI",
+   "tier": "official",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 2,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-21T15:00:52-07:00",
+   "keys": [
+    "8c354baa09a62022",
+    "e56dabbd0ba7461b"
    ]
   },
   {
