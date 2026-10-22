@@ -1,6 +1,144 @@
 {
- "updated": "2026-10-22T11:40:03-07:00",
+ "updated": "2026-10-22T14:57:02-07:00",
  "items": [
+  {
+   "id": "2026-10-22-cc64bc7e49b713bf",
+   "date": "2026-10-22",
+   "title": "Steep bill for AI buildout punishes Meta, other tech favorites",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaG4yYUM1ZzJnZmtpWnhIUVEzU01PRmxZM1BDRDJLazA1dkdaX3k0Z2pPMHJJUi1HUEM2OF9oV1JzSFh3d1dEU0dzc3JMQWRCeDhRa2JvNGVBbVluUlY4UGY3REoyWVZkTFBZT3BGa0swX2s1RzY3MDM5ZWlBTm1wYVBYNEt5M2VlTFoyRVNTTXJUaUVVYzVNcUtQQ2hfUW9nalZGbQ?oc=5",
+   "source": "Reuters",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-22T14:56:59-07:00",
+   "keys": [
+    "74b9ae16780b6a67",
+    "cc64bc7e49b713bf"
+   ]
+  },
+  {
+   "id": "2026-10-22-096ada160bf01a0d",
+   "date": "2026-10-22",
+   "title": "黄仁勋在GTC 2026柏林大会发布DSX POD与OpenShell，回应欧洲AI监管与成本回报焦虑",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBYQ1pmdmlYN0pJQlZwTW5IQ0xNbWN0SmNNdDZZNWVlWFBSMHN2WGxqd0oyX2JsYWZueUFIWWtYcWhNczFkN3E3d0Zkd19VMjN2WVZxMQ?oc=5",
+   "source": "虎嗅",
+   "tier": "b",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "欧洲"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-10-22T14:56:59-07:00",
+   "keys": [
+    "096ada160bf01a0d",
+    "4e2d3845e06c2536"
+   ]
+  },
+  {
+   "id": "2026-10-22-6db09796491f2f75",
+   "date": "2026-10-22",
+   "title": "The Foundations of Scalable AI",
+   "summary": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one.",
+   "url": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
+   "source": "MIT Technology Review",
+   "tier": "b",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-22T14:56:59-07:00",
+   "keys": [
+    "6db09796491f2f75",
+    "8259050fd97fb525"
+   ]
+  },
+  {
+   "id": "2026-10-22-f3d53e3d18abfd6b",
+   "date": "2026-10-22",
+   "title": "The State of AI Governance in Third-Party Risk",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVmtCU2o4NVhHb0tkeG0tMkVaQWgzbVVfRGJVNFFBTmNiVm95dFpCd1RwWHR2NTc5TUVnX0c1R2ZIYTVfUVZTbnc1MUtJaVZ4bFM0LWNLWEk5cHdZMDlLOGotM3p2QjluQnNlNTdkeUdkZlJKVXdoenJKT29jX1V0QTNCMnd1endwYVh6d1NyVURrZzFjUjdzUnB2VFo?oc=5",
+   "source": "Compliance Week",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-22T14:56:59-07:00",
+   "keys": [
+    "6edbae690f23e531",
+    "f3d53e3d18abfd6b"
+   ]
+  },
+  {
+   "id": "2026-10-22-808303d47473046b",
+   "date": "2026-10-22",
+   "title": "EU AI Act: first harmonised standard covers only quality system",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNX2ZidUJMNDRpT2pETk5FWG1jZXJiTk01cjd3WHA0cDkwdUEyVF95endwRkpjRENKNFNzNU1RLS1tckxXZXRUM1ptRGhFRVhmZk52WFgza3hGT0hseU5HbmFzWmlzYkRySk15RC0xSExVWEdzSWpTYXVVMVY3dTUxRmJWbWhtRnhmRWpJZ0NVdnhTaXdzRU1STHhn?oc=5",
+   "source": "ActuIA",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "欧洲"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-22T14:56:59-07:00",
+   "keys": [
+    "808303d47473046b",
+    "dbf8ffee0f9ea293"
+   ]
+  },
+  {
+   "id": "2026-10-22-72c8b32fea4bf346",
+   "date": "2026-10-22",
+   "title": "UK and Nigerian partners deepen collaboration on AI governance, standards and digital transformation",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOUTNuVkRYNENvdkpNZVZyZkNmTlJtR2I5U2RsRm96bHdHVlEyUjJfaGV0OWFvTmRwMmNRempVWGZPRkhNdTZtV1FLa2RWN1RuRnJwM3ZEWXVWRTduRDNST3FRQnJFeGRrOTlxZ0RnVEkxWHlLcTJLQWRKUU9hempIUTExbUg2cXVTX1ZjMzdMN2RqX2NHSk1seDRaRlFZQUp3QzVZZ3g2Wi1uQzY0ZXAyRTJPNjM0NFVjN1NBWDFBcUZ4bnc5TTVJWWpmSTF6MTQ4R2ItcFU3UUQ4aEnSAeABQVVfeXFMTWRpU2pQVFUxWTU0bnozbTZfTVRPblJjZmJlX0wxTG5KekNzdThETTNwUXg0enVITHRSSzc0cG5maFBWVGlYZ0Y0Z2ZncllGTksxYk9iczBXb2hpZ0FIVEdYMUNFVHdIY0p5d3hCdGNFU1Q3bDFPcVZINWU0OWNyaFQ1SGljU1ZyVkJlSkU2UGFZV0tGTmF1SW1PUXpIenVRQUY3amFzLUJXRXRyb1Fhcmg1Nm1EOUVfQlc5dkdEM3RueHJjX1lyaXRWVjBTSFRHdS16Y3N1MUlMSWFfY2NlUS0?oc=5",
+   "source": "WION",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "政策与标准",
+   "regions": [
+    "欧洲"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-22T14:56:59-07:00",
+   "keys": [
+    "72c8b32fea4bf346",
+    "7a29235535bbedef"
+   ]
+  },
   {
    "id": "2026-10-22-40993de8e7e334fb",
    "date": "2026-10-22",
