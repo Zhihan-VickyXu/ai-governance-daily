@@ -1,6 +1,492 @@
 {
- "updated": "2026-10-21T15:00:54-07:00",
+ "updated": "2026-10-22T11:40:03-07:00",
  "items": [
+  {
+   "id": "2026-10-22-40993de8e7e334fb",
+   "date": "2026-10-22",
+   "title": "The Guardian view on AI safety: the push for global regulation must advance | Editorial",
+   "summary": "The current US administration is an obstacle, but public demand for protection will ultimately prevail Organisations around the world scrambled on Thursday to fix critical flaws in PHP, the software that powers much of t…",
+   "url": "https://www.theguardian.com/commentisfree/2026/oct/22/the-guardian-view-on-ai-safety-the-push-for-global-regulation-must-advance",
+   "source": "The Guardian",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "美国",
+    "全球/多边"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-22T11:40:01-07:00",
+   "keys": [
+    "40993de8e7e334fb",
+    "dfc3d4f90aacfec1"
+   ]
+  },
+  {
+   "id": "2026-10-22-02e22f3218c21c6e",
+   "date": "2026-10-22",
+   "title": "Katie Haun on AI safety concerns, rise of insider threats and liability debate",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQR09KSmVPZVFQbUpmWFNUNk5FSDR2Q0NJQ1FVVGRiczNYTXQ3STUyd091bnhvSFJoQjdJUHNPVUx4bThlMTI2WUZxcTRiLWdmQmhLVGRNN2FoaUdUUkhzM3NTUHp3ZkxQMG1NX2gxendsZFdBOGJ2clhKZWpuM3NNdXFYemdoTWtOTENKMnBjZEdOVWpmaWhzc25WR1ZseTFGV1lEOGFDV2hjZ0tYcmJVc3NINkFaOHA0Mks1aw?oc=5",
+   "source": "CNBC",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-22T11:40:01-07:00",
+   "keys": [
+    "02e22f3218c21c6e",
+    "8f0ad0c37bb174cc"
+   ]
+  },
+  {
+   "id": "2026-10-22-10b55e197333fb41",
+   "date": "2026-10-22",
+   "title": "Von der Leyen’s coalition fractures over need for AI liability rules",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWGxmQkhRQVhXMmdlLVBDcFBTS1Ytd3ZRcE9WUFpWNDNOSm1sTDVZVjVGNXY4T3hjNUt6SndiSWNJZWp0TEExWXpzUEotekNOQjhuM1V0Q0xkODBwR2FqZE4xS0p2YmRNZjFjSTVpMF9rZE1Ia1BVbXgwZGZTbXRISVpOZVdXTEw2UU45MGZEUFp4UnVoekJkUjYwRThPa3k3ZFFiZUJyMXUwQQ?oc=5",
+   "source": "POLITICO.eu",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-22T11:40:01-07:00",
+   "keys": [
+    "10b55e197333fb41",
+    "678e8b3f74d2bc25"
+   ]
+  },
+  {
+   "id": "2026-10-22-602b1a04280a1ec0",
+   "date": "2026-10-22",
+   "title": "AI时代下的互联网基础资源监测与治理论坛成功召开",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9DY0cwNVQtbEYzNXEtUnFVUGZLMm5iMVBJNzg0UGNrN1VHRnh4OWhrelU0VVUtamZva1lIeEc1UGU4czlLVVpJRFVsdTNEZ1l2MmpRZmpSbUhQZk1XRUVPWg?oc=5",
+   "source": "ThePaper.cn",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-10-22T11:40:01-07:00",
+   "keys": [
+    "602b1a04280a1ec0",
+    "8ab7068a2a07945f"
+   ]
+  },
+  {
+   "id": "2026-10-22-8dbcca0e0bd9227e",
+   "date": "2026-10-22",
+   "title": "晚报丨中东局势恶化，俄罗斯再袭基辅，油价走高；PHP漏洞冲击全球网站，网安股迎资金追捧；贝莱德看好黄金；Anthropic推出AI智能体；Meta被判250亿美元天价罚单，OpenAI支持AI强制监管",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONUVHbzh4R2dtRkpJeG80Ym03VENqNHZxalJBZ3JJeGl1Z3VhWkk5UUdsSjJrMGk4MXJaaS1PYmx3T3BhVTk0LUdiYUFjdmxQTW5Ya0xyVDVNemg3ak5MSTYyWUdDbXlJQTkwdDJBVTBQeEY2bGhKWUh1WVpnMHBvbWY0WTBaMTA0S0hrMFdkcw?oc=5",
+   "source": "21财经",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "全球/多边"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-10-22T11:40:01-07:00",
+   "keys": [
+    "847b6f31d435c99c",
+    "8dbcca0e0bd9227e"
+   ]
+  },
+  {
+   "id": "2026-10-22-46369aa15c7a2917",
+   "date": "2026-10-22",
+   "title": "AI safety group METR finds flaws in OpenAI’s internal monitoring system",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPa2JvMy1McnRUdXBvVGlqSDhtMERqUGQyczh4TzJpTGFLX21ncWdQMXZOLW9YNW01b3hvWm1iWnVEQmtfQWowX1JRdzgzZFBlZVk4d0pxbFFnX3p0andwR09xWU9Fb2gtQ2hBZXI0QmlKZU1OWGlLQW1RdEtJTlM1WUVIdk15U0xQYU00eVl5UThUX2M3N0ZZOFJKM3R1RVF5RUpoTTRFZ05EQmw5WG8tS2ZB?oc=5",
+   "source": "Reuters",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-22T11:40:01-07:00",
+   "keys": [
+    "46369aa15c7a2917",
+    "f61a3281c8418dce"
+   ]
+  },
+  {
+   "id": "2026-10-22-544bdfd5f7a8dee9",
+   "date": "2026-10-22",
+   "title": "Investors see risk from US midterms to AI trade as data center backlash builds",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPN1FMNjdldVFMRjM1VlhaMGJCSG9GR3d4TzBjRVUxRk1NYnpHZWxDU1BLNVN4Y1BxUHhrdDhCc3JDYXpiN0c1T2NGRHFRNUxRcEFFVkpadTYxX0h4QXREYWtEZjVyOVJSdkQ0NlBnS05lRVlTUzhVNTRrdGNpbGM4blFKb2NiSnktRGdERWV4R1psd3BqbTROX242TjBkbFl2RVVhenBXVDZEVks3M1FsYTZBOGhhYVRfT0s1TmZ4SXQ?oc=5",
+   "source": "Reuters",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "美国"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-22T11:40:01-07:00",
+   "keys": [
+    "544bdfd5f7a8dee9",
+    "824314634b110c2b"
+   ]
+  },
+  {
+   "id": "2026-10-22-e1dc191375b210f7",
+   "date": "2026-10-22",
+   "title": "Fixing Britain’s welfare state and the limits of AI policymaking",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOV0J4SG5XTUIyRTU1TnBpNU9oM3ZfQjhVaEYtLXZBSTh0NWZZOENBanVmdlU2TF9MV0gta3pvVmxQZm5EV1R3Zkd3UnNYTEp1dDZVZkVLVmJ1MzUxNzdaYTFBQjFPTTlvUVY3V3NnNG9yMk9hbC1tb216OVNJYmk3T0x1MXo?oc=5",
+   "source": "Financial Times",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "政策与标准",
+   "regions": [
+    "欧洲"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-22T11:40:01-07:00",
+   "keys": [
+    "d9c5f9fc15ee441c",
+    "e1dc191375b210f7"
+   ]
+  },
+  {
+   "id": "2026-10-22-5ab8886901e10528",
+   "date": "2026-10-22",
+   "title": "Derbyshire Police senior detective accused of using AI for decisions",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE00dkRRdlVDZUFDa093OWxRTTMtNENIcjZQUzU0WmRKTk5UTWgwR2VhX0hSem9kczR5bmtMSk5aeDZuUWctUnNBQWtFVjVfUjFrVmt3MWctbFdZR2s?oc=5",
+   "source": "BBC",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "政策与标准",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-22T11:40:01-07:00",
+   "keys": [
+    "5ab8886901e10528",
+    "5b1472901fda6196"
+   ]
+  },
+  {
+   "id": "2026-10-22-8a71968f26d4f8a2",
+   "date": "2026-10-22",
+   "title": "面对面｜中金缪延亮：AI时代的K型分化下，总量货币政策失效了吗？",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB1OEZtM01KMVpTOThJRWdYXzF1ZExxWEM3Smd3ZjR5MWl4UTVNcE9fUEtVdW1FdmgyM1VkRmdtZWVZN09NbTVaWTlSZU95OXBrN01KeGJ2Qk9McUljMl8weE5B?oc=5",
+   "source": "财新",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "政策与标准",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-10-22T11:40:01-07:00",
+   "keys": [
+    "8a71968f26d4f8a2",
+    "faabe9bdbd8ab36b"
+   ]
+  },
+  {
+   "id": "2026-10-22-52a445a2a4016693",
+   "date": "2026-10-22",
+   "title": "全球贸易繁荣背后的隐忧：AI红利集中与美国政策摇摆",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBBUERSdVNjQWI4b2NXVzBickVBMFZWOER2UlkzaHN2cDNrSHlxTW1UOTVaaE5ncjV4ZUl1WlEyLUd0Y0hqTnRkLU5HdEVWcnFtc1dDTHJIZGI?oc=5",
+   "source": "界面新闻",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "政策与标准",
+   "regions": [
+    "美国",
+    "全球/多边"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-10-22T11:40:01-07:00",
+   "keys": [
+    "3f2a0ce514f493a8",
+    "52a445a2a4016693"
+   ]
+  },
+  {
+   "id": "2026-10-22-a71887b99010295c",
+   "date": "2026-10-22",
+   "title": "用AI守护水上交通安全 洋山“VTS精灵”全球首发 - 人民网-上海频道",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9sajM0bHVZV0pjS0R0ZjdqS1F2RzNxNkNGbW0wLTcyQTJxVXJDOWZ6czZTZmR1VFBhamF6TWQ0RlJJUlhQNFVvVkZLS3NkS0tUUnpjeHBJc0pRbndsYW5ldTJfejEwbV94cFE?oc=5",
+   "source": "人民网-上海频道",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "中国",
+    "全球/多边"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-10-22T11:40:01-07:00",
+   "keys": [
+    "2aec623934e2556e",
+    "a71887b99010295c"
+   ]
+  },
+  {
+   "id": "2026-10-22-0778fbef7b09f1fb",
+   "date": "2026-10-22",
+   "title": "AI Governance Vendor Directory",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9TYWlJMWxjSHhxRlhZUmkyaTA2RGNiY2NiUTBBMVVteV9UNWF3dlRBUEtjZGZ1SUtvLWRELXFTTFlrX01BUkJUSXpZYnBhUVJrOFlCS0ltSkpfSU9IOXc4UnZCNkItb3hF?oc=5",
+   "source": "IAPP",
+   "tier": "b",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-22T11:40:01-07:00",
+   "keys": [
+    "0469281b9d56afef",
+    "0778fbef7b09f1fb"
+   ]
+  },
+  {
+   "id": "2026-10-22-5ce4a57bffa39540",
+   "date": "2026-10-22",
+   "title": "Age Checks, AI Regulation and Censorship Put Internet Freedom Under Pressure",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNM0wtcGQyY0dvY3pBMmRSNEd2ZXNpcmx5T2tRcGJDaEN4WUt6amxvTHg1ZFJtSXpNeUpILVJCNlRtVkY2RkN6aS1hYXdGQ3E4RWxRdWFudm90U3Q2REloU1pZbHlTaVV3VlFOcXVFR01mbFFicldTc2poTExxV2RtQUYtajk2em4zZGMwdnBscWxET2VuZnVJNnUwSzItU3FrZ0E?oc=5",
+   "source": "Tech Policy Press",
+   "tier": "b",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-22T11:40:01-07:00",
+   "keys": [
+    "54742ce634fe1685",
+    "5ce4a57bffa39540"
+   ]
+  },
+  {
+   "id": "2026-10-22-19ba9cf634cdcc9c",
+   "date": "2026-10-22",
+   "title": "AI’s hidden storage bill: What inference leaves behind",
+   "summary": "Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves something out: Data storage costs.",
+   "url": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
+   "source": "MIT Technology Review",
+   "tier": "b",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-22T11:40:01-07:00",
+   "keys": [
+    "19ba9cf634cdcc9c",
+    "ac0e9f4e96743bee"
+   ]
+  },
+  {
+   "id": "2026-10-22-49241272a23edb0a",
+   "date": "2026-10-22",
+   "title": "Bill Gates says to prepare for 20 years of ‘tumultuous’ AI disruption",
+   "summary": "Today, I’m talking to Bill Gates, cofounder and former CEO of Microsoft and chairman of the Gates Foundation. You may have noticed Bill in the news more lately — he’s been on something of a tour for the past few months,…",
+   "url": "https://www.theverge.com/podcast/1015408/bill-gates-ai-interview-microsoft-openai-anthropic-risk-policy-regulation",
+   "source": "The Verge",
+   "tier": "b",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-22T11:40:01-07:00",
+   "keys": [
+    "49241272a23edb0a",
+    "f7dba70af44b5178"
+   ]
+  },
+  {
+   "id": "2026-10-22-1f21ad47751d1759",
+   "date": "2026-10-22",
+   "title": "AI, Child Safety, and the Law",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQenVVdG11Wl9WSlhEbnpGajdxNjhsR3Q2REdsSENLZU5vaXR5THBSUmtBSEIyZGVnM3pZV0VlWW1rbDUzUXhBRjVSTmVrcUFLZDQ4VzFib2dVYUprWU1SUEIxWF9uMzE4QVhWelBUTktXcVgwT3RnT2xFdUtWYVNqNU5taGNqalVN?oc=5",
+   "source": "Lawfare",
+   "tier": "b",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-22T11:40:01-07:00",
+   "keys": [
+    "1f21ad47751d1759",
+    "e2b99ec9b3c2e82a"
+   ]
+  },
+  {
+   "id": "2026-10-22-492b6f1dd718b600",
+   "date": "2026-10-22",
+   "title": "AI governance: Why human review is insurers' liability shield",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdnJQTG9YZ1pGSzExUkhWOVNFaXNRbGhfa3NGYVA3eHg4Zks3RDBTa3Uzb3h4YVFfQ29fVS16MDJmajZ3S01lT29JY0o1ZTJ6UEJOR0NucFlvR0VUeGZLUW9yWTZWNUZEQjA3RVNFanppSURQQ1JHaVBVbGdndEFmblpWdGdmcjZndVBoc2FWWXI?oc=5",
+   "source": "Digital Insurance",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-22T11:40:01-07:00",
+   "keys": [
+    "492b6f1dd718b600",
+    "bb2c35e00c28ec8d"
+   ]
+  },
+  {
+   "id": "2026-10-22-80610ee02bb8aa34",
+   "date": "2026-10-22",
+   "title": "OpenAI支持AI强制监管：致信加州州长 建议强化AI透明度法案",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBpTzF0VzVRRlhMVjBIbHZDcUx6LTc5anJ1UzBEVFhxZDdMOGJHR3VQM1dJUEo3aWNBc3c5Sm05ZU9ZV3cyZjRUaA?oc=5",
+   "source": "财联社",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "美国"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-10-22T11:40:01-07:00",
+   "keys": [
+    "80610ee02bb8aa34",
+    "b26e0b4a374ee745"
+   ]
+  },
+  {
+   "id": "2026-10-22-22e7a10ac62b928f",
+   "date": "2026-10-22",
+   "title": "NAW Releases AI Governance Framework for Wholesale Distribution - National Association of Wholesaler-Distributors",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdXhtMDdSNXlwUkFQMnVnMHVtTzdXYzNXRV9GOWxEdkhKckttTWI0RW9OZV9hVHlFdUgzNGVNZXZoeGxXbnp6X2M4MkpGNUFXb2lGVER4RlVHQmZzV2pkdFgtOWRvVVFzb1JhS195WndudHNqMUFYLXJNa2FQcnlzbWJWRVJ1N2Qyb3JCYWg2OXpabmZDQnRlUw?oc=5",
+   "source": "National Association of Wholesaler-Distributors",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "政策与标准",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-22T11:40:01-07:00",
+   "keys": [
+    "22e7a10ac62b928f",
+    "3b25ec84b7b1669f"
+   ]
+  },
+  {
+   "id": "2026-10-21-4e690d74f30e43ec",
+   "date": "2026-10-21",
+   "title": "Broad access through consistent standards",
+   "summary": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
+   "url": "https://openai.com/index/broad-access-through-consistent-standards",
+   "source": "OpenAI",
+   "tier": "official",
+   "also": [],
+   "coverage": 1,
+   "category": "政策与标准",
+   "regions": [
+    "其他"
+   ],
+   "importance": 2,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-22T11:40:01-07:00",
+   "keys": [
+    "0fbafbf407dde509",
+    "4e690d74f30e43ec"
+   ]
+  },
   {
    "id": "2026-10-21-81a3d7cd1f33b26c",
    "date": "2026-10-21",
@@ -22,6 +508,284 @@
    "keys": [
     "81a3d7cd1f33b26c",
     "f7ba937e4fec543c"
+   ]
+  },
+  {
+   "id": "2026-10-21-ed0222e62d3b939d",
+   "date": "2026-10-21",
+   "title": "国际城市观察｜AI赋能东盟可持续发展启示：加快制定城市AI应用与治理准则",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9vOVNoSjk3Z215RHdZRVZ5b1VqXzhkc1dWZHBTWFprb3p3dUR3Xzh6akh5ajdUZlZFVW02ZUVJR3dMUmxvOENvOGVtSE5jeVVQYmRwUmhCQ1ZjX1d6aGhnUA?oc=5",
+   "source": "ThePaper.cn",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "国际治理",
+   "regions": [
+    "全球/多边"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-10-22T11:40:01-07:00",
+   "keys": [
+    "a679a79d09b584d6",
+    "ed0222e62d3b939d"
+   ]
+  },
+  {
+   "id": "2026-10-21-ffc0f6c13a809b98",
+   "date": "2026-10-21",
+   "title": "[天下财经]AI发现严重网络安全漏洞 大量网站面临风险",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5wQlZtQkZzU3Y1cVg1Y0N1ZWNvelhZNm1OcW1lS2UzekQwMUZXY2RPYkx5Z2VBT0RHSEN0QWpOaktxSGpJOVJlY2d1bjF3T2ZzUWZldDlFdTZJaklxRUs2c19TNWVVX1diemxwdnYxc01nRjk4clE?oc=5",
+   "source": "CCTV节目官网",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-10-22T11:40:01-07:00",
+   "keys": [
+    "140c2475e316aab0",
+    "51ba681468bae178",
+    "778fb932324251a8",
+    "ffc0f6c13a809b98"
+   ]
+  },
+  {
+   "id": "2026-10-21-bbf3083d6fa93d99",
+   "date": "2026-10-21",
+   "title": "DeepSeek wrapping up $15 billion fundraising to fuel AI race, sources say",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQkI4b1B0WkYzUnhGdTF6b0VTRnBCWjRxelF3Q2g4VlRjTzNUOFFTZUhrM3VHSWs2M1VpWkZqN0FleF9JREgzdXpEWFNHM0VvSXhhNm5pdHRXZkRrNUR0UGFJVUMzRjNDWWRwZ0ZtOEsyMm93VU82Rno1R3FxQTNxMllyeWh2YnJRY19hUjZMbExjank3YUg5anFYdjRHRUdnSlN3cFMwMU9TLVBDSldIYUpUdy1vYTdtS3RHTnphNU1KYTdtYWVzNFFR?oc=5",
+   "source": "Reuters",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-22T11:40:01-07:00",
+   "keys": [
+    "5f53b6f5ddad2d2e",
+    "bbf3083d6fa93d99"
+   ]
+  },
+  {
+   "id": "2026-10-21-48660462f5f35531",
+   "date": "2026-10-21",
+   "title": "政策顶层设计落地为AI应用渗透提供清晰中长期景气锚点，软件ETF嘉实(159852)布局AI软件投资机遇",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1kM0JBVmlfbGItejd3V1Zud3owV095VTJSck5OenVNREJrLTk3VjV4UzhmUTNwbEltaGJzYjlfNF8tOUFKbVVkTXZiVFY3aTlvcEk2bS01SVM?oc=5",
+   "source": "界面新闻",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "政策与标准",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-10-22T11:40:01-07:00",
+   "keys": [
+    "48660462f5f35531",
+    "96537a80013fad2b"
+   ]
+  },
+  {
+   "id": "2026-10-21-764fefaa9d8eef7f",
+   "date": "2026-10-21",
+   "title": "OpenAI更新使用政策，模型路由器、AI网关提供访问权限前需经审批",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1Jc0IyR3hXMjZ1emFsXzlpUkoyeGQ1UWEwaFM3X0dUZkd1RjNuaFFZTlcwZ1pZaXBSYjZGTG5oSGctNGZPcURtanNlS3pOTklKWTltRmZqWHc?oc=5",
+   "source": "界面新闻",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "政策与标准",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-10-22T11:40:01-07:00",
+   "keys": [
+    "764fefaa9d8eef7f",
+    "e751aa50992e0f0a"
+   ]
+  },
+  {
+   "id": "2026-10-21-d9631de22b41ba32",
+   "date": "2026-10-21",
+   "title": "吴越遭AI换脸带货：封号却在舆论之后，治理为何总慢半拍？",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE10WFQ1OUt1dVdaMDlZcDdlT2NDajJfWGtrU01ZS0drS29KcV91V1NFaDZSY0lXZndMSkdSTkI4c0NwdXJWcnNXZktRUHhmbVJUTWxJ?oc=5",
+   "source": "第一财经",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-10-22T11:40:01-07:00",
+   "keys": [
+    "d9631de22b41ba32",
+    "fc23c53f5a9fa13f"
+   ]
+  },
+  {
+   "id": "2026-10-21-5389f20316a0e4ee",
+   "date": "2026-10-21",
+   "title": "Situating Vulnerability: An Ethical Governance Framework for Anthropomorphic AI Interaction",
+   "summary": "Large language models increasingly address users in the register of care: they remember personal details, adopt a first-person emotional voice, and sustain relationships across many sessions.",
+   "url": "https://arxiv.org/abs/2610.29304v1",
+   "source": "arXiv",
+   "tier": "b",
+   "also": [],
+   "coverage": 1,
+   "category": "安全研究",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-22T11:40:01-07:00",
+   "keys": [
+    "5389f20316a0e4ee",
+    "d461c10f7fe468ce"
+   ]
+  },
+  {
+   "id": "2026-10-21-4ea2a2c8f966000c",
+   "date": "2026-10-21",
+   "title": "OpenAI Asks Gov. Newsom to Strengthen AI Regulations",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcXNJQW5vakdCTzh0aWIyTmNqalJYYnFrM3BTVmpxczU5MVAyMlgwdXlGZTNjbk02ZjJ2Qm1YZTNqYVF2TXZTMGpRMGdqaUZVU3lGU3NYYnpWSTU2cWpJenVzbW1sRDN0dU9NNzRqbXdFSkhhRHptUmRPM2NVV0RqMzZDd1ZUTzVmdVc1bzdlS215RGM?oc=5",
+   "source": "The Information",
+   "tier": "b",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-22T11:40:01-07:00",
+   "keys": [
+    "06843b6db523507f",
+    "4ea2a2c8f966000c"
+   ]
+  },
+  {
+   "id": "2026-10-21-00489e3d396b567d",
+   "date": "2026-10-21",
+   "title": "Anthropic 祭出全新治理架构：重新定义 AI 公司的资本规则",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9iMTRnbVBKMmYySFJuUGN6ejZhUlVES212Q2tfYzhtWDZNXzhTcGRZMTZDUW1tT3k0cjgzVkNwYng2R00wT05yZWVPQXpvdw?oc=5",
+   "source": "36Kr",
+   "tier": "b",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-10-22T11:40:01-07:00",
+   "keys": [
+    "00489e3d396b567d",
+    "80419c138a8dda6f"
+   ]
+  },
+  {
+   "id": "2026-10-21-467865883efb3319",
+   "date": "2026-10-21",
+   "title": "Anthropic CEO长文硬刚，自曝雪藏Mythos 4个月，为AI安全自断财路",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1ObUFWYUxTcV9wUWpSaXpmbjJ2VW00dlZJNE5uY3ZvVE9aUjc5dGpOUFc1M1d5Y1B4dmtobEs2R2xsX2Z2cV9sU0ZUNlhVdw?oc=5",
+   "source": "36氪",
+   "tier": "b",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-10-22T11:40:01-07:00",
+   "keys": [
+    "461ed2bc121b236f",
+    "467865883efb3319"
+   ]
+  },
+  {
+   "id": "2026-10-21-31b4d0efff129008",
+   "date": "2026-10-21",
+   "title": "From Reasoning to Action: Benchmarking Frontier AI Models on LIBERO-10 Robot Manipulation Tasks",
+   "summary": "Recent advances in frontier AI models have demonstrated remarkable capabilities in visual understanding, reasoning, planning, and tool use, raising the possibility of using general-purpose AI models for robot manipulatio…",
+   "url": "https://arxiv.org/abs/2610.30051v1",
+   "source": "arXiv",
+   "tier": "b",
+   "also": [],
+   "coverage": 1,
+   "category": "安全研究",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-22T11:40:01-07:00",
+   "keys": [
+    "1f4e4803edec9da0",
+    "31b4d0efff129008"
+   ]
+  },
+  {
+   "id": "2026-10-21-38f5f5f05a68b462",
+   "date": "2026-10-21",
+   "title": "Mike Rogers, Abdul El-Sayed offer views on AI regulation, democratic oversight - ClickOnDetroit | WDIV Local 4",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZ1dldzQxTGtkc0VuRzIzcGstc0ZNOVBSWUE0TDNsQ2t2ZHZqUzdSTUE5ZHZJN0JsQWVaLXgwSlJ2c0EyVW1QanVRbmp0Z2VRY0lqNWlNZVJYTWEybVduXy1FLWQyX1B3VnpDMkZTcHk1emtpRF82NGdjQXNtd0Q3LWJLLVdIUkUwYm9BRTYwZ2E3bzAweExvaHZPd1dDX2NfNmN4dnRCSWM4Ni0tNm93cDBhdkpHaGg1R1REN1VfeDBCU2c0RGtFZHRR?oc=5",
+   "source": "ClickOnDetroit | WDIV Local 4",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-22T11:40:01-07:00",
+   "keys": [
+    "38f5f5f05a68b462",
+    "5a5775fc4c076ee6"
    ]
   },
   {
@@ -574,6 +1338,52 @@
    "keys": [
     "9a20afb59fe3f0bb",
     "ab15b1b9761841d0"
+   ]
+  },
+  {
+   "id": "2026-10-20-108cad1d9bec115e",
+   "date": "2026-10-20",
+   "title": "Beyond Binary Labels: Diagnostic Evaluation of LLM Safety with Prompt-Level Rubrics",
+   "summary": "Current LLM safety benchmarks predominantly rely on binary safe or unsafe labels, lacking explanatory depth and suffering from low consistency across automated judges.",
+   "url": "https://arxiv.org/abs/2610.29225v1",
+   "source": "arXiv",
+   "tier": "b",
+   "also": [],
+   "coverage": 1,
+   "category": "安全研究",
+   "regions": [
+    "全球/多边"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-22T11:40:01-07:00",
+   "keys": [
+    "108cad1d9bec115e",
+    "23ffc0e326b4b994"
+   ]
+  },
+  {
+   "id": "2026-10-20-a07b7a025b0ad9a1",
+   "date": "2026-10-20",
+   "title": "AI Security Literacy: Ecosystem-based Competency Framework and K-12 Learning Platform",
+   "summary": "Adoption of artificial intelligence in K-12 schools has outpaced guidance for students, teachers, and administrators.",
+   "url": "https://arxiv.org/abs/2610.28859v1",
+   "source": "arXiv",
+   "tier": "b",
+   "also": [],
+   "coverage": 1,
+   "category": "安全研究",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-22T11:40:01-07:00",
+   "keys": [
+    "a07b7a025b0ad9a1",
+    "f7969d8d22e8335a"
    ]
   },
   {
