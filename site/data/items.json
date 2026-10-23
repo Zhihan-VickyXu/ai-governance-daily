@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T11:30:05-07:00",
+ "updated": "2026-10-23T14:40:18-07:00",
  "items": [
   {
    "id": "2026-10-23-cd26483cd959039d",
@@ -22,6 +22,52 @@
    "keys": [
     "73d538c2dcd13c8f",
     "cd26483cd959039d"
+   ]
+  },
+  {
+   "id": "2026-10-23-19679f2ffafc89ef",
+   "date": "2026-10-23",
+   "title": "陈国祥：AI全面渗透国家治理",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5waGMycEJDX29iN1hXY1YxcWE3T3RJcTlUWUFGaXhMLVJDWC1EVkZOVjY3UXJITTk3YmExNU1mamV1cFdEa2hRYmlUT19NMi1ENFMyRy0zWlkyX1R1YXlpNThjRXJzeGc?oc=5",
+   "source": "联合早报",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-10-23T14:40:16-07:00",
+   "keys": [
+    "19679f2ffafc89ef",
+    "1b7055101f2344ee"
+   ]
+  },
+  {
+   "id": "2026-10-23-4388234b17c87c96",
+   "date": "2026-10-23",
+   "title": "Texas sues OpenAI, Sam Altman over product safety",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcm00d0JOd3dfc2ROWW5vaklsUk9MWDZXN1hLNWNwMWllNmZ1N2p5WGQ2VVUtOTlzQUdlUDZOcFB1WUpVcWE3WVcxZk16b09BNHZlcHJjWkVYZVNIdE1lbWFJWHRNOGIxbWR2cHFUazdsakh4NnBMcmhyUVdGbzVKNk1Mc001NjhzT09pNFdGanA?oc=5",
+   "source": "Politico",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-23T14:40:16-07:00",
+   "keys": [
+    "0d218964cae62d0a",
+    "4388234b17c87c96"
    ]
   },
   {
@@ -436,6 +482,29 @@
    "keys": [
     "2cb6effd4dce59f5",
     "587ea999682559df"
+   ]
+  },
+  {
+   "id": "2026-10-22-af74084082e87cd8",
+   "date": "2026-10-22",
+   "title": "深度探讨｜人工智能重塑金融业态：机遇、边界与风险",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5JWDR1MU1VYmdjaWlpREJIeUt1OWJ1dXQxOUtCc2lWNFJ0X3Nic09aNWZuVGZUd2dhcndEcG83X1V3MzBTaHhhSEJYVExFS3ZoVkJLb1paRWNYWldObUZfZA?oc=5",
+   "source": "ThePaper.cn",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-10-23T14:40:16-07:00",
+   "keys": [
+    "af74084082e87cd8",
+    "df602a6df6cc165c"
    ]
   },
   {
