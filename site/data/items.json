@@ -1,6 +1,720 @@
 {
- "updated": "2026-10-22T14:57:02-07:00",
+ "updated": "2026-10-23T11:30:05-07:00",
  "items": [
+  {
+   "id": "2026-10-23-cd26483cd959039d",
+   "date": "2026-10-23",
+   "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+   "summary": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
+   "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+   "source": "OpenAI",
+   "tier": "official",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "全球/多边"
+   ],
+   "importance": 2,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-23T11:30:02-07:00",
+   "keys": [
+    "73d538c2dcd13c8f",
+    "cd26483cd959039d"
+   ]
+  },
+  {
+   "id": "2026-10-23-448107f72f46ec21",
+   "date": "2026-10-23",
+   "title": "Exclusive / Democratic pro-AI regulation PAC spends against Senate Republicans",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSFB1U2pTdE44QVNiUGVFZTBxODN6S054Ukk0TVZUMFoxWEd1d1QwMlI4RnVIRVc2c2szdEdDRHc0UUNhc0dzaUZ5cDNBaE1CeVE2czE1MEFQYkoyVXQ4V2VwRl94d2piRFpmQ0JtMkR2RDgzSmhWWDVFbU9KLTNUZ08yRDA1eGVNdDlvMlZ1cEI2QV9KeXhFNk11LU1iM0k?oc=5",
+   "source": "Semafor",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "美国"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-23T11:30:02-07:00",
+   "keys": [
+    "2c77750f4c696ba2",
+    "448107f72f46ec21"
+   ]
+  },
+  {
+   "id": "2026-10-23-d44e6f7d82a7338d",
+   "date": "2026-10-23",
+   "title": "Wall Street regulator to focus on AI, private assets in corporate exams",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYmktYzhnbk9rRktmb0pOaE1ORnQyWDNtU1RldG8wNHJiMzh1UlVUYl8tOFZUdlRmbmtLNl9STTVKRzV5SF9aVXlRd1RBZ1hhdHFSY0kxUDJrcDZ1WVlXUm9mcWdtNElwblJWTW11WVltWDNYMlN1ZDltWG85WmMxd3EwUEtuMWFTbHRINS1SbzRreFJyM1VxLVNjd0lYbEd4MjRweXZhMzN1RVYtMVRFeXliaWs?oc=5",
+   "source": "Reuters",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-23T11:30:02-07:00",
+   "keys": [
+    "4434dd4fe3589a59",
+    "d44e6f7d82a7338d"
+   ]
+  },
+  {
+   "id": "2026-10-23-1d522bd8a6869da9",
+   "date": "2026-10-23",
+   "title": "How I got roasted by \"AI actor\" Tilly Norwood",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Ibko1TWVEa250TGNRUjlOWi1ZT0RFN0ZhM19NQ0ExSWo2WDA5cDI5bGdkTldRVC1lRWdvM0pnblpHeUNuZHhKNkpjM2p0SUNNaWNxRFZaNkhrVXZHTElrMjBwUExqRE5xWjZlZG9GcWVUMDZBLXc?oc=5",
+   "source": "Axios",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-23T11:30:02-07:00",
+   "keys": [
+    "1d522bd8a6869da9",
+    "7dff81c3e9b03160"
+   ]
+  },
+  {
+   "id": "2026-10-23-e4b2ba6f86bb6247",
+   "date": "2026-10-23",
+   "title": "抖音通报“AI小海”治理结果：相关人物系AI合成数字人，相关账号及内容已被依规处置",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBHUG1jV3NNNXVMTTlScjNleFNNVEo5NzNUTG5URkpRUTZLVjJac2JXWEg4S3YzclV2QXNKMVF2Y2stNlFRUXNmVDI4N3BBUzN6dFltRjdqYVBvek42YUpRRQ?oc=5",
+   "source": "ThePaper.cn",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-10-23T11:30:02-07:00",
+   "keys": [
+    "a8ca641f64b6c3f7",
+    "e4b2ba6f86bb6247"
+   ]
+  },
+  {
+   "id": "2026-10-23-bc48b78f7b6dda7a",
+   "date": "2026-10-23",
+   "title": "Fearing Mass A.I. Layoffs, Some in Congress Eye Ways to Aid Workers",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBPdy03ZnVhWkpzUVlCa1U0b2Mxb21KNVJhcXBYejJ2R3drZFczNmRCdXZCWGhsYUZEZkoxNlpCc05WRlV4TEtUY0ZmQ0pyRGlpR3ZlNE5PYmQ5RXJCTjltS3NsYzBfOURlalBrMXZONURnakpRRlBVTXZpcjBpdw?oc=5",
+   "source": "The New York Times",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "美国"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-23T11:30:02-07:00",
+   "keys": [
+    "45de94aad3d41bb3",
+    "bc48b78f7b6dda7a"
+   ]
+  },
+  {
+   "id": "2026-10-23-b83c82cad2dfd178",
+   "date": "2026-10-23",
+   "title": "The Morning Risk Report: The Signal Chats That Cost OpenAI Researchers Their Jobs",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdG1zWHJHcHdMY1NrMDFadURzb0tpeUsxa3hGeEpnXzYtaGhKa3p6N05hSmtmRE9Oc01RUlVXbGpPeXFsaHdJaTh0THhJcEtvQ1dFMHh5S2lhaWxST3ZmdEhzZF9PdVFuS19ud05pcm9nVzJvOUZQRmd4TFhwWVl3LUdEVEtRR1pNVFJxMEFmS2kweUM1U0hNNjVGVlpCYy1uMGtvUGgya3ZsRFlja1c3VHlIbWFfMUdhdlUtYUFFZ1VQQnFNRVpGTnVpa1RmZw?oc=5",
+   "source": "WSJ",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "安全研究",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-23T11:30:02-07:00",
+   "keys": [
+    "b83c82cad2dfd178",
+    "b8d92dd77eab55e7"
+   ]
+  },
+  {
+   "id": "2026-10-23-b1ece761e1e3872a",
+   "date": "2026-10-23",
+   "title": "‘Bumper sticker bill’: AI kill switch rides the midterm elections wave",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNT3Rhc2J4YTFubEFNTlZKdzBOZGdPVF9nYXBhS01OUVJlX09PS1RtWTdhR0NzMU5HLUNUT21jdnJXODZnVm5ZYkJOaFVtaERvcEVPQnEyZDlOVmdnOS12czkyempuN193aW9COGJQZTJkRXZ6VWJqQ2xPZ1hrNjFHRVlpZ2JtVHVXb0E?oc=5",
+   "source": "Politico",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-23T11:30:02-07:00",
+   "keys": [
+    "2211132cf4dbd163",
+    "b1ece761e1e3872a"
+   ]
+  },
+  {
+   "id": "2026-10-23-34c1dd6900b07ce0",
+   "date": "2026-10-23",
+   "title": "三重利好共振，AI应用、金融科技、网络安全携手冲高！绿盟科技等6股涨停，软件开发指数大涨6%！",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBWcl8xZjZEMGtwWUNOZno3U0hyWFlYd3I3TW9sOXVvNnVuU3JJWXRlMV80ajh1bEZEZnVKSlBlZEN2S2dfZ09NVzNtX3VOZ3dzcDNEd1FBTlM?oc=5",
+   "source": "界面新闻",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-10-23T11:30:02-07:00",
+   "keys": [
+    "34c1dd6900b07ce0",
+    "5a338f09e43542a6"
+   ]
+  },
+  {
+   "id": "2026-10-23-c25313148457edd5",
+   "date": "2026-10-23",
+   "title": "全球约70%网站面临高危漏洞 AI时代网络安全问题激增",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5oaHVfcW4zRjFpdzUtNDBTX2gtVEw2cE5jb3BKd25Sc25tazlRQnc3LWp3VHc4UlJvVDVPTFlyWjQxdmJTM1dGY0ZsWjdqa3o3bUxyNGRxMkNpY0drQzRYYmN6SEY?oc=5",
+   "source": "财新",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "全球/多边"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-10-23T11:30:02-07:00",
+   "keys": [
+    "669df442daa3792e",
+    "c25313148457edd5"
+   ]
+  },
+  {
+   "id": "2026-10-23-a0532fe812e236dc",
+   "date": "2026-10-23",
+   "title": "PHP安全漏洞震动全球： 黑客数百万次尝试攻击，AI时代攻防节奏变了",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9rQXBXOWJaeEJXZC1tcEg1Rk1OZThYdzZ2Q3poZTZwUURPdFdpQVZ1Z2hkbXpoUlVNUnBPOVczdVFBa1VHb3hrb2pDN0R1N0p6OGRyY185NUJVdTh0TWNPbA?oc=5",
+   "source": "ThePaper.cn",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "安全事件",
+   "regions": [
+    "全球/多边"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-10-23T11:30:02-07:00",
+   "keys": [
+    "a0532fe812e236dc",
+    "d9e0b23af5300726"
+   ]
+  },
+  {
+   "id": "2026-10-23-92ea72252bbf6be9",
+   "date": "2026-10-23",
+   "title": "PHP漏洞拉响全球警报 AI时代网络安全迎全新发展机遇？丨行业风口",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8zWTNJSnR2TVlNdmxabG44YWRhY1JFUkZjTUIwTDRIRW5uT3dKaWRkVG00RDQwbjlwNWhSUzB6NG5CUmpMejl4UFJ5Q2NBM2xvTlI5WA?oc=5",
+   "source": "第一财经",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "全球/多边"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-10-23T11:30:02-07:00",
+   "keys": [
+    "62446fe50e687f4d",
+    "92ea72252bbf6be9"
+   ]
+  },
+  {
+   "id": "2026-10-23-258575e58f75d6ca",
+   "date": "2026-10-23",
+   "title": "OpenAI's Kazoo-Grade Spying Incident",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9rU25yd0wyM2NNRWtXZ2JRa0dILWVGWHNxeUdOMFM4V05wMFphQ3RneW11d3phR1R3X3E3dUI4RDlBc0RPTmdueFFFNDN4T0lqLUdkd1ZNcTVGQ3NqcnpGZ2dvcV9kT2pla3FBZU1NZVNrUnF1NlI1VkhOYVMzZw?oc=5",
+   "source": "Lawfare",
+   "tier": "b",
+   "also": [],
+   "coverage": 1,
+   "category": "安全事件",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-23T11:30:02-07:00",
+   "keys": [
+    "03d3cacf8ebbc760",
+    "258575e58f75d6ca"
+   ]
+  },
+  {
+   "id": "2026-10-23-e8cac6366c2f7085",
+   "date": "2026-10-23",
+   "title": "Senator targets AI risk: Becker legislation pushes AI safety research from frontier developers",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNT3dQNGwwMUtSZlotRXVLZGZpRUtzdWZRWWFhTXBTZjRaQmxnZkJxaGV2dHRDRXZIWlV3X1FzNDZOQTNSNU1LZF9OTmZ3UFZ1X3FFVW1SWW5sNS1kSThaSkw0RXdIZFF5M2lEanNZZXppRENUamE2cEJNbEY3YVlWaDJkb21uVmwtMlpmOHhBZ0N0UFE2ZWU2bEtzd0pKbTZjZ1JTODBPQ0ktUjFfQ3VuTnpLMlZMemZTZk1TSmNCWFUtWUhCR2FhS3owa19UT0N4ZTFvQUgyVVlBLXptNjRpWC00T2tqRG92TXM3SlNYQkJ3d2tRRlRKQWg3TU5uczcyeFhUS3BvQjR6WWxYbkJsRmc0SQ?oc=5",
+   "source": "San Mateo Daily Journal",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-23T11:30:02-07:00",
+   "keys": [
+    "c3a5455233c65ea3",
+    "e8cac6366c2f7085"
+   ]
+  },
+  {
+   "id": "2026-10-23-cbba4071e4c52416",
+   "date": "2026-10-23",
+   "title": "杭州市数字政府建设“十五五”规划：全面贯通“数据—模型—智能体”“中试—应用—产业化”“安全—合规—标准”三条链，将杭州打造成为开源活跃、数据充沛、应用智能、场景丰富、治理完备的AI原生城市– 智慧城市行业分析",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMDJ6SU1sMGRNMDlLeXg3cjhSRkNKTmM4ZVQxbDFvWTBvOHYyWFRhN21FN0VYM3RWVERIVVd5WlpaYXF0VGswa0EwWVJNWGxVaElHV1ozSWJZaXphU2l0dU1UeDhFZDhmSU5keEhCTWdydXBoU0dBU3Mwejk5RldWTHY5by1hamtaazlHb1Z6WEVFaUp2ME9keWJ3M3ZRWi1hT2NhUFZvQVpJWUhLWHJPSjNGaEVZSXRoaE5ZdS10YTRGbFJNYkE?oc=5",
+   "source": "智慧城市行业分析",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "政策与标准",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-10-23T11:30:02-07:00",
+   "keys": [
+    "50c3b3e4bd0388b9",
+    "cbba4071e4c52416"
+   ]
+  },
+  {
+   "id": "2026-10-23-0fc371f7ace9929c",
+   "date": "2026-10-23",
+   "title": "AI governance expectations in financial services continue to take shape | Inside FinTech | Global law firm",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOMEFHbU13Zk01WWZ1YlIwRm9HaTNVSnJIVU50MWdNVVg0alFid05qeDhVVkZtME1uUHlzaWxPV2hLWjlFcUtJeVU2WUw4Uzl4dXBhYUVUMFJaa2FtbVk4MzNrS0ZLT0V3RzZybWRUa3ZzLXYyaWZiS1lyWkY3ZVBiZGk5X1loWHVZLXplTGFrcm9yUTJLNmlucEllbHlyeGt0a2ktSTBjSmROSTlfb3BKUmNRN2hONXp5aXhDVThiQ3luMHBtclRxY1F5Y3dOVGdlb1ktYg?oc=5",
+   "source": "Norton Rose Fulbright",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "全球/多边"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-23T11:30:02-07:00",
+   "keys": [
+    "0fc371f7ace9929c",
+    "d5978ad1f4414e65"
+   ]
+  },
+  {
+   "id": "2026-10-23-d4a3cc03e7db5097",
+   "date": "2026-10-23",
+   "title": "Harvard Alum Launches Hispanic AI safety Institute Following Viral Growth of 'eltechbro'",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQY3MtQ01wZFBWVDhvdE5BTzJJdlRibmZtckpqbGJ6WVZURHJjZUEtTlNldzVKdkt3Tmd2ejB2aC1NOU42OWJQN3RtdDEtQzRfNk11S0pOVm9kOFMtV3ByU3IzTnVxcU1OYjZUbWhYbkdUM016cVlzSmFRcTh3b2tENXdyVEhObUFENmR0ZlptWTFjQnNQSHdZSXh2VGNFQ0FOeDduaDhmZkxjZDJOOEVvcWhiYi04RUxqci1kalFWVGNSTGFLUnNpeEl6OHVUdw?oc=5",
+   "source": "EIN Presswire",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-23T11:30:02-07:00",
+   "keys": [
+    "84f0be7e3d46c42a",
+    "d4a3cc03e7db5097"
+   ]
+  },
+  {
+   "id": "2026-10-23-ea477f6289357a6d",
+   "date": "2026-10-23",
+   "title": "新加坡金管局发布人工智能风险管理指引，明确负责任人工智能应用的监管预期",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMikgRBVV95cUxNRnpGRU1mUDZEQkNDdVJoaVBMWnQtcTFseEpkYWQ2S1ZjUzZhNjM1dWJfZXE5cjRQTDhzcWZuaXE5TEc5aGt6T0lKbjJaSDlCNk5IZTU3bVpQQThteC1wOUFPdUp2WGsyU3BWODhKY25NVnBZalRhX05MdFpxWjFDNGwycTdPaHNMRlZTRVY5ZHBwaWJ4T0hhVzdNUS1fTnZSd0ZSeUFrLURyTndBSk4wNkVGSE8yMDJudUhucVdSc0UtaU9tV05VV05mYmFJb1RGNmdsbmw1TkpQS2hhUWdicXVObnhEMmN6R0NNcFZnbkg5R3hVeU9qM0tnRF81RnJsUTRpcURxdE15ZVNRXzN3OXhrU1NBbWhXT0hQLU5xRnFpU2RKN2V3S1JaclJyOTZadHZUQmRvY1FoaW52R184VXp2Wk1VUndRYWZEeE9HdHVOcEc5VkxnSkFpcndLYUp4MjJZSVBrYkhWZ2cweE01RjFTNGxaLVVzYkI5NHFYdDZ3WGpzQ2FPb01kR2I3cWpKcGRaejlDY0M3UWFKYmh6dS1lWnVRTlB2NDBoOHBxc2syX3ozemFKbDJzX0NzRGFuXzlLTV9fSDhYdDhPenB4X1NVYXAwTmh3dER5bHhxOXRhQk5hZ3RMNkhSbkhWTjlneE0yYVpIWi1IbEJrbnQwci1Gd3VXMWtvbU1NZmM0VVBwQQ?oc=5",
+   "source": "Allen & Gledhill",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-10-23T11:30:02-07:00",
+   "keys": [
+    "e933ab6f2d3d4125",
+    "ea477f6289357a6d"
+   ]
+  },
+  {
+   "id": "2026-10-22-2cb6effd4dce59f5",
+   "date": "2026-10-22",
+   "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+   "summary": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
+   "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+   "source": "OpenAI",
+   "tier": "official",
+   "also": [],
+   "coverage": 1,
+   "category": "安全研究",
+   "regions": [
+    "其他"
+   ],
+   "importance": 2,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-23T11:30:02-07:00",
+   "keys": [
+    "2cb6effd4dce59f5",
+    "587ea999682559df"
+   ]
+  },
+  {
+   "id": "2026-10-22-9f9248320cd99087",
+   "date": "2026-10-22",
+   "title": "来源可溯、AI预警 南京烟花爆竹零售“数智监管”平台上线",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBSYi11WDVDb1RXdmVzdXMwaVhsU0FSRmMyVEJPTjFSbjVlOUxVQzloWHRHb0p4ZTdTTm5yeGxrOTMwVklSLWhCdVByYlNRcHA2a3hSSDdGTmtUb3ROLWJvU1N0ak1Sb2NWUmc?oc=5",
+   "source": "人民网－江苏频道",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-10-23T11:30:02-07:00",
+   "keys": [
+    "39b4bf04379ae4c1",
+    "9f9248320cd99087"
+   ]
+  },
+  {
+   "id": "2026-10-22-18831a312c01b4ec",
+   "date": "2026-10-22",
+   "title": "Appeals court lifts block on Mississippi's DEI ban, ejects judge over AI errors",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTXU4UEVFNmN1Z1hTZW5oWUhXVXRSWDMyM2JVa1FPUEN2OGFqWEdydi1zbElVb3ZsNGo3Z0RZLUU0bG94emsxTzl3RTV3bG1zUEVmckd1aTZ2MmVjY3V3dWdtR1lWSWxlT2NwR3ROTFFnNlFianNZMS1GdHUxR3BCYTJSQlBnUk9KcEVJNXlOSF9iWjZrR0RvU1lkOWNVa3RjWUREZ1lMTkFsMUFkVmJuN3JEWFRwcE1zbHNqX3BEZU9GQkF1elE?oc=5",
+   "source": "Reuters",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-23T11:30:02-07:00",
+   "keys": [
+    "18831a312c01b4ec",
+    "e2323e9a5f30519f"
+   ]
+  },
+  {
+   "id": "2026-10-22-7eaaa1df106d8405",
+   "date": "2026-10-22",
+   "title": "OpenAI and Poland’s NASK collaborate on AI safety research",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeXlMRjNfSEdNVUNrX29ZdW16eE9Ra1ZIbFZhTDFGSXNfSTlNSHZFc3k5MW5FbFdiVHU3Y0NzYkhrSTY0SDFKWXBaT1FXY1pXeDQ1SXZZTUFLMnRxbDhJWFJQWUlHOE1QWXRRei1QM19ySm9udl9FR2ZIQTJVZ014RHd5eDVDYjhnWDFQdDVrQ3pCSXllRmZURzU0UTZfSmJzZTVtM0Vn?oc=5",
+   "source": "Reuters",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "安全研究",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-23T11:30:02-07:00",
+   "keys": [
+    "7eaaa1df106d8405",
+    "912fe3a1c7651a09"
+   ]
+  },
+  {
+   "id": "2026-10-22-2e6089accbd8869e",
+   "date": "2026-10-22",
+   "title": "Short sellers make $6 billion in unrealized profits as neoclouds slide on AI debt fears",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRTRpNjFnV1FOR2NGYlhDTzRtV3NqY2x1UkFkNTJaTnlXUGk5VkVSVlVOY0ZPQnVJTkVRTHAwVUZvUmxjZnl5QzlHQ0VFUlQ5RThmN09Yb29HbUxBMFEzQ2NXUEtJc0lLZ0FqYjg5czBpdGJHSWhHYnl5N1cyQjFBZ3JPbXVZdlBQRDczd01kQjAwX0VEMzB5ZmI3bEExMkdYZEd6bHFIUG9LaWhJSnJpSmEzRQ?oc=5",
+   "source": "Reuters",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-23T11:30:02-07:00",
+   "keys": [
+    "08990e844979ffbd",
+    "2e6089accbd8869e"
+   ]
+  },
+  {
+   "id": "2026-10-22-5ae3a9ce9d5d7f55",
+   "date": "2026-10-22",
+   "title": "Republican-backed PAC accused of violating Washington AI ad law",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNY05Yb0dqaC05TFdqdllNM1kyX2t0SXFkYi1DSlJPQWVTNlNYU1hCSE9fcmNnWl9YeHRENzJVZEJFa1l1ZnYyNFlnSzdEcGZuQ2pwUVlpejY5T3FILUxGeW4xMU1rci13U2JycGdzRW5jRUw0V0dnSGd4M0VXMkVzV1kyYUFVUlNqNmtoWk1BbE9ZQ2VuTXkxLW13UkRPMmsyNEpEMW5n?oc=5",
+   "source": "Axios",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-23T11:30:02-07:00",
+   "keys": [
+    "5ae3a9ce9d5d7f55",
+    "9f45cc8205f06e08"
+   ]
+  },
+  {
+   "id": "2026-10-22-28286c3822d96b4d",
+   "date": "2026-10-22",
+   "title": "Exclusive / SpaceX $40 billion debt deal gets pricey as AI fears spread",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUktxOWV5ZGJMbUNHamNiZVM3ek9EeEN6VHF2a3RtZjdJRGZtSnFtaWdhX1lhb2R1SzBWcGFvLU90Q1l1NU5FZGxRZGNGZjdfQ0JPS1hCdDB1OVoycFdycGFjWTdWcmVNT0lzMzFrRmR4SWh3REtDRUt1NGdwMXVYUTcyTzRwVE9IbkE3ME1KRVZEeHdIZXBmdDZQZw?oc=5",
+   "source": "Semafor",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-23T11:30:02-07:00",
+   "keys": [
+    "28286c3822d96b4d",
+    "79422f86b15f4d5f"
+   ]
+  },
+  {
+   "id": "2026-10-22-2f1f21e948b059ab",
+   "date": "2026-10-22",
+   "title": "玉渊谭天丨“中国AI禁令”是怎么回事？是不是政策转向的信号？",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1CSzQxZHJpVnY2bUxnbVgwZU9xdDZldVdwdkdvcmh6Y0hUY0VCZFhVeUhHenVmN3Z3NGFvUFVlN2h1aEFKMThESWRjTlhRU01aYXlHRlVrRnZEdlFnaVI2Yw?oc=5",
+   "source": "ThePaper.cn",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "政策与标准",
+   "regions": [
+    "中国"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-10-23T11:30:02-07:00",
+   "keys": [
+    "2f1f21e948b059ab",
+    "4d9dc7e3181aa703"
+   ]
+  },
+  {
+   "id": "2026-10-22-6c9714e3a0233482",
+   "date": "2026-10-22",
+   "title": "检察日报评“低价共享”大模型权益：薅AI会员，省小钱丢安全",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9RcVlQTjR0Ujd5WmhxcnJYLU9md3NuNGI2Q280a0JQczRZcmZnemozZzZpZnpvYXZXa0liTVVwdldlMGFsRFV1UXRwXzBtSmFZdFpuSG1KZXN0Z3FmRm9oag?oc=5",
+   "source": "ThePaper.cn",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-10-23T11:30:02-07:00",
+   "keys": [
+    "6c9714e3a0233482",
+    "b5034417b8180484"
+   ]
+  },
+  {
+   "id": "2026-10-22-cb956208e4b110ec",
+   "date": "2026-10-22",
+   "title": "人工智能传播认知与安全培训体系发布 多方携手布局具身产业生态",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5tcHM1Wm1SbzNhR192Sy1oVlU4N2tZTUo4Rnl5NjFhNGdqTDYtMV9FYXUwb3I5aFRTdk5NT3h2MkE5czFhME1KVDktQ1E1eEo1VzNFVzE3bllWbGVwdTF5MWVDRGdfUEw3X1cySG1B?oc=5",
+   "source": "人民网财经",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-10-23T11:30:02-07:00",
+   "keys": [
+    "405bcc6fee38685c",
+    "cb956208e4b110ec"
+   ]
+  },
+  {
+   "id": "2026-10-22-af7eb0ae2274ea77",
+   "date": "2026-10-22",
+   "title": "“薅AI会员”，省了小钱丢了安全",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9RVjV4eUVEZ3NaNC1oZlVpdExObmNjVzJLVnBTWEY1SkhTVV9ES3BBYlVhbDVWMTJ2VVo3cEp1SEtyUVEycEhJMkFpRWYyU0JSaFlkclZCWlJSQTI3OXVOVW5rR3B5LUZQcUlXeXhB?oc=5",
+   "source": "人民网",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-10-23T11:30:02-07:00",
+   "keys": [
+    "2fde485664288252",
+    "af7eb0ae2274ea77"
+   ]
+  },
+  {
+   "id": "2026-10-22-fac8e4da01f3d992",
+   "date": "2026-10-22",
+   "title": "What Does AI Success Look Like? A Mixed-Methods Analysis of Supranational AI Governance Instruments",
+   "summary": "In the last decade and in particular since 2018, supranational institutions have published policies, guidelines, and most recently regulations to govern development and use of Artificial Intelligence (AI).",
+   "url": "https://arxiv.org/abs/2610.31030v1",
+   "source": "arXiv",
+   "tier": "b",
+   "also": [],
+   "coverage": 1,
+   "category": "安全研究",
+   "regions": [
+    "欧洲",
+    "全球/多边"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-23T11:30:02-07:00",
+   "keys": [
+    "a1fa4e43e959f693",
+    "fac8e4da01f3d992"
+   ]
+  },
+  {
+   "id": "2026-10-22-6def4e1d53187581",
+   "date": "2026-10-22",
+   "title": "High-Risk AI and the Limits of Risk-Based Regulation",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUUk1cGE1WVlWRkxxdzlSZXEtQnplZTE1YTNpbEpxNExzbXNjVmR4SzdYTXZoZExqZ3lUVE5WZWpDRDFfd2NUaFJ2dE4wVGFBSm5lUVZSVmFzbUUxNHhESkIzYmVKNlQzeFktblBfVnp1anVQaUhGWkJZLXlfU21QOWctMl8xODN3bmZkY0htRGNPUmJ4THFjcDhvUldPamFx?oc=5",
+   "source": "The Regulatory Review",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-23T11:30:02-07:00",
+   "keys": [
+    "63a46c496b2ab71f",
+    "6def4e1d53187581"
+   ]
+  },
   {
    "id": "2026-10-22-cc64bc7e49b713bf",
    "date": "2026-10-22",
@@ -646,6 +1360,29 @@
    "keys": [
     "81a3d7cd1f33b26c",
     "f7ba937e4fec543c"
+   ]
+  },
+  {
+   "id": "2026-10-21-2dbbabbd908ec5f9",
+   "date": "2026-10-21",
+   "title": "TESSA: A Governance-Oriented Custom GPT for SME Guidance under the EU AI Act: Design, Implementation, and Evaluation",
+   "summary": "The increasing adoption of generative AI presents new opportunities while raising AI governance and regulatory challenges, particularly for small and medium-sized enterprises (SMEs) navigating the European Union Artifici…",
+   "url": "https://arxiv.org/abs/2610.30822v1",
+   "source": "arXiv",
+   "tier": "b",
+   "also": [],
+   "coverage": 1,
+   "category": "安全研究",
+   "regions": [
+    "欧洲"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-23T11:30:02-07:00",
+   "keys": [
+    "2dbbabbd908ec5f9",
+    "4b31116f4617971d"
    ]
   },
   {
@@ -2489,6 +3226,29 @@
     "b07f1f0c032e229b",
     "ccb5fde547e14380",
     "d27cc02902d4bb8f"
+   ]
+  },
+  {
+   "id": "2026-10-19-ee36b0df7bcc8399",
+   "date": "2026-10-19",
+   "title": "Detecting AI Training in Datacentre Power",
+   "summary": "AI governance agreements require methods to detect large model training runs on a monitored computing cluster, without trusting the operator.",
+   "url": "https://arxiv.org/abs/2610.30182v1",
+   "source": "arXiv",
+   "tier": "b",
+   "also": [],
+   "coverage": 1,
+   "category": "安全研究",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-23T11:30:02-07:00",
+   "keys": [
+    "dffa6791f7e356da",
+    "ee36b0df7bcc8399"
    ]
   },
   {
