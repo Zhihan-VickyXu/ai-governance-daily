@@ -1,6 +1,76 @@
 {
- "updated": "2026-10-24T10:32:41-07:00",
+ "updated": "2026-10-24T14:12:04-07:00",
  "items": [
+  {
+   "id": "2026-10-24-ae522c31ac266887",
+   "date": "2026-10-24",
+   "title": "[经济信息联播]为防范安全风险 OpenAI前沿AI模型训练将断网",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBuU29nUW1BVkdycmNab1VFaENaX2FFY2RUOExhOHlqdkpMWTlMRnFFQmIxMVh0eFZLOXlUSExocVBWMXdoM1VlLVh3a1pleDlRakM3Z19xeXJEQ0IxSkZEdklpdnNjSUNFa2xxRUJKaGN3OEVranc?oc=5",
+   "source": "CCTV",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-10-24T14:12:02-07:00",
+   "keys": [
+    "08e66cf0227510bf",
+    "ae522c31ac266887"
+   ]
+  },
+  {
+   "id": "2026-10-24-0f17598fb542331c",
+   "date": "2026-10-24",
+   "title": "Ohio Labor Groups Back AI Regulation Bill HB 1032",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMEVFT2RMNGhrZTczNkdsS0k2YXV4SFhOeF9NOEh1WmpIX0g2UGF6WHo2RjFVTXRvc0g1UEVRdEVsT0gzU3VNNVRUTGhaMkZ2MWdHN0pFV1lUR1Zwc3ljVGVZYXI5Sm1zMnJfZ2k1V1hId1Fqbjlnby1pV1Nla2dpZy1ORW9rWlZERDU2d0FqY2I3U0hPVjlWNXZvLXpnQUR6?oc=5",
+   "source": "Hoodline",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-24T14:12:02-07:00",
+   "keys": [
+    "0f17598fb542331c",
+    "c2a12bc01d145bad"
+   ]
+  },
+  {
+   "id": "2026-10-24-50bce4a8215c3fb3",
+   "date": "2026-10-24",
+   "title": "UK, Nigeria deepen AI governance partnership, push international standards",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTFE4bW1NQjBuaTJIVDg4dlZmODdCaGRLQi1IeVlfLVdFY28tWW5OUGI1eW8zaWk5cW9iWk5ybTJzZjJURDVOTXF5VjhpN3BJT3N6OWZySXhRcF9aV2JwWjJ6MnJreUctckJ1SEJETzFiWlBoR2RMZ0ZjNDJuS09KbVNIYmNMd3hkOVR0Q0ltTS1UOV94dWIzUnF2Znc1SW4tckhiXzNMd0ZoeDR0U3I4Mw?oc=5",
+   "source": "Apex News Exclusive",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "国际治理",
+   "regions": [
+    "欧洲",
+    "全球/多边"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-24T14:12:02-07:00",
+   "keys": [
+    "204c99cc63badc66",
+    "50bce4a8215c3fb3"
+   ]
+  },
   {
    "id": "2026-10-24-bfb0db5d2a73a730",
    "date": "2026-10-24",
