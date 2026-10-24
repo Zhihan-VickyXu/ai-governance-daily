@@ -1,6 +1,75 @@
 {
- "updated": "2026-10-23T14:40:18-07:00",
+ "updated": "2026-10-24T10:32:41-07:00",
  "items": [
+  {
+   "id": "2026-10-24-bfb0db5d2a73a730",
+   "date": "2026-10-24",
+   "title": "《AIGC时代互联网广告治理蓝皮书》发布，倡导“以AI治AI”",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9KV3RoclRVQzR5QzI4cjNMTXFtakQzdS1zRkNLNFhfdHJnQmlEYk9PVk92M3hsdHpMWmhkNDBDNzRfbGppQWt6NVRyM1F3anV5X204?oc=5",
+   "source": "第一财经",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-10-24T10:32:39-07:00",
+   "keys": [
+    "840912f049210887",
+    "bfb0db5d2a73a730"
+   ]
+  },
+  {
+   "id": "2026-10-24-0e6bd1dd441f20a1",
+   "date": "2026-10-24",
+   "title": "North Carolina joins 25 states in urging Congress for AI regulation",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNc0lmT2lYZ0RCTkU4Uk9YX2pld20wZzBZTVhRaUZRZU9vTks3SW5DelhPY3FULVdMLTRPNWoyYzNRdDREejR4ZHVHcTU3b0tyZ1JpSUhzbVNHMkFQREFDcXdoX3RELUJPUGIzN2RrdXBMVDkxZUtoNEdPYXh5NFQ1bVNXWGFYeXBISWd4cg?oc=5",
+   "source": "The Daily Tar Heel",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "美国"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-24T10:32:39-07:00",
+   "keys": [
+    "0e6bd1dd441f20a1",
+    "f099c32226641b67"
+   ]
+  },
+  {
+   "id": "2026-10-23-555f31eab837f4cb",
+   "date": "2026-10-23",
+   "title": "UNESCO AI competency framework for teachers",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUDBjYXlJZHVpSWtyNnJnWVhnMm5abGNISXlqei1ESUZHUnA2c1hDSEEwZklJOWlyelUybEgzWF9Mc25hNmlYTVQ1UVJWUUZmb05GeGl1RkhtOEhFYzRGVDlFMUlIOEt2cE1LejBWYTlEVHFfM1ZIZThSQzk5czhsWTRYY3ZWTnl5ZnhjbjlJWmdJWnJpLTZFc2Ytakhza3lVVFI3VUdCbHdqRGh5UzVweWktbDJqT19ranFULUpMU1BPVWs?oc=5",
+   "source": "www26.cedefop.europa.eu",
+   "tier": "official",
+   "also": [],
+   "coverage": 1,
+   "category": "政策与标准",
+   "regions": [
+    "其他"
+   ],
+   "importance": 2,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-24T10:32:39-07:00",
+   "keys": [
+    "555f31eab837f4cb",
+    "fa51b0844cda0ae5"
+   ]
+  },
   {
    "id": "2026-10-23-cd26483cd959039d",
    "date": "2026-10-23",
@@ -22,6 +91,98 @@
    "keys": [
     "73d538c2dcd13c8f",
     "cd26483cd959039d"
+   ]
+  },
+  {
+   "id": "2026-10-23-00465421036223f8",
+   "date": "2026-10-23",
+   "title": "OpenAI to Train AI Models Without Internet After Cyber Incidents",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcTNobXdjbFlXYi0tUHc4QVhnOXY3aDB4bTZ5amJDTm5LTDFlaUJ4UDdYdUFwOHpURk05ZE5Ycm1rMWZDUENSVHh5X3pWZHJEOFlpcUhSa3N6OTZueDlEME1GenV2SllMWkZpZVpSNGhGNWQ0R2V3am1FYnFCU1pDdkVVWm9HMU44a1JiZDhGNjhqTzctZlZyZnZYSTFlMXdjV2xNazdHUmtDS3NwLTktNW5rX0twQQ?oc=5",
+   "source": "Bloomberg.com",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "安全事件",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-24T10:32:39-07:00",
+   "keys": [
+    "00465421036223f8",
+    "4d77f9ffa5a7f0e8"
+   ]
+  },
+  {
+   "id": "2026-10-23-7ea2dd23f66b97f6",
+   "date": "2026-10-23",
+   "title": "英国将斥资6亿英镑布局AI安全，防范新兴生物威胁",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9QUm4yd2lUaFNrU1NTbjRfalBacHBJb0Q1MllZQTF6SEFGSmpfSzNIWGpQQVFINHhBNDd5S2M2MnBuNWhKOUZGRVNJcERGb3ZBelduOQ?oc=5",
+   "source": "第一财经",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "欧洲"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-10-24T10:32:39-07:00",
+   "keys": [
+    "52f8ad802dcbf7e2",
+    "7ea2dd23f66b97f6"
+   ]
+  },
+  {
+   "id": "2026-10-23-cf9135687c9f2ffc",
+   "date": "2026-10-23",
+   "title": "英国将出资1亿英镑设AI生物安全实验室，OpenAI、Anthropic参与合作",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Tc0lScTFyYkhCbzVrVXczdmxQQUhYT0o0Y21fVjFkYmNZdjlMNkxPcUZkNF8zSWYwWnR2cE5xOWd3ZU51VWc1aERYVE92TUFCTnhtUVZlWlQ?oc=5",
+   "source": "Jiemian.com",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "欧洲"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-10-24T10:32:39-07:00",
+   "keys": [
+    "6702e1dac2b92654",
+    "cf9135687c9f2ffc"
+   ]
+  },
+  {
+   "id": "2026-10-23-ebeddc7fe61902da",
+   "date": "2026-10-23",
+   "title": "Anthropic联邦AI监管草案引发安全圈质疑，50人伤亡门槛成争议焦点",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE90VGd5SnNhMDZzRVNTLWVQZDRoeFpmZkl2bmplalVCZ1U1UUZNSmFoT1hMd1JtZXFrRy1uUXlKaW1HVzBUVTU2RzlTSGJFdEp4RnRuMQ?oc=5",
+   "source": "虎嗅",
+   "tier": "b",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-10-24T10:32:39-07:00",
+   "keys": [
+    "806285cf6d3a01ac",
+    "ebeddc7fe61902da"
    ]
   },
   {
@@ -482,6 +643,30 @@
    "keys": [
     "2cb6effd4dce59f5",
     "587ea999682559df"
+   ]
+  },
+  {
+   "id": "2026-10-22-87b2e9c175fdea39",
+   "date": "2026-10-22",
+   "title": "山西证券:《金融街论坛跟踪点评：北京金融营商环境实施方案发布，全球治理与人工智能金融治理框架同步推进》",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5PdzVyN2w4bUpUa1NfRVZFSy1pOTJyRWhMLWhoZFY5eUtzQlI5dmdWUjBYUVM4ZTJnUFVKRTM4V2tTQjZLSmROU1FNSHp6a2Qy?oc=5",
+   "source": "发现报告",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "国际治理",
+   "regions": [
+    "中国",
+    "全球/多边"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-10-24T10:32:39-07:00",
+   "keys": [
+    "87b2e9c175fdea39",
+    "a7ff994772f4fa2d"
    ]
   },
   {
