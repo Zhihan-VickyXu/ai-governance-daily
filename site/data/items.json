@@ -1,6 +1,267 @@
 {
- "updated": "2026-10-24T14:12:04-07:00",
+ "updated": "2026-10-25T10:44:35-07:00",
  "items": [
+  {
+   "id": "2026-10-25-16c2c6ded847bc98",
+   "date": "2026-10-25",
+   "title": "Automated regulatory compliance for AI systems in the security domain: The case of dual-use deployment",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE80SU1TTkJVUGR0ODFacW1UUGJQMW9MNkNWNldlUVBGaDNCVzBLQmVaN0VyN0l4VUk1RnJyWDJyNmd5RGtyalZJbktWd3laaHlPSXdFMjFkSG5Bd1RqTXFYUzBnYk50UQ?oc=5",
+   "source": "Open Research Europe",
+   "tier": "official",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 2,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-25T10:44:32-07:00",
+   "keys": [
+    "16c2c6ded847bc98",
+    "4c12529a51e40b48"
+   ]
+  },
+  {
+   "id": "2026-10-25-843ccf3061784032",
+   "date": "2026-10-25",
+   "title": "How AI Regulation Could Help the Public—and Investors Too",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNUDhKY05RNmdWcC1qQU9sRE93R09fUjdJVEMwbmNpZ2l1QXRBMTIzYXE4Qmdtd0NzWTZWbGxEdlJmZGNCSGtsTkh3RVEwWFJ3SmZHM0paVzA4QjlKZWd3dzJpLTA3RU90X09JZG9wOTJyekhha05QZGZvVFZTN1BRTzBNcXlkRlBPaVd1cWo4WWM4YTZVdkhEZjVabjhiVENkVEFMRGZfeEVBNG1CQ3ZFNWE0UE1LOVp1cE1xRWY2UkU5ZFJqeHRtQ19OODJ1YnBTaS1na3pqWHJHMXZIMmFhRQ?oc=5",
+   "source": "WSJ",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-25T10:44:32-07:00",
+   "keys": [
+    "1956066e64979fc2",
+    "843ccf3061784032"
+   ]
+  },
+  {
+   "id": "2026-10-25-820bc431817444d2",
+   "date": "2026-10-25",
+   "title": "AI in policing risks deepening discrimination, research warns",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9KM3Z1WDJnenRMMkJ6VloxYXNfR2lEbVVkUUlVdGpzWEx1Y2RnRGVGS2xxUHV6R19wd0x3a2tlVFE4RUhRVTBwcmw3TUlwNGtwSzg4T3JJRk0wS1E?oc=5",
+   "source": "BBC",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "政策与标准",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-25T10:44:32-07:00",
+   "keys": [
+    "10d8fce079d033f0",
+    "820bc431817444d2"
+   ]
+  },
+  {
+   "id": "2026-10-25-54054d21613f54ed",
+   "date": "2026-10-25",
+   "title": "“扒一扒”一年八份 AI 安全宣言：狼是真的， 防狼夹要验货",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBYVTJWQjRuTjhmQmJ5V1VXR0lOZEMtTF9VNWp1N2NiRlZrQXN2dkhLMGxZcEhaUzh6cHlJdVhJQ0ZGZWRjNkxjLVdfd0pzdFczWENqaw?oc=5",
+   "source": "虎嗅网",
+   "tier": "b",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-10-25T10:44:32-07:00",
+   "keys": [
+    "54054d21613f54ed",
+    "7a257485e774ace0"
+   ]
+  },
+  {
+   "id": "2026-10-25-32c58876f06816e8",
+   "date": "2026-10-25",
+   "title": "丁昶：2026年美国中期选举或成AI泡沫破灭窗口，2027至2028年风险升高",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1SamszbkxNMW1kdU40TnZPM0NKOWxHanNQbU9uTml5WGliT0U0N3d2MktJQm4zLWY4QjRoY1dPTDBCNlhWSzFHS2JuSVZTclpzWjZQNA?oc=5",
+   "source": "虎嗅网",
+   "tier": "b",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "美国"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-10-25T10:44:32-07:00",
+   "keys": [
+    "32c58876f06816e8",
+    "3fb53c0ef0323861"
+   ]
+  },
+  {
+   "id": "2026-10-25-83e340876fc90091",
+   "date": "2026-10-25",
+   "title": "AI Safety: Scientists Demand Binding Rules To Regulate Advanced AI Risks",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQM1V4YWExX25LWTJMLThFallGcGVzRWlfZEdpekgyUFlDVEpLUTRha29fZ290aW42bnRHb0txVDUtY29lTEp0RTZyOENGRWk1R3dnM1RjMWVVV1NkOFNNSThJODdyRTVHeGlhazJlQ1RoTERaTUljbnR3bWRZNWx3OTdqZ201bldCVXpHZV9heDNjbEpRN29jLS1n?oc=5",
+   "source": "LEADERSHIP Newspapers",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-25T10:44:32-07:00",
+   "keys": [
+    "83e340876fc90091",
+    "f4a38874f0818653"
+   ]
+  },
+  {
+   "id": "2026-10-25-8a6155fba3952a0d",
+   "date": "2026-10-25",
+   "title": "UK’s AI safety institute finds Mythos 5 kept targeting real people despite warnings",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNT0Z0UmRkMHRDX2djZnRKMFZ4MmpCQVVoWE9sNFdJbC1oYkFBVklUdnFnVWswZVVkWktob3V1dl9HMTNscWdNWHp4aDZzRWxMcWFsY0xsRzJRaC05YWtuc3EyYThjTm5oTTJkM3NUTUxPeGc4b0tqTVcyc0o0OEl2aHotS3R6b05fSmFjLXRvRHFjT29TUksyWmE3YlR5YXNmckZQQUxIb0pzV3pneWxCWXFVeWF2VWIwT2tKWlRMZVVmcmRTT1A4cGFFd3NrelVGZ2Nz0gHaAUFVX3lxTE1ycUZ3aG9SNTJkbFdjUFJwbGlfR3BNRFFNTkFWZFMyNVRhWWItYm1XOElIYnNZRHN0cWZ5YjBWTXZFVV9LaGZoRE5NZkY5OVFXcHlXc1M2UFNvVF9jaTZCVXNQUmRQTG01eXlLLV9ZV3Y3SEhsb0VOcm9LVGxlQXR1bVNkZ0x0b2ozQ0JzSEtTU2VtZXZJTVJtX3VjN3VvUVQ4TE93cGpWVng4UlFwTmhzUFFYUFdxc2ZON2NnaE14Y05FN1oyblByeTJjeVRDaE85N1VWU0VYN2h3?oc=5",
+   "source": "The Indian Express",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "欧洲"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-25T10:44:32-07:00",
+   "keys": [
+    "1e5652adac5b0eee",
+    "8a6155fba3952a0d"
+   ]
+  },
+  {
+   "id": "2026-10-24-17c30fa6ac57c501",
+   "date": "2026-10-24",
+   "title": "英国宣布设立AI生物安全实验室",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9rU25ic3Vialp6M3NlZXkwejVFcW5LQVFWTm5ZdDFKc1VmRUF6RlJ5VU0tMldiLWZXNDNjTE9jaGwySHVlcGRVWHIza0lwWVdyYmdfZndCLXY?oc=5",
+   "source": "Jiemian.com",
+   "tier": "a",
+   "also": [
+    {
+     "source": "人民网",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9fbkphRTBFT3AzZUZIN0hVQ3lyWl9QV2hTZTVnaWlVcEJVZnZoWHlIeTVrYjhQSVVXVlhCdk9nbnBneDNIT3h2d0V5eXNFMTcwQ1NTTU1yTzNwbEN5Q0Y3dGN5ZGdNNFppRW9tYQ?oc=5"
+    }
+   ],
+   "coverage": 2,
+   "category": "国际治理",
+   "regions": [
+    "欧洲",
+    "全球/多边"
+   ],
+   "importance": 2,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-10-25T10:44:32-07:00",
+   "keys": [
+    "17c30fa6ac57c501",
+    "1edd9914e804a5aa",
+    "8b9210b1599979f5",
+    "c9dbbdd3f29c1e27"
+   ]
+  },
+  {
+   "id": "2026-10-24-623c80c7affd6351",
+   "date": "2026-10-24",
+   "title": "Singapore embraces AI for cyber defence, with one caveat: breach transparency",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOT3E3cG8yYXFBcFpsYUZXUmFNWkh5OVNBb0w4bHk0M0h5NkNueG9GU21ud0g1VW44MHZ3VU9QcFAwelBKRV9QY1N6RDNCTTlHUGVSUU5pM21jYmJ0bjl6bkhBd2VjM0JkNnhTYVB1R25sMHZQMWdnR0k4NGZfU3RoMjRpbVlRUVhDT2I1ZU9WZlN5b2dXTjNpSS1YcnBLSEdTNXNjZkJSQzhhRE9QLVJZV1VHTEs3Z0p5TmdWME1YZ9IBvwFBVV95cUxORkpUSk5UWWxDaEVQUlotQk96ZHp6akk5OGFaU0tHazgyY0VRNC1ITWdtaHV0bUZfQ21DSzFXcTc0Zk1TdVFqTnVWMTJydXBubm0wVXc4SEtwRmFxT3NkYXU1c2x2MlRUYUNuMmFYZUdEZFpfdUFndkpmaVVOTzFpSXhLMlJWTzliNDJKMFRZMEdzVnRzWk8ybXZHTWdsS1lpQnFkVnpfY0JBY1BkdVNPTzZBdEtXb1RreFllYmZMWQ?oc=5",
+   "source": "South China Morning Post",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "安全事件",
+   "regions": [
+    "其他"
+   ],
+   "importance": 2,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-25T10:44:32-07:00",
+   "keys": [
+    "623c80c7affd6351",
+    "7d0ebb1940824e00"
+   ]
+  },
+  {
+   "id": "2026-10-24-f18d3f8133202c20",
+   "date": "2026-10-24",
+   "title": "2026全球治理论坛（雄安）丨如何应对AI安全风险？中外专家给出了答案",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE12dm5BOVpwZTFfQmVBTVcxU3RlVkhRUGllZG1MemMyVDNONmlLY0FtaFVuaWlub3E4UmgwaWhMbWJ4WGVnMkNQRjdSaXYxdVdvS2VWTzJXZ2VsR01xS0l3MA?oc=5",
+   "source": "ThePaper.cn",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "国际治理",
+   "regions": [
+    "全球/多边"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-10-25T10:44:32-07:00",
+   "keys": [
+    "1a238cd3ada0a707",
+    "f18d3f8133202c20"
+   ]
+  },
+  {
+   "id": "2026-10-24-a124e1f4cae42c40",
+   "date": "2026-10-24",
+   "title": "中青报：绝不能让“一岁就命人掌嘴”的AI儿童短剧钻监管空子",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4yNUthLXBkdkUxZXFjV1ViUGpmTURVUm1XaDV3dHQ1THNiVGVlc0NzaTRYVGNiYnBGVmRNemhSRWd1X3RpVllXWWVEeFFkb0lyOHFWZ2lRMnp2N296ekgwZA?oc=5",
+   "source": "ThePaper.cn",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-10-25T10:44:32-07:00",
+   "keys": [
+    "a124e1f4cae42c40",
+    "c1a4fcb059a3a3cf"
+   ]
+  },
   {
    "id": "2026-10-24-ae522c31ac266887",
    "date": "2026-10-24",
@@ -21,7 +282,11 @@
    "createdAt": "2026-10-24T14:12:02-07:00",
    "keys": [
     "08e66cf0227510bf",
-    "ae522c31ac266887"
+    "73f91c37d1647288",
+    "ae522c31ac266887",
+    "b1f6bde789d6cdc5",
+    "bc9e2c5c1f3f5d7f",
+    "e7fba44162474b63"
    ]
   },
   {
