@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T13:02:27-07:00",
+ "updated": "2026-10-26T15:54:46-07:00",
  "items": [
   {
    "id": "2026-10-26-178c4390689327c4",
@@ -68,6 +68,122 @@
    "keys": [
     "10e6c42694374cd0",
     "75246533d5087888"
+   ]
+  },
+  {
+   "id": "2026-10-26-b8c8683cad57dfa0",
+   "date": "2026-10-26",
+   "title": "Anthropic Warns of Existential Risks, Liability and Slowing Sales",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVnBIRXE3ejg3VF9Nck9PS2tGNW9nSm9NTmZLTThYendMeVJkUmtGOHNwQ2tHV0lwYmV4WnVKMm1EY0JlWnlBekR4bUJWSUtWMjk0NXJqQmlnMDJoMm92NnlpTHJZQWJ1Wm9fazJaazlCMDBvQWd4TVVXNUI1R01DaDFDcFcwM2ZETWN3Uk4wS3ZwU1BJUEFxM25zSnAwamI0TXpOY0NhOWhqZUgxYm8tSnFsck8?oc=5",
+   "source": "Bloomberg.com",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-26T15:54:44-07:00",
+   "keys": [
+    "b8c8683cad57dfa0",
+    "cd86756abd13c476"
+   ]
+  },
+  {
+   "id": "2026-10-26-d619747d8ddd1d8f",
+   "date": "2026-10-26",
+   "title": "Banks, Blackstone Form $63 Billion Financing Vehicle for Broadcom AI Tech",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbVdSNm1IZjFYTGtZVDZuYnEtb0JwZkpaTjFkbVBRR09WQ18teW9GdkVfZUVab1dSWmV3a3VnbERxdTJGQXg3eGRJVWZKblNtZFg5bEZJaHdza2dpbDMtUHFqNU41a2dBZVBORk1mT0o3VWJsVTRYekJFWnQ4UENrdmFEZlc4Z3FsUU5sTU93NlNFMC1zSE1COHh5eXhqOFM3cmhXS2xpTlhPcXln?oc=5",
+   "source": "WSJ",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-26T15:54:44-07:00",
+   "keys": [
+    "d5466d3e76bce207",
+    "d619747d8ddd1d8f"
+   ]
+  },
+  {
+   "id": "2026-10-26-5c03f5fab7e821c4",
+   "date": "2026-10-26",
+   "title": "The AI lawsuits are coming",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNY0dtSzU5dlBKdUJuV1BxVXlUMEJVeE5iTXE5Ujd6bjV2M0VqbTM0Q1lmUDk5UWRiWEhySnNrYVhWMVZyLWVpbnRoZk9HSnp6ZDBxZEVvTjNsU0VGVnJZS3hKWEEzN2Jfd05nRGpGdENJOExnYVViSWVIeGExMDZXSm9KWmctZUgwOTR2c1pfNjlRUEprbDNscEViY3I0bE5OSWJMRkl3?oc=5",
+   "source": "Politico",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-26T15:54:44-07:00",
+   "keys": [
+    "4d2e7cec0fcf6aaf",
+    "5c03f5fab7e821c4"
+   ]
+  },
+  {
+   "id": "2026-10-26-0ad086d3ee08ffa7",
+   "date": "2026-10-26",
+   "title": "In a rush to lure AI companies, the Australian government risks undoing a creative ecosystem that has taken decades to build | Dan Guthrie",
+   "summary": "If proposed copyright reforms proceed, Australia will become a global IP-laundering paradise. Why would a UK business license its TV shows here if they can be scraped at will?",
+   "url": "https://www.theguardian.com/commentisfree/2026/oct/27/in-a-rush-to-lure-ai-companies-the-australian-government-risks-undoing-a-creative-ecosystem-that-has-taken-decades-to-build",
+   "source": "The Guardian",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "美国",
+    "欧洲"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-26T15:54:44-07:00",
+   "keys": [
+    "0ad086d3ee08ffa7",
+    "d9163a3f45ceead4"
+   ]
+  },
+  {
+   "id": "2026-10-26-72994e235da2651c",
+   "date": "2026-10-26",
+   "title": "AI safety advocates urge Trump to support Chip Security Act",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYTN6TG91aWdyZDNnTkpibjNqZXFBWFp2RHlwOFRodXp1X0NUcHdjVk4wNXRiellrb3E2VXdFQVRlcnhrUG1SUXg0M0RHeEY2aUh1SmhIS2Q5R1ZqdG1mV0RJc2hGTUdhQVVEd1lDRlFNcGktakZCRzJKdWtsaW9EVzRjcURoNS1WSk9lZ01Sd1VRZXBlcGZpdFlqbi1waDRzNUFEU285Yjd2MGFlTzdvZtIBtgFBVV95cUxQRS1RSEZ4bzM1bHQ2bmIxVFBqNWMwc3lJOVE3cmhsXzNaYUNqZk1EZEtmbFZpd19RMERxQWE1aF9mS29YZjFzSkhxSzdZT3ZabXBMenk3bWIwWEpFNjBTWi1iYjVjaFgzRWphb3JIZmZialVINXFOREk2RmhTYVA2MkdNTzJoREdDWndjcS13eGtjb1dRUndneDlzQUFWaEdrMU9xbGN5WFlZc2pOX2tOSXFrMjFsZw?oc=5",
+   "source": "The Hill",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "美国"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-26T15:54:44-07:00",
+   "keys": [
+    "72994e235da2651c",
+    "fe7b69b5c1a6411e"
    ]
   },
   {
