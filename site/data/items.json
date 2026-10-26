@@ -1,6 +1,443 @@
 {
- "updated": "2026-10-25T14:14:36-07:00",
+ "updated": "2026-10-26T13:02:27-07:00",
  "items": [
+  {
+   "id": "2026-10-26-178c4390689327c4",
+   "date": "2026-10-26",
+   "title": "New European Master’s in Translation (EMT) competence framework reflects how AI is changing translation",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQbnBmb0NDVnA1b2YzWFhpcUtLVW5wZmtaTndfR1lyRHo0ajFCcF8wMEN4RG9jalJMOXFtTDRaT0daTnYyLTFTZHlxaVBPOEZLRlFjWVB3Qmx6bzNJMjF1SUZlMDJPSDZkOWYyUjVVT0d5UDc2Z0hDaXpTVzFsZjNXdHFqRXR3VDNsSGxiWHhOWUl1QUgtQUJFNW9mZ2NQSk43cnNIbzZ6Nnk1dE5yYktrWVVyNVVRNnZvLVJHZ0hxdktDYk5YUjRiY1c2QUdTMU11cTlIX2ExenZ6TUY5U3k4Sk5XQW5FTk0yOXljZTN1X3VrREFi?oc=5",
+   "source": "translation.ec.europa.eu",
+   "tier": "official",
+   "also": [],
+   "coverage": 1,
+   "category": "政策与标准",
+   "regions": [
+    "欧洲"
+   ],
+   "importance": 2,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-26T13:02:24-07:00",
+   "keys": [
+    "178c4390689327c4",
+    "aeaea4eedc041f43"
+   ]
+  },
+  {
+   "id": "2026-10-26-3eedf4e9e9c2016a",
+   "date": "2026-10-26",
+   "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
+   "summary": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows.",
+   "url": "https://openai.com/index/openai-cut-incident-investigation",
+   "source": "OpenAI",
+   "tier": "official",
+   "also": [],
+   "coverage": 1,
+   "category": "安全事件",
+   "regions": [
+    "其他"
+   ],
+   "importance": 2,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-26T13:02:24-07:00",
+   "keys": [
+    "3eedf4e9e9c2016a",
+    "a472b1c213ddcf7b"
+   ]
+  },
+  {
+   "id": "2026-10-26-10e6c42694374cd0",
+   "date": "2026-10-26",
+   "title": "The focus on AI safety disasters ignores everyday harms",
+   "summary": "Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide. A social media platform makes it more difficult for children to buy fentanyl.",
+   "url": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
+   "source": "MIT Technology Review",
+   "tier": "b",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 2,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-26T13:02:24-07:00",
+   "keys": [
+    "10e6c42694374cd0",
+    "75246533d5087888"
+   ]
+  },
+  {
+   "id": "2026-10-26-994342b02f58025a",
+   "date": "2026-10-26",
+   "title": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
+   "summary": "The company will be the first true artificial intelligence company to go public as tech firms continue to invest heavily in AI.",
+   "url": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-26T13:02:24-07:00",
+   "keys": [
+    "994342b02f58025a",
+    "e156f584c2c068cf"
+   ]
+  },
+  {
+   "id": "2026-10-26-02f122f1b1d3ab85",
+   "date": "2026-10-26",
+   "title": "Economic policy vets see risks in AI overreliance",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE80bXo1M01ZWVU2MjdLdk9RcUNUSVJyVWJEYXNMdnpHT09PM2JNaXp6cHY1X2tGc1FmODI4MUtheGE3LUJkVFZfY1hTcWxNR29MQWhzTnRSWXJwT20zRnltVE56RUhkYVhvOThUbg?oc=5",
+   "source": "Axios",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "政策与标准",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-26T13:02:24-07:00",
+   "keys": [
+    "02f122f1b1d3ab85",
+    "6f3321d13e828620"
+   ]
+  },
+  {
+   "id": "2026-10-26-c1b90013670340bb",
+   "date": "2026-10-26",
+   "title": "HSBC cuts global equities to 'neutral' on Middle East, AI risks",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPU0V1TF9Dd0ZIU0VSSC1UQzZPTkx4TnNXTXlHb3N6TWx1UHZCc2N1bGYtZDNMUnlNZmpRbEtXbW5CTHB0WHozTTcxZlBwSkhfdEpuVDdGd0ZhdERUYUtubTFua2o2M1R4VEdDeldCQnVLd210NmdfdF9fSHY3bmJHYjIxVHN0Rks1VVZHWUNyOE9QczN6Y2YwRV85d3VFc2pF?oc=5",
+   "source": "Reuters",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "全球/多边"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-26T13:02:24-07:00",
+   "keys": [
+    "2371628fc528f1c0",
+    "c1b90013670340bb"
+   ]
+  },
+  {
+   "id": "2026-10-26-592f7029720abd40",
+   "date": "2026-10-26",
+   "title": "Meta eyes record $95 billion equity raise to fund AI expansion",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPclhjOFJvYkM0S0hLUmxaY0l2X3hCdWI0N1prZlo2QXhXdmt5T0pNQVpFODVpYzgycWdZcHM2NkZ2LTdaMEVUVlpTXzVFUzc2ZEdVdlpTeThUVkZtc3V4cEFTelk5bDd2Z0dfRDFsb0dGQ0MxRXhYMExFZTlXVkNjRXF6TDBLalZ5ZTFBbFMyX24wMVBTQW1GQkJNRjNYWTRiVGJJWWdialBfV1oyQUZNN3I4RQ?oc=5",
+   "source": "Reuters",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-26T13:02:24-07:00",
+   "keys": [
+    "049b4673b71e189a",
+    "592f7029720abd40"
+   ]
+  },
+  {
+   "id": "2026-10-26-34d78f33894aaf17",
+   "date": "2026-10-26",
+   "title": "Verizon lifts annual forecasts, signs more than $2 billion AI infrastructure deal with AWS",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUXJNWmV4Ny1ON2FmYXdrclBkWWdrZXdfX2JHLUdoZ3ZLamJNdHl1NHc3RDk4TWUxZVRZMUN2QTVvMk01Ujk4Wmk2ejZOT3h3UmlWUmp6S0lLVHBSZmVvQ0c0Sm1xYVVMNXN4M2JkNWtKVUpoWEd4YloyWVJBME8tb0htQnhzNzA5V1ZWWlE5cE10a25nNWtxQmc5dDlGdF9MZzRYMllaMHI5eXlINXpCeVJKZmVFRmttRmFQZUtFOTNDNEx2OUlGemNBV1FuLUNDdWdFZQ?oc=5",
+   "source": "Reuters",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-26T13:02:24-07:00",
+   "keys": [
+    "34d78f33894aaf17",
+    "5eec2ca5e1d4da4b"
+   ]
+  },
+  {
+   "id": "2026-10-26-6dedc412abbd9868",
+   "date": "2026-10-26",
+   "title": "Meta Plans up to $95 Billion in Financing to Power Its AI Growth",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWWVJZlJtQjJkZTMyWV9zMXNqV3RxZERPOE1CZlliQTVqR3VaTFk5anp5bHViM0pVTlVlc3lmMTU2YzVkb01hRXVsYU9yWUVFWjJxVHlrbW5TRVZoMWw3SzM1VUZ3UmpZN1NRODBhZmpHQXI4OXFCZDI5dWpMOGlTcGlWblREUUhmWHRCLWtZeW9zcnNUMVlRa2JTN0pwZ2dkSXBKQS14emotVmM1LWMtb2RxMEF5Y3RqNHBFZndn?oc=5",
+   "source": "WSJ",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-26T13:02:24-07:00",
+   "keys": [
+    "17bf8a39e0a4347a",
+    "6dedc412abbd9868"
+   ]
+  },
+  {
+   "id": "2026-10-26-847110cfc87a5f95",
+   "date": "2026-10-26",
+   "title": "The FTC is demanding Anthropic execs testify in expanding AI safety probe",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5TSU12YjBVSEl2R0ZuM2lEWEUzWXZfdzRtaWRkT2NEM21hcUFPSzJqLXY5VTlxWGE4N3VVYWVQemt4SVdJMHVQY3BfNjgteURQYkFNcFdUaU9wd255MXhucjg1Q0dOdnhWTmhPRkZDM05tcnNGX2ZKRQ?oc=5",
+   "source": "Axios",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-26T13:02:24-07:00",
+   "keys": [
+    "847110cfc87a5f95",
+    "eef559f0c4b56ba6"
+   ]
+  },
+  {
+   "id": "2026-10-26-bca3bb361cea2259",
+   "date": "2026-10-26",
+   "title": "Anthropic warns investors of political risks as it prepares to go public",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdmdVZ21uMHVfcm5sbTlKRi12aVE5bk1SMG5ieGdla0lBT2xuMUxUZDBFd2JfNlR3cXRfYnd4SE9xdURUc2RMUXVWY3duMkxaZHZzQU9Cc01CeW9WTW5EVWxKeVVVMEdMZXZ4UFJDaDVVblJ2WXdXdEhmYUduVU1xaTdldXp4N3BTMUJnVmdzY0NVX0V2MkhXOExB?oc=5",
+   "source": "Politico",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-26T13:02:24-07:00",
+   "keys": [
+    "77018c15492d6db1",
+    "bca3bb361cea2259"
+   ]
+  },
+  {
+   "id": "2026-10-26-97cd8c96b379d358",
+   "date": "2026-10-26",
+   "title": "Darline Graham Gets Help From the Data Center Industry in South Carolina Senate Race",
+   "summary": "As political fights over artificial intelligence accelerate, there is now a super PAC aligned with the data center industry. Its first bet is on Ms. Graham, a Republican in an unexpectedly tight race.",
+   "url": "https://www.nytimes.com/2026/10/26/us/politics/darline-graham-data-centers-south-carolina.html",
+   "source": "New York Times",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "美国"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-26T13:02:24-07:00",
+   "keys": [
+    "9099f3ee52055696",
+    "97cd8c96b379d358"
+   ]
+  },
+  {
+   "id": "2026-10-26-b80665b961049af5",
+   "date": "2026-10-26",
+   "title": "交通银行副行长钱斌：金融AI规模化落地需守好风险边界",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTVIzZGRxRTNpQ1NKTGFqNUU5RjRfOFIxSzRSQjdJTXY0QTNkR1NDbl9jNzM5ZWxrZ3FHY1FMaVhJZEd1T0lreUV5ZlRxcU1Vb3c5NTdFUGJlN0ZPcTRjTV9Va1hYRl92TldKMGRMQXFqNzBXczJVdTdLazNLMmpZQUd1QVhPM19weHlnblM3RVhKS1pKS2ZCZlJB?oc=5",
+   "source": "新华网客户端",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-10-26T13:02:24-07:00",
+   "keys": [
+    "b80665b961049af5",
+    "d9c485c809c3f344"
+   ]
+  },
+  {
+   "id": "2026-10-26-13cb70acb26ce583",
+   "date": "2026-10-26",
+   "title": "Meta Plans to Raise Up To $95 Billion for AI Through Equity Sales",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSlRfdFQ0aV81VDBGYWdteTU1RldRaUhWazRyTkhyWEtPOHIwcTRDLUZHcjFYRl96WWRwWGUyc29HQ1Qtc3F1d1libGZOcjBKY2YtcEotUnMwZnpBNU1RUFI1ZWZHaktUMmhhSnhMQ0c3V3MzMmFzNzRGQk1xZm1PaHVfckJPX3NsR3JhRA?oc=5",
+   "source": "The Information",
+   "tier": "b",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-26T13:02:24-07:00",
+   "keys": [
+    "13cb70acb26ce583",
+    "23b67d80e955f8f3"
+   ]
+  },
+  {
+   "id": "2026-10-26-23924df917d66f04",
+   "date": "2026-10-26",
+   "title": "China’s AI Regulation in 2026: Enforcement, Guidance and Compliance",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcHNfRlNnclkyTFlra1lrUnZIMld3T0pLYUlYaWVlV3d0R3JldWs0YU1qTjVWdlRWMVVhYi1IbWkxYzR1VnNsbGhzbXFQZDBqbU9YZkVnQjA4c1BoSFgyZWVQZERqamcweEwtdXR0bEZuRDdvMUpjUVBMYXphLUwyUDgtcVk5TEhNV1pvQllyd3RWMnBfZUNEeg?oc=5",
+   "source": "China Briefing",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "中国"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-26T13:02:24-07:00",
+   "keys": [
+    "23924df917d66f04",
+    "b9786181785e29ab"
+   ]
+  },
+  {
+   "id": "2026-10-26-62efa99fe08b1bbe",
+   "date": "2026-10-26",
+   "title": "AI探店火了有代做公司月流水800万，亟待监管与平台协同治理",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1acXAzZHZCSkdQTS1DM1BlV1U2bHBpQzdSTUsxaGlDUXl6SmgxWk1uaWY3d0ktOTF3aXFQZGZ3allVdUl0Uk9McGdkcjBsU0lhOFg5ZWkwVnRoQW13NVBJaTU3dkVUb2RHOF94aXU3cmU?oc=5",
+   "source": "中华网",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-10-26T13:02:24-07:00",
+   "keys": [
+    "62efa99fe08b1bbe",
+    "b133cee80a379c1c"
+   ]
+  },
+  {
+   "id": "2026-10-26-7498ed1591b0a0d2",
+   "date": "2026-10-26",
+   "title": "NJ Democrats eye data center, AI regulation if Congress changes hands",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQmFoY3A4OXdQWWExaXZNT0VGSmRfVWk4b05BSHhOZXNaQTFLT1E3Ul90ZDd1VlFmNV9EVWxYRUliTjMtT0FyZHQzaHB6b2duQTdoeFBySXJhYzRUZnFIQldpSzJFSE9GMlBacjh3SXBTcVZUb0lISVlfRGUwZ3F0RFdVSjh5bHRsLVBiNw?oc=5",
+   "source": "New Jersey Monitor",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "美国"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-26T13:02:24-07:00",
+   "keys": [
+    "7498ed1591b0a0d2",
+    "b0212200cbf4d2aa"
+   ]
+  },
+  {
+   "id": "2026-10-26-9673a632382019e6",
+   "date": "2026-10-26",
+   "title": "UK businesses warned over ghost AI governance risk",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTGdrNU13bEZEX1BtaV9xMzRVa21NNzdQU2M3RGZjenQzZl9jaHFxRkY5elJvdDNmbmpQODhCelJWTERWMlRZdTFMUzRKY1NUN2ZrZ0xIQ3hLMk1iV2Y0Z2ZSaEVHUlVsZTlBZ1g1TTZvSnNhN1JjdTllVDRNcGZMRDFrMVBVNTE1NUZtRw?oc=5",
+   "source": "SecurityBrief UK",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "欧洲"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-26T13:02:24-07:00",
+   "keys": [
+    "6e8f3100bc0c71de",
+    "9673a632382019e6"
+   ]
+  },
+  {
+   "id": "2026-10-25-74ca20223ae72f21",
+   "date": "2026-10-25",
+   "title": "造成50人以上死伤才能叫停AI模型？Anthropic私下推动监管草案惹众怒，达里奥亲自回应",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9ac20xUmNWeE9kOEp6bnpkYTBsdmVWV2lzREI4ODRrYTMtX1ZDbnA2MEF2TVNQLVI5Z0x0ZDZhaGhVY2ZDU3d3NzFGOV9rZw?oc=5",
+   "source": "36Kr",
+   "tier": "b",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 2,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-10-26T13:02:24-07:00",
+   "keys": [
+    "74ca20223ae72f21",
+    "7774fc3418c8a9ad"
+   ]
+  },
   {
    "id": "2026-10-25-16c2c6ded847bc98",
    "date": "2026-10-25",
@@ -22,6 +459,75 @@
    "keys": [
     "16c2c6ded847bc98",
     "4c12529a51e40b48"
+   ]
+  },
+  {
+   "id": "2026-10-25-e8d771c54f5c9ca2",
+   "date": "2026-10-25",
+   "title": "2026全球治理论坛（雄安）发布《〈人工智能能力建设普惠计划〉进展报告》--国际",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5Da0M0YWVDUWJsZW94VXUyYWZZaGFMaGtrRjExZXFIUGJpNWZ1Y2FXQkx3WjYxTFBzM1JIV1MyYndjWHRXU3ZpeWJpZnBGQTBnOEhFcUpIUEh6YThWeFBLSEZxd3JPallaQ05Z?oc=5",
+   "source": "人民网",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "国际治理",
+   "regions": [
+    "全球/多边"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-10-26T13:02:24-07:00",
+   "keys": [
+    "6d9d7a332b82e3f4",
+    "e8d771c54f5c9ca2"
+   ]
+  },
+  {
+   "id": "2026-10-25-8a83be077aaf6911",
+   "date": "2026-10-25",
+   "title": "中信建投：关注物理AI数据与仿真、AI安全、国产芯片与超节点及算力服务等方向",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAxeFVreVhFTUJYcXJzRGRIelVsU2JTSWxRaUg2a05kbTRxQnVTaU5OcHNncEhwYlU1OERXckpYY094RjB3WUJMODVJejlPQ2VXRDVrbw?oc=5",
+   "source": "第一财经",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-10-26T13:02:24-07:00",
+   "keys": [
+    "8a83be077aaf6911",
+    "a6ad04de76b44427"
+   ]
+  },
+  {
+   "id": "2026-10-25-6b7cbf839ac5afb5",
+   "date": "2026-10-25",
+   "title": "METR questions Anthropic's AI safety tests despite agreeing catastrophic risk is low",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeVZRN1JMdUdpVW9ObEpTS2c5X2F1YzgzbUtIcVZObDhCb294ZkFXcDhWZU1sdWxPdmduRUsweE9YYl9VdlZSQkNqY3E2amlYQzNxRFZ2dkZXNG1jM3N4cUZfb2FEZVdOWTZuVVZETWtZOXBQYW5nY2xVd3QycDhyNFFBV0N4Y2RPUW93X3lWM2tyVFd6alhocnpoX1JvajhOR3VrRDJMb2hLbURLbWdwQTRaTDFlRXlMYVZNeHRkX0ZfZw?oc=5",
+   "source": "EdTech Innovation Hub",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-26T13:02:24-07:00",
+   "keys": [
+    "487c3fadb93bcce5",
+    "6b7cbf839ac5afb5"
    ]
   },
   {
@@ -174,9 +680,13 @@
     {
      "source": "人民网",
      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9fbkphRTBFT3AzZUZIN0hVQ3lyWl9QV2hTZTVnaWlVcEJVZnZoWHlIeTVrYjhQSVVXVlhCdk9nbnBneDNIT3h2d0V5eXNFMTcwQ1NTTU1yTzNwbEN5Q0Y3dGN5ZGdNNFppRW9tYQ?oc=5"
+    },
+    {
+     "source": "21财经",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSkFlbVIxa1g5Z0U3eldJV0xwaWdjM1hheWpVdEhuVHZaMTFhbTAtWjB6dGlTOUdkY0k2QVI4eUVBX3dmTXJrUzFjWjE0YzlvRzhMa1VwWklkX1lCblhDWnlLbGhvRUNnZTRlR0lhSzJTM2VETzV1M0FoZmhkM3BzanhYdllUek1UNlJpaE5yRQ?oc=5"
     }
    ],
-   "coverage": 2,
+   "coverage": 3,
    "category": "国际治理",
    "regions": [
     "欧洲",
@@ -189,8 +699,12 @@
    "keys": [
     "17c30fa6ac57c501",
     "1edd9914e804a5aa",
+    "284aca10c25051f6",
+    "48c2305ab0163088",
+    "4dc7c0b51fefa0b1",
     "8b9210b1599979f5",
-    "c9dbbdd3f29c1e27"
+    "c9dbbdd3f29c1e27",
+    "ef0f3831f270053d"
    ]
   },
   {
@@ -426,6 +940,29 @@
    "keys": [
     "73d538c2dcd13c8f",
     "cd26483cd959039d"
+   ]
+  },
+  {
+   "id": "2026-10-23-d4a79acab63656c4",
+   "date": "2026-10-23",
+   "title": "Anti-coherence Regularized Absolute Scaling for Out-of-Distribution Detection",
+   "summary": "Out-of-distribution (OOD) detection is recognized as a critical problem in AI safety. SCALE is an effective post-hoc OOD detection method in the activation-shaping family that requires no training data and rescales penul…",
+   "url": "https://arxiv.org/abs/2610.32255v1",
+   "source": "arXiv",
+   "tier": "b",
+   "also": [],
+   "coverage": 1,
+   "category": "安全研究",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-26T13:02:24-07:00",
+   "keys": [
+    "c5aff25e7390acc3",
+    "d4a79acab63656c4"
    ]
   },
   {
