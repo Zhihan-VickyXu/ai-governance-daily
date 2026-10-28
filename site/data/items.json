@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T12:41:52-07:00",
+ "updated": "2026-10-28T15:52:05-07:00",
  "items": [
   {
    "id": "2026-10-28-bf45629f2156009a",
@@ -45,6 +45,52 @@
    "keys": [
     "851fecb5e85e0e5a",
     "d2e3190cd6180020"
+   ]
+  },
+  {
+   "id": "2026-10-28-640fa7dd1cfa055b",
+   "date": "2026-10-28",
+   "title": "Anthropic tells California governor courts should be able to block risky AI models",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQb3lwQkM2YlRwQ3lBT0UxOUtJTks3bkNxb0Rfbm90ZFAxdGZyT05KMXY2ZEVEYTJZeHFqd0YyMTFVQXBfOEtWeHFUdGt3cWRTNXhqTjloNGVEdkoyU0RxUHowMUw4UXNwVWUzdjQzMmZpTmRCakZjdzJLcE10dGcyUm15TGY5Y0I0Q0VhM3ZtUUlsTUFHWlAtT01XRkZYZXY5cjdzMmYwTnlfSkZkaWxtaTI5dmphVHhkQVhRUko1b1ctTldPaGlFamVONlE?oc=5",
+   "source": "Reuters",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "美国"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-28T15:52:02-07:00",
+   "keys": [
+    "640fa7dd1cfa055b",
+    "955cb21386f9d1aa"
+   ]
+  },
+  {
+   "id": "2026-10-28-de3487e13f8dc89a",
+   "date": "2026-10-28",
+   "title": "New York enacts ban on 'unsafe' chatbot behavior with kids as states push AI regulation boundaries",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNdzBaVHFoVHlFQzI0ejFmcGxpRGx6S21FSFRUUnFZWGR1SGFMSzZTNUQzSkFiZGRSUFJ5aFZCRnhDb2wyckh3NGxzanBnRWRYTE9pQlJ5UHl3aTJXLUNoRFlGMUtkTUY0dG5JWGVsWlRKU3BBNi1MdG1fSGJEdWFleHQ5clFwMDlDVm1OUVlOc0pfcjUtdFZEcHYyQldvUmZLNHp4N3hDRV9Qa25SVEROSzlDeERZRjRmV2IxRFZENkhnZmJobVlzaFk5eUtOeHY3UnhSQTRVOHRpc2EtYmlNSHhGaTljY3YtRk90Ym5lTXAzbjF5dU5TRk10eUNwTHd1elp3Uy1n?oc=5",
+   "source": "Bakersfield.com",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-28T15:52:02-07:00",
+   "keys": [
+    "de3487e13f8dc89a",
+    "fa8441f44216ba0e"
    ]
   },
   {
@@ -598,6 +644,29 @@
    "keys": [
     "0fef88ea6312098a",
     "f7bc50faeba6171b"
+   ]
+  },
+  {
+   "id": "2026-10-27-91813ddcd67de5a8",
+   "date": "2026-10-27",
+   "title": "AI financing driving private credit growth as refinancing risks rise, Moody’s says",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMlFHLTNZbVhfQjRZSmFmT1N5S2s2UTNsUkIzRnF0eFNXbG1GTTlURnZsU2ZDUGJMNVhGX2tPVzBrdkpSR1Y2VHBxZlFfMUdHcnJoTWNjNVlLMFBkNzRja1RaVVRaWFBSaUU5ak1LN3lxUDBqRE45UVRBVm9USHk0SzZ3WG1pc0tXRDgwVU1JenB2cmFDN2pyb3d1U0tZQmlqNjA2UzltdmZFaHFLNWZxV0pITWlVV1U5enM5SGtNWjJfdEhQQVljbG9lcnFLZw?oc=5",
+   "source": "Reuters",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-28T15:52:02-07:00",
+   "keys": [
+    "91813ddcd67de5a8",
+    "aabb2be9656f8e85"
    ]
   },
   {
