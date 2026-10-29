@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T12:45:41-07:00",
+ "updated": "2026-10-29T16:00:50-07:00",
  "items": [
   {
    "id": "2026-10-29-26672e1274a3b3bc",
@@ -45,6 +45,98 @@
    "keys": [
     "b598bb8c763a5e70",
     "fca73080d4cb4c72"
+   ]
+  },
+  {
+   "id": "2026-10-29-fb772af20f9c206e",
+   "date": "2026-10-29",
+   "title": "Finnish police launch criminal probe over forest cleared for Google data center",
+   "summary": "Finnish police opened a criminal investigation Thursday into Google’s work on a planned data center in northern Finland after the company cleared hundreds of acres of forest without completing required environmental revi…",
+   "url": "https://thehill.com/policy/technology/6182316-google-finland-data-center-investigation/",
+   "source": "The Hill",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-29T16:00:47-07:00",
+   "keys": [
+    "01c229f75f8035ca",
+    "fb772af20f9c206e"
+   ]
+  },
+  {
+   "id": "2026-10-29-d83b9b9c2ee160f0",
+   "date": "2026-10-29",
+   "title": "推动AI安全治理转向前置防御正当其时",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBlY3oyRGhkUVhES3VjcWRkSjZGaHdWRTBzVnJCTDFNcmwwSExwSGlHR1hvQ0NLUGl1b3dFc2NCazdkOTFUX2ZIXzFIS3d0ZndJWEZSWGpidk1nWlpSSkZjTm9LSjVyUDBrZnRIQXFhSEM4N2RlRG55TW1UMXI1UQ?oc=5",
+   "source": "手机新浪网",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-10-29T16:00:47-07:00",
+   "keys": [
+    "78f2a41ee21b4b97",
+    "d83b9b9c2ee160f0"
+   ]
+  },
+  {
+   "id": "2026-10-29-5cb4623f1d63e413",
+   "date": "2026-10-29",
+   "title": "CISOs lag on AI governance as board oversight trails",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNDRJQ05DUF8zWm5leGlIejlPZ2owYlMxRGZZQlR0QlRGQ05WUHhtbEJZNnpISFdhVlhiRndybnBlSzliOXdoU1dHNUNNSWM3R1poVFpSOWMzQkthQ1plNUM2MzBodUZ0aVhKTVVaOUR2R21SUXhOeFBtRDVIcEpvOXB0emxNR2UzRUc4OGlnMi0?oc=5",
+   "source": "SecurityBrief Australia",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-29T16:00:47-07:00",
+   "keys": [
+    "5cb4623f1d63e413",
+    "af1014d07e88e8c4"
+   ]
+  },
+  {
+   "id": "2026-10-29-fcab4e64539eac86",
+   "date": "2026-10-29",
+   "title": "指向不同类型伦理问题，人工智能治理“四个A”新框架提出|总编辑圈点",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1xenNXQWcwem1ZdVZBd3E0ZnJZRVloSFRaY3VneWNxSTJCalc2VDEtUGRlclB2SV8wMWN3cDRvamNlUUdRdFpMclhqVFFuWjg3WF8xbEZMSDFnQVA1Snl2T0lXRnZ0eG9NT0hrYnFGbXc?oc=5",
+   "source": "中国科技网",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "政策与标准",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-10-29T16:00:47-07:00",
+   "keys": [
+    "3c344377f95cdb47",
+    "fcab4e64539eac86"
    ]
   },
   {
@@ -299,6 +391,29 @@
    "keys": [
     "32bf176ea1838849",
     "565824b0b7417f4a"
+   ]
+  },
+  {
+   "id": "2026-10-28-e6bfb88e30d7a2bd",
+   "date": "2026-10-28",
+   "title": "北京新增6款已完成备案的生成式人工智能服务",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1RY2FTZ0s1cG1lX0JGazN0YjA0aGlZZ21JLW5XUTVsRmh2UXhRUl9fR2EzRXFCZUpmallCa3pUY0p2X1ZlQ0tva19ERGc1a1pqYTZQaElYWHZ4dmhqV0lEU3ZDQTBtSElUVURjU1VqSGg0Y0dCWEUtX1ZVaw?oc=5",
+   "source": "北京市人民政府门户网站",
+   "tier": "official",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "中国"
+   ],
+   "importance": 2,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-10-29T16:00:47-07:00",
+   "keys": [
+    "d63c22172e0b0e54",
+    "e6bfb88e30d7a2bd"
    ]
   },
   {
