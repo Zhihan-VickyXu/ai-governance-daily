@@ -1,6 +1,306 @@
 {
- "updated": "2026-10-28T15:52:05-07:00",
+ "updated": "2026-10-29T12:45:41-07:00",
  "items": [
+  {
+   "id": "2026-10-29-26672e1274a3b3bc",
+   "date": "2026-10-29",
+   "title": "Sen. Gounardes Proposes Major New AI Safety and Transparency Regulations",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUGdlUVRUQ1YzdUI4YTd6bFJaRWhZTGJWU25TTjBqbFU4MTkzUk1CQWZ4dkVKcHdyOXo1dlZJaGlYZTBheTlmZzhMVnFvUHFra2pybE5IR2JLWXhKWmRCd3g2UDRoc0RLVWo2NnU5VVBPbFlpR3oxajNxbjZKNUlYZGtfX01jY2c1Y3dvTmVVdXE4d1BhaVFTdjRzb0ZMQ2xLaTVfeUN0MEkxRFBya1FJMG1qS3JYaTNh?oc=5",
+   "source": "The New York State Senate (.gov)",
+   "tier": "official",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 2,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-29T12:45:39-07:00",
+   "keys": [
+    "26672e1274a3b3bc",
+    "7f3f6628aa86c71c"
+   ]
+  },
+  {
+   "id": "2026-10-29-b598bb8c763a5e70",
+   "date": "2026-10-29",
+   "title": "How we detect frontier model misalignment",
+   "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
+   "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+   "source": "OpenAI",
+   "tier": "official",
+   "also": [],
+   "coverage": 1,
+   "category": "安全事件",
+   "regions": [
+    "其他"
+   ],
+   "importance": 2,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-29T12:45:39-07:00",
+   "keys": [
+    "b598bb8c763a5e70",
+    "fca73080d4cb4c72"
+   ]
+  },
+  {
+   "id": "2026-10-29-919e816712e590c0",
+   "date": "2026-10-29",
+   "title": "Exclusive / AFL-CIO drafting ‘gold-standard’ AI legislation",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaHUwRWVYcjdBQjRoRjVMa0doOGpvLXJfbHp0VHBFUzhfS3czTzI2UjNyT0VTXy1ERnpwTXhxdFhGUlFWZWNLam1UVE81dmtLSF9yYWtiQ0k3THVBQ2c5bHItQjJfbktIckVjMGhMdDMxZVlzdW9CTHEtN1dqaVhVMS03WEdTb2pscEI2bUg5ZXV0Zw?oc=5",
+   "source": "Semafor",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-29T12:45:39-07:00",
+   "keys": [
+    "0c2561adc03b8b07",
+    "919e816712e590c0"
+   ]
+  },
+  {
+   "id": "2026-10-29-3aa3ae1ef187ead6",
+   "date": "2026-10-29",
+   "title": "London’s courts can thrive under AI—but they are also at risk",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdmViT2JHUWhFWGVuemlnS1JWZ1NqQjZNczJ4c1hCSXRudkcweXhFdEFaMTdwWW5GNzlWUzJYUUtPSG5aeDNmaUItUHNXYWRITUhRZjh5WS04V3pPTU1aTk15YzVnZEpTY2tuZG9OclBMY3Y0cWwydllOeDBXX2NYbkxpQm8tVGNvVm9jMlExSUctemF2WFpGY0RVOUg0RjFNMTY4MDNIVmo?oc=5",
+   "source": "The Economist",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-29T12:45:39-07:00",
+   "keys": [
+    "3aa3ae1ef187ead6",
+    "980065afa78ea623"
+   ]
+  },
+  {
+   "id": "2026-10-29-04414ea2316dac5d",
+   "date": "2026-10-29",
+   "title": "The Morning Risk Report: Tech, Social Media Companies Brace for Deepfake Scrutiny in Midterms Run-Up",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQZmdvR2o0LXMyLTR2QWZaT1ZVMHdQYlhvbzE1WTZCLWp1NFdMbGtITDFRX2liVi1RbHMzeHhETDVrUlBIdEN3SFFYMG1fWGtNZ3lSR193RVhvWHJDTF82NUNWam5xS0ptalpQN3Z5OUJTUjBfeEVvaU9LLU1zMzA1QlV1OE1LbjZTM2c4cHd2amJkbEpaV1A1WTFaQ05YNk13Q0tuSVd6WHRydk4yVlowSXVjMXlONVlmZk1naG5yWk50cTRYRnFJTG1mWDVzanRhckh4S1MzWFlIbUNzVjZQNmlKM2d3UQ?oc=5",
+   "source": "WSJ",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-29T12:45:39-07:00",
+   "keys": [
+    "04414ea2316dac5d",
+    "86536da20d390a0a"
+   ]
+  },
+  {
+   "id": "2026-10-29-640fb63750a0549d",
+   "date": "2026-10-29",
+   "title": "'We are not prepared': Rohit Chopra's warning about AI financial risks",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPajFwdWVwcG9UcGNHbzNkelhjblJXZklIWkxmMUhaUEY4ckxHcEdjenJuTzRUOVZCMk82RmZ0TmpjMlM2cFFEUHhKRTFPT2dPOHFKSUhwRzRiYmF0VnY1RHNuV2hDZWR1Y0NnZ3p1M0JFbEJrUVRCaXN4dF9DT2xyVm5YV0w2cTdZ?oc=5",
+   "source": "Politico",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-29T12:45:39-07:00",
+   "keys": [
+    "1c5f9deca9553464",
+    "640fb63750a0549d"
+   ]
+  },
+  {
+   "id": "2026-10-29-f16360a3490fb66d",
+   "date": "2026-10-29",
+   "title": "能识别作业违规、能发现意外情况 AI巡检机器人助力进博会安全",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBURVQxSG9lUnhBelUyOEhRcTByUTFfbF9WUlFBaGJkMTlsNXBXUkVRSnE1ang3YTQzc0xQbC13b2xBZEtNSlk3RktTeXFMaG5oNHN5aW82Y1BrX3lDNEpuZC1UVTFGWl9pdTgtVmZobk9xTFRkbVhIbA?oc=5",
+   "source": "央视网",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-10-29T12:45:39-07:00",
+   "keys": [
+    "b4f0807e059aafdc",
+    "f16360a3490fb66d"
+   ]
+  },
+  {
+   "id": "2026-10-29-7592521111deb964",
+   "date": "2026-10-29",
+   "title": "Exclusive / Voters in key states want AI safety measures, poll finds",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNS3NpRlVERW9wZUI4RkROVWJDWG5FUjUzWWtZN3BXYW9kM0pRNkVhTVY0aDViVVNnZGQxRVBLYzBOMzFEcV9lbk5nQjBLZmpSY041X04tdEN2aU1DNVo4WjZhSTZhRkF6RlREZUYwQnAzcWR1MDVKeERnT3gyRW1XTDVUb1kzTFRSZTQxZ04zOUpGalZPd3RmT3JvTEExc1U?oc=5",
+   "source": "Semafor",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-29T12:45:39-07:00",
+   "keys": [
+    "7592521111deb964",
+    "a0de4c8073e62397"
+   ]
+  },
+  {
+   "id": "2026-10-29-a6ca88ba67a55ecc",
+   "date": "2026-10-29",
+   "title": "Pentagon AI oversight office struggles to keep pace with department’s ambitions, GAO finds",
+   "summary": "CSET’s Owen J. Daniels shared his expert insight in an article published by Military Times. The article examines a Government Accountability Office report highlighting staffing shortages, incomplete initiatives, and over…",
+   "url": "https://cset.georgetown.edu/article/pentagon-ai-oversight-office-struggles-to-keep-pace-with-departments-ambitions-gao-finds/",
+   "source": "CSET",
+   "tier": "b",
+   "also": [],
+   "coverage": 1,
+   "category": "安全研究",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-29T12:45:39-07:00",
+   "keys": [
+    "a6ca88ba67a55ecc",
+    "ffd0f932e3e13609"
+   ]
+  },
+  {
+   "id": "2026-10-29-8b78f7157114b0c2",
+   "date": "2026-10-29",
+   "title": "AI Cyber Incidents Pile Up + Anthropic’s Draft Safety Bill - CSIS | Center for Strategic and International Studies",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZkZ1TkpoODN2WVN6WjUzRmZCOVFTVWkxdU9RaDhDZnZPbEpCdlB5dU9jNnVkMjBrSFNTeGZLN2E2UXhkZk1rMjl1UWdJODZNaVV6Um9tNklUZUxOMVEyTWlmcGJyWVRkNENZMWhyREViTC1fbFNuTUZxbFhYbmpfclVHelJNa3hyeXZKUHBHZ2d4M1pjbkk3aFBrZHJQblFlV2c?oc=5",
+   "source": "CSIS | Center for Strategic and International Studies",
+   "tier": "b",
+   "also": [],
+   "coverage": 1,
+   "category": "安全事件",
+   "regions": [
+    "全球/多边"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-29T12:45:39-07:00",
+   "keys": [
+    "8b78f7157114b0c2",
+    "8bb07342a5baf5dc"
+   ]
+  },
+  {
+   "id": "2026-10-29-cfb4c955d5c316a2",
+   "date": "2026-10-29",
+   "title": "What Latino Voters Can Teach Washington About AI Governance",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcXlCME5MOGZaem9nbm9LVUM5T3NUclg5M3FCS1ZGMTdkcjVJVU92ZGQ4NWJTNVpmNDlLNnBNLUNBUmNXR2lGczBad29rZVQ0LVpESXk5V2tIMXJIekZaY1BKS0xwQ2s4R051VVhTTUpmVkVxdHBrNjNlN0ZwbDhSZ2xJZDFnYWJoYS1Yaw?oc=5",
+   "source": "Tech Policy Press",
+   "tier": "b",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-29T12:45:39-07:00",
+   "keys": [
+    "9432f225188d74c0",
+    "cfb4c955d5c316a2"
+   ]
+  },
+  {
+   "id": "2026-10-29-0ad8ce68cb51265d",
+   "date": "2026-10-29",
+   "title": "EU: Members of Parliament call for international cooperation on AI governance but remain divided over EU regulation",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdXoxTVFhbXVZWmNvXzBMR29qS3dKb1Rpczd4by0zNzI3Tnc1amRpN3c2NlRWUERUUTR5ZmFuYml0aGdjTVdwQ05wWTJaN2JaaWFiSjY2Y2ZQYTFCRm5GWXZTbXNLU0lkRlAzSkUzc1k2TVN6STBMM0VnSTVCQ2ttdmEya2dDdzdjMktRM1RGcXZuekFMX3drWUZGTkNQYUJOZ0QtamVnZFZTUjBGelJ3TXh2VDdoemJZc3ZneXhZcEUzelpoMWhZ?oc=5",
+   "source": "Business and Human Rights Centre",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "欧洲",
+    "全球/多边"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-29T12:45:39-07:00",
+   "keys": [
+    "01d6627eea66c20c",
+    "0ad8ce68cb51265d"
+   ]
+  },
+  {
+   "id": "2026-10-29-32bf176ea1838849",
+   "date": "2026-10-29",
+   "title": "清智人工智能安全中心国际学者一行到访清华大学人工智能国际治理研究院",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE40Mm9aVGlfaWd5VFhuOWVoamVoQ25MREttanVDVFJ1WEJwOV9LT09aUlZwTHJlcWV2N0VqQTNYVUpVMVZHdEdkUw?oc=5",
+   "source": "智源社区",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "国际治理",
+   "regions": [
+    "全球/多边"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-10-29T12:45:39-07:00",
+   "keys": [
+    "32bf176ea1838849",
+    "565824b0b7417f4a"
+   ]
+  },
   {
    "id": "2026-10-28-bf45629f2156009a",
    "date": "2026-10-28",
@@ -45,6 +345,121 @@
    "keys": [
     "851fecb5e85e0e5a",
     "d2e3190cd6180020"
+   ]
+  },
+  {
+   "id": "2026-10-28-2a1dda291ab4f760",
+   "date": "2026-10-28",
+   "title": "Malaysia seizes servers with advanced AI chips suspected of violating export controls",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbTNpQXVCYkdWTzZ2Q0VQYVVKb1BSV0hRZWttLXhtNUhDY0JoNGJrZlJnUmJZSUt2NmQwU3JqUEJ0bnJxRk9Qdi1iSkx3dENILXZrWFlzTER3OEpxbWdaMklxbmp4QUlZSmJFTUVrSktYV2twbkQzVFFWV25WbGUtZnZiYnZxSjNpaVhzYkprbDdhTFVHcXdvNHl0WUw2cHMzSUVINkkwUTl1Zw?oc=5",
+   "source": "AP News",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-29T12:45:39-07:00",
+   "keys": [
+    "2a1dda291ab4f760",
+    "c812f12d5e039c41"
+   ]
+  },
+  {
+   "id": "2026-10-28-cc7ea4d8bb6f60b7",
+   "date": "2026-10-28",
+   "title": "纽约州立法严限AI伴侣功能 禁向未成年人提供拟人化情感互动",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1GNWpqVEVXN3hEVHBlaW9rdjkxRDNCTDV3WWVHMDE2RkVfVTl0d1ctNWhEWmwzX2c0N08xSXNHd2NqZHNRWHZOOXl0T0x5RTV4dnMtanlMX1VGTFk5RjBpS1NoeVVzdw?oc=5",
+   "source": "联合早报",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-10-29T12:45:39-07:00",
+   "keys": [
+    "3ab396f27997890c",
+    "cc7ea4d8bb6f60b7"
+   ]
+  },
+  {
+   "id": "2026-10-28-383a39f8b0cd1ee4",
+   "date": "2026-10-28",
+   "title": "从“数据治理”到“跨主体流通”，迅策科技TokenRouters打造企业AI平台，开启AI资源可交换时代",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE83bjhuZHNJYmdaYnZqTmJYaHR1cHhUc2F5ZEtybldyMDZsMFBZNXFZSUtsS2xuY1BnakJTZTc1dm5kWEJVZmptNy1mVWhOejYwX1lV?oc=5",
+   "source": "第一财经",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-10-29T12:45:39-07:00",
+   "keys": [
+    "03f0302be4a554a6",
+    "383a39f8b0cd1ee4"
+   ]
+  },
+  {
+   "id": "2026-10-28-98ed17c6be79ba1d",
+   "date": "2026-10-28",
+   "title": "7亿用户之后：生成式人工智能普及过半 应用治理成为重点",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUFhRRDNXWW1PWEhvM3NZUGpWQmhqWnJra3hfOTVyWjBLT3VCX1A0TkM0UUxiaTU5RTAtMXNaYUlBRjUxLWR1NFR0WUNLZ2U5MDRpM0VzQzBMY1R5d290cTdLY3FvYlJYeWVKQU50Y3V5SzdoNEVaUWNyWEQ5VzgzRWtQM3g?oc=5",
+   "source": "新华网",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-10-29T12:45:39-07:00",
+   "keys": [
+    "98ed17c6be79ba1d",
+    "a23dccd7d4c0f4bf"
+   ]
+  },
+  {
+   "id": "2026-10-28-8a9ca349fc7d3171",
+   "date": "2026-10-28",
+   "title": "Bessent Plays Down Concerns Over AI Financing, Fed Rate Policy",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUEVESE1Tb0FzR0xWY0NTUGVlNmFtWGhvdk9LVERpci0wY1VwMGtvMVU5T0RaOWktSkpZWWwxQnV0YkZyNU5uZC1qT0NXR1J3dDhwZ3puZXgtdkFBSzUtTHVGbHpQQ09nbjExRm9vRUQtWVphSEFOQ203OWtvd1FHck13alNJQ0ZGdjlzV09uT09icWFZd0M2TGJ6Zk50TlIxYU54cHk1ZUZ2Q0FDNTVSZm1R?oc=5",
+   "source": "Bloomberg.com",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "政策与标准",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-29T12:45:39-07:00",
+   "keys": [
+    "8a9ca349fc7d3171",
+    "a32b3cb585d28ced"
    ]
   },
   {
@@ -319,7 +734,9 @@
    "addedBy": "auto",
    "createdAt": "2026-10-28T12:41:49-07:00",
    "keys": [
+    "0911b1abd5f55072",
     "376028d797de0b0b",
+    "af314507791f4faf",
     "be02e26c2e5ed929"
    ]
   },
@@ -365,8 +782,10 @@
    "addedBy": "auto",
    "createdAt": "2026-10-28T12:41:49-07:00",
    "keys": [
+    "0bda65102430314e",
     "3cd23161514e6eed",
-    "4f9d82365d17e524"
+    "4f9d82365d17e524",
+    "93e1789261e7ee5c"
    ]
   },
   {
