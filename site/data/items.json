@@ -1,6 +1,305 @@
 {
- "updated": "2026-10-29T16:00:50-07:00",
+ "updated": "2026-10-30T12:31:20-07:00",
  "items": [
+  {
+   "id": "2026-10-30-af2d320173966dd6",
+   "date": "2026-10-30",
+   "title": "Apply AI Alliance - What an AI agent incident report should contain",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbGN4cEV1NllmcXp2ZjF3dVMwdS1DVHJYcDhuOXFZYjVqRVFWNWJiOHpOSW9YeGtjNmp0THZVNXJETF9hYWFpbk0wTDA3OG9SX3F1WklMNE9zeVVWRjNnOVZiYTBIOFlMMU8xQWtOaXJVVG1GSmlFY0M5cHVVUDNYdTZzNE1wbE50SGlIWUhqVV81d1dOSTg0OFluNWMzc2VGSndWYTRoQWdvUllaTjJ1eVNMcw?oc=5",
+   "source": "futurium.ec.europa.eu",
+   "tier": "official",
+   "also": [],
+   "coverage": 1,
+   "category": "安全事件",
+   "regions": [
+    "其他"
+   ],
+   "importance": 2,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-30T12:31:18-07:00",
+   "keys": [
+    "4937f2ab5c091dbd",
+    "af2d320173966dd6"
+   ]
+  },
+  {
+   "id": "2026-10-30-3f8a81dbdf37c389",
+   "date": "2026-10-30",
+   "title": "Community safety report and new protections for teens",
+   "summary": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
+   "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+   "source": "OpenAI",
+   "tier": "official",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 2,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-30T12:31:18-07:00",
+   "keys": [
+    "3f8a81dbdf37c389",
+    "be87813a963d854b"
+   ]
+  },
+  {
+   "id": "2026-10-30-e9cdbc3748fa3d09",
+   "date": "2026-10-30",
+   "title": "Experts warn AI copyright changes could breach Australian constitution and spark huge compensation rights case",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPdjlfNDVzQ3lxOFVCdnlkeXAzV1UyRWE0WG5GNjY0ZVJ2TThpc25ZT3k1TWRVa2I0T2RKMkFLUzM4UVRNSDJHOFd1N0diUWl3clJrRHNXMURxbk5FM1U4VXBJM00wUk85aUw1QklaNThaMmlhOFkyc01DclhhSGJjV2ZvMEpqMk9TVnBLcW0zaDQyRHhac0hBaTV5ZGNLYUJKcXNIYVV4V2lnajhoSTZJR2o1aTBKTVUtZ3ozYXhhZFctUm9QaFdEbEtnZ24za2RvTU5nOGxhb3E0TDVxU1E3X0ZUaUMxUktWZ0E?oc=5",
+   "source": "The Guardian",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "安全事件",
+   "regions": [
+    "其他"
+   ],
+   "importance": 2,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-30T12:31:18-07:00",
+   "keys": [
+    "9ef3a0cd096eee2d",
+    "e9cdbc3748fa3d09"
+   ]
+  },
+  {
+   "id": "2026-10-30-50952d341d2e14de",
+   "date": "2026-10-30",
+   "title": "Binance’s $6.3 Billion Hack Is Just the Start of a Risky New Era",
+   "summary": "The largest cyber heist in history came as attackers increasingly use artificial intelligence and other advanced techniques to steal crypto and quickly launder the funds.",
+   "url": "https://www.nytimes.com/2026/10/30/technology/binance-hack-ai-north-korea.html",
+   "source": "New York Times",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "安全事件",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-30T12:31:18-07:00",
+   "keys": [
+    "50952d341d2e14de",
+    "ca26e8c0f5e90435"
+   ]
+  },
+  {
+   "id": "2026-10-30-06bb71f7ae2b09d3",
+   "date": "2026-10-30",
+   "title": "AI’s Circular Financing Spreads to Asia, Widening Contagion Risk",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNFpmZHBNV1FsV2J6X3pyVzNEdzRHMzFPV2FHQ1hwcFZFZlR6WW1FelY2My02Y2RxOWtPWUxtYTNZTVJoT19PTmMzX19FMGx1Y21kSUpsZFNxb01ERDFUMTFNeExvUnpuM2ZqdHdVSXFxTko4OWoyTXRydzVQaVdZRkdaeWNCLW5BcVM5LWR0dTlVanM1emZGc1BGWEY3RUN1M1dVYlVMUlpDVEREZm1j?oc=5",
+   "source": "Bloomberg.com",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-30T12:31:18-07:00",
+   "keys": [
+    "06bb71f7ae2b09d3",
+    "c5ae34667c32fcd1"
+   ]
+  },
+  {
+   "id": "2026-10-30-1e25db95550386ad",
+   "date": "2026-10-30",
+   "title": "Charted: The risks in the AI boom",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5jWmtrNXJXMUViSks3bWFhRDR3TU1JOFJHZUlOMVgtWDFTcTc5LVJudVFrcEtycmxwZDBZWHFwODdBZXBjb2dGWUd6a1ptdkMyVkdaLTVtQ3dWLTNISnRGZk52dnMwdw?oc=5",
+   "source": "Axios",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-30T12:31:18-07:00",
+   "keys": [
+    "1e25db95550386ad",
+    "9992427be4499db9"
+   ]
+  },
+  {
+   "id": "2026-10-30-4396fd83bf619030",
+   "date": "2026-10-30",
+   "title": "Maine’s data center revolt will decide who controls the Senate",
+   "summary": "Maine Sen. Susan Collins, a Republican, was midway through defending her record during the final debate of the midterms when an audience member cut her short. \"I'm terrified,\" a man shouted.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1021080/maine-senate-race-susan-collins-ai-data-centers",
+   "source": "The Verge",
+   "tier": "b",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "美国"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-30T12:31:18-07:00",
+   "keys": [
+    "178ea0c5b453e531",
+    "4396fd83bf619030"
+   ]
+  },
+  {
+   "id": "2026-10-30-5eb78ede6fe7d473",
+   "date": "2026-10-30",
+   "title": "Development, Validation and AI Chatbot Evaluation of the Adolescent Mental Health AI Response Tool",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5yeVNoYkcxbTlrQzZhMDF5bEozUHhpMHdPbFJHTnA1Y29uRFBjN2dQUlM0MmFSZ1Bvd1hzTGpQSDA5dURoelU0Tjl5RWQ3ei1SdHRjMzVHZDVGeWdZdVdRN2ZMQ0FvNEhKNWdXMw?oc=5",
+   "source": "RAND",
+   "tier": "b",
+   "also": [],
+   "coverage": 1,
+   "category": "安全研究",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-30T12:31:18-07:00",
+   "keys": [
+    "5eb78ede6fe7d473",
+    "6c90298f62a4dd98"
+   ]
+  },
+  {
+   "id": "2026-10-30-62574dbd44e0928e",
+   "date": "2026-10-30",
+   "title": "Confronting What Lurks in the Shadows: AI Regulation and Governance",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeHZ4azdibXJ4X1A3cUFOTFZkQUJwbzVaR25TT1hkWTNFYnJ3akhsc2pDQTJoQlVzN1c4RERMc2hfLUhEaW90SEN6eVEyTVJCM09Ja1FlN2hJcG8yZjRpX0tuVTh0WnEzdTY3MHlvZTI1TEpyY1YyWHdTY3J4U3ZIbzI1a1p2b0E?oc=5",
+   "source": "Infosecurity Magazine",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-30T12:31:18-07:00",
+   "keys": [
+    "62574dbd44e0928e",
+    "b83ebe3ec38cddcc"
+   ]
+  },
+  {
+   "id": "2026-10-30-869f052397fea496",
+   "date": "2026-10-30",
+   "title": "Opsio launches free AI governance assessment to help European companies meet the EU AI Act",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNcWIyUlNNYWkybkFJdy1GSlFJX3VVczEtVHNQTFJzX2c2VEdBUUxRUDZXRUw0LXpwU3RvUWstaGo3MVhpSmllOWloeXNXUFB2UHRqTDRncjk3enEyZzU0MVNzRnE2TkNrSjFXOXdjbGNhcXB4MC1UU091ZlVpY0hmS2owTlhVZDRwMHJuN0sxRXZickh1ajhxajVldU1FUXZKblVkMGlvSUxhMnNZbXNsMXJYUFp6Y3draUVIVzV5RVhvQ3RBS1k3dHVHZFZ6RkM4NVMw?oc=5",
+   "source": "EIN Presswire",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "欧洲"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-30T12:31:18-07:00",
+   "keys": [
+    "869f052397fea496",
+    "a66659a55d17208d"
+   ]
+  },
+  {
+   "id": "2026-10-30-ea3d34235beead36",
+   "date": "2026-10-30",
+   "title": "The AI Act's longer runway is an opportunity to build governance that lasts",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVmpZbHlCMHpNYmM0WkxoUGhUak1YMTRKdXU1V1F0RkxBOEczV0VvN2xTb2NzVThaU0NETHowYzJfVzNkWkJ2ZGVTbVJrc3k4T0c2b3F0US1kWWNpTTBlWkZiWVFFZVFxa1lhWEVQQldOaXdSSU5BaEUtaGZsOFp6M3p6UWV2NExvaFc4SkdEamxzYVJPUllTRWdsSzBVbHZiQVVKaUJSQQ?oc=5",
+   "source": "TechRadar",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-30T12:31:18-07:00",
+   "keys": [
+    "92c48325623f4e25",
+    "ea3d34235beead36"
+   ]
+  },
+  {
+   "id": "2026-10-30-8827e5d13023997a",
+   "date": "2026-10-30",
+   "title": "New York Bill Would Raise AI Safety Regulations",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOX2FQWHZPbmhYMS0zNEM2cU1sblVnX2V1eFNuM0NiYXY5XzBwRUQyclcyNHctN3JyaGdCY0hKWXpDeGxwclpfS3hMNVBtRTVyV3Bfd0RCRl81WFJRWlVXbE1GaXdSZ2hZUVM4Y3NtVGh6V21aZGh2dURsT0VWdTl5RUJXNGo4QU1KNnlVZXF5eVZXR0pVMVJwQ3FVTkNmSkdXOWtlVUhpWXU?oc=5",
+   "source": "PYMNTS.com",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-30T12:31:18-07:00",
+   "keys": [
+    "744a1a5977656420",
+    "8827e5d13023997a"
+   ]
+  },
+  {
+   "id": "2026-10-30-6de8a1a9857c5d69",
+   "date": "2026-10-30",
+   "title": "Technology governance scholar Gillian Hadfield on AI safety and security",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4weFJPWi1hQ3Y5UlZTakM4ODAzdU9jbWJhaEJVdk9NZU82UnM2QlQyZUxzWFg0QlRhUzJYVlplb1d1Sm1oZFU3aGVCY2hFb3BrSlc3akRra2dPYTc4UVNwMXJqVTV6WXEyMXFkdHM5dUNjV2s0TlE?oc=5",
+   "source": "Johns Hopkins University",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-30T12:31:18-07:00",
+   "keys": [
+    "6de8a1a9857c5d69",
+    "997597d3dc90f2c1"
+   ]
+  },
   {
    "id": "2026-10-29-26672e1274a3b3bc",
    "date": "2026-10-29",
@@ -48,6 +347,213 @@
    ]
   },
   {
+   "id": "2026-10-29-2b073e8f4e9522f5",
+   "date": "2026-10-29",
+   "title": "Executives play catch-up as AI governance risks evolve",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQR0E3dzNYbm1XRUpPb1pHOGtDRkhidzhDZVRrakxGUDNyNEctdTdPTDRRQ25HSmw0STEwWF9hTWNNR0t1ZGlvdTBCV1A4bnE3ZFZqeTFTTkc3aDc4N2pWSGttZ3RuWXFHa0tDUF91UVlldEJZaHk5U2ZJSndLNFlQbHUxMnU?oc=5",
+   "source": "Financial Times",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-30T12:31:18-07:00",
+   "keys": [
+    "2b073e8f4e9522f5",
+    "78b8b0ba6a13505f"
+   ]
+  },
+  {
+   "id": "2026-10-29-ec661be423bda8b8",
+   "date": "2026-10-29",
+   "title": "黑龙江省肉制品生产企业全面实行“互联网+AI监管”-中新网",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5IU1Y5Z0tJcE5qSTd2R0UyWU80QWNIWXJtYjQxUE5Gb3NwQV81TmVKc3ZDM1hxUjdISVplcXF6MnBpVWVYcjdZNXVTR2twUmJsNkphVFBYcDFDZDg5MDVKRm9lVVpuSHow?oc=5",
+   "source": "中国新闻网",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-10-30T12:31:18-07:00",
+   "keys": [
+    "bee116b248b49ce2",
+    "ec661be423bda8b8"
+   ]
+  },
+  {
+   "id": "2026-10-29-f06a9d3965137be2",
+   "date": "2026-10-29",
+   "title": "【特别呈现】九章云极徐江：标准化算力与主权AI底座是全球普惠智能的关键",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5HaktqVHIxVDl6aHNyWHl4ZGdOWmY1X2NrU2RsOGVaV3FkWmdlWWFiNHBsNmhYaXd1SXMwYkhRREk0bGoxRllMRVNDdzdqSnkzSDRkYWE1UXNxem1RU1NR?oc=5",
+   "source": "财新视频",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "政策与标准",
+   "regions": [
+    "全球/多边"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-10-30T12:31:18-07:00",
+   "keys": [
+    "b11156115597db53",
+    "f06a9d3965137be2"
+   ]
+  },
+  {
+   "id": "2026-10-29-e826b1398b3596ae",
+   "date": "2026-10-29",
+   "title": "自主性不断增强 AI智能体如何守住安全边界",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5zaHJfS3JEUWNWUFZpc0gwLUVnMy1ZaVE2d0FmaGV4TnVFVmRlcmFZTEhoZzZpalZXaDJVdkQ4VWFkeG1sZUZ3dDAyVy1uOWwzMlo4R0kydXd6U1lfTkdpTjRSbEdvMVZGd1E?oc=5",
+   "source": "人民网云南",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-10-30T12:31:18-07:00",
+   "keys": [
+    "0af409596b3e9c47",
+    "e826b1398b3596ae"
+   ]
+  },
+  {
+   "id": "2026-10-29-2efe642193c94c8c",
+   "date": "2026-10-29",
+   "title": "HAI & AI Governance Lab | A Conversation with Jacob Coxon & Rob Reich",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBqbkQ1ZVhmVC1PNmdET0wwTXcxdjdrNENSV01SdXpYTllwcFc2YmhWYlRCU3hVVzFJSTRYVlloM3JJUmI4ZmRqdFd6c1hzNF9VemlRTVpFbU5zbE5nSEdPQUFSQy1JZVY4eEc3eXZ4bGw3MHVDQndKUjRlc1Vjdw?oc=5",
+   "source": "Stanford HAI",
+   "tier": "b",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-30T12:31:18-07:00",
+   "keys": [
+    "2efe642193c94c8c",
+    "d05132912aab3b0c"
+   ]
+  },
+  {
+   "id": "2026-10-29-34e691ce3544db7c",
+   "date": "2026-10-29",
+   "title": "Nvidia Moves to Backstop a Cloud Provider’s $45 Billion Anthropic Project",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdmhuRzVaOG9xaEQ5U1VOcWNNLVN4YUZ0NUpfVnM3Qy1KakJVMWxDbW1heDFWNkxOR2dJbnR5NnJNb1dSb1RaTnUxTkZlQzU3b0l4SGFuR1RMVXY1dmlhTzJTVzd2VmstYWhyX0pyeGEwUTdKM1FtVGZQenBCdE5fSE9zZm8wOGNxUEQ3WmVrSi1ZSlZyX3A3cWRlTkRhMThMSjVEYnhuTGt6RE5janN1NkFUVjgxV3dVVklCcm1JUWlkRVpf?oc=5",
+   "source": "The Information",
+   "tier": "b",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-30T12:31:18-07:00",
+   "keys": [
+    "1ca0ff33aa469cfb",
+    "34e691ce3544db7c"
+   ]
+  },
+  {
+   "id": "2026-10-29-3a1c24b0454131f0",
+   "date": "2026-10-29",
+   "title": "Enhancing Leadership Selection: Recommendations for a Multi-Factor, AI-Supported Assessment Tool for the Evaluation and Selectio",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPR3liOXR1V2sxNGZ2TXRtUDh1UkFSamdxelVoOF8xWmljbHJFbkhNN0lZazNFMDFWQzNZRXRRVkRQZVVLSnhVQWxFS2FCN2ZZQmROZE0xNGUxdWFoMVJNV29LdGNVTG0yTFFaczRaUFB2VWdMWVFMMTJNamtqcjh4bWpTSjBpNHh4QlY5TDNsSUlGQ1ZLWldsbzRUODY?oc=5",
+   "source": "RAND",
+   "tier": "b",
+   "also": [],
+   "coverage": 1,
+   "category": "安全研究",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-30T12:31:18-07:00",
+   "keys": [
+    "3a1c24b0454131f0",
+    "dc8e6fef5aa2a51a"
+   ]
+  },
+  {
+   "id": "2026-10-29-5ba0c7a0a9135f47",
+   "date": "2026-10-29",
+   "title": "AI Governance Is Becoming a Business Law Imperative in Florida’s Emerging Technology Economy: Why Florida Businesses Should Move From AI Experimentation to Accountable AI Oversight",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxNM0I0akk1M3pyUmNTaTN6TXk5UF9LN1k1NjBPbjB1em5fOEk2Sjg1djVtVS1QUWc1S1Jqa2tGdWtWT3ZrejJadmtQd2ZGRFVJT3Y2dzMtcTdsSUg3ZTlxU3QzWG5pNExUVzNELW5ld2VUM09Ga3RwQVE5Q0Y4SmxXTDlVSDVvNy1FdzE1V2U2RTZENDg5dmg1RWxHZEFFTDhTOTlaNHh0NnRPWS1CYzRkR2ZjR0hGblJJd3JnbVIyQzUyT0hxMi01SE12UVR5NFN6YzVRMEtxY2hON2RvM3hqYnVBVDl1RWRocVFJOHE3SW5ITHBveTlDMnhTSnpBZ2wzTU4xT0g4SEtQRF9COGVJS1Bxd2ZSa1BUWE5sLXBINGYxeE93cXNlYjlmSmpxVktLdWUyX0wzYVBmMEFSX3dPMW1VeGxuc04yLUNya3Z1aw?oc=5",
+   "source": "The Florida Bar",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-30T12:31:18-07:00",
+   "keys": [
+    "5ba0c7a0a9135f47",
+    "e1b2e1bb59404643"
+   ]
+  },
+  {
+   "id": "2026-10-29-266902aafd869920",
+   "date": "2026-10-29",
+   "title": "Malaysia targets early 2027 for introduction of AI governance bill",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSzFpdXRGTlR4dXVqbkJkSC1yNGw1bjNpcXRUU3lwV2pPWTlzbnFYVXk1VjRVd2t5bzR3RXJ6UzgzeENDRmxKdFEyQTlYT2oza2d0NEp6Zi1tV2xldWRqX282WTl0QXZwLWRRY3JJc2cxZVljWUkxLUNZVU5hMEFuc0UxSmltNTRhQXozMVd6a3ZrYzFRR016bjcyQWw1YXg5MEdRMEg5QnRDMjg1RXfSAVpBVV95cUxQNnhOa0tvOVhabUZUbHZhcXZBVm1jVlRucEJwVTJWTlRZdkVfb3NtWEFGT2w0N3E3RktEUW44TTljUDRCRGZlVzV2V2wxQl9YOEowbDUzdVJveFE?oc=5",
+   "source": "MLex",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-30T12:31:18-07:00",
+   "keys": [
+    "266902aafd869920",
+    "4a2da3b7c47ca115"
+   ]
+  },
+  {
    "id": "2026-10-29-fb772af20f9c206e",
    "date": "2026-10-29",
    "title": "Finnish police launch criminal probe over forest cleared for Google data center",
@@ -78,8 +584,13 @@
    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBlY3oyRGhkUVhES3VjcWRkSjZGaHdWRTBzVnJCTDFNcmwwSExwSGlHR1hvQ0NLUGl1b3dFc2NCazdkOTFUX2ZIXzFIS3d0ZndJWEZSWGpidk1nWlpSSkZjTm9LSjVyUDBrZnRIQXFhSEM4N2RlRG55TW1UMXI1UQ?oc=5",
    "source": "手机新浪网",
    "tier": "",
-   "also": [],
-   "coverage": 1,
+   "also": [
+    {
+     "source": "新浪财经",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE01TU0ycURDd1R5c1pzYTV4T1FYOXVMQzM5bll6blMydENIOE5SelhBd0U1RUJTMFg5NElNWnppcVRFcXZqWmNrdE5oUHdzOGl5Zm0wNF9yYzN6Zm1FOGRIdkNha3RNU0JNZUU4NllxTDBSZUEtSHRGZA?oc=5"
+    }
+   ],
+   "coverage": 2,
    "category": "行业动态",
    "regions": [
     "其他"
@@ -89,8 +600,10 @@
    "addedBy": "auto",
    "createdAt": "2026-10-29T16:00:47-07:00",
    "keys": [
+    "2a4eb9e39f2489d9",
     "78f2a41ee21b4b97",
-    "d83b9b9c2ee160f0"
+    "d83b9b9c2ee160f0",
+    "e1da383f5ae392c2"
    ]
   },
   {
@@ -608,8 +1121,13 @@
    "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNdzBaVHFoVHlFQzI0ejFmcGxpRGx6S21FSFRUUnFZWGR1SGFMSzZTNUQzSkFiZGRSUFJ5aFZCRnhDb2wyckh3NGxzanBnRWRYTE9pQlJ5UHl3aTJXLUNoRFlGMUtkTUY0dG5JWGVsWlRKU3BBNi1MdG1fSGJEdWFleHQ5clFwMDlDVm1OUVlOc0pfcjUtdFZEcHYyQldvUmZLNHp4N3hDRV9Qa25SVEROSzlDeERZRjRmV2IxRFZENkhnZmJobVlzaFk5eUtOeHY3UnhSQTRVOHRpc2EtYmlNSHhGaTljY3YtRk90Ym5lTXAzbjF5dU5TRk10eUNwTHd1elp3Uy1n?oc=5",
    "source": "Bakersfield.com",
    "tier": "",
-   "also": [],
-   "coverage": 1,
+   "also": [
+    {
+     "source": "The Times of India",
+     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQZlRMRmhxeEl4Sm5ZcmpXZElCLW96c2NZQ01RX1NWSXh2cG1pWTQ3Q19LUmE5QndQck9tVlJsYV9SQU5STEkxNUlJVFl6VHBpZllSSGRzUG5rMkFFTl9wQ0VWYlpINWRES1ptelQwV1lScV9sTXF0X2pQQ2JVMlNEWHJ6YnExX2pneU15Y20zVEg5N01TUkRsSUhlb0lmdXJFQ01oaWVqS183dUlyTWVCSTV4TU9tcU5pUFNuX2VFazFzeG45LWxXMWYwZXNoVS0zMGM0c2dyMkFZcXZ4MjBuMTI0ZWhacEnSAewBQVVfeXFMUERhRC14TFdVbE8xMmpqSFk3ejRmV2hZakV2eWkzcEc4ZGJJQlVWaUdqSVFoT3BOSmRUV2ZBNFJMa21KTTMxYXRjLU9pY2s5ekxLdDJFa0NqQmZsSFk1ZDR0SVNVTFQyanJiTE9kV1dkMHJ6aXVSMGdMeDRNX3Atc2Rsb3dYWW1sMTFfYmNKSFcyOFk3OUNKOTVoYTJvMlprOXl1NVp6Z3o4LUx1RDdEbW1ONFh4S0ZaYUZmOXQ0a0xNU3EzdjROMXJZUXdmR0ZraDNjUmVhd0tZaWQ1MWx0MGJ1ZkpVb09yUm1iaFM?oc=5"
+    }
+   ],
+   "coverage": 2,
    "category": "立法与监管",
    "regions": [
     "其他"
@@ -619,6 +1137,8 @@
    "addedBy": "auto",
    "createdAt": "2026-10-28T15:52:02-07:00",
    "keys": [
+    "1aa14c119828d532",
+    "1c9dae2055d80c39",
     "de3487e13f8dc89a",
     "fa8441f44216ba0e"
    ]
@@ -1178,6 +1698,29 @@
    "keys": [
     "0fef88ea6312098a",
     "f7bc50faeba6171b"
+   ]
+  },
+  {
+   "id": "2026-10-27-a3484cfea217d37e",
+   "date": "2026-10-27",
+   "title": "Infrastructure and its Discontents: Contestations of Power in Canada's AI Governance Scaffold",
+   "summary": "This paper develops a critical theoretical framework for understanding national Artificial Intelligence (AI) strategies through the lens of \"Governance as Infrastructure.",
+   "url": "https://arxiv.org/abs/2610.38077v1",
+   "source": "arXiv",
+   "tier": "b",
+   "also": [],
+   "coverage": 1,
+   "category": "安全研究",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-30T12:31:18-07:00",
+   "keys": [
+    "1552cbe920031762",
+    "a3484cfea217d37e"
    ]
   },
   {
