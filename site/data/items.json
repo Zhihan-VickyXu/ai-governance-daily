@@ -1,6 +1,29 @@
 {
- "updated": "2026-10-31T11:41:16-07:00",
+ "updated": "2026-10-31T14:53:29-07:00",
  "items": [
+  {
+   "id": "2026-10-31-395f02a93bff6933",
+   "date": "2026-10-31",
+   "title": "Ending violence against children: The risks and opportunities of artificial intelligence",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1US3pYdDZWMlo4WDloeWhPaEJOV003ZEJXUmtjWmswcU1GU2tmUjN0NW1vckVEaE5FOUhsdVRfR0NpZW92NWQ3V3FJT2w2TkF0WC1WSUd5Zw?oc=5",
+   "source": "UN Web TV",
+   "tier": "official",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 2,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-31T14:53:28-07:00",
+   "keys": [
+    "395f02a93bff6933",
+    "efbb655c70d1ffb4"
+   ]
+  },
   {
    "id": "2026-10-31-83fbeeb1d3ebea5c",
    "date": "2026-10-31",
@@ -22,6 +45,29 @@
    "keys": [
     "83fbeeb1d3ebea5c",
     "d5a07422c5fc7fa1"
+   ]
+  },
+  {
+   "id": "2026-10-31-9fd537c507b731c4",
+   "date": "2026-10-31",
+   "title": "Dick Spotswood: Congressional candidates weigh in on AI regulation",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUm1JRnd2UG5tYmJ0eUlFQThSa1pTVVBuWGU1eGhINWFQS0hDbnJkdnFhSmR5QWNZMHQ3cWtQb1U3S0R3Y091LWpLOTVicGdqYW8zT1ZtcFVkOEl1V2tCXy0wTXYxcTNwMFlhdVp2TlJ2NWc0NnR1YkhiT001bFE1a2VqS0F5VTdXOXBPbUtiY05wQmNkSmFoeDIzQnFvUng3allz?oc=5",
+   "source": "Marin Independent Journal",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "美国"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-31T14:53:28-07:00",
+   "keys": [
+    "6d9d6f040912e8cf",
+    "9fd537c507b731c4"
    ]
   },
   {
