@@ -1,6 +1,98 @@
 {
- "updated": "2026-10-30T15:40:48-07:00",
+ "updated": "2026-10-31T11:41:16-07:00",
  "items": [
+  {
+   "id": "2026-10-31-83fbeeb1d3ebea5c",
+   "date": "2026-10-31",
+   "title": "Made with AI. Must I Label It? A Practical AI Act Webinar for Adult Educators - EPALE | Electronic Platform for Adult Learning in Europe",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOa0JRaVV6NEdsTUdLU2tIUTloc18xdHBRVjJBWlpTOE1JWC05MGxicnpkazRqbHI0bUVTLWEwXy1mSzNTNWpRcTBxTzRMYkFrTmt5Z3p5SmowWGlSS1VxejVkc3Y2WXN3LWhVNmc5OHV1TS0wakgwMVZNUW9ITWdfclhLbDB2ZUM0Z0hRZndlOFRwMmZ1VWk3SUNKdllsNFIzdXhIRw?oc=5",
+   "source": "EPALE | Electronic Platform for Adult Learning in Europe",
+   "tier": "official",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "欧洲"
+   ],
+   "importance": 2,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-31T11:41:14-07:00",
+   "keys": [
+    "83fbeeb1d3ebea5c",
+    "d5a07422c5fc7fa1"
+   ]
+  },
+  {
+   "id": "2026-10-31-276872ec457d1802",
+   "date": "2026-10-31",
+   "title": "TRAI Proposes AI Governance Rules for Telecom Networks; Operators May Face New Oversight Requirements",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTTNmZ3g4bXlUeFctUC1fTnBLaW90Z1hfMEdwNmlfZ1l6UWw2NTVyYzhYZE5welFueHcyMi1qNDVxSWVINUU0by1VM2xlTXR2c1NMX1VTSUdwMWdWVFBtbUxYNzlmTjFkYmVCUk14a2JmSGJMeGQ4ajBrUVE4NnBPbUMtMFNYaEYyd2dyU2E1MHVpanp1dE9SN21GZXdwQQ?oc=5",
+   "source": "www.nationpathindia.com",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-31T11:41:14-07:00",
+   "keys": [
+    "276872ec457d1802",
+    "807dd60cd2f18ec8"
+   ]
+  },
+  {
+   "id": "2026-10-31-2523ced2d00b60b6",
+   "date": "2026-10-31",
+   "title": "GovAI Announces 2027 UK Summer Fellowship in AI Governance and Policy: Applications Now Open",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5mOXFPLTZ4aWdfMlZ2djNVMVIycm5rcktZaUkydDlWbHEyZlFHSFR2bDdTUEZsYm80REVxMTJYU24tdHVmQTVaS2hWNkw1UmZjVTFTNm93YW9SeGcwMHdxYmRBcXpkd0Fxc09vN2FtVnRHVDhOY0E?oc=5",
+   "source": "Global South Opportunities",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "政策与标准",
+   "regions": [
+    "欧洲"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-31T11:41:14-07:00",
+   "keys": [
+    "2523ced2d00b60b6",
+    "f23c7e070354eff6"
+   ]
+  },
+  {
+   "id": "2026-10-30-c42ebcceed0b8a75",
+   "date": "2026-10-30",
+   "title": "Senator Kristen Gonzalez Bans Unsafe Chatbot Feature for Minors, Leading AI Safety Bill Signed Into Law",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbTF0SVdxTlFmUGhlQ2pXMFlYeTJsb2t2UUMwTlBuNkw4aUQxXzZ4bHRJRmpfYWszTHlOVUhObTlkdGFfTTNBckxwSzdLeGpDUXVYallrN0pOLVZReGNrNVdpQ3FBZGl6Q2t2NGVPTEs2bXAtZ09ZU0o5SzZmZGExRjgyQ3A2WXdjaVBtMk5hc3pfZVhOTXhDd1pZalpkdzlnZkJmMm9TY3YxdjZHWHdQOVhtMHY2TG4wcE9UR1lYRDg?oc=5",
+   "source": "The New York State Senate (.gov)",
+   "tier": "official",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 3,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-31T11:41:14-07:00",
+   "keys": [
+    "8cac8733b64d074a",
+    "c42ebcceed0b8a75"
+   ]
+  },
   {
    "id": "2026-10-30-af2d320173966dd6",
    "date": "2026-10-30",
@@ -68,6 +160,53 @@
    "keys": [
     "9ef3a0cd096eee2d",
     "e9cdbc3748fa3d09"
+   ]
+  },
+  {
+   "id": "2026-10-30-af347b6dea6152be",
+   "date": "2026-10-30",
+   "title": "One AI rule book: chip expert urges shared standards across China, US models",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQaExicjFMLUVYOEpJbkd1eXZGZzJUUVpVVk9QN1hBODZNcnFJMTVjV3hFZ2JpVngtZkxYcUFkZS1ZZE9XSFVDdkhqZDVhZ2ZuR3R0QWtEY2o1UHU2YUhzY0VBWm4ybUI4NHd4VU1KMU9fcDVMTUUxNDVpN191VnJxdHB4Zmtqa1Vhd2o1alpyTkJfa2NKRHduUldSTmJpdHJ3VWZaUjREZWVpb2ZLcUpTSkpTN2N1Z3pCaWJsUzFn0gG-AUFVX3lxTE5yU2hfUFBnZHZlYkFFYnRQR0t4dEtnU2JWenlTYXctRXlfcmtvdFlLUU5aOWNOZzJRbW9ucDR4X3ZoQVRQdnhtSXM2b1FxaWZzdkJScENsenUteEpudmNEbjVQdG5peFhOdTNBdzktNlJfc3VSOGs5YWU0STgzMjhGeWhPR044SjBiTDhzQ0xIVUZNLWpWazhKSFJCU3JpcGNvVTNYemI3bkg0UEpzNjRnS3VHTTJQbWh3MXo1bHc?oc=5",
+   "source": "South China Morning Post",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "政策与标准",
+   "regions": [
+    "中国",
+    "美国"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-10-31T11:41:14-07:00",
+   "keys": [
+    "45c3be6b9b50f3a2",
+    "af347b6dea6152be"
+   ]
+  },
+  {
+   "id": "2026-10-30-6f7ab5ee223e6eec",
+   "date": "2026-10-30",
+   "title": "【深度】进口高增背后：AI、价格与政策三力共推",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FdEFWR2M1aDk2OUVJQ1NuS0Y5THo1TWhSdGowZXgtV3AwakFFSE53T3ZaTnhsWHZlYWpNb0dPaU1KYUNOSktUdmJDdDU0QWpkSjhYblZR?oc=5",
+   "source": "Jiemian.com",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "政策与标准",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-10-31T11:41:14-07:00",
+   "keys": [
+    "6f7ab5ee223e6eec",
+    "8bcacecbcaa15a89"
    ]
   },
   {
