@@ -1,6 +1,29 @@
 {
- "updated": "2026-11-01T12:02:19-07:00",
+ "updated": "2026-11-01T15:23:24-07:00",
  "items": [
+  {
+   "id": "2026-11-01-afacc5b796d19514",
+   "date": "2026-11-01",
+   "title": "吴恩达：AI风险被夸大",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOamo2bEV6X3ZuZnlfMWJFdXdoM3pZUmpabWJiNXo0WTBEYk9tYlNWTHFaU29HTGRlOEZFa3FtcVA1NFV4dVZ6bUd5ZmxYM0NYNnVKVlJnb1RoSWlEUEg1T1djb1hjTXo1YmlnbUJGdlVvZHN0Q3V4REFmNktvckFSM1hpUXA?oc=5",
+   "source": "日经中文网",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-01T15:23:23-07:00",
+   "keys": [
+    "afacc5b796d19514",
+    "b11077e363f9c921"
+   ]
+  },
   {
    "id": "2026-11-01-b181bff0e9add876",
    "date": "2026-11-01",
@@ -216,8 +239,13 @@
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTTNmZ3g4bXlUeFctUC1fTnBLaW90Z1hfMEdwNmlfZ1l6UWw2NTVyYzhYZE5welFueHcyMi1qNDVxSWVINUU0by1VM2xlTXR2c1NMX1VTSUdwMWdWVFBtbUxYNzlmTjFkYmVCUk14a2JmSGJMeGQ4ajBrUVE4NnBPbUMtMFNYaEYyd2dyU2E1MHVpanp1dE9SN21GZXdwQQ?oc=5",
    "source": "www.nationpathindia.com",
    "tier": "",
-   "also": [],
-   "coverage": 1,
+   "also": [
+    {
+     "source": "TelecomLead",
+     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOdTlvb1FKZnVwQllRTTVuS0tYWXNKQWNvUXhaeU1FV2FSOTlrck85bFRUNEppOWJVWlBtWm4wdHR4TkdwN2Jjbkl2VkNMbkN0bDdlTjc4dVd6WmRxaXR4alczcHdlLWJiTWpOUnlGMEVaOGdnRVJGVVNMSTJia0JfRWZ3eno0UnVobVJzb0JaUHVZYXFXWTdZQ3cyd2Q0S29obEcxWHF2Qjh0RjVTY1hTOENwLW5iNTRWR3dyaklmVzV2Q2trWlUwVmhyNWwxUEtYSDMxSWk2RDFiTTNDbVhIT0NOejVzNVI3WjlfSktQVXNvd9IB8gFBVV95cUxOdTlvb1FKZnVwQllRTTVuS0tYWXNKQWNvUXhaeU1FV2FSOTlrck85bFRUNEppOWJVWlBtWm4wdHR4TkdwN2Jjbkl2VkNMbkN0bDdlTjc4dVd6WmRxaXR4alczcHdlLWJiTWpOUnlGMEVaOGdnRVJGVVNMSTJia0JfRWZ3eno0UnVobVJzb0JaUHVZYXFXWTdZQ3cyd2Q0S29obEcxWHF2Qjh0RjVTY1hTOENwLW5iNTRWR3dyaklmVzV2Q2trWlUwVmhyNWwxUEtYSDMxSWk2RDFiTTNDbVhIT0NOejVzNVI3WjlfSktQVXNvdw?oc=5"
+    }
+   ],
+   "coverage": 2,
    "category": "行业动态",
    "regions": [
     "其他"
@@ -228,7 +256,9 @@
    "createdAt": "2026-10-31T11:41:14-07:00",
    "keys": [
     "276872ec457d1802",
-    "807dd60cd2f18ec8"
+    "807dd60cd2f18ec8",
+    "bcfc9783a21e7dcb",
+    "eea7723bed497e49"
    ]
   },
   {
