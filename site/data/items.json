@@ -1,6 +1,29 @@
 {
- "updated": "2026-10-31T14:53:29-07:00",
+ "updated": "2026-11-01T12:02:19-07:00",
  "items": [
+  {
+   "id": "2026-11-01-b181bff0e9add876",
+   "date": "2026-11-01",
+   "title": "Anwar says AI Governance Bill to complement cybersecurity, data laws",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcDhYV0Z5LUxnTm5LUENIUnhjUExYX1E3M1NqY2VLY196VGJ4OHlwc1VVZVQzUFBTdmxRcmxBYnM3N0NWeE9IdjVCUGxJSjJhUENEaHB5WS0teUhib2hXcUFKSE5Va2dtY3NfeHNUVjVBWTQ0R0syZ09DcWJzZmlWZFZpTW1jcy00YTJIUXdVVnFqUER6VUdvYW9aNDAtODVpVnk1SlVtR0ZiR211OUJJZXZxazlvZ9IBuwFBVV95cUxPQ1B5WklsSVZiV1FtbTFFN3BxVzh2a1BqOVU0Ukg1cWxoWDYzbHdmcC1oaUVrZU52UFFScW8zeUszT3VZMHVhbWZ6dUFKVWNJZl9raVNnZ3V5VmVnUlBYM3dUVVVSdjJrZ2lLaldWNjNlWGxHWkNIdDF1S2xSQkNiNnNRNmxUV05OVDNMNzd6bVFGZXFCeVpaeUJWRURSS0FPQVFiYmZkTGROclNwRTM2WmwzNTN0QkE1d2pN?oc=5",
+   "source": "NST Online",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-01T12:02:17-07:00",
+   "keys": [
+    "b181bff0e9add876",
+    "c54a0c7ba68b613d"
+   ]
+  },
   {
    "id": "2026-10-31-395f02a93bff6933",
    "date": "2026-10-31",
@@ -45,6 +68,121 @@
    "keys": [
     "83fbeeb1d3ebea5c",
     "d5a07422c5fc7fa1"
+   ]
+  },
+  {
+   "id": "2026-10-31-ea7681aaa277a533",
+   "date": "2026-10-31",
+   "title": "嘉兴基层治理的AI密码",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5MbFZRbjdGS3NpUlNRcVpYRk1sVjNRdXAtdjRXSWRIaGdLQmlCaUEtRnk0UlU2S0s2WGxwUEs0ZWs4OVlZLXBxcEw0dHVjdFdDN05seVFLM1RQamxxeG5DRWFsNEZVbUpMeUE?oc=5",
+   "source": "人民网",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-01T12:02:17-07:00",
+   "keys": [
+    "69c30049f9e023be",
+    "ea7681aaa277a533"
+   ]
+  },
+  {
+   "id": "2026-10-31-052c1f3eeaf77c5e",
+   "date": "2026-10-31",
+   "title": "2026“两湖版权对话”共探AI治理新路径",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9sOG81OERVUDB0N1Ryankxd092QVNYVDg5NXJXUjZ2N0R1SktkZm5DWE9yS3NUd2dQUUJUTktYVGRhZEd6YnB5TGx3U3NVRXRld2kwdHI4azlmTUZmUDlid3hGZlNQTmNNR2syNzJpc19GNnRYNTRqOU1n?oc=5",
+   "source": "央视网",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-01T12:02:17-07:00",
+   "keys": [
+    "052c1f3eeaf77c5e",
+    "23d6afa6d732f552"
+   ]
+  },
+  {
+   "id": "2026-10-31-a48008740c77dc37",
+   "date": "2026-10-31",
+   "title": "优质内容入模型、处置AI魔改 平台加速未成年人保护治理",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBQa1lUR3Jic1JJZ0lwZnlEdUotSGRwb2dlSF9WU0NvN3NjRE5uLWhKdk1Ea04xU1QwNWhUbFVURFBYMzg1dGZyTllvVjZQUUhKMVpfZjdUWWE0RXJ0WEpCS1FSQTVkRG1XUkRCOTZn?oc=5",
+   "source": "人民网财经",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-01T12:02:17-07:00",
+   "keys": [
+    "7d5673fdd69393f0",
+    "a48008740c77dc37"
+   ]
+  },
+  {
+   "id": "2026-10-31-90df91699924b415",
+   "date": "2026-10-31",
+   "title": "综述丨“AI科学家”加速进化 安全防线再升级——10月全球人工智能发展盘点",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcTYwNFk1Q2NEVXlSbmlHd3llX1VTdmdsdzJWWkc0NWpTaFVaUVVhc3Nub05CQWNMemxmVnBYOWIzN19Yc0FrQW1HSmF3c1QyaEFucTFFVWp4UjF0aV84X25QeUxrYUpOQXZVS2M5VWlGaTMySzJ5SmFvSk5mZTM3OEtYaUo?oc=5",
+   "source": "新华网",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "全球/多边"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-01T12:02:17-07:00",
+   "keys": [
+    "90df91699924b415",
+    "a800e40ae08268d2"
+   ]
+  },
+  {
+   "id": "2026-10-31-11017a511edf4612",
+   "date": "2026-10-31",
+   "title": "NY enacts ban on ‘unsafe’ chatbot behavior with kids as states push AI regulation boundaries",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZ3Fvenp1UndYNU9seWwtUm5FcWpjOHVub2gxbFcwdTBZeGNpY3d2ampVM0F0ckp6Y084YlphQ093Ylc3Zi1ZSEYyOXFHREVVQ2hfRDFlYzBaeGZRYnlsQi1MaVBOdEdOQ0hnZkNyWXhiajU0WGk1THlGeG85aGtsVHRtcUlWUlU4enZWNlVTNGlaQ1BtWHUxMlVDVUE0WjkwSjhFMWl3cjdBbzlxTFRfbEZnYXctdjlzTVVvbklITjU?oc=5",
+   "source": "Times of Wayne County",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-01T12:02:17-07:00",
+   "keys": [
+    "11017a511edf4612",
+    "a9f6c270c1793ae4"
    ]
   },
   {
