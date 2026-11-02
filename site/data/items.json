@@ -1,6 +1,444 @@
 {
- "updated": "2026-11-01T15:23:24-07:00",
+ "updated": "2026-11-02T15:52:03-07:00",
  "items": [
+  {
+   "id": "2026-11-02-69d724a55875bf2f",
+   "date": "2026-11-02",
+   "title": "Argentina courts AI data centres with no regulation and tax breaks",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTlNJN0xjdWtfZWMtQ19TQ0tfeUQ5eU5iSHZNdVEyZ2FubTV1YTZjSXpYcUpwNEtFQkNtQ19La1RXQ2swNWN1Qzd6V2dseXF1alpNc2NCaU9VRmVYb2F5OW03X3ZFOUF3UXBuOUFGZmVENmNoUXMxR1VnVUc4ZFdBQTVFV0ZJcXZ1Uk03dFp1RU0xVHpwVFE5V3oxRkZKT3RJVzNvZw?oc=5",
+   "source": "Euronews.com",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-02T15:51:59-07:00",
+   "keys": [
+    "157163a7b46b5b97",
+    "69d724a55875bf2f"
+   ]
+  },
+  {
+   "id": "2026-11-02-3c04a9bb412009b0",
+   "date": "2026-11-02",
+   "title": "Argentina’s Milei pitches a regulation-free AI haven at the end of the world",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNFdaLTFBQ0w2SUtwZmJMUU8xbGhIYjJZRVUtX2RmbW8tSnFZRHh2WlJpeEFzU1F1cmhKVkhpYUl1TDZWakN0ZjB3a1p1c0tvOXhXMy02TDBUd2xidkYwM0I1ZWN4WEVBTFpfMXlnanRueFlKRkFIQUw4ZkxpVGFFNG1WcXhsVEVKOGx4OVNJYUtEVHBZZWEweE4wRU1udUZNSWVhNGh1RlY5VG9TbWZz?oc=5",
+   "source": "AP News",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-02T15:51:59-07:00",
+   "keys": [
+    "3c04a9bb412009b0",
+    "d415c6172241045b"
+   ]
+  },
+  {
+   "id": "2026-11-02-9e75efb20379d064",
+   "date": "2026-11-02",
+   "title": "（第九届进博会）AI赋能智慧监管 第九届进博会筑牢食安等多重防线",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8tTmtMUkVyQ1hEUGFrRlVPdUYzNHJjcThkTkFWWm1lRjlUeG0yZjdidnplUGo4LVBvYzVmZnV6bzIxcGxWZnQ1dTg4OXRQbU42cDBvZlBvTWlvRGh2Z001WlhCNlU3RGRR?oc=5",
+   "source": "中国新闻网",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-02T15:51:59-07:00",
+   "keys": [
+    "8fb1ec1cd610e0c0",
+    "9e75efb20379d064"
+   ]
+  },
+  {
+   "id": "2026-11-02-d36a9f302222cddd",
+   "date": "2026-11-02",
+   "title": "It’s time to block reckless AI IPOs and tax billionaires | Naomi Klein and Ilana Glazer",
+   "summary": "We cannot let the billionaire class take unprecedented risks with our future America is a divided country in crisis.",
+   "url": "https://www.theguardian.com/commentisfree/2026/nov/02/ai-ipos-tax-billionaires",
+   "source": "The Guardian",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "美国",
+    "全球/多边"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-02T15:51:59-07:00",
+   "keys": [
+    "2f257abe1e4203fa",
+    "d36a9f302222cddd"
+   ]
+  },
+  {
+   "id": "2026-11-02-794c40dae0efa06a",
+   "date": "2026-11-02",
+   "title": "Marvell doubles down on AI boom with costly $115 billion Lumentum deal",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOelFpUlRuWUdrd3oyYkZTNkxFMW9mQlBTY01YTl9ERVRsYTc1VGNWQjR1VF90aEcwY01sTDNXN3NiWVBZNTY4aGVFSlR3WlBlb0laSkptRS1EMF9fMGlna1BXSVExN2dFVGlTNWMyQzYyM1RsYm5pMGxXOWxhbmp1UGRYVjk3RVA0b25WWVZPcFZMS05IOE1CTUgzY1BsQWY3MW5DbDF1bGs1M185UlM4cjlB?oc=5",
+   "source": "Reuters",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-02T15:51:59-07:00",
+   "keys": [
+    "3b811df52101719e",
+    "794c40dae0efa06a"
+   ]
+  },
+  {
+   "id": "2026-11-02-bbcde493b075b81b",
+   "date": "2026-11-02",
+   "title": "Anthropic's spending commitments surge to nearly $900 billion",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5RVFdYV0FQMm5FM3NiWldsUkNVOGNsUjVxN0llVjVPajVVWkh5X3VyeGNVdDMzMnVuLWRWbXpUN0RadFNnTXhQTDJBWXhNQXQ4QUFHc1JhUHVNa1dETDdIczJmck8zYzh2dDhGdFdYb3BRTW8?oc=5",
+   "source": "Axios",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-02T15:51:59-07:00",
+   "keys": [
+    "11333233991f3156",
+    "bbcde493b075b81b"
+   ]
+  },
+  {
+   "id": "2026-11-02-20dff53acbb79140",
+   "date": "2026-11-02",
+   "title": "Driven by A.I. Boom, Marvell and Lumentum Announce $115 Billion Merger",
+   "summary": "Marvell and Lumentum said they were combining, in a major bet on a technology, known as optical networking, that is increasingly being used in A.I. data centers.",
+   "url": "https://www.nytimes.com/2026/11/02/technology/marvell-lumentum-115-billion-merger-ai.html",
+   "source": "New York Times",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-02T15:51:59-07:00",
+   "keys": [
+    "20dff53acbb79140",
+    "531539945233cec1"
+   ]
+  },
+  {
+   "id": "2026-11-02-376523c4f1667e51",
+   "date": "2026-11-02",
+   "title": "犹他州启动AI开处方监管沙盒，试点分阶段放权并引发医疗安全与责任边界讨论",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE13OUNVbnVYdXN5QzhrWFdIc2VGaElIeERqZ3hubkZfTzZTYXYyZ1Z6SF9ueHppTnVxaFZ1WmxJamRoNWNFRzZwa3pfUzJRakNTaVB2NQ?oc=5",
+   "source": "虎嗅网",
+   "tier": "b",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-02T15:51:59-07:00",
+   "keys": [
+    "376523c4f1667e51",
+    "9ecafb55ec5af0f2"
+   ]
+  },
+  {
+   "id": "2026-11-02-c9f1a511f54980f0",
+   "date": "2026-11-02",
+   "title": "How AI Companies Want to Be Governed, and What That Means for AI Governance",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQlpJLVl3aXgzX1NaR0NOV2pfYXp3TDJVaWp2TWVReDZVanZuLWhiWENDR3FOUkZ4TTBGdTNnMVZNcUpvX0VYakpiQnFtUFRScUMzM1VXdU1zeHotRnkwNWd5NXVzdFdPOTJaeEZMT19WUWNpSVdRZk1UMklDLWVGb25Ha3hPdE9DYUtGbjdTX2x2OXctWW1uc1pfMmRLWmgwTFRGUDF4dw?oc=5",
+   "source": "Tech Policy Press",
+   "tier": "b",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-02T15:51:59-07:00",
+   "keys": [
+    "1ed1d40d498d1696",
+    "c9f1a511f54980f0"
+   ]
+  },
+  {
+   "id": "2026-11-02-a78c5ab42e68dda8",
+   "date": "2026-11-02",
+   "title": "The AI Power List",
+   "summary": "A New York Magazine and Transformer collaboration",
+   "url": "https://www.transformernews.ai/p/ai-power-list-new-york-magazine",
+   "source": "Transformer",
+   "tier": "b",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-02T15:51:59-07:00",
+   "keys": [
+    "8abb4bc1d64748df",
+    "a78c5ab42e68dda8"
+   ]
+  },
+  {
+   "id": "2026-11-02-db0c5b478449561a",
+   "date": "2026-11-02",
+   "title": "世界互联网大会聚焦智能体安全，360作为核心成员单位持续推动AI安全治理",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9DeUhfUllseEhmeGZoU21NWmFlSnNMMFV1cXNvT2RPTFlNbnpsQmJ5dWVEN1N3NEx2MTcyTWlkT1JNQ3BxdWx1bWtPRmZaZDVQYWZoUWxuY0U?oc=5",
+   "source": "驱动之家",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-02T15:51:59-07:00",
+   "keys": [
+    "15686c06a35f7274",
+    "db0c5b478449561a"
+   ]
+  },
+  {
+   "id": "2026-11-02-1f378413a8bef1ca",
+   "date": "2026-11-02",
+   "title": "TRAI Proposes AI Governance Rules for Telecom Operators, Raises Vendor Liability Concerns",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1mNDJtU1JIcTJxMDFWODA5eTYxRDVUc2V1cGJpSlcyM2RCZ1ViZWJqT1ZPQm5DRng2TGFRMjdQVUtVN2RxYmVXWUMwbkVEZzJfSlBqcjB5VGRLYndydkd1U1F3TnBWWXM?oc=5",
+   "source": "The 420.in",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-02T15:51:59-07:00",
+   "keys": [
+    "1f378413a8bef1ca",
+    "38b8f9396a5ae2e4"
+   ]
+  },
+  {
+   "id": "2026-11-02-7781877bf35cd508",
+   "date": "2026-11-02",
+   "title": "欧洲职场使用人工智能指南，AI Act、GDPR与安全",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOFhTYVJ1WE0wUWU3X2QwT3lFdEJlZTZ2WWJWV3EzbFBDZ2lSZjBlcHJ2WEl2dW9oeUhZd2FmUXluUU5PVjNlNWk2NDBEZU12QWdJOHloOE8yOWxLUVJxVXZIUUZpSFQ0aGhySUV0YlYyV0RHUFBiUjNUZjlYQjdPSDI5LW5uNWRIYURoVzRSXzZXRDRHV2R4NTRB?oc=5",
+   "source": "Pasquale Pillitteri",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "欧洲"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-02T15:51:59-07:00",
+   "keys": [
+    "62ff2c64687ca269",
+    "7781877bf35cd508"
+   ]
+  },
+  {
+   "id": "2026-11-02-7e83d8113682112f",
+   "date": "2026-11-02",
+   "title": "Beyond the Test Lab: Embedding Independent Oversight in AI Safety",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSGlxNGlZQUhVSEVIMUZzTEhJUkxjaFJiQ0dNbFZWSWxRc1p3bGs1SlBIY2tqTTVhdlpCSU9jdWxOc0wyNmhUa0trODg0R1hoRWIxVWF0NzBtZExDaGFPX1ljN0tFY3prUWVGaTlHaWxZSDlQTTd6QkxUT3ctWVRBcXJxM1p3bXFLZFczRXNmQlJ5MlR0cWRFcEFMRkpUU3ZsOEphWGhn?oc=5",
+   "source": "orfonline.org",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-02T15:51:59-07:00",
+   "keys": [
+    "156cb0a6fbcb4972",
+    "7e83d8113682112f"
+   ]
+  },
+  {
+   "id": "2026-11-02-8730aecdb2725751",
+   "date": "2026-11-02",
+   "title": "警惕AI泡沫风险，加强事先、事中、事后监管｜对话程恩富",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBoR1F3S2tzTE41a0lHeHlUNmVKSjZMRWItYXUtbVM2R3F4MXJwSEJlQ3ZObE1UT0xNdGptSkU5VWJHNlpMMlpBMWczS1dYWmF1TlMtcW1GWXdlaDlGd2xKYmtzaw?oc=5",
+   "source": "金融界",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-02T15:51:59-07:00",
+   "keys": [
+    "1a005f9bb3f40df1",
+    "8730aecdb2725751"
+   ]
+  },
+  {
+   "id": "2026-11-02-83600c9bfd21004b",
+   "date": "2026-11-02",
+   "title": "香港证监会公布首份AI准备情况调查，称将对AI监管采取安全为先、以人为本、协作主导的监管方针",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9uYkdoRFNzYlEwZldWbno2dVcteEdfQVp6RWVhY0NCbGFpdnE5a2dPZU9CdjBmRFlOZ2JtZ1dYenZUR1RjUTVVLUdoT1JWYnBMVjBuY25NTWxmdEg0cU1ucVZDRk91aXFoZFBYRjJQemh5NHV3RXpsbW13?oc=5",
+   "source": "中国基金报",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "中国"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-02T15:51:59-07:00",
+   "keys": [
+    "4493f45df9ed2a17",
+    "83600c9bfd21004b"
+   ]
+  },
+  {
+   "id": "2026-11-01-f07b3f71533e2c35",
+   "date": "2026-11-01",
+   "title": "Trump Administration Refuses to Release Information on AI Testing Framework",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPb3ZBVEpYT3A5cWRLc2ZBRzlmcnVlRVlVX294X0t6YUNFRVJmWllGYjByTFVITnB2OFducVJGOVo2anVfeTRDSHhiU0lIWmk2eV9fUkVPYjc2QUlXTGJ1YjZlSjhwajVoaXpkX2Q4Zlc2a3VlNzRBNjV5S3JIWGpXWHRFZG9ZNGctbGFJUjJSSXVWN0NWWnR5bEJOSGZROXFUX2JIaEwzOVZ2MzViUFF3?oc=5",
+   "source": "The Information",
+   "tier": "b",
+   "also": [],
+   "coverage": 1,
+   "category": "政策与标准",
+   "regions": [
+    "美国"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-02T15:51:59-07:00",
+   "keys": [
+    "f07b3f71533e2c35",
+    "f59c7920b3453278"
+   ]
+  },
+  {
+   "id": "2026-11-01-e96934a05e1d4cce",
+   "date": "2026-11-01",
+   "title": "印度电信监管局发布AI治理指南草案",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9aTklCeFRCNWgxMWkwTjg3Q09IdXlQa19KeEpzQVpsRG9ieERXc29nTDVUaEdwdUs0SzlIeDdlSV93Z1lpQXdURUc1TFhHaXZUNUpMbE93NGk?oc=5",
+   "source": "维度网",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-02T15:51:59-07:00",
+   "keys": [
+    "28bdd10fe0ff4498",
+    "e96934a05e1d4cce"
+   ]
+  },
+  {
+   "id": "2026-11-01-d0f38d212aa33f83",
+   "date": "2026-11-01",
+   "title": "AI Governance Risks Prompt Call for Urgent Australian Law Reform",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNakZOMUFlNWNXUGVpOXoxOG1xeFZxV29jR1ZLamZNMHFvR09vbGNNNkllRGtzNVE5UmdEU2Q0djVUdDdBR3BZa0xaUzF0TmdEZkR2QnQ1eVhoVFFTR1V5Nl9la3RGbzFkaWZkVThkbHVVb2VvQ2pqNGNBUTNSc1ZTMk5FVzhHN3lxVjJNbzFtbzI0R2RkVERQN0YyYlJEUnE3TWgxdVZNZlI0UQ?oc=5",
+   "source": "Tech Business News",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-02T15:51:59-07:00",
+   "keys": [
+    "d0f38d212aa33f83",
+    "d3de1d410e28467f"
+   ]
+  },
   {
    "id": "2026-11-01-afacc5b796d19514",
    "date": "2026-11-01",
