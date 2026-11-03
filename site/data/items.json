@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T13:35:20-07:00",
+ "updated": "2026-11-03T16:41:27-07:00",
  "items": [
   {
    "id": "2026-11-03-7a0b542f25522962",
@@ -46,6 +46,167 @@
    "keys": [
     "040e07b3f2ca08df",
     "bf068b1a50069a29"
+   ]
+  },
+  {
+   "id": "2026-11-03-d68c286177e8bf4f",
+   "date": "2026-11-03",
+   "title": "Exclusive / OpenAI pushes policy rebrand to a skeptical audience",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPd2dfNXl1YjctNTV6bU94U3lUWkdTWWFMZUlRcHFVY2Jqb09kU0ZldVZmTTZJNVJJWmFBaTBoVlhEdFRURXo1LUhNNFIyNXhLeWcwSzR1cE5HeHh5TDRfcjBDazJkRFI4THZRdldVWEs5TmdTYXV6UWFjUXFfRnFGazdQZXUzcEFrZGduNjVncGdsNThFcTNZQ0xHTQ?oc=5",
+   "source": "Semafor",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "政策与标准",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-03T16:41:24-07:00",
+   "keys": [
+    "7583f86ef717f250",
+    "d68c286177e8bf4f"
+   ]
+  },
+  {
+   "id": "2026-11-03-edf17f782ef16813",
+   "date": "2026-11-03",
+   "title": "政策、市场、人才三重驱动下，IITC人工智能ESG分析师证书的差异化价值",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Hb0FVWXlxRFE0cWRLcmZfZmltd0pCYTQ1cFRNUzJDSGdGUHZ3c21RelNNa24xZzlSU0NNVFlFMHhkRnVCeW1pemlpWjFLOF9RV1hGT2k1WDk?oc=5",
+   "source": "Jiemian.com",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "政策与标准",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-03T16:41:24-07:00",
+   "keys": [
+    "ab3294bfc438d40e",
+    "edf17f782ef16813"
+   ]
+  },
+  {
+   "id": "2026-11-03-d0649915d5a336b0",
+   "date": "2026-11-03",
+   "title": "OpenAI与Cathedral Systems达成网络安全合作",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1kLWhPbWUyM1ptTUhka08xU2RoaW5FS3BrdUd5UFZQb041cjFfVnI5bGRFV2dYVktwX1Q0QktYdElhVWhFallNQ2dyWXMzLUtIei1WRUhqTzE?oc=5",
+   "source": "Jiemian.com",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-03T16:41:24-07:00",
+   "keys": [
+    "d0649915d5a336b0",
+    "f1a1da79f6ed8336"
+   ]
+  },
+  {
+   "id": "2026-11-03-3d4f6d801ea420f4",
+   "date": "2026-11-03",
+   "title": "中国推进AI全生命周期立法：企业须更主动披露风险，还将设监管沙盒供试错",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5najJoZlRaaDBqUlBqOFhDMUFaOE9qbE1hQ2dBMWk2aE5iREdxWWJETVB1NWpCM09yTlkzSG0yU1Nab3BJYl9renZjU2VFY2JFb3MwYTVB?oc=5",
+   "source": "BlockBeats",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "中国"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-03T16:41:24-07:00",
+   "keys": [
+    "3d4f6d801ea420f4",
+    "79f57d796a4e9c4b"
+   ]
+  },
+  {
+   "id": "2026-11-03-a2f40d09d7d24f02",
+   "date": "2026-11-03",
+   "title": "Australian firms let AI act with limited oversight",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSzlpeFJLcFNMNGJNdmNvZ0N4YjdseS14Xzl5Mnh0akVSc2hnUXdLSkItVVA2bDFWNlc4YWpBcERldWxnaEdzWHQ3NUFwd1pQSWRiXzJsRUlDU3RWQU5OSklOVkpQbkJKTlNmWTFqQ0FWQTlCS1lHckY1NHBRQ1Zrd3pvM3pKazgwR1FMeHl3?oc=5",
+   "source": "SecurityBrief Australia",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-03T16:41:24-07:00",
+   "keys": [
+    "a2f40d09d7d24f02",
+    "a33348c6ebbc99ec"
+   ]
+  },
+  {
+   "id": "2026-11-03-b00dc6bd1c047e09",
+   "date": "2026-11-03",
+   "title": "Senate Draft Bill Seeks Inputs on Healthcare AI Oversight",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQU1VCd3NyV01jODBTMS1ET3FIRFk0TVk5cFl0XzE5TmpQQnhRVUZ0dW9GY1c2cG9LZXVPMl92WVhySTlDYVdXZ3hIcm1RQ0stYkpzSjd6LVNvVE9EaUh6Wll0amNnVzBlVTN3YXJobk9Odnk0ZDUyZE9nS21CY3dnOHhodU45LUNwUG5TSVpqc3h3Mllz?oc=5",
+   "source": "ExecutiveGov",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "美国"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-03T16:41:24-07:00",
+   "keys": [
+    "764d1c38ebecd859",
+    "b00dc6bd1c047e09"
+   ]
+  },
+  {
+   "id": "2026-11-03-a63240281a05c70c",
+   "date": "2026-11-03",
+   "title": "Blue INK Security is leading the way with integrated risk management across Cybersecurity, Data Privacy & AI Governance",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOSVB4V1FrQ293eEhUenp2enBlRW9hVzM4M3Jkd3RyMGpfOWZ6bDZNUlE3cmtYbmpGY1Y0amlZYWVnc1pXSXAtN2dXMW1ZNFJ6VmswWlhuallNdlpOM2ZfOTVPYXJhbHl0X2JZeVRQZElkdFBrTUJEMkV5blF4V21lbHBUbFZpcllnaUpXMldLT2JkSmVFbExNbjZ1R0VSaHBUQTdFVEFtbFZvTXZmTEZKVUhleWtoUzluUWs0VC10NFFNLXVQNldkOWNRN0VkVTlzQzVSbDhXZGlodHhwVEttNGNLQjRvdEhMNmpmaUhBYw?oc=5",
+   "source": "EIN News",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-03T16:41:24-07:00",
+   "keys": [
+    "5deb3af7bd18f521",
+    "a63240281a05c70c"
    ]
   },
   {
@@ -725,8 +886,13 @@
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5oSVAxMU0xdmJHMkUycnlGcmZFREdLZ0J6N3Fvc2JMWGY1U3NJa3ZQQWZaaFN0T1B2bnJaYVRpVURKVkd2UklPd0NaekM0cGQzWm5oRDZhc0QyZE9GRkE?oc=5",
    "source": "36kr",
    "tier": "b",
-   "also": [],
-   "coverage": 1,
+   "also": [
+    {
+     "source": "搜狐网",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMnBrcktmeklteHlmTDhjNm42THFIaERNcWYzZFZhYW1MU1pyaFR2TDU1M3FwOVo3ZlYxa1hyakJjS0hDSVpNbjZhZGtnWXpLeWlmWm1UZjQ0MFl2VTRtMkdPb2NNZFJnN212cldCM3NXR1V1MXV5dWk4MHhabG1Gcl9yZjNaNmE1WjR5Tw?oc=5"
+    }
+   ],
+   "coverage": 2,
    "category": "政策与标准",
    "regions": [
     "其他"
@@ -737,6 +903,8 @@
    "createdAt": "2026-11-03T13:35:18-07:00",
    "keys": [
     "22f821b1b1b861b8",
+    "36839da68058ab30",
+    "79899efabba8a77e",
     "a4b215ba30ae9072"
    ]
   },
