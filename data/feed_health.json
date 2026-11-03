@@ -1,402 +1,402 @@
 {
  "通讯社与大报": {
-  "last_run": "2026-11-02T18:11:35-07:00",
+  "last_run": "2026-11-03T13:31:48-07:00",
   "ok": true,
   "parsed": 100,
-  "new": 10,
+  "new": 26,
   "blocked": 0,
-  "selected": 0,
+  "selected": 4,
   "fail_streak": 0,
-  "last_ok": "2026-11-02T18:11:35-07:00"
+  "last_ok": "2026-11-03T13:31:48-07:00"
  },
  "政策类媒体": {
-  "last_run": "2026-11-02T18:11:35-07:00",
+  "last_run": "2026-11-03T13:31:48-07:00",
   "ok": true,
   "parsed": 100,
-  "new": 5,
+  "new": 31,
   "blocked": 0,
   "selected": 0,
   "fail_streak": 0,
-  "last_ok": "2026-11-02T18:11:35-07:00"
+  "last_ok": "2026-11-03T13:31:48-07:00"
  },
  "国际媒体": {
-  "last_run": "2026-11-02T18:11:35-07:00",
+  "last_run": "2026-11-03T13:31:48-07:00",
   "ok": true,
   "parsed": 100,
-  "new": 2,
+  "new": 21,
   "blocked": 0,
-  "selected": 0,
+  "selected": 2,
   "fail_streak": 0,
-  "last_ok": "2026-11-02T18:11:35-07:00"
+  "last_ok": "2026-11-03T13:31:48-07:00"
  },
  "中文权威媒体": {
-  "last_run": "2026-11-02T18:11:35-07:00",
+  "last_run": "2026-11-03T13:31:48-07:00",
   "ok": true,
   "parsed": 100,
-  "new": 4,
+  "new": 38,
   "blocked": 0,
-  "selected": 0,
+  "selected": 11,
   "fail_streak": 0,
-  "last_ok": "2026-11-02T18:11:35-07:00"
+  "last_ok": "2026-11-03T13:31:48-07:00"
  },
  "中国官方与官媒": {
-  "last_run": "2026-11-02T18:11:35-07:00",
+  "last_run": "2026-11-03T13:31:48-07:00",
   "ok": true,
   "parsed": 100,
-  "new": 13,
+  "new": 32,
   "blocked": 0,
-  "selected": 0,
+  "selected": 4,
   "fail_streak": 0,
-  "last_ok": "2026-11-02T18:11:35-07:00"
+  "last_ok": "2026-11-03T13:31:48-07:00"
  },
  "Tech Policy Press": {
-  "last_run": "2026-11-02T18:11:35-07:00",
+  "last_run": "2026-11-03T13:31:48-07:00",
   "ok": true,
   "parsed": 0,
   "new": 0,
   "blocked": 0,
   "selected": 0,
-  "fail_streak": 30
+  "fail_streak": 31
  },
  "MIT Technology Review · AI": {
-  "last_run": "2026-11-02T18:11:35-07:00",
+  "last_run": "2026-11-03T13:31:48-07:00",
   "ok": true,
   "parsed": 10,
-  "new": 0,
+  "new": 2,
   "blocked": 0,
   "selected": 0,
   "fail_streak": 0,
-  "last_ok": "2026-11-02T18:11:35-07:00"
+  "last_ok": "2026-11-03T13:31:48-07:00"
  },
  "The Verge · AI": {
-  "last_run": "2026-11-02T18:11:35-07:00",
+  "last_run": "2026-11-03T13:31:48-07:00",
   "ok": true,
   "parsed": 10,
-  "new": 0,
+  "new": 9,
   "blocked": 0,
   "selected": 0,
   "fail_streak": 0,
-  "last_ok": "2026-11-02T18:11:35-07:00"
+  "last_ok": "2026-11-03T13:31:48-07:00"
  },
  "The Verge · Policy": {
-  "last_run": "2026-11-02T18:11:35-07:00",
+  "last_run": "2026-11-03T13:31:48-07:00",
   "ok": true,
   "parsed": 10,
-  "new": 0,
+  "new": 1,
   "blocked": 0,
   "selected": 0,
   "fail_streak": 0,
-  "last_ok": "2026-11-02T18:11:35-07:00"
+  "last_ok": "2026-11-03T13:31:48-07:00"
  },
  "Wired · AI": {
-  "last_run": "2026-11-02T18:11:35-07:00",
+  "last_run": "2026-11-03T13:31:48-07:00",
   "ok": true,
   "parsed": 10,
-  "new": 0,
+  "new": 2,
   "blocked": 0,
-  "selected": 0,
+  "selected": 1,
   "fail_streak": 0,
-  "last_ok": "2026-11-02T18:11:35-07:00"
+  "last_ok": "2026-11-03T13:31:48-07:00"
  },
  "Ars Technica · AI": {
-  "last_run": "2026-11-02T18:11:35-07:00",
+  "last_run": "2026-11-03T13:31:48-07:00",
   "ok": true,
   "parsed": 20,
-  "new": 0,
+  "new": 1,
   "blocked": 0,
   "selected": 0,
   "fail_streak": 0,
-  "last_ok": "2026-11-02T18:11:35-07:00"
+  "last_ok": "2026-11-03T13:31:48-07:00"
  },
  "Ars Technica · Tech Policy": {
-  "last_run": "2026-11-02T18:11:35-07:00",
+  "last_run": "2026-11-03T13:31:48-07:00",
   "ok": true,
   "parsed": 20,
-  "new": 0,
-  "blocked": 0,
-  "selected": 0,
-  "fail_streak": 0,
-  "last_ok": "2026-11-02T18:11:35-07:00"
- },
- "The Hill · Technology": {
-  "last_run": "2026-11-02T18:11:35-07:00",
-  "ok": true,
-  "parsed": 15,
   "new": 3,
   "blocked": 0,
   "selected": 0,
   "fail_streak": 0,
-  "last_ok": "2026-11-02T18:11:35-07:00"
+  "last_ok": "2026-11-03T13:31:48-07:00"
+ },
+ "The Hill · Technology": {
+  "last_run": "2026-11-03T13:31:48-07:00",
+  "ok": true,
+  "parsed": 15,
+  "new": 2,
+  "blocked": 0,
+  "selected": 0,
+  "fail_streak": 0,
+  "last_ok": "2026-11-03T13:31:48-07:00"
  },
  "POLITICO Europe · Technology": {
-  "last_run": "2026-11-02T18:11:35-07:00",
+  "last_run": "2026-11-03T13:31:48-07:00",
   "ok": true,
   "parsed": 31,
   "new": 0,
   "blocked": 0,
   "selected": 0,
   "fail_streak": 0,
-  "last_ok": "2026-11-02T18:11:35-07:00"
+  "last_ok": "2026-11-03T13:31:48-07:00"
  },
  "The Guardian · AI": {
-  "last_run": "2026-11-02T18:11:35-07:00",
+  "last_run": "2026-11-03T13:31:48-07:00",
   "ok": true,
   "parsed": 20,
-  "new": 2,
+  "new": 6,
   "blocked": 0,
   "selected": 0,
   "fail_streak": 0,
-  "last_ok": "2026-11-02T18:11:35-07:00"
+  "last_ok": "2026-11-03T13:31:48-07:00"
  },
  "BBC · Technology": {
-  "last_run": "2026-11-02T18:11:35-07:00",
+  "last_run": "2026-11-03T13:31:48-07:00",
   "ok": true,
   "parsed": 21,
   "new": 2,
   "blocked": 0,
   "selected": 0,
   "fail_streak": 0,
-  "last_ok": "2026-11-02T18:11:35-07:00"
+  "last_ok": "2026-11-03T13:31:48-07:00"
  },
  "New York Times · Technology": {
-  "last_run": "2026-11-02T18:11:35-07:00",
+  "last_run": "2026-11-03T13:31:48-07:00",
   "ok": true,
-  "parsed": 32,
-  "new": 0,
+  "parsed": 30,
+  "new": 2,
   "blocked": 0,
-  "selected": 0,
+  "selected": 1,
   "fail_streak": 0,
-  "last_ok": "2026-11-02T18:11:35-07:00"
+  "last_ok": "2026-11-03T13:31:48-07:00"
  },
  "Euractiv · Tech": {
-  "last_run": "2026-11-02T18:11:35-07:00",
+  "last_run": "2026-11-03T13:31:48-07:00",
   "ok": false,
   "parsed": 0,
   "new": 0,
   "blocked": 0,
   "selected": 0,
-  "fail_streak": 30
+  "fail_streak": 31
  },
  "Rest of World": {
-  "last_run": "2026-11-02T18:11:35-07:00",
+  "last_run": "2026-11-03T13:31:48-07:00",
   "ok": true,
   "parsed": 0,
   "new": 0,
   "blocked": 0,
   "selected": 0,
-  "fail_streak": 30
+  "fail_streak": 31
  },
  "专业媒体（Google 新闻检索）": {
-  "last_run": "2026-11-02T18:11:35-07:00",
+  "last_run": "2026-11-03T13:31:48-07:00",
   "ok": true,
-  "parsed": 35,
-  "new": 7,
+  "parsed": 73,
+  "new": 15,
   "blocked": 0,
-  "selected": 0,
+  "selected": 1,
   "fail_streak": 0,
-  "last_ok": "2026-11-02T18:11:35-07:00"
+  "last_ok": "2026-11-03T13:31:48-07:00"
  },
  "36氪": {
-  "last_run": "2026-11-02T18:11:35-07:00",
+  "last_run": "2026-11-03T13:31:48-07:00",
   "ok": true,
   "parsed": 0,
   "new": 0,
   "blocked": 0,
   "selected": 0,
-  "fail_streak": 30
+  "fail_streak": 31
  },
  "虎嗅": {
-  "last_run": "2026-11-02T18:11:35-07:00",
+  "last_run": "2026-11-03T13:31:48-07:00",
   "ok": false,
   "parsed": 0,
   "new": 0,
   "blocked": 0,
   "selected": 0,
-  "fail_streak": 30
+  "fail_streak": 31
  },
  "Transformer": {
-  "last_run": "2026-11-02T18:11:35-07:00",
+  "last_run": "2026-11-03T13:31:48-07:00",
   "ok": true,
   "parsed": 20,
   "new": 0,
   "blocked": 0,
   "selected": 0,
   "fail_streak": 0,
-  "last_ok": "2026-11-02T18:11:35-07:00"
+  "last_ok": "2026-11-03T13:31:48-07:00"
  },
  "AI Safety Newsletter (CAIS)": {
-  "last_run": "2026-11-02T18:11:35-07:00",
+  "last_run": "2026-11-03T13:31:48-07:00",
   "ok": true,
   "parsed": 20,
   "new": 0,
   "blocked": 0,
   "selected": 0,
   "fail_streak": 0,
-  "last_ok": "2026-11-02T18:11:35-07:00"
+  "last_ok": "2026-11-03T13:31:48-07:00"
  },
  "The EU AI Act Newsletter": {
-  "last_run": "2026-11-02T18:11:35-07:00",
+  "last_run": "2026-11-03T13:31:48-07:00",
   "ok": false,
   "parsed": 0,
   "new": 0,
   "blocked": 0,
   "selected": 0,
-  "fail_streak": 30
+  "fail_streak": 31
  },
  "Import AI": {
-  "last_run": "2026-11-02T18:11:35-07:00",
+  "last_run": "2026-11-03T13:31:48-07:00",
   "ok": false,
   "parsed": 0,
   "new": 0,
   "blocked": 0,
   "selected": 0,
-  "fail_streak": 30
+  "fail_streak": 31
  },
  "ChinAI": {
-  "last_run": "2026-11-02T18:11:35-07:00",
+  "last_run": "2026-11-03T13:31:48-07:00",
   "ok": false,
   "parsed": 0,
   "new": 0,
   "blocked": 0,
   "selected": 0,
-  "fail_streak": 30
+  "fail_streak": 31
  },
  "AI Safety in China（安远 AI）": {
-  "last_run": "2026-11-02T18:11:35-07:00",
+  "last_run": "2026-11-03T13:31:48-07:00",
   "ok": false,
   "parsed": 0,
   "new": 0,
   "blocked": 0,
   "selected": 0,
-  "fail_streak": 30
+  "fail_streak": 31
  },
  "英国 AI 安全研究所": {
-  "last_run": "2026-11-02T18:11:35-07:00",
+  "last_run": "2026-11-03T13:31:48-07:00",
   "ok": true,
   "parsed": 16,
   "new": 0,
   "blocked": 0,
   "selected": 0,
   "fail_streak": 0,
-  "last_ok": "2026-11-02T18:11:35-07:00"
+  "last_ok": "2026-11-03T13:31:48-07:00"
  },
  "英国科学创新技术部": {
-  "last_run": "2026-11-02T18:11:35-07:00",
+  "last_run": "2026-11-03T13:31:48-07:00",
   "ok": true,
   "parsed": 20,
-  "new": 0,
+  "new": 2,
   "blocked": 0,
   "selected": 0,
   "fail_streak": 0,
-  "last_ok": "2026-11-02T18:11:35-07:00"
+  "last_ok": "2026-11-03T13:31:48-07:00"
  },
  "美国 NIST": {
-  "last_run": "2026-11-02T18:11:35-07:00",
+  "last_run": "2026-11-03T13:31:48-07:00",
   "ok": true,
   "parsed": 40,
   "new": 0,
   "blocked": 0,
   "selected": 0,
   "fail_streak": 0,
-  "last_ok": "2026-11-02T18:11:35-07:00"
+  "last_ok": "2026-11-03T13:31:48-07:00"
  },
  "美国 FTC": {
-  "last_run": "2026-11-02T18:11:35-07:00",
+  "last_run": "2026-11-03T13:31:48-07:00",
   "ok": true,
   "parsed": 10,
   "new": 0,
   "blocked": 0,
   "selected": 0,
   "fail_streak": 0,
-  "last_ok": "2026-11-02T18:11:35-07:00"
+  "last_ok": "2026-11-03T13:31:48-07:00"
  },
  "欧盟与国际组织（Google 新闻检索）": {
-  "last_run": "2026-11-02T18:11:35-07:00",
+  "last_run": "2026-11-03T13:31:48-07:00",
   "ok": true,
-  "parsed": 63,
-  "new": 4,
+  "parsed": 72,
+  "new": 14,
   "blocked": 0,
-  "selected": 0,
+  "selected": 1,
   "fail_streak": 0,
-  "last_ok": "2026-11-02T18:11:35-07:00"
+  "last_ok": "2026-11-03T13:31:48-07:00"
  },
  "CSET": {
-  "last_run": "2026-11-02T18:11:35-07:00",
+  "last_run": "2026-11-03T13:31:48-07:00",
   "ok": true,
   "parsed": 10,
   "new": 0,
   "blocked": 0,
   "selected": 0,
   "fail_streak": 0,
-  "last_ok": "2026-11-02T18:11:35-07:00"
+  "last_ok": "2026-11-03T13:31:48-07:00"
  },
  "Ada Lovelace Institute": {
-  "last_run": "2026-11-02T18:11:35-07:00",
+  "last_run": "2026-11-03T13:31:48-07:00",
   "ok": true,
   "parsed": 0,
   "new": 0,
   "blocked": 0,
   "selected": 0,
-  "fail_streak": 30
+  "fail_streak": 31
  },
  "智库（Google 新闻检索）": {
-  "last_run": "2026-11-02T18:11:35-07:00",
+  "last_run": "2026-11-03T13:31:48-07:00",
   "ok": true,
-  "parsed": 28,
-  "new": 1,
+  "parsed": 91,
+  "new": 3,
   "blocked": 0,
   "selected": 0,
   "fail_streak": 0,
-  "last_ok": "2026-11-02T18:11:35-07:00"
+  "last_ok": "2026-11-03T13:31:48-07:00"
  },
  "arXiv：AI 安全与治理论文": {
-  "last_run": "2026-11-02T18:11:35-07:00",
+  "last_run": "2026-11-03T13:31:48-07:00",
   "ok": true,
   "parsed": 40,
-  "new": 0,
+  "new": 3,
   "blocked": 0,
-  "selected": 0,
+  "selected": 3,
   "fail_streak": 0,
-  "last_ok": "2026-11-02T18:11:35-07:00"
+  "last_ok": "2026-11-03T13:31:48-07:00"
  },
  "OpenAI": {
-  "last_run": "2026-11-02T18:11:35-07:00",
+  "last_run": "2026-11-03T13:31:48-07:00",
   "ok": true,
-  "parsed": 1346,
-  "new": 2,
+  "parsed": 1352,
+  "new": 6,
   "blocked": 0,
   "selected": 0,
   "fail_streak": 0,
-  "last_ok": "2026-11-02T18:11:35-07:00"
+  "last_ok": "2026-11-03T13:31:48-07:00"
  },
  "Google DeepMind": {
-  "last_run": "2026-11-02T18:11:35-07:00",
+  "last_run": "2026-11-03T13:31:48-07:00",
   "ok": true,
-  "parsed": 100,
+  "parsed": 0,
   "new": 0,
   "blocked": 0,
   "selected": 0,
-  "fail_streak": 0,
+  "fail_streak": 1,
   "last_ok": "2026-11-02T18:11:35-07:00"
  },
  "Google 新闻：AI 监管与安全": {
-  "last_run": "2026-11-02T18:11:35-07:00",
+  "last_run": "2026-11-03T13:31:48-07:00",
   "ok": true,
-  "parsed": 67,
-  "new": 5,
-  "blocked": 3,
-  "selected": 1,
+  "parsed": 100,
+  "new": 31,
+  "blocked": 5,
+  "selected": 4,
   "fail_streak": 0,
-  "last_ok": "2026-11-02T18:11:35-07:00"
+  "last_ok": "2026-11-03T13:31:48-07:00"
  },
  "Google 新闻：人工智能治理": {
-  "last_run": "2026-11-02T18:11:35-07:00",
+  "last_run": "2026-11-03T13:31:48-07:00",
   "ok": true,
-  "parsed": 62,
-  "new": 6,
+  "parsed": 42,
+  "new": 25,
   "blocked": 3,
-  "selected": 0,
+  "selected": 3,
   "fail_streak": 0,
-  "last_ok": "2026-11-02T18:11:35-07:00"
+  "last_ok": "2026-11-03T13:31:48-07:00"
  }
 }
