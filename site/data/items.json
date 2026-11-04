@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T13:54:15-07:00",
+ "updated": "2026-11-04T16:58:07-07:00",
  "items": [
   {
    "id": "2026-11-04-1af801cccf72988c",
@@ -29,6 +29,98 @@
     "4f0373d9b505350d",
     "81b8bd57ad9b6b2d",
     "cec2aecaa7b07c5c"
+   ]
+  },
+  {
+   "id": "2026-11-04-29629fd5459f8f71",
+   "date": "2026-11-04",
+   "title": "[新闻直播间]《携手构建全球开放人工智能行动倡议》发布让各国人工智能监管规则不再“各说各话”",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBrVHpaclJrcy0xYWhSQU01emtnS2hZMmdzZmRleXY4OW1lMXdRclhlbU9lOTdWNUpod210eDJHUGJrQktCdWl0LXhFQVJzeFduT2EwT1BQT1gzRFhqLThLcXA0Q2NBRmlBNjJSSXFNcDVMQ3RvbHc?oc=5",
+   "source": "央视网",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "全球/多边"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-04T16:58:05-07:00",
+   "keys": [
+    "29629fd5459f8f71",
+    "9aabf65d82262cde"
+   ]
+  },
+  {
+   "id": "2026-11-04-e6f0d9ae3c0b4c74",
+   "date": "2026-11-04",
+   "title": "American Medical Association Releases AI Governance Framework",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQX1VSaTIwWDhXNXJlbDhDNldzTDlNdmh4TWQ0bTQyYUl0cjBKUnBCQ2Q1ZWRXQ2hTNGM4enA1SVBQbDZIeFRiWDZRTHZPdW9qS2VuYUhsc09kdHNFeVh4VF81XzlfNUtUWnl4dFowWTJkWENnZEItZ205WDhyS0h2dWNyX0QzX0wwWXBidWJKMm83cmN1UnAxempn0gGfAUFVX3lxTFBhRUtqMmNRVzVnZkJfbVJPSEppd0YwZUQ4aXBhOEE5dnlTR0ZsUms4ZjlpU2l1M1VCa0dxOU5GVTJ0NDh5dVJEVGhnVzNzVXZkNEFqYXJiVHhwcmFxemdJd0IybWtZdEZTQlFRR0lPNGZucmhOZUd1MXNFcmhBUkc3UlRUbm1rR0UtZEtncjJDSkhybXZaM1k3MWxMc0xxaw?oc=5",
+   "source": "The National Law Review",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "政策与标准",
+   "regions": [
+    "美国"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-04T16:58:05-07:00",
+   "keys": [
+    "df63ab22bcd269f9",
+    "e6f0d9ae3c0b4c74"
+   ]
+  },
+  {
+   "id": "2026-11-04-4a3f8e5b1b675264",
+   "date": "2026-11-04",
+   "title": "Democrats seize Congress, advance US AI regulation despite industry spending",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNS0wxWk9fNG1Ic3BDWUs4MVlYT2pZcGc1bWFKTS1YU1N6ZGhwU0F3dmE2Q1FaRnZWLTVYdlgxUlRmR0lhbThQdmRIcUg3MHBWOGxZZmJNdjFBRzhtOWplR2dqZVI1Z3ZjcERrWlNkZjVLV3I4MTlyYXNscVJyeXJ3SVo1amNURTBm0gGcAUFVX3lxTE5nLVhzTDJZUEV3akQwZU1BSGx6dkpmWmNoZS1tVDZjTzVVb1JEblBUNlZ0WUtJQk42eng3eXFndUhtUm5xNHlLZDFMZGxGX3RReVlpTHNkTHRIRnRqSkV3Q25mVnlPY2p2UzRtZmNfNDl6cEdWbS1KeEllaFFoZFhzVTdHX0pDaWkwWWt2bDVhaFlES25KUXVYMkpDbg?oc=5",
+   "source": "Chosunbiz",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "美国"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-04T16:58:05-07:00",
+   "keys": [
+    "17b533ff3b1fd575",
+    "4a3f8e5b1b675264"
+   ]
+  },
+  {
+   "id": "2026-11-04-d1ab8cdeda344122",
+   "date": "2026-11-04",
+   "title": "AIMG® Sizes AI Governance Platforms Market at $12.5 Billion by 2030; Microsoft, Databricks and Salesforce Top AI LeaderMap®",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPVFl5T3AwaXo5cDloQy1nS1lJWTVJb2I1RVlPQVBPZ2tKeTNCM0FDTUc4VmZSalRjLUx1M3VpaUc5Ynh4WUE0cXdTeENFQ0xVQldfR1M4Vmg5eWRaaTAxMkE0eW5NRUVPdGlQWHI5Ni1idC03VU5QanpTa2tiNC1tS09HM3B2R2dGMlNnRW9tOENKRmxsd1V4bnhRSVBXN0JoMkhaUGo1VWVyZktjS1NhMmVoX0NLWmI1cVhfVncwdlVuaGh0NmR4MkllM2dEdjBjZ2xrNGl6eTBFY3V2UktWNDlWU281VUlVS0piVjNKMjB1TlRpVnZtanBZM0NHbHdGMW9OV2tkcmxvbDJxN3hzS1Brc0o2NTk1N1hHQ2JtOA?oc=5",
+   "source": "StreetInsider",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-04T16:58:05-07:00",
+   "keys": [
+    "789fc096ca645d08",
+    "d1ab8cdeda344122"
    ]
   },
   {
