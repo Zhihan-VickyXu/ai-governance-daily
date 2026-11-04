@@ -1,6 +1,450 @@
 {
- "updated": "2026-11-03T16:41:27-07:00",
+ "updated": "2026-11-04T13:54:15-07:00",
  "items": [
+  {
+   "id": "2026-11-04-1af801cccf72988c",
+   "date": "2026-11-04",
+   "title": "乌镇峰会主论坛发布《前沿人工智能安全与治理 2026：风险认知与协同治理》报告",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBsZlhLdnBtTG83MmF3ckZkc3Q2eG41WXZsREFsR3UwYi1LbVhjRXRrT2FFZF8tQ2VfVnJWR1prNjFyQW1yWlFwc2F1UTI2NGpZTDhqaENyMWVNcFpKSklMdmZR?oc=5",
+   "source": "同花顺财经",
+   "tier": "",
+   "also": [
+    {
+     "source": "安全内参",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1KRlptNFViOUtnQlI3MHI0dXpjVnphY0EwRDhOTy1pME13blZSZTF1R1BfSWZmcWR6d0R3RzdrdGdqTUVUNDdnUkk1dnRYQQ?oc=5"
+    }
+   ],
+   "coverage": 2,
+   "category": "国际治理",
+   "regions": [
+    "其他"
+   ],
+   "importance": 2,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-04T13:54:13-07:00",
+   "keys": [
+    "1af801cccf72988c",
+    "4f0373d9b505350d",
+    "81b8bd57ad9b6b2d",
+    "cec2aecaa7b07c5c"
+   ]
+  },
+  {
+   "id": "2026-11-04-dd21da1e55847276",
+   "date": "2026-11-04",
+   "title": "从“骑手吹哨”到“AI站岗” 大兴安岭把食品安全治理落到具体场景",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE16Um5BN0hnUGI1d2dzWHNIdU4wUUdOYVZ0VG1IeTZxSzRoTEZReGFPTUNHY3ZWc3NTOUJySDI0cGhDX2lrUGt0M2dRXzgxYlg5dF9XSnJOdkRfZGJlWUZsS3RDdkhHbUtCVXJB?oc=5",
+   "source": "人民网黑龙江频道",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-04T13:54:13-07:00",
+   "keys": [
+    "b5228f79a14074dc",
+    "dd21da1e55847276"
+   ]
+  },
+  {
+   "id": "2026-11-04-d0d925233ad06e0e",
+   "date": "2026-11-04",
+   "title": "US bank regulator issues first-ever AI guidance for examiners",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNXzJNWm5iUUp0bUVhSUJOR0FZZHVBbjJwb3BqbW5yYUJTZlpYYTNlVEU5ZXBORnhZQUpyVnNYeWlnaXFkdmZQa2h1YjVEVk92aEpkcUhueTRsTjRMU3NPekZMLWRxdGFyOUFvNWlHNmhCSFZmcTBLbVNiU1Zlb0hHeDZyLVVORnRUMDNLZ3VTZTBOd2pyajVCSnlqWXZuOEpzUkdEa01VRF9aYnpOemlz?oc=5",
+   "source": "Reuters",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "美国"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-04T13:54:13-07:00",
+   "keys": [
+    "caab246199ae7fcb",
+    "d0d925233ad06e0e"
+   ]
+  },
+  {
+   "id": "2026-11-04-2ec7b74031ddb5f4",
+   "date": "2026-11-04",
+   "title": "蓝潮横扫国会 美股盘前先跌后升 AI监管政策走向受关注",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1zbnlmYThuRWluTTZ3ZmhiU1pYWXpmZ0JKdFVuV3lzaGJ6NnR2UGk2ZkkwbU5SQldjWEF5ZHYxM21oTWFFMVRYTnZLU0lKRklRVDB6Y1dwM3JIbVAzT2pQd29EaFNfeDNlWEE?oc=5",
+   "source": "联合早报",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "美国"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-04T13:54:13-07:00",
+   "keys": [
+    "2ec7b74031ddb5f4",
+    "6130982e6acb822f"
+   ]
+  },
+  {
+   "id": "2026-11-04-947b9d744c74f59e",
+   "date": "2026-11-04",
+   "title": "从Agent到机器人，乌镇探讨AI治理中国方案",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBpNnEzZDNudG1tSG5xS2NmNWRUUDVyOEJrVGZQU3FDS2pfOU80RmN2RDdNaW9BZ0pCdVdRdnVaLWhKZWIzVWJZMnB6M0t1eGpNdzM5cGZzQ2g?oc=5",
+   "source": "Jiemian.com",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "中国"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-04T13:54:13-07:00",
+   "keys": [
+    "947b9d744c74f59e",
+    "a09e451c56cd3587"
+   ]
+  },
+  {
+   "id": "2026-11-04-5a1277c7636ebff2",
+   "date": "2026-11-04",
+   "title": "人工智能乌镇对话：开源的价值之问、治理之道和普惠之愿",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5aM3ZzUTB1M3ZDZ0h4NWdpOUFVaU5LcDc5N3FfYl9ydmtMTnRZenAybmRCRjBnWmN1NXRQTVIyQ2FUTGdUN3p1TWhaOWNzdzNuV1FzNFJ3cmQwVUdxYlZIamRrcHZnREh3TEtmTnFDemY2U2tmQlhLMQ?oc=5",
+   "source": "央视网",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-04T13:54:13-07:00",
+   "keys": [
+    "5a1277c7636ebff2",
+    "db7129de1e83ab32"
+   ]
+  },
+  {
+   "id": "2026-11-04-1674b8164bd5560d",
+   "date": "2026-11-04",
+   "title": "BMO's Harsh Kumar on midterm results, AI regulation: The demand is there to build out data centers",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNT3JJSGo0R3lJa1FtZEZvczVTWlVLSm9jTDFOX0UwbXQ4cWpKWmkxZkpldW5Eb0dRdk1heHN0WV91MEd5TElIb0lkRkdYVnFqSlFYV2ZCNVBEekVUZWlqVVk5ZVJ4cHVMQWIyVndIZ1k3aVhmN1J4T2ZuUXY4dHVBT2dxdXpFa1kzcy04MHNrc3gzc0lZNzdsdzZXcHF2WS01dU5CRm11N004My1fY1pVV19Dbk0zLUlQSDcwYUd1NUw5djlGYXFpczROUWgtSGJreTVpdg?oc=5",
+   "source": "CNBC",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-04T13:54:13-07:00",
+   "keys": [
+    "1674b8164bd5560d",
+    "b0d3e498e0b23e0e"
+   ]
+  },
+  {
+   "id": "2026-11-04-9959857fb297a1b5",
+   "date": "2026-11-04",
+   "title": "Democratic Wave Changes AI Policy Calculus",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZjR4N2llNWpUYVpwMlJNTGpMX1JpOHNaMW15eUhNRXkwaVlqWGhaMkRXTy13MlU4a3MzT2U5aVh6ZFlKVUpFZVlwTG1rQm1WSnNiY0p5M2NMdE9pT25TTHZmX3JRRW9DR2NoNFdfRUJIQzBHTlJWUWRSUnhxd2ZYVzA1VXhEODljVFdj?oc=5",
+   "source": "WSJ",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "政策与标准",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-04T13:54:13-07:00",
+   "keys": [
+    "8fd1727158706d08",
+    "9959857fb297a1b5"
+   ]
+  },
+  {
+   "id": "2026-11-04-6a378270fae6306b",
+   "date": "2026-11-04",
+   "title": "Wall Street Sees Risks to AI Boom After the Democratic Sweep",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeDNtR2JnZEd4TXBWa1FpX05KaWVrV1VTM0p2QjFZR1EzN0gxeDE0dlFaSVp4NU9XTVdSR1hVWGFzTmV6UWxFZ1ZYTURGVzdUbWFlY0dhZHlLZ3hrUVRMbVVGei1TcEFNQVlNRzJUVEdjOEZYbHBqTm80LUtiQnRLMzl1LXRSbnV0R0E5eE9SUHlHVGhRUWhuc1NxQUVuOXVwOVVMYzljYnlvUXRnSU5JOQ?oc=5",
+   "source": "Bloomberg",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-04T13:54:13-07:00",
+   "keys": [
+    "6a378270fae6306b",
+    "9b8e3a5088b76c6e"
+   ]
+  },
+  {
+   "id": "2026-11-04-faf33c259209403c",
+   "date": "2026-11-04",
+   "title": "李其 西蒙·赫德林：美中AI安全沟通渠道须具备什么要素",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1yUlpFWkdncTY4Y2JxbWt1REU3eFA1QmlraWdCcHZVQndESHl1ZkFlQ3dFYUcwMk5ISVJOdFpISGtHcndMRzFqbHZZSmNYVXN0ZUwwRVJ5cjdqS29OdUpuTG5WVmpFUHM?oc=5",
+   "source": "联合早报",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-04T13:54:13-07:00",
+   "keys": [
+    "ad73a1e93f456d94",
+    "faf33c259209403c"
+   ]
+  },
+  {
+   "id": "2026-11-04-044de223ed8c90f0",
+   "date": "2026-11-04",
+   "title": "以色列一安全公司说部分AI网络入侵系人为失误",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBQSlFLNm9NSE0yZ2JRWXFaUzNfa2JsVC1MeTM3WTlmSnhsb1ppRzFxV0hUVzFlNS0xRHBVLU1lQTJMR09PT0pPRVlGU0o5YjJrcEtzVE1FTW4?oc=5",
+   "source": "Jiemian.com",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-04T13:54:13-07:00",
+   "keys": [
+    "044de223ed8c90f0",
+    "f673ce07dd7a16b9"
+   ]
+  },
+  {
+   "id": "2026-11-04-b1f39486c8c5dc62",
+   "date": "2026-11-04",
+   "title": "Albanese government warned it is ‘sleepwalking into another robodebt scenario’ over use of algorithms and AI",
+   "summary": "Centre for Public Integrity report says mandatory audit and public register of all automated decision-making needed Get our breaking news email , free app or daily news podcast The federal government is “sleepwalking its…",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/05/albanese-government-warned-its-sleepwalking-into-another-robodebt-scenario-over-use-of-algorithms-and-ai",
+   "source": "The Guardian",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "美国"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-04T13:54:13-07:00",
+   "keys": [
+    "796e0438cc671874",
+    "b1f39486c8c5dc62"
+   ]
+  },
+  {
+   "id": "2026-11-04-83f90f36a3852256",
+   "date": "2026-11-04",
+   "title": "Where the Weight Lies: A Balancing Act for the Governance of Open-Weight AI Models",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPX0htWXpqQ1pTUmRhQ2NmS0taYjY5Wmh1R1ZudjhHbkxtazFWbk5MZDBveGxwRzJTOVJ1ZHd1cVd1YWRHQ1ZSbWZqOGdFU2EyTlFVbERESmNCOHpPSGwwa1pzZC1BS0tfa0hpNmdQcktvWEhZSmxiUzNpSnR2aXVGQ0NPT2JIbGdFY19qNzZGbGhfWUJ2QkZBVmhDTnFacnB4c25wUklLbmFJM3FEUUtlay1DZUNWUk56SjhF?oc=5",
+   "source": "Lawfare",
+   "tier": "b",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-04T13:54:13-07:00",
+   "keys": [
+    "2618d9a13c73fb93",
+    "83f90f36a3852256"
+   ]
+  },
+  {
+   "id": "2026-11-04-c8654c8982a317ce",
+   "date": "2026-11-04",
+   "title": "What the blue tsunami means for AI policy",
+   "summary": "Strong AI legislation now looks much more likely",
+   "url": "https://www.transformernews.ai/p/midterms-democrats-blue-tsunami-ai-policy-legislation",
+   "source": "Transformer",
+   "tier": "b",
+   "also": [],
+   "coverage": 1,
+   "category": "政策与标准",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-04T13:54:13-07:00",
+   "keys": [
+    "87df1979873bd161",
+    "c8654c8982a317ce"
+   ]
+  },
+  {
+   "id": "2026-11-04-c3f334255cd4dc17",
+   "date": "2026-11-04",
+   "title": "The Biggest Pro-AI Super Pac Network Didn't Really Impact the Midterms",
+   "summary": "Leading the Future, backed by Silicon Valley’s biggest billionaires, had a war chest of $100 million and an aggressive stance against AI regulation. All of it didn’t add up to much on Tuesday night.",
+   "url": "https://www.wired.com/story/the-biggest-pro-ai-super-pac-network-didnt-really-impact-the-midterms/",
+   "source": "Wired",
+   "tier": "b",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-04T13:54:13-07:00",
+   "keys": [
+    "c0beb01d080e447b",
+    "c3f334255cd4dc17"
+   ]
+  },
+  {
+   "id": "2026-11-04-3005c90e8f40b7ed",
+   "date": "2026-11-04",
+   "title": "UK Officials Said AI Would Add £400 Billion to the Economy. That Figure Mainly Came From Google",
+   "summary": "The AI minister now concedes the estimated figure is less than a third of that. Researchers blame the country’s slow rate of adoption.",
+   "url": "https://www.wired.com/story/uk-officials-said-ai-would-add-400-billion-to-the-economy-that-figure-mainly-came-from-google/",
+   "source": "Wired",
+   "tier": "b",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "欧洲"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-04T13:54:13-07:00",
+   "keys": [
+    "3005c90e8f40b7ed",
+    "5b43508660860171"
+   ]
+  },
+  {
+   "id": "2026-11-04-657cd63a41a19283",
+   "date": "2026-11-04",
+   "title": "EU AI act: the world’s first law on artificial intelligence - Meer | English edition",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWFBheExkaGlQTU5aR2t0TmN3UGo5bW94elp1cTFDUWtGdjc4VmdGSl9IWmIyeDVSRnlPSHdxT2I4bDMtbjB0cmF2a21Pc0ZxTU5RelJXVjU3SnQ0OGFhWFlnRm5jbjg1NGdzRmtMOVlKUG9kSUFSX2ZodTJQUDZMWTVwVFhDNjZieUxkQXdIdUs?oc=5",
+   "source": "Meer | English edition",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "欧洲"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-04T13:54:13-07:00",
+   "keys": [
+    "3ebf27cb9b478575",
+    "657cd63a41a19283"
+   ]
+  },
+  {
+   "id": "2026-11-04-d2a044c76134c258",
+   "date": "2026-11-04",
+   "title": "The AI Governance Confidence Gap: Moving From Policy to Proof",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOR1pqTEpneGlBNVhuOHdBTGoyQ0dralF6djhPVHhYbWh1dlN3OUhLUWU4TU9VcUJDM1VuTjlpZGpORmdGSDQ1bk1XaGNHWHRLYXJXUExqd1g1TnlmaUZMZDl0NE1BY1ZuVFRRWTFFZWNzSjQ3Z3BJUUYyWVdSTkowekJTYkZyejdKckdadTdiWWlQQW81bnhvS1ctYWk1QQ?oc=5",
+   "source": "AiThority",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "政策与标准",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-04T13:54:13-07:00",
+   "keys": [
+    "69ad857dc1c51ef2",
+    "d2a044c76134c258"
+   ]
+  },
+  {
+   "id": "2026-11-04-5e9621221578c550",
+   "date": "2026-11-04",
+   "title": "美国货币监理署出台银行使用人工智能的监管框架。",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9qcjRPbzVaQzhMMzRvZVE5SE5iOXlMSXpWVGQzNUVDV0htcjdCSzlXaVJuSDYwR0VGWlNaYjVUN21XU2gxSjl5TzNuaw?oc=5",
+   "source": "新浪网",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "美国"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-04T13:54:13-07:00",
+   "keys": [
+    "5e9621221578c550",
+    "c1ff3e513a21dea3"
+   ]
+  },
   {
    "id": "2026-11-03-7a0b542f25522962",
    "date": "2026-11-03",
@@ -46,6 +490,167 @@
    "keys": [
     "040e07b3f2ca08df",
     "bf068b1a50069a29"
+   ]
+  },
+  {
+   "id": "2026-11-03-18afdb5e2c26e239",
+   "date": "2026-11-03",
+   "title": "人工智能治理“四个A”新框架提出",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Ra056bmNVYzQyeDNSVWFpWTRQWkFxdzd1dWNmUXFPcHRGVkJpOEJxMFlOd1RaSDMydlZuNElzRnNXcXU0ZVM4UlIxUGpOOEV2Tzhsa04xanJ4aGFZUXljdDZuWWgzM3hK?oc=5",
+   "source": "人民网教育",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "政策与标准",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-04T13:54:13-07:00",
+   "keys": [
+    "18afdb5e2c26e239",
+    "cdc2e4bc6e004dc7"
+   ]
+  },
+  {
+   "id": "2026-11-03-c3ace8759fe46ef9",
+   "date": "2026-11-03",
+   "title": "中国将加快推进人工智能基础性综合性立法",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9JVGVleG1nWVFFVUlHS25JUUJVY0E2eHQwdFc5aVd5NnRwekgxOWhFOGZfaTZqM3FwdF9GeXJtSkhpWDVXTENnbEstdFZJaEZMU0s2eXl1Q1d6aHJLRHRB?oc=5",
+   "source": "财新",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "中国"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-04T13:54:13-07:00",
+   "keys": [
+    "71af49a10cde46dd",
+    "c3ace8759fe46ef9"
+   ]
+  },
+  {
+   "id": "2026-11-03-78f47a6e9a4bd2a4",
+   "date": "2026-11-03",
+   "title": "Chris Larsen on AI Regulation, California and the Democratic Party",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTjVSM0lCV1k1UlY1cEVJZWVXeGwtUkxoX0lXSURQa29hUFhGQzNadGMwb25ySy12OFVtZ3lzc3c4dFJYeERiUTY2Zi0tLUtaMTZLTVJyYjhnaC1OVnpJMkgyWXVWSEdQVGVWU0pZWWdmTTRaU2l6Sk9KYlpCanZlR1JVLV9PbjF1TUxNcmRoYmZZSjBDUkFoMFhyT3M1TlpleS1jVzVXRHBFdk9YY1pKUTFmMUUzVG9NM0I2YVg3S1ZDQ3RqWVBr?oc=5",
+   "source": "WSJ",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "美国"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-04T13:54:13-07:00",
+   "keys": [
+    "78f47a6e9a4bd2a4",
+    "a3607eb9a6037963"
+   ]
+  },
+  {
+   "id": "2026-11-03-977b46512de852ad",
+   "date": "2026-11-03",
+   "title": "Transparent, approved and stoppable: A standard for government’s use of AI",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdFR3bVBsaGxqRlNJSWFZbjRSMXo5NmJYNWJ0dU9lakMxQzZpNGpIOW5HcGI3NDAwYllWQU5fNUdwaFJ2c1loaTYwUEpIZ3dYd3RBRW1wLTN3MDRtZG9ibkJuUE9NSzlsMlZLSnRjdlhESGpXcGo0aGQtNEpPakZRSWVIVE05YTVzQWRORkJB0gGTAUFVX3lxTE4zUUMyeHVpOUp5VlVoYnhPX1hEMDMwTURaUlhUY1V1R2IwT0pocGxBdVBNMFNTbENhNXFCa0JtN2d3dFJ0LXBfVnp2LXQ2RmhkUi1NcUZMOWpkVWVDcmI1RFlrWGMzbW5hUWl4Z1BBOHZsb1U4Y2FKMlIzTENLUXlfcXo0SWlXUFJOZVBqZ1pTUDZCRQ?oc=5",
+   "source": "The Hill",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "政策与标准",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-04T13:54:13-07:00",
+   "keys": [
+    "977b46512de852ad",
+    "fa87177140c3c085"
+   ]
+  },
+  {
+   "id": "2026-11-03-36ad8865143c0158",
+   "date": "2026-11-03",
+   "title": "Gartner预警：2028年四分之一安全漏洞源于智能体滥用",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9MUGE1VmUyMlh5a1MyU0tNd3RPUDFBemI0NFh4bkN1YzNKaXczdnloendtRXllLW0tWmVJLTdVdWU5aWtvN3dNUURweTZwU2xwcDZJ?oc=5",
+   "source": "第一财经",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-04T13:54:13-07:00",
+   "keys": [
+    "36ad8865143c0158",
+    "4b5383d1e0d42556"
+   ]
+  },
+  {
+   "id": "2026-11-03-14d07f783b79b92b",
+   "date": "2026-11-03",
+   "title": "“AI教父”辛顿：AI可能在今明两年引发大规模风险事件",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA0SGhLeGZ3bTY3TG0wUkZtRjJaRktDSzlZdmlYNUd6OVNmalpsdF9CWlh6cG1ZT004bi1BSnhWQURKRFlHa1I3UnhPRzJ0REZJQ3RkSXhkeGc3RDE2S3VZVA?oc=5",
+   "source": "ThePaper.cn",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-04T13:54:13-07:00",
+   "keys": [
+    "14d07f783b79b92b",
+    "9c99c8e8e4ec874f"
+   ]
+  },
+  {
+   "id": "2026-11-03-b5090426a1f6f87d",
+   "date": "2026-11-03",
+   "title": "人工智能赋能乡村青少年法治与安全教育的机制研究",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBuR0lsTlI5SDFXaXA2anVZOEkzUWIzUXQwc0JhWTQzUzlwMVRraGF5OXl5VEVJNmhDT3Fkd0NfSjhaUGttWHg3Y2hxNFZFQzVkX1d4bjlEX1lfMjVlVnBlNjBZSURTbjBJREJsQU5YRmd0YXNTZEJhMmp5Zw?oc=5",
+   "source": "经济频道",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "安全研究",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-04T13:54:13-07:00",
+   "keys": [
+    "57ddf331f0e34c34",
+    "b5090426a1f6f87d"
    ]
   },
   {
@@ -644,6 +1249,52 @@
    "keys": [
     "09244f55e844c53b",
     "f15eb39b2971dca5"
+   ]
+  },
+  {
+   "id": "2026-11-02-388540c62e2f5743",
+   "date": "2026-11-02",
+   "title": "Halley: A Predictive Control Plane for Optical AI Data Center Networks",
+   "summary": "A frontier AI model is trained in an AI data center, on tens of thousands of accelerators joined by a dedicated network, and every training step ends with all of them exchanging data at once.",
+   "url": "https://arxiv.org/abs/2611.04408v1",
+   "source": "arXiv",
+   "tier": "b",
+   "also": [],
+   "coverage": 1,
+   "category": "安全研究",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-04T13:54:13-07:00",
+   "keys": [
+    "388540c62e2f5743",
+    "a5c475fe81557d56"
+   ]
+  },
+  {
+   "id": "2026-11-02-a2bf660177dce20a",
+   "date": "2026-11-02",
+   "title": "Agreements Have a Clock: Compute Growth and the Verification of AI Restraint",
+   "summary": "Rival powers have agreed to limit nuclear arms, phase out ozone-depleting chemicals, and cut greenhouse gases, though each agreement was hard to reach. This paper asks what an agreement to pause frontier AI needs.",
+   "url": "https://arxiv.org/abs/2611.04272v1",
+   "source": "arXiv",
+   "tier": "b",
+   "also": [],
+   "coverage": 1,
+   "category": "安全研究",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-04T13:54:13-07:00",
+   "keys": [
+    "5284115d148941f3",
+    "a2bf660177dce20a"
    ]
   },
   {
@@ -1321,6 +1972,29 @@
    "keys": [
     "4493f45df9ed2a17",
     "83600c9bfd21004b"
+   ]
+  },
+  {
+   "id": "2026-11-01-b41e741a2d7cc739",
+   "date": "2026-11-01",
+   "title": "Reasoning is topologically simple",
+   "summary": "We formulate and investigate the hypothesis that reasoning text has simpler co-occurrence topology than non-reasoning text, and that higher-quality reasoning has simpler co-occurrence topology than lower-quality reasonin…",
+   "url": "https://arxiv.org/abs/2611.03739v1",
+   "source": "arXiv",
+   "tier": "b",
+   "also": [],
+   "coverage": 1,
+   "category": "安全研究",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-04T13:54:13-07:00",
+   "keys": [
+    "3453bfab3eabc354",
+    "b41e741a2d7cc739"
    ]
   },
   {
