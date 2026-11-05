@@ -1,6 +1,121 @@
 {
- "updated": "2026-11-05T14:10:47-07:00",
+ "updated": "2026-11-05T16:53:17-07:00",
  "items": [
+  {
+   "id": "2026-11-05-d50ba4201fafdd1a",
+   "date": "2026-11-05",
+   "title": "Lawsuit claims AI on Google’s school Chromebook helped plan teen’s near-suicide",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOclVwOU96NjRHdkk3VW1UN3hlU2tEMG5YcU5LWVBFOUZKMTlGcjBTNWZsTGlDZl82b2ZoaXVoSU1qcWJySmprbHFOTjlSY09zUWtuc2E1Q0VmSzNieGJRMENmaXBORWRfM1pReVhQTkhNNlV3Zk9uQWxHa0Z1STNxR25USFNMUDVPc2fSAY8BQVVfeXFMTnJCRGZtY2dZMDdLamhiQlk5c283Q0dsVVE1eXIxNC1zTEhGbzdfMFRrVE0tSXU4Vl9iSFU4UHNSa2kxS0V5OEVKSVpSVkZlRE5vMVBQOE9JMTk4bE50T0o0LUlHUGhfSGVGU2t2OVZtdUE3TThJSWc3M2xrbGtyRHNIRmRjSmNpQ21MSjJtNUk?oc=5",
+   "source": "The Hill",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-05T16:53:14-07:00",
+   "keys": [
+    "3634ff2b9c06eaca",
+    "d50ba4201fafdd1a"
+   ]
+  },
+  {
+   "id": "2026-11-05-600e7342280d10bd",
+   "date": "2026-11-05",
+   "title": "[ 盘前点金 具身智能产业化加速落地；AI安全开启增量赛道；电解液龙头再签大单",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA3Q3JOaUZZeDRVNDRfdU9uMjZyYXIxeXc1bTVHOFBtcHRuSlBqQ3RTZk5YWTdRSnVjeDNzUjhfeThJb1NFLTB2dXVNbzZfN1dKMXhhQW9YTW8?oc=5",
+   "source": "第一财经",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-05T16:53:14-07:00",
+   "keys": [
+    "600e7342280d10bd",
+    "991b79fb4e34e1a3"
+   ]
+  },
+  {
+   "id": "2026-11-05-3b86beb6f13055c2",
+   "date": "2026-11-05",
+   "title": "AI & Tech Brief: Exclusive | AI safety groups target committee gavels",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQb1BOSGExbWpFZ0M0TV8xNWhSNlEyRWVZSTh4ZDJWUFZLWWtkMkxobmpaYUtIWTdITU1Ib29lQVR5ZWtFVGFoVnhSTWlsWXBvLS1WUlNfNEtfT0tfbHR3djZSeVVnR1hJNXY4cWRnM01DTWZIWTdRZDQwWXVrZW9rTlh2QmZLZ0ZlS0Z0czVLZklabGdodzI1RndWSllCbEp6YVFWUFFPY3F5ZjYtZ205djNXSEZXSW8tbWpyMmJIY21KVkRva2hZSDVxZnlqVlY1T2hF?oc=5",
+   "source": "The Washington Post",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-05T16:53:14-07:00",
+   "keys": [
+    "081e05fe914c740e",
+    "3b86beb6f13055c2"
+   ]
+  },
+  {
+   "id": "2026-11-05-e2b0e52ca9db8312",
+   "date": "2026-11-05",
+   "title": "Lawsuit: Man introduced his wife to ChatGPT. She used it to plan his murder.",
+   "summary": "Bitter energy drinks turned out to be ChatGPT-steered poisoning, lawsuit says.",
+   "url": "https://arstechnica.com/tech-policy/2026/11/lawsuit-man-introduced-his-wife-to-chatgpt-she-used-it-to-plan-his-murder/",
+   "source": "Ars Technica",
+   "tier": "b",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-05T16:53:14-07:00",
+   "keys": [
+    "165e20534fedb49d",
+    "e2b0e52ca9db8312"
+   ]
+  },
+  {
+   "id": "2026-11-05-76bde25350fb6bf5",
+   "date": "2026-11-05",
+   "title": "White House Accord: AI governance and board oversight",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTWxvbGN5b1l4Sk9BRkZycXVybHpmTVdGRVVQYTdXNkl1Qm9KOWhrOXNITVZ5WjBMNzVvem9wbEg5cHZjeDNqcEZqZGQxajdFckFxZVR5LTNLa0ozdEJ2X29DaHlsdjQ0Zl9YVENONmdTRk1jTlpfa2k5QUdBQU83ZVN1UXpaUGRaOV9MMU1uYzBRMGo4cVpOMVhqdC0?oc=5",
+   "source": "EY",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "美国"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-05T16:53:14-07:00",
+   "keys": [
+    "6dc4a3ec37dc0d50",
+    "76bde25350fb6bf5"
+   ]
+  },
   {
    "id": "2026-11-05-f2b0bb9577beda07",
    "date": "2026-11-05",
