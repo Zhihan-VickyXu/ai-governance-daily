@@ -1,6 +1,144 @@
 {
- "updated": "2026-11-06T13:31:22-07:00",
+ "updated": "2026-11-06T16:32:17-07:00",
  "items": [
+  {
+   "id": "2026-11-06-385404f1b12ce0d0",
+   "date": "2026-11-06",
+   "title": "Universities at the heart of Europe’s new standard on AI literacy",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWnA1dWZGRnE5eEdwcDhNRnlBbWRpaHJ3Rk1DdkZFYlZsUFVsSGkzYUM3eWFyLTh3dGFBZHFSYm5EeG5hSFJGbHhrWS1ScEFXczhTRWl2UWxTcGI3bURLYnRaYjVlcEV1dnk2eVBOazFDeXlCdzlDblJmOWxERnM0ajFMZm5rRzh1aXk4RVAxVHdDMHlMU3M4a3M4TDdVYmJNT0wtdFZLTQ?oc=5",
+   "source": "www.coe.int",
+   "tier": "official",
+   "also": [],
+   "coverage": 1,
+   "category": "政策与标准",
+   "regions": [
+    "欧洲"
+   ],
+   "importance": 2,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-06T16:32:15-07:00",
+   "keys": [
+    "385404f1b12ce0d0",
+    "b4c4febf703e441b"
+   ]
+  },
+  {
+   "id": "2026-11-06-507f3fe17a6e0baf",
+   "date": "2026-11-06",
+   "title": "OpenAI Secured $11 Billion, Targets $9 Billion More In Fundraising",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQLUtFUmRCclpSd0dlWXl4dXlTaTNvYUZzUDdyOEpNaDJTUm0wSE1HX3JWZURxRWpZUzlwOEF6R0UtRGFJQVctUGFUeVVhR3pLNXlvT2VGb0ZMZlJjSEZqOVdoNmFPR2g3TGNlR0t6ZWxxeVIxSkF3VHpsSWlpN3Jxc0xjOUNjNDgzMmwtdjViTWhWT2pBR1FnbHVtVzg?oc=5",
+   "source": "The Information",
+   "tier": "b",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-06T16:32:15-07:00",
+   "keys": [
+    "01895691109a1d08",
+    "507f3fe17a6e0baf"
+   ]
+  },
+  {
+   "id": "2026-11-06-3787f1110c6f536a",
+   "date": "2026-11-06",
+   "title": "Third-Party AI Evaluation Contracts Should Be Published",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbGs3ZlM0WVc2ZThsQk9iQ2dWRDhKaWNvRl9NVXJWQlVxVllXXzFqZ18zbkp6VVNkQVowaXpoZDI4Y0xYbzU4VmxYb2toY3pZRHU3Mlg2cUN6ZW9kYnM5eHRkazF5UlQ0cmhLU1hGUl9BTEF2LXF6Ymo0NjBKQlZqZWxQR19NS3RvUjNOa3doTlJ2ZUxr?oc=5",
+   "source": "GovAI",
+   "tier": "b",
+   "also": [],
+   "coverage": 1,
+   "category": "安全研究",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-06T16:32:15-07:00",
+   "keys": [
+    "3787f1110c6f536a",
+    "4a370b836c6c6748"
+   ]
+  },
+  {
+   "id": "2026-11-06-4e70c862323d585d",
+   "date": "2026-11-06",
+   "title": "Democrat control of Congress raises AI regulation concerns",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE55bFRQeGZjRE5xdThFOFJTenZfVkhSRzNWSDVpMUdiWi1yRnFIRXVhZ3ZWVlFXZHJKUFVoMkc5OVdlR2N0Y2FWWVhOT1VvZW1hZjg3WHFYUUxIOFU?oc=5",
+   "source": "Fox Business",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "美国"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-06T16:32:15-07:00",
+   "keys": [
+    "4e70c862323d585d",
+    "6835159621e9d6e1"
+   ]
+  },
+  {
+   "id": "2026-11-06-8b69d97431d8a424",
+   "date": "2026-11-06",
+   "title": "New York’s RAISE Act 2.0 would expand AI oversight, according to safety expert",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSThraUM2MFR6ZzBvajR2OTNYRWFFZ3hTcm9NaXlCTklDZ2EtNzF3bW5EOGRGM2FOQTB5Ny1uNnFBdzFWVVdzTV9TWXQ3UFVpdkZBUnZMM1VJNFg2RGZ1U1pRX3k3NG1zTTl0dXF3ejA2eDd5bnRuMTU4WTRFalRIZF93N3NtcDhFa3Rpakh4V3U1Q2FRcnJQNkVYZXNRQ0JSLUE?oc=5",
+   "source": "StateScoop",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-06T16:32:15-07:00",
+   "keys": [
+    "8b69d97431d8a424",
+    "da22a28c2a5e1bcb"
+   ]
+  },
+  {
+   "id": "2026-11-06-334764687b3d04c7",
+   "date": "2026-11-06",
+   "title": "AI Governance Platforms: Only 28% Keep Audit Trails [2026] - https://tech-insider.org/",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSHlUSklRUWIwSE1POTBzSWNtMEphRmoxWi1NeEZ6OERJZlZoUVZUS2FCcWFiRnRtS21LVk9mUGlKSmZtNC03YXZfRUhBVFZiMG1hN1ZjdHlLa2JaTlhtOUNLSDFldjlrZ25DazVlMWtET3B1S1UzMkJlRWVmR1hyeHl1WEM4NDB1ZFI1RnJDdzM0eUpo?oc=5",
+   "source": "https://tech-insider.org/",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-06T16:32:15-07:00",
+   "keys": [
+    "334764687b3d04c7",
+    "b33151d5265de689"
+   ]
+  },
   {
    "id": "2026-11-06-8175b0c2ce036e6c",
    "date": "2026-11-06",
