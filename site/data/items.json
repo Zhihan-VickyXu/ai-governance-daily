@@ -1,6 +1,581 @@
 {
- "updated": "2026-11-05T16:53:17-07:00",
+ "updated": "2026-11-06T13:31:22-07:00",
  "items": [
+  {
+   "id": "2026-11-06-8175b0c2ce036e6c",
+   "date": "2026-11-06",
+   "title": "“蓝色浪潮”席卷美国国会，AI监管担忧升温！普冉股份跌超10%，科创芯片设计ETF汇添富(589290)指数重挫4.7%",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ldkRlalRmSWhERlRKZmdhcl9QLUtsZm5mdXNGNDJlVHNIT1hvUWtoQXJuMndZMllMSy05SHZROFlIWHczMTdCdC1zaVlUVDhBc3lZZTVJblc?oc=5",
+   "source": "Jiemian.com",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "美国"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-06T13:31:19-07:00",
+   "keys": [
+    "8175b0c2ce036e6c",
+    "f81184fbd91d86b2"
+   ]
+  },
+  {
+   "id": "2026-11-06-9203c4d7695cde1f",
+   "date": "2026-11-06",
+   "title": "5连板浙文影业称无AI短剧相关业务，同日上交所下发监管工作函",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1HcFpGR3M1RDBkSDZsTUlWWmhKNEQ0Q3R1S1gwZFBNdE9vUzN4RkRzZEtKUTdxQ2lRZnJucGEzME9hZ0NDWlJTckNkRDRpZFY1R3Bkc05xMW1Td0ktUF9fVA?oc=5",
+   "source": "ThePaper.cn",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-06T13:31:19-07:00",
+   "keys": [
+    "7251869b11e9fb74",
+    "9203c4d7695cde1f"
+   ]
+  },
+  {
+   "id": "2026-11-06-c16ad354292e074b",
+   "date": "2026-11-06",
+   "title": "Watch Time to Move Forward With 'Sensible' AI Regulation, Says Rep. Liccardo",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPa3ZsZFE5UUJOOXZLUllPa2dzNEllRjhqUWdfRHlsYkY0emFGNEN3ZUxJRHluSXFfUHQxTFBmdEpXREZKNHEwRDBaSXluNFBubklGYzNjVVZVak1ubjQ4TU1pMGpURWFLRzJJOFFJdlRoNlp6bEdrRGthM182RVVWa1hRMHd1R1JVWktEN3NsbUttaklrRWtia1ZuUGFtNWNZUUk0aFo5bEQ5ZEpZdXRR?oc=5",
+   "source": "Bloomberg.com",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-06T13:31:19-07:00",
+   "keys": [
+    "0fdf47f0a81498e3",
+    "c16ad354292e074b"
+   ]
+  },
+  {
+   "id": "2026-11-06-82529a7211da9a66",
+   "date": "2026-11-06",
+   "title": "Democrats planning flood of AI bills when they take control of Congress",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSW1qclJEWjVTQTNNU0hWWndTVFlOWFpNY1RqQ1I5Z0F2anRxTE5IQnlTTDhjeU9uUGV2anlLaVBfMFdPc0k5eDJVTVk4VTlVbnVZX0VwVnBEMnhHX19fTGRvX2NrQnNJeGN5MzBBaXBLb3d3Y25JdHpjSXFQMENoa01vNk0yLXVLRVBGZjlHLVFuUmI0QWp5aFBBRzRUSDdNMkpCQ1lJVExIei0zVFFiY0x2eVBPcFJ3d2NCeGN6REF0dw?oc=5",
+   "source": "Reuters",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "美国"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-06T13:31:19-07:00",
+   "keys": [
+    "82529a7211da9a66",
+    "b1669e2e84955d78"
+   ]
+  },
+  {
+   "id": "2026-11-06-f341cd927191f610",
+   "date": "2026-11-06",
+   "title": "资讯通信媒体发展局发布AI代理使用安全指南",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBHbHYtNkVzV2t3TS1sX1NsakNoMVFoOWxPZVd4dmJ5SmRxd2FSUEk0NEs0OUNINTdZb2JqNjFxeWFfMUt4bGF6RFR3U3RZejdDWnVQYTJHOHZsbWJ6T3AwdG1JYW5TbkVUanFr?oc=5",
+   "source": "联合早报",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "政策与标准",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-06T13:31:19-07:00",
+   "keys": [
+    "76122815c5a2e609",
+    "f341cd927191f610"
+   ]
+  },
+  {
+   "id": "2026-11-06-ec955abdeabce504",
+   "date": "2026-11-06",
+   "title": "Wall Street Peers Into Abyss of AI Trade as Midterms Expose Risk",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSHRneVBqUEM0WkQ4V0lWUWxfaC1hb2RxWlUwSm50bGlHZjdJSUxrX1RFeHRXWkFVd09FY0ZLX1JtcEJYeTIxZm1BTGUwd1ppZDNHV3ljakFSYVJuS1o2M2FvNVlIRFpXdjZ3Z1F3XzBMSmUxTjZIbmpaQzFZNTZCTWNhLURtWk94dE14cWExNTNOdk51M1BwejBkQURucDZJYnF0cWVxYklZR3BtU3pOSDVwbGlwUQ?oc=5",
+   "source": "Bloomberg.com",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-06T13:31:19-07:00",
+   "keys": [
+    "eb6f5e350212f596",
+    "ec955abdeabce504"
+   ]
+  },
+  {
+   "id": "2026-11-06-9cb4d41d7f2a0758",
+   "date": "2026-11-06",
+   "title": "FTSE 100 posts weekly loss as AI jitters spark risk-off move",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQ1RObmZRd1NXMGlCYnY1a3d4cC1EelByQktKTEswQXc3d2d0NFBqMW1sRlRDcjM3LTVWZk95dFJjbnZuRnUtOTBIcWI3RXN1VV9sQ0paT1dCanpRUGVraUFuRnlocE5ENGIyRlllSVpxc1JFRm5iVEZod21rajcwLVhlcTc4R1lYb0hfRnNhQWxhbXRteUJUNTM2Y0gyYl9zS0NOa1FR?oc=5",
+   "source": "Reuters",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-06T13:31:19-07:00",
+   "keys": [
+    "9cb4d41d7f2a0758",
+    "dd77b1cea5c574fa"
+   ]
+  },
+  {
+   "id": "2026-11-06-c1c7c6c10a7dcb9d",
+   "date": "2026-11-06",
+   "title": "First Thing: Global tech stocks wobble over AI regulation fears after midterms",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUk1PRTZ2SHYwRVd3c2JzNS0yWnc3ckJrNGpRYkp1UHJzNGhpS2Z5OFAtUi12WUIyeUo0OGNfTHVLTVZqSkVIRGxQUjZWTm1VbFM2LWJOcHFOOFp3bXdQSXZCZVJxRFdHM0tlY1BubDQ4RzFCc0lIUXBFNEU1OGhPaTFWblVhNGFtbldPX19YamhaVExtNi0xemR3?oc=5",
+   "source": "The Guardian",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "全球/多边"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-06T13:31:19-07:00",
+   "keys": [
+    "c1c7c6c10a7dcb9d",
+    "d4359f36a807eeb4"
+   ]
+  },
+  {
+   "id": "2026-11-06-420f9b21497ee041",
+   "date": "2026-11-06",
+   "title": "Innovation Council’s directors include execs at David Sacks’ VC firm",
+   "summary": "Filings in Utah list executives at Sacks’ Craft Ventures and an apparent political consultant who “oversees” JD Vance’s donor relationships",
+   "url": "https://www.transformernews.ai/p/innovation-council-david-sacks-jd-vance",
+   "source": "Transformer",
+   "tier": "b",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-06T13:31:19-07:00",
+   "keys": [
+    "420f9b21497ee041",
+    "51e063ff2fadd71a"
+   ]
+  },
+  {
+   "id": "2026-11-06-16b414e66518b676",
+   "date": "2026-11-06",
+   "title": "民主党准备大规模推出AI监管法案 美国科技业面临新一轮国会审查",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMirANBVV95cUxQS0JWcHVGcDZDQVVkVGJaTDk0WHQ2emdXS2RRXzducGozbFNuQmxwQUNRQmpfYVViTjlyLVZjMDRpLXlIcnB6elowV0s2UkVGeWRQNWlra1ZVS1l6RUU2cFpIaGtZOFhzYVZvZW9pSlVsRnlvWmdwVkMxTURtSVcwZWFEWHU2VXZnZ0cxdXRlLVExRlpCR1VEak1BMk1QX21hejFRVEQ4X1daU0xlZnp3cHIxamprQXdDM0VsVEVCMm5jNHRhTVdpN2hZaV8wVEc0NkxSbWdIb245bkdrUG40dVJOdzhhMTFqcVBxb0lEa3g4cXBDNWUtSnJnb0ZmbFE3czVSaUE5emdlZDZ2Zm8wcnFPQlRfMlpwMDduZ3pnY2JWcmIxOWFWa2hvczhrQjFQT2ZUM0VmNDZoUUpSUHJOOFc5ZFc3QU9pNzctNjdsYjE1SE5iakJRWVR3Z1RvVDJFRzg5Qi1mUTJpRFRkUTV3Z2R1c0ZUMThqWHJ6U0xiQm9QbllOV25mM1ZvWDZfb1VUZmR5clloUzdPdXJLSVdDSFJfdUlnQ0lDekJicA?oc=5",
+   "source": "博谈网",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "美国"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-06T13:31:19-07:00",
+   "keys": [
+    "16b414e66518b676",
+    "e5c47a69ddc08d06"
+   ]
+  },
+  {
+   "id": "2026-11-06-29d55d962a92378a",
+   "date": "2026-11-06",
+   "title": "Copper Falls as Democratic Sweep of U.S. Congress Spurs AI Regulation Fears",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOU3lua1luQ05CNG4zQkN5VDlpdFN0ZUpYUjNLN3VBX2dZSjBON1VBSk5MUXBQTGdXRFowbUtHRmRNUnJFdkxWMHZ0QjRqS25zUU5BWHJiZ2lSZGhXTG9QRXY1MTY2SHhESVA2ZGREdy0zUTcwNDdYeXEycmhzcjNXY0NpMFBHWmFvaFd2OUdyVk9pZmJTcHRpbW9mZ3lBTnZXZW1RazlfRnh1TGRvSjIwNlg1NHRkc19YN2ZVaTJOYWNPeE0tbUE?oc=5",
+   "source": "marketscreener.com",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "美国"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-06T13:31:19-07:00",
+   "keys": [
+    "23a58e6aa111c812",
+    "29d55d962a92378a"
+   ]
+  },
+  {
+   "id": "2026-11-05-23c646ea13a5fe0c",
+   "date": "2026-11-05",
+   "title": "情绪杀跌后，科创芯片股回暖！但斌称AI监管法案落地概率低",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOb2RYX0xLeW01ejlGU1JVQ0I0SnI5Y0ZRRGN0UENWTzJMeUo3ZE01QTNmcU5WeEMxY1JMd2k0a2JTeTNiTTFFbmhHR09Td0pVMXVsLXFidGduM2JDVV9BcG81a2VnNlFHZE5yaXI1NWctSUtHZGlkenRndDBOLUMyLXBFLUpvdGNLS2ZNUHN3RQ?oc=5",
+   "source": "21财经",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-06T13:31:19-07:00",
+   "keys": [
+    "23c646ea13a5fe0c",
+    "7c1b8dbe1a7481fe"
+   ]
+  },
+  {
+   "id": "2026-11-05-cfe90ad443a1c9bd",
+   "date": "2026-11-05",
+   "title": "Why South Korea’s chip giants could face greater AI regulation risk",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdXhuenRWNDNXTWlac0xwd2RQS1o2c1V1YUp5eWpiOHMxSnpjRjhGSlRsa1M0bzVGWFpQREpfWEM0am9KTk91VTR0blBHQ0VHVkw0bU9weTB6bVd4eGVsX05FZDN1Y05pMC1XcUp3UjB4aHo3LWQxa0ptMXJ1M3g5WXFiYUpPMEh1Z2g2dEVPUXlPN0RLOEU0OERnRkU5TGxXQ3hNZnpZcEJqYVRtNUE?oc=5",
+   "source": "CNBC",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-06T13:31:19-07:00",
+   "keys": [
+    "96ef69c423abb64f",
+    "cfe90ad443a1c9bd"
+   ]
+  },
+  {
+   "id": "2026-11-05-e5ffc28b8339ba38",
+   "date": "2026-11-05",
+   "title": "【市场动态】AI监管担忧冲击信用市场 SpaceX违约保险成本创纪录",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5jR0g1MmRsYS1DVWU4RjRFb2ZJOF9MLTY0emNZazBvcVh3b3E4UGp0Wm9UaG8yM1ZLMHhHVWxDdjVkemNOOEJZZEo2VWxNZ1VDaGkySXNjZTA0OGZ5cExCOFpLVQ?oc=5",
+   "source": "财新数据",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-06T13:31:19-07:00",
+   "keys": [
+    "5e7440c6fdb9b9dd",
+    "e5ffc28b8339ba38"
+   ]
+  },
+  {
+   "id": "2026-11-05-a01ef20d3e53173c",
+   "date": "2026-11-05",
+   "title": "让AI走向开放，让治理跟上发展",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB4ZVQ2X2ZRZzRBRTdBSjdpa2tRRnFfLTFMb0p3WWU4YUJhOXU3YkI3d1dMeFZqZmhVX01wY05pTVZDdDlHOGdaYTZYSFdOSzNDUDhTV3pxUU5JSlExaE5CZWVBdS1XaUM1dGdyOTIzT29OZ3NTMTFLeEY5ZE1xdw?oc=5",
+   "source": "央视网",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-06T13:31:19-07:00",
+   "keys": [
+    "00a757870ff24adc",
+    "a01ef20d3e53173c"
+   ]
+  },
+  {
+   "id": "2026-11-05-20c27ce5d35877df",
+   "date": "2026-11-05",
+   "title": "中期选举结果引发对人工智能监管焦虑，美股暴跌",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcVVSOTg3NWJWMi1WS0xyZ1lPYldCVXlsWGdPMkZuczJhSjA2M1dfTTNlcEhUQjk4WmM3SVNhalprcU9teUFUTFE2c21selBGVFFUQVo5dUx5YUhlWTFsTFNDd3BGd1N0UFJqZ1N0amFtLUtzc3VOMDNiRXVCdDNHNzlBSi1tUGJK?oc=5",
+   "source": "纽约时报中文网",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-06T13:31:19-07:00",
+   "keys": [
+    "20c27ce5d35877df",
+    "6bc41bdeb4bfa56d"
+   ]
+  },
+  {
+   "id": "2026-11-05-18d0d2ebac4b75ec",
+   "date": "2026-11-05",
+   "title": "宁夏：“AI监督员”守护百姓舌尖安全",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB3RVZnamhMa2U2MHVFQUFnN19DcmJVOFhNU25hMjlOcmFsMmx2UHRvbkNkajdKYkFLdGlZTDN0eWJlR19vRG9jZUxhU2hlZzU2S3AzX1VndjEwU0dwcDEwNk9LdnNFalRlTWc?oc=5",
+   "source": "人民网",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-06T13:31:19-07:00",
+   "keys": [
+    "05aecce5b9a2c370",
+    "18d0d2ebac4b75ec"
+   ]
+  },
+  {
+   "id": "2026-11-05-1b2f5d1bf3b8260f",
+   "date": "2026-11-05",
+   "title": "Hong Kong police to enable AI facial recognition on CCTV network this month",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZ2w2U2lqMkVDM3phX2h0bjJqV2otVlNFR0l6dTcwOEtNcHlpa1B4OUhtWnlsdXV2dmxkeEwtbzlhZmp0cjY5UEdta1B5WHc3MHd2bXRSUWY0d09Kcl9KME9OMG5taFY4MTY0OEFjWWFadHFaSkFiSHhVcWZuZTQ5Y09xMlJnMzhlSHhiNkFERGYydWZhd0JUc2hxd3JITEpUTTEyb2p1VmxSdVVabnhhSGFSdFliaThqMm1tZE1xYUF2VjlPNy1zNmtB0gHKAUFVX3lxTE1JZVJfNk5sT3pZVnhsTFBfczlUYzFqTWoteHVUc0VLZWN1SVpPaUZxd0cwckpmMzJ4amZxaC03bW5nSWwwMjl5MVlJTGdQSHNCN3c5VG9Nb2V3M2l5Rk1vM2lpcF9lV3JEMnJPdHJKN0c4ekZhX3RfeHpxRWoyb1B1Y0h3TmdEQ1FKZnM4R3dVOWFCTlBPcnZYUzFOaTctSVpoUnRoOTBuY0ZYRFZ0RlpzdV9IZ1Q1c19Jc18tVnZfaFhYZWpXVExvbGc?oc=5",
+   "source": "South China Morning Post",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "政策与标准",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-06T13:31:19-07:00",
+   "keys": [
+    "1b2f5d1bf3b8260f",
+    "4c5304a8b44bada1"
+   ]
+  },
+  {
+   "id": "2026-11-05-33ed5fe2ff9558b3",
+   "date": "2026-11-05",
+   "title": "【11.6盘前哨】AI监管恐慌引爆，隔夜费半暴跌12%！美首家人形机器人上市公司诞生",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBKWHlaVXlseTJiWTJjZk5tVlY3UHRtTmJfcGtmWHNlNml5ZlVYRjJlVHAyR251bE5pNWlpSDNpeVFTTGp0UU92S3NWMVR5OHVCQU5Xd2NR?oc=5",
+   "source": "Jiemian.com",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-06T13:31:19-07:00",
+   "keys": [
+    "33ed5fe2ff9558b3",
+    "904275df4d8477e2"
+   ]
+  },
+  {
+   "id": "2026-11-05-7cecd6a23c5b1c4e",
+   "date": "2026-11-05",
+   "title": "OpenAI推出GPT-6 Cyber，网络安全AI能力显著升级，科创AIETF博时(588790)盘中成交额超1亿元",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1fcmlXUWl1bVoweEw3V3VCc3RjMUxVOXpZNVZEUnZqTlY3TUxyNnRZWWIxb0gwaDhVakkwSk9ad1lCam5xWTExaFVMZUxCWGNVM3RXZ2h3?oc=5",
+   "source": "Jiemian.com",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-06T13:31:19-07:00",
+   "keys": [
+    "7cecd6a23c5b1c4e",
+    "d55d626540c27187"
+   ]
+  },
+  {
+   "id": "2026-11-05-46c5e77c60ee225f",
+   "date": "2026-11-05",
+   "title": "建立以实践为标准的人工智能评价体系",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1qVERQSUVEUVg5SFltUVNzOWpkYzI3ejFQTkNOM3lrMjlzRVdVV25GMXN6SWNTaW0xWnJqdnEtbXdZZ3RJWERMNWdDSXc2NXJvS0xmTzR0NFVWZk82eXFBWDVNOUVFQS1KZlBIMHhn?oc=5",
+   "source": "人民网财经",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "政策与标准",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-06T13:31:19-07:00",
+   "keys": [
+    "46c5e77c60ee225f",
+    "71e2c78c8e48291f"
+   ]
+  },
+  {
+   "id": "2026-11-05-dc8c7a6778de6d44",
+   "date": "2026-11-05",
+   "title": "Who Can Evaluate AI Independently? A Framework for Analysing Evaluation Infrastructure",
+   "summary": "AI evaluation is increasingly central to AI safety and governance, yet taking part in an evaluation does not by itself confer authority over its design, its execution or the resources it depends on.",
+   "url": "https://arxiv.org/abs/2611.08134v1",
+   "source": "arXiv",
+   "tier": "b",
+   "also": [],
+   "coverage": 1,
+   "category": "安全研究",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-06T13:31:19-07:00",
+   "keys": [
+    "dc8c7a6778de6d44",
+    "e4c08ef67504eac9"
+   ]
+  },
+  {
+   "id": "2026-11-05-6f8252ff54f9799f",
+   "date": "2026-11-05",
+   "title": "Understanding AI from the Inside: The State of Mechanistic Interpretability for AI Safety",
+   "summary": "Neural networks are likely to be among the most consequential artefacts in human history. As these systems become more capable and autonomous, their potential to cause societal harm also grows, making AI safety one of th…",
+   "url": "https://arxiv.org/abs/2611.08438v1",
+   "source": "arXiv",
+   "tier": "b",
+   "also": [],
+   "coverage": 1,
+   "category": "安全研究",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-06T13:31:19-07:00",
+   "keys": [
+    "6869fa04a66301c3",
+    "6f8252ff54f9799f"
+   ]
+  },
+  {
+   "id": "2026-11-05-def6360bff383eca",
+   "date": "2026-11-05",
+   "title": "Takeaways from IAPP P.S.R. + AI Governance Global 2026: Desire for AI operational standards, shifting lens for analyzing third-party AI services, and continued focus on state privacy laws",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQjBYNHpMLXZha3JrYXN3YTJjZXNiOExZbHcyV3dfZnRQN0c5cElYWm95Y19jMUVpSnZacnlKTGpKbkpGLXh5RTU3Rk9xU0Q2c0M1OWFYU0l5MEdNemFtQmVEQUpJZVlMZkN6X2JDOTMwVk9QajVLRm40aFFMX29GR0pBSm9yVEs3cWFKUWE3eTJrTGllWG8xZFgwdi15WmZQV3A4?oc=5",
+   "source": "Ashurst Perkins Coie",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "政策与标准",
+   "regions": [
+    "全球/多边"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-06T13:31:19-07:00",
+   "keys": [
+    "dcea536c1caf068f",
+    "def6360bff383eca"
+   ]
+  },
+  {
+   "id": "2026-11-05-ee90994f5ebaac7d",
+   "date": "2026-11-05",
+   "title": "AI governance at scale: Creating frameworks for the continuously expanding reach and complexity of AI",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPcW80RkFMZzRpSHpvZFdFWW9LVF80MVlyYWprOTdzUHJmQVVwdnM2aXNBSmxid3R6dW5uVEVPdkpVRDd3ME5qbnc0dmdyRUVPNkpsWWxyUlc0aUhPVWU3cWhIYWJ0UG1wcHRFRlJTdkVNVE0wMzlzWXJMX3BtSjEzbFpnbU9kNTdXMWxBbWNIWE5sQ1hlNml1SW9INUNzdDdJOE9MVzBrdjN2eEkwVUdKVDJfd2NudVdpeDBwOHp0aFNfbU5NUFhyMHJvcWtNeUxyYkRiLXpnUVVqWElZSXFiVkk1b3VqdWZOdmVzd2xvWXRlWUt4Q0w5X1JhWQ?oc=5",
+   "source": "Lowenstein Sandler LLP",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "政策与标准",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-06T13:31:19-07:00",
+   "keys": [
+    "b86b606be789b73f",
+    "ee90994f5ebaac7d"
+   ]
+  },
   {
    "id": "2026-11-05-d50ba4201fafdd1a",
    "date": "2026-11-05",
@@ -21,7 +596,9 @@
    "createdAt": "2026-11-05T16:53:14-07:00",
    "keys": [
     "3634ff2b9c06eaca",
-    "d50ba4201fafdd1a"
+    "63a211d62b3f3fe9",
+    "d50ba4201fafdd1a",
+    "e1ac847c0795b444"
    ]
   },
   {
@@ -611,6 +1188,52 @@
     "81b8bd57ad9b6b2d",
     "cec2aecaa7b07c5c",
     "d919b9ad9deb3590"
+   ]
+  },
+  {
+   "id": "2026-11-04-23d7e948dac1ba28",
+   "date": "2026-11-04",
+   "title": "Goal Revelation as a Bridge Between Information-Theoretic Empowerment and Capability-Based Human Power",
+   "summary": "Power matters for AI safety. Optimal agents tend to acquire power across a wide range of objectives (instrumental convergence). As we embed AI agents into socio-technical systems, humans risk gradual disempowerment.",
+   "url": "https://arxiv.org/abs/2611.07247v1",
+   "source": "arXiv",
+   "tier": "b",
+   "also": [],
+   "coverage": 1,
+   "category": "安全研究",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-06T13:31:19-07:00",
+   "keys": [
+    "0073c422c4460559",
+    "23d7e948dac1ba28"
+   ]
+  },
+  {
+   "id": "2026-11-04-7fb1dbe4123ded1d",
+   "date": "2026-11-04",
+   "title": "Adapting the Process of Adaptation: Darwinian, Lamarckian, and Agent-Directed Evolution in AI",
+   "summary": "Evolution has shaped intelligence for billions of years. Artificial intelligence (AI) now raises a striking possibility: intelligence may begin to direct its own evolution.",
+   "url": "https://arxiv.org/abs/2611.07048v1",
+   "source": "arXiv",
+   "tier": "b",
+   "also": [],
+   "coverage": 1,
+   "category": "安全研究",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-06T13:31:19-07:00",
+   "keys": [
+    "6b78dbf29dcbd228",
+    "7fb1dbe4123ded1d"
    ]
   },
   {
