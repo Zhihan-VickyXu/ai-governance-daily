@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T11:53:51-07:00",
+ "updated": "2026-11-07T15:18:57-07:00",
  "items": [
   {
    "id": "2026-11-07-183fb1e7c5d39ec0",
@@ -137,6 +137,29 @@
    "keys": [
     "385404f1b12ce0d0",
     "b4c4febf703e441b"
+   ]
+  },
+  {
+   "id": "2026-11-06-1a6e15e03da0d63b",
+   "date": "2026-11-06",
+   "title": "OpenAI Completes $11 Billion Portion of Funding at $1.25 Trillion Value",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZUs1X0RZcHpSM0pJZVlZOHZrWEppOG5oemNaUHFVUGZYV1ZSQ2lVVVhxZENDQWVDTkVPRkN5XzRxT3JGVDExWFVVQ2VWejZ3a21tb2NCNlFrc29DVW11OC1ZRXdJX1lDNWp6Tk90STljUDdBMmltdEgyTVFJQTI5cEJFRkdHMno0Ni1CU2NFQ2M2dXRBdjFMTl8zZ1dZM1p5R2kyT2lGZmF1OGhoQm9zTDNYeWk2NG44SVlnUQ?oc=5",
+   "source": "Bloomberg.com",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-07T15:18:56-07:00",
+   "keys": [
+    "1a6e15e03da0d63b",
+    "e3871cd60bed70de"
    ]
   },
   {
