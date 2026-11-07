@@ -1,6 +1,121 @@
 {
- "updated": "2026-11-06T16:32:17-07:00",
+ "updated": "2026-11-07T11:53:51-07:00",
  "items": [
+  {
+   "id": "2026-11-07-183fb1e7c5d39ec0",
+   "date": "2026-11-07",
+   "title": "联合国开发计划署署长德克罗：人工智能治理需要国际合作，全球应共享发展成果",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ZeUhpc0RrSy1YXzhWSlIwdkZXVGQxRmxMLUlsQWRwT3ZwZUUtci1Od0JqUTZiYlhlNzdkdHNLanRTd21rbk9XN3IxelRLaktFRWRLSUxEcEg2bnN2RkpUZg?oc=5",
+   "source": "ThePaper.cn",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "国际治理",
+   "regions": [
+    "全球/多边"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-07T11:53:48-07:00",
+   "keys": [
+    "183fb1e7c5d39ec0",
+    "8c6b412c5627597f"
+   ]
+  },
+  {
+   "id": "2026-11-07-5cbdb24a58eb10e5",
+   "date": "2026-11-07",
+   "title": "全球媒体人工智能应用标准共建计划正式启动",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ibDBZYXZZNVFjQUVGUHBfRS1rRXpGRDIwSGp0S05yU2w0UVBYWGpqS25WR2s2WUotTGxHNVduR2FkaTNSNHp5VmFid0dXZVZFaVdOci1FZW1aVUNvZzF5WXBOeTNlWmxqWUR5TjI3NUdnc2VrMGF5RDVZaTY4V0U?oc=5",
+   "source": "新华网",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "政策与标准",
+   "regions": [
+    "全球/多边"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-07T11:53:48-07:00",
+   "keys": [
+    "3c1166365da5b15e",
+    "5cbdb24a58eb10e5"
+   ]
+  },
+  {
+   "id": "2026-11-07-7ab923885ca46714",
+   "date": "2026-11-07",
+   "title": "Can AI really save you money on your heating bill? I spent two years testing to find out",
+   "summary": "Samuel Gibbs doubted he could cut costs and still keep warm by putting tech in control. The results surprised him Can smart thermostats and AI reduce your heating bills?",
+   "url": "https://www.theguardian.com/money/2026/nov/07/can-ai-save-you-money-heating-bill",
+   "source": "The Guardian",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-07T11:53:48-07:00",
+   "keys": [
+    "7ab923885ca46714",
+    "7db9f7e596f5f682"
+   ]
+  },
+  {
+   "id": "2026-11-07-6e47990a7ed33280",
+   "date": "2026-11-07",
+   "title": "AI Safety Advocates Make Gains After $110 Million Midterm Fight",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSkJhRnFjblNCalFSTllsR19sT1RDWC1ZRE50MlBJTlFYQzJhYmRTa1E0RGxxNExfamVvZDdVZUtsYVYwTUFIME90OS16V1FFb0xYTlotTDR4V3VUdVFWdjVmMGI2eVA0Zm1KbDJBUEZWRTFaMnpJZHFYdHZjUXlVcG12NzBJb2R5QUxkLUNKUW53QkFkMjc1OXlLc0V1d2NvcHJzTDRUczRDT1Z3TFhPWHdCaw?oc=5",
+   "source": "Bloomberg.com",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-07T11:53:48-07:00",
+   "keys": [
+    "36e3c5c9d3b8b8cc",
+    "6e47990a7ed33280"
+   ]
+  },
+  {
+   "id": "2026-11-07-3b6c38cd7831f855",
+   "date": "2026-11-07",
+   "title": "民主党大胜后拟推一系列AI治理法案 路透：料受特朗普政府阻碍",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMitwNBVV95cUxQalBRLWk0cXBUSkk3V3l0dy03Tlhabko1NjZUb2VDN1pxQkJ5RWVZek9Ec2RnNGhEMXJwRndNazBPUEVFVXZPRkhHZGV2M2xXbnY5M2tpTXAtQjZEem5ieW9DMXpZNDRBS3ZGUXotQndubHlHaVlKQ1FQN3BGeWtubVlYNnlRbTh4SUVuT2R6aWNPWG9tVWt4X0ZEMWxGS01mNkVYQWRVcHJjMFJqX3BSOUNWRWJveVlBOHotMTJ1Vkx6bVFwWnVCTW5KMkRmTHpFUWh3cEp5Uy1ZMWZpN2UwSDJ4TENXZ3F2WVE1djJvdXNEbHFzRWR1V3ZJdU8xcXJoZThSTnJkLVlBc1NXTF9vdGpiMmdhbkFBYktiRF9nUmt2SEs0Z0tYQlNhcXowZE5NRGFlM0lROWkzbHRwaUhKRG83N1VZYl9LMHNVdEtiSTZpbUhTckNKSVZJelFQY0g0bXdhWHZuMXJKNUpRaDk4WlV0ckdpT0xCYW8zWWJ0TFRxbWRVNHE4cXRSSE8td29KT0lUenRTeUtaODBDN1gwaUdIOVNRakZfd1RnakU1MnVIQjB2aWpF?oc=5",
+   "source": "香港01",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "美国"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-07T11:53:48-07:00",
+   "keys": [
+    "3b6c38cd7831f855",
+    "b12870627f96d6d8"
+   ]
+  },
   {
    "id": "2026-11-06-385404f1b12ce0d0",
    "date": "2026-11-06",
@@ -22,6 +137,29 @@
    "keys": [
     "385404f1b12ce0d0",
     "b4c4febf703e441b"
+   ]
+  },
+  {
+   "id": "2026-11-06-ce5781564a3c9e20",
+   "date": "2026-11-06",
+   "title": "AI companies’ deceptive election ads show why Congress must scrutinize super PACs",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNeHR1Z3M5VWFmVkxSbzRlQXhPdVRuTGNWSEZOQXNmS0VDeVhmTEJvX1ZFeEVnYTFLdWt4UFh5a2JHWVFIUUJJZ0RrYVQyOVBDV3RBTV8yQzA4TTNNQVE5VDE2cXpVT1FiU2dQSEgwX3JOU2ZUTVBkTEROb2s0T2JvMnQ5SVJTcm1sWmxtTmVLNNIBlAFBVV95cUxOSDhBSTBSZzJrcFlWZU4zWHplbEF1OWVfMVpha0dlZ0NlUXdJNFBHcDNBSFU4UEhRa2lESHEwb0Q3S0VkSnFYUUc5cVBvYnVqelp3dkFpbEp2czhuVXNmSjJzdlU2ZUJrdnRUNGpBLVdxOHhfaS1BRE5LNURmSjJQaUVnQWJLZC0xaVNXS25hSF85eWJ1?oc=5",
+   "source": "The Hill",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "美国"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-07T11:53:48-07:00",
+   "keys": [
+    "382bacde6ed2190f",
+    "ce5781564a3c9e20"
    ]
   },
   {
