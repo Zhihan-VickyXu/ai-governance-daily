@@ -1,6 +1,237 @@
 {
- "updated": "2026-11-07T15:18:57-07:00",
+ "updated": "2026-11-08T11:55:22-07:00",
  "items": [
+  {
+   "id": "2026-11-08-8fb7994c20c64460",
+   "date": "2026-11-08",
+   "title": "AI will soon master biology, unleashing new safety risks: Tencent AI chief",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdG5GcTBnWUYyWVF1d1JlbTNHSktqck5Ua0hxUE8yWmUxYTBCdVpJN0pfNUpnNWdvS1hIZ1FqVnFGMFdsNWVjckJEQWhsZGZ3dUsyaGhESWh3dUlHU2E4QTdHOXktekswajltS3dCZ01HU3dJSG5fb0ZoaVlCOF9TUGIxZGJ3WEtJWi03NGdaaFlxLTNobm82NC1vVTF6c3BfeGFua0NGMURSQ2t3WDlIeHZVdDRCdmR3blgzVXM0REpCbWNSdzBSMNIByAFBVV95cUxOOHpVdlFWVWtTQS1UOTM0QVFOblZPY2ZuOEpiS2hrcXk5N2RUSE13VjZuc1RvZ3NyMWFkZWV1QXZTLUtVNHRFd0sxYlVOWmJNenZEeC1ENTVhNExZbnl6QUREU0ljWGZPV3VZUTY2dTNyZjA1LW5nV1FNdHJOTVJIMUlaQ0lsU19CNHVKNFdsMDhteUc1MmtwOF9ReUVBMXN4QnlaaHdQcEhPVWNXT2ZMMjkwUG9MRVBRUXRuOTh5ZTh0M1NEUlY0Ng?oc=5",
+   "source": "South China Morning Post",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-08T11:55:20-07:00",
+   "keys": [
+    "8fb7994c20c64460",
+    "eaf79bfa0daacf58"
+   ]
+  },
+  {
+   "id": "2026-11-08-98fc91591b499047",
+   "date": "2026-11-08",
+   "title": "Staff at the US center for AI safety are reporting to the White House, raising independence concerns",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZy1KSXNvR1dGeEJmdHRLLUNyanRpWlFMR3JKVlhQR3AyMU83Vkp1bTk0Y2tXUUhEVHdIUzZpQ2o5RmVzclR3S1QtVjlacmthZlQ0OUFyTTRzbl9Nb3JpMlFreTFPdzVoRlRNeDZNMlRBODVieTBXbU9vSTNSN1VvT2lNNjVfcXBaMmpTaTJtS2Q?oc=5",
+   "source": "AP News",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "美国"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-08T11:55:20-07:00",
+   "keys": [
+    "98fc91591b499047",
+    "c98797466687130e"
+   ]
+  },
+  {
+   "id": "2026-11-08-ef9f9889b3dbf1d0",
+   "date": "2026-11-08",
+   "title": "Anthropic secures $3.4 billion generator deal for AI data centers, FT reports",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTUktcGxpNENhQ1llV2F3a3V5RUZya0dDc0ZLeFVTZmFqclBqSVhuYkNiSFpSTkkwVnZ2NkFVVEVjQjZPLTJzMGMyU0dnaFg0X1pPd2pMV0ZCWWtMWlpSdTNvckRlaGxLcWs1SnljenEwcUs0N0doWG0yRDdET2o4YlZMVWl6c2lpYWJ1emstVFI1S3VyUXdIdG1xdmZpS3k3ZW5LVUpibUZ0SWxmZUNLNXN0SDBMZE5nWFJZdDlQSQ?oc=5",
+   "source": "Reuters",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-08T11:55:20-07:00",
+   "keys": [
+    "5691e01952f717c2",
+    "ef9f9889b3dbf1d0"
+   ]
+  },
+  {
+   "id": "2026-11-08-7a693e69cf4e3a38",
+   "date": "2026-11-08",
+   "title": "Weakening AI copyright law will spell ‘disaster for creativity’, global music body warns Albanese",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaDlndU1UMXdLUldHa3o2VGVFY3lweExocnppTzgzaUt4WUVjNzZZcUNOVVlDZlFxTFllVTZId2Z1eG5vb012c1czQnY3V1Q4UC1sVUVCbWZvdWZjR3Bkc0hubkp3c3hTSTdfaVRuTlFWVzJCX2EzNXFxbnkzZnAzcVprVkFjMkhMVFYwZUVkQmRLbXlJMDBwYXByM0JTU2pma0Y0ZlNoRjhFNTJyOFIzQldMVlRoUUVlZ3Zqa3ctUQ?oc=5",
+   "source": "The Guardian",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "全球/多边"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-08T11:55:20-07:00",
+   "keys": [
+    "7a693e69cf4e3a38",
+    "e4614bf9f30acc38"
+   ]
+  },
+  {
+   "id": "2026-11-08-bb1eacd07f4d2286",
+   "date": "2026-11-08",
+   "title": "从“可测”到“可保”：专属保险何以兜住AI风险",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB1NG1JX1lRTVgyZG16MzVubzhpQ0pCTnlKQ3JhdS1lNl93X25CNUtkNjFkc2NPZk5FaTJ4Q3oyNzJ6TGJjdVRNclBhLUxIZjhUcXN0V3ViSHBSVTJpOUpyOQ?oc=5",
+   "source": "ThePaper.cn",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-08T11:55:20-07:00",
+   "keys": [
+    "b30af232879da604",
+    "bb1eacd07f4d2286"
+   ]
+  },
+  {
+   "id": "2026-11-08-fa8283050f686531",
+   "date": "2026-11-08",
+   "title": "2027 AI Governance: Operating Models, Not Policy Documents",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSEpFSnVURUwtLXgtUXFBaGl3LU92Q0JmOVJpVlJqMzlvN2FiNGNxdXpBenI1a3Z6bHZDNG1PM0ZaRkcyYVpqZTJBeDBQNC1WQ2lPck9jSUgzc0hwS2ZNd3pIYUhVT2JjcVo3RTlKY1V1TUxCNXRxekRVM1dyQlhSZndQb2ZPbzByTW5GYnZuNEQ0WlJETDdpQi1Xa0M?oc=5",
+   "source": "Cybersecurity Insiders",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "政策与标准",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-08T11:55:20-07:00",
+   "keys": [
+    "5f379320e4cfa5c1",
+    "fa8283050f686531"
+   ]
+  },
+  {
+   "id": "2026-11-08-2522b142c84c8184",
+   "date": "2026-11-08",
+   "title": "中信建投：市场可能过度交易民主党AI监管风险，调整后担忧或缓和，后续走势仍取决于AI营收和应用进展",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9aVEw3OFBaT3hxNUloS1M0OHpWVjgxNVFvYWJKOXJDbldiSDFBLW0zRUtESnpCZGZTNnVsOGhhaEg2WUhqQ2lRWXFfMA?oc=5",
+   "source": "新浪网",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-08T11:55:20-07:00",
+   "keys": [
+    "2522b142c84c8184",
+    "e2d4f82e85f8c464"
+   ]
+  },
+  {
+   "id": "2026-11-07-557a7b68573a81fa",
+   "date": "2026-11-07",
+   "title": "收监管函！“五连板”后，浙文影业澄清：没有AI短剧业务",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5JVjFHZWVabzFKZW1fNW14dG5jVHhtQTV5NkRvXzFtUG9oWGh1RGN1bVUzZUlyQjNxcnhXSnQ2d1NUVDIwM0FPUC1XVHZoR1pDSy1KYWpCSHFZN1Q2eVo5dA?oc=5",
+   "source": "ThePaper.cn",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-08T11:55:20-07:00",
+   "keys": [
+    "557a7b68573a81fa",
+    "8afc693b3fe39c02"
+   ]
+  },
+  {
+   "id": "2026-11-07-cb12bb0356ee96dc",
+   "date": "2026-11-07",
+   "title": "专访丨“推动全球人工智能治理不断完善，中国是正确的”——访俄罗斯塔斯社社长安德烈·孔德拉绍夫",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBEOEJEX1l2MWp0SEpJem1XLThVbHdhb1RGRkM5VXFnT0NBRVU5YjFxSElhVGY5TEtGeF9kNkVCcWNRdnVOMVlabGxEU1NNS2kyNUlzdVZJRDJhRl9DR3QzejZLU3RUdVEtWnpCLWNMbEQ3bmJyTzdyLUowdTF2RWM?oc=5",
+   "source": "新华网",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "中国",
+    "全球/多边"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-08T11:55:20-07:00",
+   "keys": [
+    "3d3fb2a1f6fdfb68",
+    "cb12bb0356ee96dc"
+   ]
+  },
+  {
+   "id": "2026-11-07-f28841129395d0b0",
+   "date": "2026-11-07",
+   "title": "Sabotage Risk Report: Claude Opus 4.6",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMioANBVV95cUxOektXSHBweGpBXzRPcEpNRWctV0xQeXg2UlRBVUh2QkJWRWJGZE5fWjRaM2I5V215dTFaTVZhcFJvc3ROd29MSnBFRWFHV1ZSLUZBQXBjMFNQSFFSUlN1T1ZOeGhxWFhjU1ZZWUFLdWIxczBnM2lIcXROZ0ZUZ2otR3N4OW00X1A3RE1vLU02T2x6RzhIQ1hKOVZDT2tDVDZQbGNNX0JKMGMzTmJYWFRpUEJkNXpUTTA0Ty1xdGdsSERoTXBHWUg2NGotbmJSalZkVFdJaXBNNS1DMEVxNGdKQjMxTi15a21SdW1TOHMwR29uZW5sYnRtc2YxRW9vMnRIc0g3QnByTUZ5TmFPeXJaM0F5OXFCTkZtWGNuVjBYa1ZRd1V6WlRMbThvVWo5cWNPVkNvYkdUNW9faE1YMjZkZlR0RmZ6NGJrZGdzelJRdzNJdkVpQXNKX0RjRTFWNllTY25lbXlpUU12NHM1OU0xVW9qU09RVjhKaVA5T2RwU191cG5oemJvanZTUDBoWjhENVNIaEFuSHUtR2VTWGFmaA?oc=5",
+   "source": "link.axios.com",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-08T11:55:20-07:00",
+   "keys": [
+    "d73d3401f79c0ad7",
+    "f28841129395d0b0"
+   ]
+  },
   {
    "id": "2026-11-07-183fb1e7c5d39ec0",
    "date": "2026-11-07",
