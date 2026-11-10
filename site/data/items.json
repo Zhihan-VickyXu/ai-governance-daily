@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T16:31:22-07:00",
+ "updated": "2026-11-09T18:48:06-07:00",
  "items": [
   {
    "id": "2026-11-09-12f9cde8ea1b3b93",
@@ -22,6 +22,122 @@
    "keys": [
     "12f9cde8ea1b3b93",
     "af10087b44406117"
+   ]
+  },
+  {
+   "id": "2026-11-09-42a17bc126c689ea",
+   "date": "2026-11-09",
+   "title": "特朗普：不希望相关监管措施导致美国在AI领域“落后中国一大截”，这场竞赛是美国和中国之间的竞争，“没有别的对手”",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9QU2tKZ2g0N1RKcDJBT1JaQnR2dURHUWVibmFrTWlObVc4VDk5dnpYZmxSM0NaMHNmNjlWZmsxSUJ6Vk42Wk54T1N2ck5Rdk9iZm9PdFRDR09jS2V3NVZ0Yw?oc=5",
+   "source": "ThePaper.cn",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "中国",
+    "美国"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-09T18:48:04-07:00",
+   "keys": [
+    "131a53b9f8f9ab70",
+    "42a17bc126c689ea"
+   ]
+  },
+  {
+   "id": "2026-11-09-bf1f5ebcc0483aa7",
+   "date": "2026-11-09",
+   "title": "Teenager who planned terror attack in Sydney tells court he was radicalised online and used AI to strategise",
+   "summary": "Boy says he was first exposed to extremist material on TikTok, turned to Telegram and YouTube for bomb-making instructions, and used ChatGPT to devise his plans Get our breaking news email , free app or daily news podcas…",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/10/teen-planned-sydney-terror-attack-using-chatgpt-radicalised-tiktok-ntwnfb",
+   "source": "The Guardian",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "安全事件",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-09T18:48:04-07:00",
+   "keys": [
+    "a14d2bc9197d0854",
+    "bf1f5ebcc0483aa7"
+   ]
+  },
+  {
+   "id": "2026-11-09-270e0b68fe5b2146",
+   "date": "2026-11-09",
+   "title": "California AI legislation leader Scott Wiener urges creation of powerful regulator",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdUZqd0NGS0ZaTktuMHdIOVN1TGhUYk9sdU90RUVnYzNod2dkRFc4UVJSQmQ4MHZrYkUyNTRqZXpJcFV2cVozeU5oUnFpa0VXVVUtOG5tbk9odHA5ZFZEd2s2djZUMFlBakE2TXNQNTF4N1p6TE5Qc29lNjFDeTB0S0Q2c242ZU5xc2d2aUxJbEZDZzdNZE5zbUxjbXZxNUlBRXFKMU45Sk90UU9mYTNTYkJiYmROWWNzMXlsNm93MmxfcEg2bTY4?oc=5",
+   "source": "디지털투데이",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "美国"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-09T18:48:04-07:00",
+   "keys": [
+    "270e0b68fe5b2146",
+    "4df53ec8aee7ab28"
+   ]
+  },
+  {
+   "id": "2026-11-09-d40f6d6cf634edc9",
+   "date": "2026-11-09",
+   "title": "事关AI算力扩张成本！两党能源法案闯关参议院，为“蓝色国会”监管定调？",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBXajg5dmY0RVhmUWpPOGU5WVp6bUVxb2hjV2RPaUl1UHJnUllVQS13QUZkUDZYclM0ZmdVbEw3RnJtOGFtZ2c?oc=5",
+   "source": "财联社电报",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "美国"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-09T18:48:04-07:00",
+   "keys": [
+    "3c929c5ac494b655",
+    "d40f6d6cf634edc9"
+   ]
+  },
+  {
+   "id": "2026-11-09-97c0e1922d0e354d",
+   "date": "2026-11-09",
+   "title": "澳大利亚总理阿尔巴尼斯：人工智能保护措施将由新设立的专业人工智能安全监管机构负责监管。",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1xcGFOQ3lNOWRHR1hIYXA2TlRzNmFTTmVoWXZVWlRQVzVVdnNMY1hMaEs5NWNmSldlbEx2OHkwdnJsQTVURHRwSmhhTQ?oc=5",
+   "source": "新浪网",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-09T18:48:04-07:00",
+   "keys": [
+    "791c2301f4671a55",
+    "97c0e1922d0e354d"
    ]
   },
   {
