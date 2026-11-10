@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T13:56:32-07:00",
+ "updated": "2026-11-10T16:44:06-07:00",
  "items": [
   {
    "id": "2026-11-10-37d5668cc0666de6",
@@ -45,6 +45,98 @@
    "keys": [
     "edca54d8c7a26172",
     "fda14c874d4391a3"
+   ]
+  },
+  {
+   "id": "2026-11-10-267d7f1a247f8b20",
+   "date": "2026-11-10",
+   "title": "推进人工智能能力建设国际合作（治理之道）",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE80R3h2X2E4N1V3UHZ2Yko2X19oVWxvdnoxQlV5SGtwNDBsVm1WdVdVY2sxNTVOanAtTGg2LWRnTmNEY2Y4Zk1rTVZ2Mnlicm02Wjd1UlV6OEc5RXJ1T3ZZdUZDQVpCcUdJLWpCSEhzMGI?oc=5",
+   "source": "人民网观点",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "国际治理",
+   "regions": [
+    "全球/多边"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-10T16:44:04-07:00",
+   "keys": [
+    "267d7f1a247f8b20",
+    "d76cba195438fb87"
+   ]
+  },
+  {
+   "id": "2026-11-10-27b175fdc5459ddc",
+   "date": "2026-11-10",
+   "title": "AI Safety, CBA Profit, JP Morgan Expands Australia Team: Australia Briefing",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZGJYNGxxVW91eG8xNXlCVUJPZjUxa0Zoc0xrcW9fU2VPYkxmUGs2TFVYY1M1WGR1QVdkTklua2FVcERGTExkVjhqRVFXUzF2bDB0LUtaOGFpaUViVkFsUGFhbExJM2sxazNWY1pOb0w5aVFZUkFGWXU3OExvQTdONUVWdnlpT1NwT1doUW9hQXFtR3VhTUhrMDJ5dzVmTFM0NnI3bFF5a0JYWUhkYmV5WmU3UER4VjNUOWNUZkhTOWFXdEVH?oc=5",
+   "source": "Bloomberg.com",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-10T16:44:04-07:00",
+   "keys": [
+    "1fae5e33df0517ba",
+    "27b175fdc5459ddc"
+   ]
+  },
+  {
+   "id": "2026-11-10-88e456ae17c901b6",
+   "date": "2026-11-10",
+   "title": "Hochul launches new institute for AI safety amid regulatory push",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTkFKWDBnaGtUSGVKdURiU2Juc3h3MnNZbGE1T3lhWjJwaUZYMXNfamo3OTZTSU5LcElGNW80Tm1hdWUtYXE3VV9raU9PT0kxWmQ1RnBNcmpUUV96X1NiT1Z2QnppaF9fTG5YWUNobndwazdSUmNsZDRzRU5BNnhLWGgtY2tzeGNJU3dPbVdQekotV1c5NVNwc3JfNA?oc=5",
+   "source": "Yahoo",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-10T16:44:04-07:00",
+   "keys": [
+    "88e456ae17c901b6",
+    "bbe56523627ba2b2"
+   ]
+  },
+  {
+   "id": "2026-11-10-2ad0d0db8932220c",
+   "date": "2026-11-10",
+   "title": "Hochul cites Democratic control of Congress in pushing AI regulation, federal dollars",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPTms3b3dEWk1pcVF5a1Q2RjJMVlViUm55OXlac3F4Xzl1N05jRnR6VHdpNktEdmUwU3VraDZNOUwwQVdLTDBVT1kzVkRfdXJaS3hUQVhDVnZmVjRFTGwwTjZXMVRPRFFLeFZwQW8xaklxb1dXVmZqSHBJSjBHSGdKcklIYXh0cWxwQlppUE1MSGtCUEFjYVVqVW1leFhKa3RHNGtIaG1tYUg1VkNEUXpnczVmWXp1ODMwYlBkNGZQWFJVMkJKWElfZlJFbEJPbVJBWDBJWkFB?oc=5",
+   "source": "Spectrum News",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "美国"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-10T16:44:04-07:00",
+   "keys": [
+    "2ad0d0db8932220c",
+    "ce6742abca7a9f96"
    ]
   },
   {
