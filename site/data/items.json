@@ -1,6 +1,546 @@
 {
- "updated": "2026-11-09T18:48:06-07:00",
+ "updated": "2026-11-10T13:56:32-07:00",
  "items": [
+  {
+   "id": "2026-11-10-37d5668cc0666de6",
+   "date": "2026-11-10",
+   "title": "Australia tightens AI oversight rules after OpenAI government breach",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbmdiWHo0N0RhNnE1MEVZYlA3NU82VF83YUZRalVqRnYwZmlSVG1uSXVYYWt1bW5lMHNxaEJiNzhKUFd0cEZfdFo3ZFBjUUVKajl0T0c4SlRQdVpzSU5uM0RzdmtxOU5najk0eG5KcTRDWTZmRmhJT3llYjB5VnA5QkhvSmFjNklFU2pkVkR0eEJPOEx4TDZnZlhTd3NVLXh1UE9NeXluTmZHaEpwZ2s40gG0AUFVX3lxTE56dThZc2hOQlMtNk9uY2RtbW5tYk5GYmpKY0ZYV3lkaDVrUmtRejBhWGZJNEotajVxYUpBQnJmSXJFV29vMzVnWl9YUXhJZ3VDMDRqYTFDMzIzRHNqeDZMNnZtZG9SNmctblZxbUUtLVNONEFZcWhfUjJ3ZDlMQm9sbnkzb0hpWjNaU1pzUml1MW1PZ3RtRmlOa1h4VmkzMnRkMDhRZDFaZGRlZUNfckFEeUo3VQ?oc=5",
+   "source": "Al Jazeera",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "安全事件",
+   "regions": [
+    "其他"
+   ],
+   "importance": 2,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-10T13:56:29-07:00",
+   "keys": [
+    "37d5668cc0666de6",
+    "eca54ef406572d5e"
+   ]
+  },
+  {
+   "id": "2026-11-10-edca54d8c7a26172",
+   "date": "2026-11-10",
+   "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSVhqV2gyYlFPU1FIZlNHRkp4SGJHQVJmMzB3cHE0a29DRHpzS09Obzh5NmlQRFFQd25aaE90ZlVxMXJCaUI0Y1FsOEltc09rX0VRTlJZZ01oUlZXN05KV3NxRXpYclhwb0g1VFE4WFEwZ2tZNllMTkpjdFQ3RVBLeWZMTWVJN3B1OVQtWVM1NkNYbER5a2NwNm1HVmI3R1pjOHFoSzJOdzBucW8tZU53?oc=5",
+   "source": "TechCrunch",
+   "tier": "b",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 2,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-10T13:56:29-07:00",
+   "keys": [
+    "edca54d8c7a26172",
+    "fda14c874d4391a3"
+   ]
+  },
+  {
+   "id": "2026-11-10-e48cb1f9cdee0462",
+   "date": "2026-11-10",
+   "title": "Top UK Regulator Says Banks Are Trimming AI Risk as Alarm Grows",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYW1aT1g4WmYtTE4yTGZYbTFKTEpkbmZpTzdFa2hUMGJxQURkUGVGRS1JMHk1Q2VXRHE1ci1ia3paRE1ETFFmYWQ5Q0lkOURWOEJlQmJCaXp3dEZpd21FbTBNS0pMal91NnA2OGt1cDBhOWNBRDlxSkJxOGlkWHpLZW9uWVRUeGVFQzE2NzMzM0M0OW1mdm1HYU1rZVpwZlZEYjI4SEhVY0toOTFZSmVuUjhiSXk?oc=5",
+   "source": "Bloomberg.com",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "欧洲"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-10T13:56:29-07:00",
+   "keys": [
+    "a611c9cb5131691f",
+    "e48cb1f9cdee0462"
+   ]
+  },
+  {
+   "id": "2026-11-10-fed7bcc72ecc69ce",
+   "date": "2026-11-10",
+   "title": "2026全球城市论坛：来自7个国家的政学商共议AI如何赋能精细治理与安全韧性",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE04ZkdEUjlNRjRlRy1GQnhuTFFXWWREalkta3FCSEdDQWg4TW9VOHc1Nlp3WkI0dkNINm1QR1dGZXc3QWtaLThBYmk0RlVRd2I2WDJ1SGx4OEtMRmtyMmtQSg?oc=5",
+   "source": "ThePaper.cn",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "全球/多边"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-10T13:56:29-07:00",
+   "keys": [
+    "8352505e1c39fb45",
+    "fed7bcc72ecc69ce"
+   ]
+  },
+  {
+   "id": "2026-11-10-0f54d9f0a4578075",
+   "date": "2026-11-10",
+   "title": "EU watchdog probes Commission’s AI pick over conflict of interest concerns",
+   "summary": "Jim Hagemann Snabe was named AI envoy in June, but the choice has proved controversial.",
+   "url": "https://www.politico.eu/article/eu-watchdog-commission-ai-pick-conflict-of-interest-concerns/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+   "source": "POLITICO Europe",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "欧洲"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-10T13:56:29-07:00",
+   "keys": [
+    "0f54d9f0a4578075",
+    "c9528858c9d1b774"
+   ]
+  },
+  {
+   "id": "2026-11-10-0b53be5ccbe69d86",
+   "date": "2026-11-10",
+   "title": "AI debt faces pressure as Democrats prepare to take over Congress",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOalJvYkZzQXhzZ2pHSFo5c2Jfb0VfZVpNNXpHZEE5dkxUM0lUYmdEeG1rbUNzV1JWbzNwMnBwSGNTeHZjS3p4TEVzTDBVSnNQbG5oUG1GTW82VVBsaXA4dTFHVnVkZUpJVFprQVhXbG9kZjUzTUgwaDFhMTYwYlBfTVJJakc2Q0h5eWc4Z1FEOTM1Y1lmUW56Qzd5SkY2cXhtZlFNb1NQVXpBOVJkc2JqTTduQ2dfQQ?oc=5",
+   "source": "Reuters",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "美国"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-10T13:56:29-07:00",
+   "keys": [
+    "0b53be5ccbe69d86",
+    "c63c801abad4a900"
+   ]
+  },
+  {
+   "id": "2026-11-10-62ce075154a9fa0a",
+   "date": "2026-11-10",
+   "title": "AI Can (Mostly) Solve Cyber Regulatory Harmonization and Efficiency",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRHUzdWl2WFVJd0IwaWM1aEZ6SmhSQWhQbDhpdllUdkpYMmFCQldHc0hFRFVRaGpGOFZ6Rm42aUt4RWxwYUp3MG1qem9GUEtwU0pJaWdETGFpVVJDcF9sOHkySTZPbnBXQ0c5bGg1dmRQczFJNWpGNTFaX0QyMlBsU2FtTnJlYktxXzNmaEFtVV81UzN4d1Ytd3diOWlUNndrMEVvajF4bw?oc=5",
+   "source": "Lawfare",
+   "tier": "b",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-10T13:56:29-07:00",
+   "keys": [
+    "2e2aae94a9c417ff",
+    "62ce075154a9fa0a"
+   ]
+  },
+  {
+   "id": "2026-11-10-86a508906de672e0",
+   "date": "2026-11-10",
+   "title": "AISN #85: US Midterms Favor Candidates Backing AI Regulation",
+   "summary": "Also, AI safety advocates clash over strategy.",
+   "url": "https://newsletter.safe.ai/p/aisn-85-us-midterms-favor-candidates",
+   "source": "AI Safety Newsletter (CAIS)",
+   "tier": "b",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "美国"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-10T13:56:29-07:00",
+   "keys": [
+    "4a24fa298288a483",
+    "86a508906de672e0"
+   ]
+  },
+  {
+   "id": "2026-11-10-3a6ba3bb68db169b",
+   "date": "2026-11-10",
+   "title": "What AI governance demands of the teams putting it into practice",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQm9ocXF5R0VnUzVmYkFaX0hEY0FRQVZvSjNBdmdxOElOb3FHY2pvVWRKaW95TFBSSllkakpHT3Q1VXNuTVNQSEZ3TkdYZnhtNVhQNnJJYUlSNW5YeUhESmp1dnVfTHR3UGZmQ0tVdU5Gem5ZUzJ5NFYwVUpoQ0hEMWZsM2xmQTctZmJRWU9lcG5BUQ?oc=5",
+   "source": "IAPP",
+   "tier": "b",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-10T13:56:29-07:00",
+   "keys": [
+    "3a6ba3bb68db169b",
+    "e167b4bffdf1d72b"
+   ]
+  },
+  {
+   "id": "2026-11-10-6be5411a970ca660",
+   "date": "2026-11-10",
+   "title": "The AI Safety Debate Has Lost the Plot. We Asked 10 Experts What the Real Nightmares Are",
+   "summary": "The risk of nuclear catastrophe is real, as is the fallout of the China–US domination game (hi there, spies). But no need to panic about Skynet.",
+   "url": "https://www.wired.com/story/the-ai-safety-debate-has-lost-the-plot-we-asked-10-experts-what-the-real-nightmares-are/",
+   "source": "Wired",
+   "tier": "b",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "中国",
+    "美国"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-10T13:56:29-07:00",
+   "keys": [
+    "22137d267ee985d1",
+    "6be5411a970ca660"
+   ]
+  },
+  {
+   "id": "2026-11-10-1097226b7360994a",
+   "date": "2026-11-10",
+   "title": "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
+   "summary": "The new model is up to twice as successful at some tasks.",
+   "url": "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/",
+   "source": "Ars Technica",
+   "tier": "b",
+   "also": [],
+   "coverage": 1,
+   "category": "安全事件",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-10T13:56:29-07:00",
+   "keys": [
+    "1097226b7360994a",
+    "548158e65d29c0b4"
+   ]
+  },
+  {
+   "id": "2026-11-10-139f15564c81ee58",
+   "date": "2026-11-10",
+   "title": "Anthropic Discloses Over $10 Billion in New Deals with Microsoft, Google; Says Lambda Deal May Be Cancelled",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNY29jNmZNZkNLNElZV21RQXVOY3VCWGwzOFljUXBNRkNieEVLUmFqSG1YazBuanR1dVd1U0drbV90U2xmWEJBcXdhOW14Wk43UWIxMTlTcHZHQUo3bkJUNjdfeWYwdUhGcVI4OFNBYnpnbk5CUGVmdXE2WW1iU2ZlYVBnTm9uNkxiOThacTJ1b2g1bUgyWVl5Z2RkR3dUY1M1c1pVdjRZWUduNUFtOW1LMmR4NzlSWG5CYUw5d05lN2xkVU9BQlJuNA?oc=5",
+   "source": "The Information",
+   "tier": "b",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-10T13:56:29-07:00",
+   "keys": [
+    "139f15564c81ee58",
+    "730ee92596c4acc2"
+   ]
+  },
+  {
+   "id": "2026-11-10-58922987acd699e0",
+   "date": "2026-11-10",
+   "title": "Nvidia, Chinese Espionage, and the AI Race: Four Foreign Policy Issues to Watch",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdExUODdKM0NuNHYzUTlkZGVTTFBZMlBfVkRaTFFNRXlKRXFXN2hqYVdiVkVtX2dFcGVBYlJ6dkg2XzFfcFFVU3hPRkJnNjN1SEZ0WXFHblJ0aHdoOXp0Q2RtWTJrdnRSbFJoZUxjRmM2NTBGdzVoT3RiYlVwd2pKZ0hFY3FJb2dIaWp2UTJPWVhhbWFyRkRrMTAyTnN3VDZpcEpCbU5mTGE?oc=5",
+   "source": "Council on Foreign Relations",
+   "tier": "b",
+   "also": [],
+   "coverage": 1,
+   "category": "政策与标准",
+   "regions": [
+    "中国"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-10T13:56:29-07:00",
+   "keys": [
+    "58922987acd699e0",
+    "bdb5ff25cce5f422"
+   ]
+  },
+  {
+   "id": "2026-11-10-32231f9311178f81",
+   "date": "2026-11-10",
+   "title": "Australia plans AI safety regulator to enforce mandatory safeguards",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPN0s0ZVpaa2ZLeUVrMEE0M1JLQ2wyVVB0OGRMZW96dDdNVlBlRDVtTFpVZ3d1eXBYekt2QlFwM2ctTHVSV3g3eWNpNFZYVWh5MTJjYUNNMksxdnk0a3NjWTBhd0I5RC1CakFJYWljTGVnZ0Mta2ZRN2NKZXp2c3VWUGpQdkZTakNhX3lsbjRBa2cxVG5obkNncERHcVlkMUowZzkwR0p2d0ttQnVhNnZ3dk43cw?oc=5",
+   "source": "Computer Weekly",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-10T13:56:29-07:00",
+   "keys": [
+    "06300979c0ed686f",
+    "32231f9311178f81"
+   ]
+  },
+  {
+   "id": "2026-11-10-2cf87593ea82d1e7",
+   "date": "2026-11-10",
+   "title": "澳大利亚计划设立拥有处罚权的专项人工智能安全监管机构",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSGhIYjhvYUQ4WG11T181SnlRbUgxOUhqLUk1Ymp4UHVTaHJwSlByNzVVMEx3SE5ZTUJ1dGp2RUN5YkJ6cWd6SnczeUdfVmNIem5yNFBvYjg5N0pNYjMtanlwYkVLNkNCWENfWGV6NEpxZ2luZHBoLUZNdWNIN3ZvMHFSbGdwRkxfcUlCa2hMY0d6QUtCNi1V?oc=5",
+   "source": "Unite.AI",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-10T13:56:29-07:00",
+   "keys": [
+    "2cf87593ea82d1e7",
+    "46e29bcf244110a1"
+   ]
+  },
+  {
+   "id": "2026-11-10-c7ed4bbd3282a8cf",
+   "date": "2026-11-10",
+   "title": "Australia Plans AI Regulator: 18 Fixes After OpenAI [2026]",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMDhBNHY3VTZxV2d1SUZ1eTQ3M3BVTi0wb2ppUG13LTkxMHM1YWJKd3k2WHpiWE1hYktIVG5GdlNrZHExZlczM0RMcFNRY3VSQnhublRiNjVRZ29nV1ZRSlAtcm5SeEMyUnJVMnIxeFpBc2ptZjd2WFRjSi1neTl5Qi1JajJKR0dQQmdtb0FpQlFTQU0?oc=5",
+   "source": "shattered.io",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-10T13:56:29-07:00",
+   "keys": [
+    "c7ed4bbd3282a8cf",
+    "d19a6ebc7924cd21"
+   ]
+  },
+  {
+   "id": "2026-11-10-2f7da69f9a2b9da9",
+   "date": "2026-11-10",
+   "title": "视频︱澳大利亚拟设立AI安全监管机构 违规企业将遭罚",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1CczBpRmpzaVFwOXJvMVpvazNRZEQ0OVBCNUwxXzhHOExFd2dBRUtHbEItdVdBSkYxR3l2SzdncFFxNXZzdGc3OWh5YXdLbmhQVVpJSDk5ckZyOUxZTXRUWkJRenY4STNFNnY0X19rcnB1Y2x4T3lEdi1B?oc=5",
+   "source": "国际在线",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-10T13:56:29-07:00",
+   "keys": [
+    "2f7da69f9a2b9da9",
+    "df090a83d812ca6c"
+   ]
+  },
+  {
+   "id": "2026-11-10-587d0f0b1187a86e",
+   "date": "2026-11-10",
+   "title": "英国最高监管机构称，随着担忧情绪日益加剧，一些银行正在削减人工智能相关风险。",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9MQTRYT21zQkVBQ0M5Nkx4MnVpSDZUeWRkZVl1TGtsYm0zZV9iYU9lSXJ0Q3JHOWw5TG9JLTBfTXhDRVZZU3dHMXd6Yw?oc=5",
+   "source": "新浪网",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "欧洲"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-10T13:56:29-07:00",
+   "keys": [
+    "587d0f0b1187a86e",
+    "74276d9d4eac9d8c"
+   ]
+  },
+  {
+   "id": "2026-11-09-6c496d6d36d82f6f",
+   "date": "2026-11-09",
+   "title": "Australia to launch AI safety regulator after OpenAI’s breach of a government portal",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZ01VX2RRcFVIUlZEYy1Ra3o1cjV1RkR1QlhhQ2FYdExZWFNtU0tBRW1zRVZrc1FEa2huTE1BMlNIWVJmTXoxemFyX1JwVVM2OXRnTzdsVjFvTjNSbE9xZXBaUG5NZDhwcnFRRnZ0R0xPaVVka3FQazFsaUNoa3F3NGphQXd5U2ZHYTZpSWE5MThRZUNhc0cySkZEQTVkcnR5TDRlM2ZFbkJfSC1aOEtHWWpLR2xmNUp4Ql9BQmhvS2o?oc=5",
+   "source": "AP News",
+   "tier": "a",
+   "also": [
+    {
+     "source": "The New York Times",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZU9qVXJqVzJIX0FWSGRHeGFuaTBEZkotTkc2SllMbEtvdEdSMS1YUXJyLXFJbzM3TUQ5Zklwei15UUdKSExRTkRfbHVMc0I4M2F1UGZxY25sTHcyTTZHOW54eHBZYXFrN2VGMVprZHl5UzVkX1FSSnl4ZG8xZk9Tbzc3RWxOTFJVUXBreHZFdzRKMlU?oc=5"
+    },
+    {
+     "source": "ABC News - Breaking News, Latest News and Videos",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZmR1eFJSOWNTNEthSzg0Y2M5T1Y5cHFNanI3Tks3ZXNTM3ZuUWwza1JfQkFuUHpzUWtMaW5oQnVueHc4SUJnMThvVzhaNmdRZk1CZGFLQVY5QTNGMWVSdVVyMzFLOUpwdHFSakJfakcyQVNBY1lCMDlFczIyUHZLRkhwMDJFT3hyUC1keF94OTlLS243WmFDVVlIcmJTU0lVc0ZmMHJHV3dLSlV00gGyAUFVX3lxTFA1b3dPZ2dfLTduT25aczZQTDZVX3JOdUhMN1FyaGJ3Q0d5LW5scGR1X1B3bDd4czBheFdJMkI2UGM3MzVsNGdRTDNUU1VLZkRUMmRaRll0cGhJT1pTOXExNVpGbEdqcVltN3hsczRhalNMQVdieUpaa1RRd1hDVzhpT2twcE1CbjNuT2F3OW5VWFl3ZkZhaDhOR0RZbDhJVU53UG11aXdBNUNkWkIyanNqc0E?oc=5"
+    },
+    {
+     "source": "The Next Web",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTldxTHFSNVIwNVV4S0RWMllJQ2xsRk9rV2dHdkZ3eGtNNTMwUlIxNlpCUDdYbjFqdTR1ZzBISXVqOVBUUFNzYzBpQTBENmpxYTIyUmQzUFJ3eHR6dHJORnROb1YxZ3loTkM5Z1dRa1AyQUhZVzFsOWo1N1AyeDg0a3E3REp2VE15QlRqd28wWkJNQlk?oc=5"
+    },
+    {
+     "source": "Brave New Coin",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRVU1bXFEaVVFWFphZXFqbGhQSVJkS0tESmJNWTNYWThsbExWdi1JWVBXeVRmUjlqSmx1RER1aFFsa1Z2RHFpc2NnTjVyXzI0Zk9YUXZJbVRoa2ZuRDVjZmJidzBYeXBISHlDTTZJMWR0aHdpWTlsNXRrNnNzUFJrVEViaTJReVBVZDNVaFZJaG1vMWxxdmZ5T3NNZDBjdHF2NHEzS0FIX0g5UDkwZ0EwLXUwME1xbUFsRnA0VmJmOEJ5ZE55RlpXanBTTGhUc1hi?oc=5"
+    },
+    {
+     "source": "Dealroom",
+     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPajFPd1g1enhCWTRzWHllajlmdjdrQWNvQ0JGTGZMZTFGUGN2NjdaNVpVbVFEY1VVNnV4bEVfc1l0RU1yVlRsUXlFVVlPLTVISGFjcXB2ODAtaXJHX2JueHFIMDllX2FJTk5HUlpwdlVMcG9jM1F4WE1DcUdWYVNfNUg3ZHhCV1lIR3VWZkNJdkRzZWFTdUthN2ljQlk1d3p6R0RiTUgxeWlNSnQ5XzFNbWFaQkVLZ1Y3QkJHUGZYZWNDRkJyOEVEbm1xcC1RT2dvZFd3VllsZGs4eWwyRDhWT1V1amdWZG9STndGVWZkNGs?oc=5"
+    }
+   ],
+   "coverage": 6,
+   "category": "安全事件",
+   "regions": [
+    "其他"
+   ],
+   "importance": 3,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-10T13:56:29-07:00",
+   "keys": [
+    "11040f3938de822c",
+    "199293b464bd0eac",
+    "2dedfb7aa7944831",
+    "47f66ce0d45bd799",
+    "6a8cbd885607b228",
+    "6c496d6d36d82f6f",
+    "7d028cac7a136671",
+    "7f3dfdb4c5429561",
+    "93032d7b7ebcf8d3",
+    "9973364b40f45e04",
+    "ac297ca54353fc63",
+    "bd782d5c53624f0e",
+    "d0a0dd1c7921f255",
+    "ee4c5f5c7d871392"
+   ]
+  },
+  {
+   "id": "2026-11-09-cd0b4c78faff9a82",
+   "date": "2026-11-09",
+   "title": "驻尼加拉瓜大使瞿瑜辉在尼官媒《19数字报》发表署名文章《推动人工智能普惠发展 共建更加公正合理的全球治理体系》",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8wRHYwVkNLV1V0Um5CZXRvUGF1ZDRBRE9FYXlOOHh0Zm5jdGxOdGhJZTBvZHhZSS1IbmVNQUVaaXJvODJnUUFWTXU1RTVpYVRQVTcxeWRhSU5QMzhoN2pQVlNyck44U3lESkd3UHhkTm1IaFZycTMxbUtIT2EtUQ?oc=5",
+   "source": "中华人民共和国外交部",
+   "tier": "official",
+   "also": [],
+   "coverage": 1,
+   "category": "国际治理",
+   "regions": [
+    "全球/多边"
+   ],
+   "importance": 2,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-10T13:56:29-07:00",
+   "keys": [
+    "cd0b4c78faff9a82",
+    "d86d737c4e9fd347"
+   ]
+  },
+  {
+   "id": "2026-11-09-20cd0f64547814aa",
+   "date": "2026-11-09",
+   "title": "Australia to mandate AI breach reporting, create regulator after OpenAI breach",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZVJXX0F6amhIRlpRZGpsTmNHenBVYndTci03aEFma05jOHYtNElITWF6TnVscnNfTndvaHFjeEVHNTRfSGZubWxESVlLQ295RWNCb3ZWMmpBdDJ0aVNYYktyb1RVTVRaZTFQVmRORXZ2TmpfakRQWm1aNGdlS0J3d3pENXc3NmNoSDN4Rms4UDNkYzFLNkFBSjJJSHRoNUhhYktVNl9XYmdNdFZVNjdTdk9YQlR4bDRpcmc?oc=5",
+   "source": "Reuters",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "安全事件",
+   "regions": [
+    "其他"
+   ],
+   "importance": 2,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-10T13:56:29-07:00",
+   "keys": [
+    "20cd0f64547814aa",
+    "d556cb0975602674"
+   ]
+  },
+  {
+   "id": "2026-11-09-db2865c40c5e1986",
+   "date": "2026-11-09",
+   "title": "Mandatory AI safety and security protections announced after OpenAI breach of Medicare – video",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPMjFHd0I3TEc4NDM2Vi04eHN1R1kxVXZId3ZzWTUtdkR4VGJhRmgzTF9hM092UFFhUHRpRWhRelBRdktCLXpPRU53UWVTX1pEVndIZlg3ZFZNRy1ZUjdkRXJuYlhHaS1qR3hwWWloMnpFN3hmbVpTN1hCa2N5WjVPSUhtS3FwaFM1cTMtQVVTdWlmWE9uZk50M1RRakFwMXZwbEc1WmQ3Q0dvY3gzY0RmUk5jdjlrQWhKQ2syNW1RQnVCOHlmX1lZOExFNklGZHdWYnVMd3RQdEFkeHhsRzRweEJGOW1IZnk0?oc=5",
+   "source": "The Guardian",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "安全事件",
+   "regions": [
+    "其他"
+   ],
+   "importance": 2,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-10T13:56:29-07:00",
+   "keys": [
+    "7389dda0f674a4de",
+    "db2865c40c5e1986"
+   ]
+  },
   {
    "id": "2026-11-09-12f9cde8ea1b3b93",
    "date": "2026-11-09",
@@ -22,6 +562,237 @@
    "keys": [
     "12f9cde8ea1b3b93",
     "af10087b44406117"
+   ]
+  },
+  {
+   "id": "2026-11-09-1167a07b287a8156",
+   "date": "2026-11-09",
+   "title": "Australia to Create AI Safety Regulator, Mandatory Rules",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWGViZ2xsOWVMUVRfQnNEeWNfZ0RIQzEydE1qOHBjSkk4ZEVvTThTSnpBUmNqV0lGVEtPaW4xTmtTYUVEeGxQQW83X1hWZTM0ai1uUDA0ZWRBTGoyQTdldmNScGhncWJab1pIajY1SlhIeXpnNTdGWGdkQ2kzLURqZGQxeVN6NlQyM2d2Yy1ndm1YOW9BWmFDOVplano2ZHh5R0FOVnV5WDBmMDZZNHpOT0gtaw?oc=5",
+   "source": "Bloomberg.com",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-10T13:56:29-07:00",
+   "keys": [
+    "1167a07b287a8156",
+    "1d798f31b17e4fc4"
+   ]
+  },
+  {
+   "id": "2026-11-09-3631300cf6986e17",
+   "date": "2026-11-09",
+   "title": "Australia plans new regulator for artificial intelligence after OpenAI hack",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPM2V1VXBUemdrc3RZUEVkdWhqN1paUkN0bzBhQ3BXZUQ3RU95ZFh0VExqMnM2VTg1TUtob0MyNXZpdGJyRTZhZkpzNTIxal9DTFVFUC0xUHVBUUJvd056VDhtZlZRSnl2RFNpN3p0OW83SldCVHhZZ3dscTdUeHg5eGpMMjJnUTZWYzNCSURtT0psY2I1dldZWllVRkNldEp1bFU0Y0Q2ZXAxVzVTUFVrSWJfc25jeVdJbHdqSFVvTk9uSlFsdm85YlBJTE4xWDY0cV8tLVJtdGpqbGc?oc=5",
+   "source": "Nikkei Asia",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "安全事件",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-10T13:56:29-07:00",
+   "keys": [
+    "08558dac62e2ed45",
+    "3631300cf6986e17"
+   ]
+  },
+  {
+   "id": "2026-11-09-94d6aacbdc92c49d",
+   "date": "2026-11-09",
+   "title": "澳洲将实施强制AI安全措施 谷歌忧网络监管过度",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1HN3ZtTTk5R25IMHhQZWJGMDJQek91Sk5WUUxwTzBZV3VuUTIzbmFTVklXbC1feG8tMVFKVFpEOGdRaGVub1ZlOGpVbUFaMVUwV2RSZXFObHgtdlU1aXhEZGMzMTIwZzJidFE?oc=5",
+   "source": "联合早报",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-10T13:56:29-07:00",
+   "keys": [
+    "94d6aacbdc92c49d",
+    "f60d7e46bfd3bbc3"
+   ]
+  },
+  {
+   "id": "2026-11-09-173a50a3e0143d5d",
+   "date": "2026-11-09",
+   "title": "黄仁勋私情风波发酵 或推动美国加快立法限制中国获取AI晶片",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5rUE0yMVJnNE8zbjVsUFFMQ2czQTRWRnpLSENHSEwwUllRbUMzcTdnaXpRUlJZQkhGMGVuQ0dsaDV1WHJCbE8zUE9Xc3NsZENLYTkyUmUzX3JYTmNFQTl1V3NYcFRRZw?oc=5",
+   "source": "联合早报",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "中国",
+    "美国"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-10T13:56:29-07:00",
+   "keys": [
+    "173a50a3e0143d5d",
+    "cd8ef997c0a9dd99"
+   ]
+  },
+  {
+   "id": "2026-11-09-7488d3043a9b8185",
+   "date": "2026-11-09",
+   "title": "推动人工智能发展 治理创新高地取得新的更大突破 - 人民网-上海频道",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Ic3hUemloaGxxcWR2ZTkxMEpod2QxRDNXcTBfVjRka01VSWFIZlBjMXpfdmlRbTRaUHN0bkJxOWZXWWZJYjJJRENhLXFBMlNYSFk1Ukx6R01hclV0bl9hYkZubmlfLTV1RlE?oc=5",
+   "source": "人民网-上海频道",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "中国"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-10T13:56:29-07:00",
+   "keys": [
+    "1ef20a1491b977fe",
+    "7488d3043a9b8185"
+   ]
+  },
+  {
+   "id": "2026-11-09-22f16b2f79051258",
+   "date": "2026-11-09",
+   "title": "澳大利亚将对人工智能开发企业提出强制性安全要求",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBpdHVueUUxWDFxSUtfczRXdVlyVk5zR19DeUsyckZSanphUXlFYXpuR3BFTDJNUDZKT1NYdGpYQUk3ZjFrY1NubEVqR00tQksxTEw0?oc=5",
+   "source": "第一财经",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-10T13:56:29-07:00",
+   "keys": [
+    "19519404ea41f537",
+    "22f16b2f79051258"
+   ]
+  },
+  {
+   "id": "2026-11-09-21222f387b8fcbf6",
+   "date": "2026-11-09",
+   "title": "Frontier AI Safety and Governance 2026: Risk Understanding and Coordinated Governance",
+   "summary": "Abstract page for arXiv paper 2611.12434v1: Frontier AI Safety and Governance 2026: Risk Understanding and Coordinated Governance",
+   "url": "https://arxiv.org/abs/2611.12434v1",
+   "source": "arXiv",
+   "tier": "b",
+   "also": [],
+   "coverage": 1,
+   "category": "安全研究",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-10T13:56:29-07:00",
+   "keys": [
+    "03a84ccc2b518f1c",
+    "21222f387b8fcbf6"
+   ]
+  },
+  {
+   "id": "2026-11-09-5638f4c51b69bf48",
+   "date": "2026-11-09",
+   "title": "Double Blind Evals: Resolving the Dual Confidentiality Dilemma in AI Safety Auditing",
+   "summary": "AI safety evaluations often involve sensitive prompts and proprietary models. Evaluators want to keep their evaluation prompts secret from model owners to prevent purposeful or incidental data leakage, ensuring longer us…",
+   "url": "https://arxiv.org/abs/2611.12604v1",
+   "source": "arXiv",
+   "tier": "b",
+   "also": [],
+   "coverage": 1,
+   "category": "安全研究",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-10T13:56:29-07:00",
+   "keys": [
+    "5638f4c51b69bf48",
+    "b7e81902fea10d5e"
+   ]
+  },
+  {
+   "id": "2026-11-09-14a8279e3cb680e6",
+   "date": "2026-11-09",
+   "title": "The Anatomy of a Digital Crime Scene: Uncovering Tomorrow’s AI Risks",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQ0dTLV9VblhNeE1weGxyWGtfQmZxdHhZZDRtNUhSd2JCSzdPZTQ5UXZheU5NTndHdTNfLXZfVkhSdWROSTBqaHNDQjVGek1wcDQ0SlFDWlFReW1WZm9SUFV3anRwM3RrOTNlc0QyZGxWSERRWGFzUmNjSzBXQklLT2lINE1rdjVMU2tJanYzQkt3U3dHOUh3?oc=5",
+   "source": "IAPP",
+   "tier": "b",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-10T13:56:29-07:00",
+   "keys": [
+    "14a8279e3cb680e6",
+    "598f1b2749e44a6a"
+   ]
+  },
+  {
+   "id": "2026-11-09-0d520a31810bb110",
+   "date": "2026-11-09",
+   "title": "Unprompted coordination through shared memory in LLM agents: a locked two-implementation replication and extension",
+   "summary": "Coordination between large language-model agents has become a central question for AI safety and software engineering, as such agents are deployed in groups that share infrastructure.",
+   "url": "https://arxiv.org/abs/2611.12412v1",
+   "source": "arXiv",
+   "tier": "b",
+   "also": [],
+   "coverage": 1,
+   "category": "安全研究",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-10T13:56:29-07:00",
+   "keys": [
+    "0d520a31810bb110",
+    "a18170f8127a18b7"
    ]
   },
   {
@@ -1274,6 +2045,29 @@
    "keys": [
     "385404f1b12ce0d0",
     "b4c4febf703e441b"
+   ]
+  },
+  {
+   "id": "2026-11-06-5abc544b2a0faac6",
+   "date": "2026-11-06",
+   "title": "Is Recursive Self-Improvement Safe?",
+   "summary": "The phrase recursive self-improvement (RSI) refers to the idea of an AI system designing and creating another, better AI system, which in turn designs and creates an even better one, and so on.",
+   "url": "https://arxiv.org/abs/2611.10261v1",
+   "source": "arXiv",
+   "tier": "b",
+   "also": [],
+   "coverage": 1,
+   "category": "安全研究",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-10T13:56:29-07:00",
+   "keys": [
+    "0aacc7214706fa93",
+    "5abc544b2a0faac6"
    ]
   },
   {
