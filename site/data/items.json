@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T14:32:47-07:00",
+ "updated": "2026-11-12T16:54:02-07:00",
  "items": [
   {
    "id": "2026-11-12-a6c1ff9ab6a52935",
@@ -21,7 +21,9 @@
    "createdAt": "2026-11-12T14:32:44-07:00",
    "keys": [
     "8eb183e3a8faf27b",
-    "a6c1ff9ab6a52935"
+    "a0915aa198101e6c",
+    "a6c1ff9ab6a52935",
+    "f492bb4c23516d5d"
    ]
   },
   {
@@ -75,6 +77,75 @@
     "785a914dd0c2cb4a",
     "91697df19bb09904",
     "d4c5e537e25e9c99"
+   ]
+  },
+  {
+   "id": "2026-11-12-be475334a8863b18",
+   "date": "2026-11-12",
+   "title": "Stacklet on AI Governance, Token Custodian, & Policy Control for Cloud and Kubernetes",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNFFjMS1nSFNwVVByX1REdFNBenVzYzFWR3ZmS2hHbXBNSUdDUXJTLXE2VFpBZmFFVzRHRGswbmJ1NUVBeHFhMDZSVTF3LXZQZWxteEJ6MEJobXQ3eE5NVkNXV0JrTmNuOXBYd2ZpZW8yaTFYajIzQjFOYk5pNFdnU1VQdlhtWVU2OWxHVTBLdG1PXzBYU2Vfd1V4NWxFTG9FOHZydExLTDhzdlBHV1psT1AtUm43ZWh5REk1ZQ?oc=5",
+   "source": "VMblog",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "政策与标准",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-12T16:53:58-07:00",
+   "keys": [
+    "2ed13c844b65947e",
+    "be475334a8863b18"
+   ]
+  },
+  {
+   "id": "2026-11-12-4e0fc2bd77cbfb1b",
+   "date": "2026-11-12",
+   "title": "Albanese Government to legislate mandatory safety rules for frontier AI",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQWVBMzM0T3FEOXZOOGpCSmxVMkpabjNaaWF6Nm1XTXZlUko2NnpJSXhJYnZwRlN0MHVjNzFaM3Q4ejVOSG0zOW1qd0ZxdzYybG5Ga1UzRGU1dk5MY29SYVRNZEdCeEZFTXZIZUVUUFJ6WERfdmRNeE9scjF1dm5FRnNDbVJuY1pCQXVYNk10em1pSnNwRDI2V201b0xEbjFhdlE?oc=5",
+   "source": "Law Society Journal",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-12T16:53:58-07:00",
+   "keys": [
+    "4e0fc2bd77cbfb1b",
+    "dd3cb296017361c4"
+   ]
+  },
+  {
+   "id": "2026-11-12-083baa579c9e14c3",
+   "date": "2026-11-12",
+   "title": "AI安全威胁升温，企业密集推出防护方案，韩国推进网络韧性与数字资产安全监管",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOWRiY0wzbktEOVpoVkp2dzF1VnJaYk55ZFBWSUpRRjBsQ012ZGt4LXhSVjV0cERZOC14d094RDkwYzhhV3ZnUlh6cjJtNVdWc1QyQlJDMmlwb3ZzMDA0Wkx0RGY5R3FIRWE2ekl5X0U2Q1lwRDFuWmp4clFQclA2TExCcDFmMXRWLWdVdDRHa1lIaTN3enRnOTdmNGFJWFc3d0NEZ3ViRWlpanBFcVBGUFVkZEZmbU1zLUUwR2xYWQ?oc=5",
+   "source": "디지털투데이",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-12T16:53:58-07:00",
+   "keys": [
+    "083baa579c9e14c3",
+    "e537e315587ff414"
    ]
   },
   {
@@ -514,6 +585,29 @@
    "keys": [
     "0e711ff488fb1cf0",
     "a7dee7345f1348ac"
+   ]
+  },
+  {
+   "id": "2026-11-11-437e3d8c41c2aa97",
+   "date": "2026-11-11",
+   "title": "Paid Program: The New Cyber Risk: Adapting to Frontier AI",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRVd1OFBZaHMzY2ZTWWhRaEpfVUJYSUJCdzlYOHl0Tm5PTHg2bnJKUmdyeFhnVW5KU3hQWVNaMElvTUwyb3RaQkxiLWFRcEZYcU03VkVWaVhZdzJfMzl3TlN6bHJWMElsVEJZSE5xS05HUFhONzdnMlJ1cVgxa3MyVHlPNFpPeHQ4R1hacndiTUl4RlY3VjZXcnVrakhWSWttcVRMeUI0ZEI2N0tvRFdORlZVMHpoZw?oc=5",
+   "source": "WSJ",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-12T16:53:58-07:00",
+   "keys": [
+    "437e3d8c41c2aa97",
+    "885fd5ba581ab8f5"
    ]
   },
   {
