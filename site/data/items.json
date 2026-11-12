@@ -1,6 +1,406 @@
 {
- "updated": "2026-11-11T18:02:09-07:00",
+ "updated": "2026-11-12T14:32:47-07:00",
  "items": [
+  {
+   "id": "2026-11-12-a6c1ff9ab6a52935",
+   "date": "2026-11-12",
+   "title": "AI in democracy: ensuring oversight and compliance with EU values | Hírek | Európai Parlament",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdkNIWlE1RXZqWUV1SVhCT3cxNU93N3pSVktKU0gtU3ByOG1lMnMta3NodHpkRFpaOU5BeDRNZU1KTGRud3pMYTlVUExicnRhVDlzZll1dS02TFVueHprejhwRDZPWUJra0RwbGY3cXlpUTRBa3lmZUwtSl9WYVFoZk5DNFFnS3VqQlFXdWFURkpWY1R1RTBEV2FiMXVGY3hLc3JFd1ZGVzZ2X01rSnkya2JmRFpYVHJxOUNocnhmTmxNbHo1RzJNNnlKaw?oc=5",
+   "source": "European Parliament",
+   "tier": "official",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "欧洲"
+   ],
+   "importance": 2,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-12T14:32:44-07:00",
+   "keys": [
+    "8eb183e3a8faf27b",
+    "a6c1ff9ab6a52935"
+   ]
+  },
+  {
+   "id": "2026-11-12-525838f9f8093adc",
+   "date": "2026-11-12",
+   "title": "Jensen Huang built an AI kingdom. Now he’s gone, will Nvidia’s ramparts be breached?",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZ2gyejdCeVJ5RnVyb3BuQU5lOVFjdE1tZWQzdHJ1MXIyaU9WUDdNbTZtYWdwLWlTMFA0MjVlRTI1ZGN5eDRwTjVLV0k5ZUllNm1UT1FSNE1xUFFIUnE3X0hPWVRIV1hibTJTQVFEWU1ORXc3X2tDRUZNMTlTMmNDbEtrZEZpNWs0M0hUOHNjUEpSVE1ZaGpRZUtXLXVRc0NfU2NCYkZxY2ttekVSYTBnUUppbEVMZnN2N2lINk0xbElaVEMyNmxuTGxR?oc=5",
+   "source": "The Guardian",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "安全事件",
+   "regions": [
+    "其他"
+   ],
+   "importance": 2,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-12T14:32:44-07:00",
+   "keys": [
+    "525838f9f8093adc",
+    "e04ffba1b2c95dec"
+   ]
+  },
+  {
+   "id": "2026-11-12-57b5502b4216477c",
+   "date": "2026-11-12",
+   "title": "美国参议员沃伦：国会必须通过人工智能监管法案。_外汇动态报道",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBIZnFnVHNIblVKTXg1OWhKSUhDQ2ZaWUtZaGFSa3g1WnFjZTl1S3RTMlozTjJkQUFUZEkwbzY1c1ZDdDJXTnBaYkFNWVJMNkhFVC1PNmN3SnpUczQtS3l1ZlEzWWFzNXc?oc=5",
+   "source": "汇通网",
+   "tier": "",
+   "also": [
+    {
+     "source": "新浪网",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9UckZrWmpRX1lZbkN1MWxrcU9YbWs0ZGwtS1pwbDhIWTlhR19GWWJnMG1WZ0hnYkR4aW5iUEx0czJ4ZU1FZ3NkWElOSERMcW91ZVNfdUxaeGZHM0FiQ2tsRWJjSQ?oc=5"
+    }
+   ],
+   "coverage": 2,
+   "category": "立法与监管",
+   "regions": [
+    "美国"
+   ],
+   "importance": 2,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-12T14:32:44-07:00",
+   "keys": [
+    "57b5502b4216477c",
+    "785a914dd0c2cb4a",
+    "91697df19bb09904",
+    "d4c5e537e25e9c99"
+   ]
+  },
+  {
+   "id": "2026-11-12-0dfdeb71dac1d0ca",
+   "date": "2026-11-12",
+   "title": "国际保险业监管及业界代表在港探讨AI时代保险风险监管",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMC1nbE1RS3dTckJsak1OSF90Ni1Fb2pYX0ZEbnc5NF9vZ2NxRndIOFNna2NGZ29fR3pMNzFKWjJnRTIwVDEtODBsaFZUcW9MRjJMNEkzb3M0X2ZtazJ3TktIZWxKRVo4aXJJeHdYRERSekRaYzFKSnBRU3Qzc2FyMTY1NUo2NWdQ?oc=5",
+   "source": "新华网",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "国际治理",
+   "regions": [
+    "全球/多边"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-12T14:32:44-07:00",
+   "keys": [
+    "0dfdeb71dac1d0ca",
+    "beebf7b827fb6108"
+   ]
+  },
+  {
+   "id": "2026-11-12-8b6c4faa093807f7",
+   "date": "2026-11-12",
+   "title": "大湾区首家通用具身智能大模型完成备案",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5fOWpDM1hMS2c4Z0FOQjRxUk45Y2VuaklIcENEVmdnaHRsa3lZVXY4LUZCcUdaOEdkTl9ZczU2TnBmd0pNMnEwX2xuUDhoNVhaZEdJYnZiclE?oc=5",
+   "source": "Jiemian.com",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-12T14:32:44-07:00",
+   "keys": [
+    "8b6c4faa093807f7",
+    "d558fd7d493fb542"
+   ]
+  },
+  {
+   "id": "2026-11-12-c159d4dd98b81c65",
+   "date": "2026-11-12",
+   "title": "OpenAI, Google, Anthropic hit with lawsuit seeking halt to frontier AI development",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWTR4ak5BdnRmV3hzYTZOcVhBYklWU01YRmtLak03b2hmeC1PMTd5blRQWUkxR2Q1ZXZWRC0xNkNxVDVoN2VOdTVlX1hFMXgwS1Y5TW1fUGt4NThQaEhRVFdna1YxUDhLTnBYUFJ6WTlFajlLM1BZTTRwNk5sWFMydkZtMlJNUnU4MWlDcUN6QmNtVHdUT1pLNXd6QXc4QVk0WmMtM1JxWU5XVC1PUGRIMVJNY2wzN1Z1d2N6WWJkbw?oc=5",
+   "source": "Reuters",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-12T14:32:44-07:00",
+   "keys": [
+    "38f2ca422b8d35c1",
+    "c159d4dd98b81c65"
+   ]
+  },
+  {
+   "id": "2026-11-12-31747a6c1d15fe55",
+   "date": "2026-11-12",
+   "title": "南通崇川出台人工智能新“三券”政策 单项补贴最高1000万元",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1SNGFicnZqM25qN25LWF96bEZZN1Qwb3BremwtWkxKUE9fMWNZZ20xUkkzX3lsb0tLVlpicGhaZ0ZhMmx1RGtBQWVMQ0JxNF9wYS1HMzlCVEFvNGFhLUJCcTNtMDhITG5YQXc?oc=5",
+   "source": "人民网－江苏频道",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "政策与标准",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-12T14:32:44-07:00",
+   "keys": [
+    "25cc581e689072f4",
+    "31747a6c1d15fe55"
+   ]
+  },
+  {
+   "id": "2026-11-12-58e82e97807901be",
+   "date": "2026-11-12",
+   "title": "Google faces calls for AI moratoriums in schools after Gemini pilot backlash",
+   "summary": "Families confront Google after teen’s lawsuit labels Gemini a “suicide coach.”...",
+   "url": "https://arstechnica.com/tech-policy/2026/11/families-fight-to-keep-googles-disturbing-ai-off-school-issued-chromebooks/",
+   "source": "Ars Technica",
+   "tier": "b",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-12T14:32:44-07:00",
+   "keys": [
+    "2693fb6c8ca566c3",
+    "58e82e97807901be"
+   ]
+  },
+  {
+   "id": "2026-11-12-6dfee10bf8487a75",
+   "date": "2026-11-12",
+   "title": "Jensen Huang’s $470 Billion Affair",
+   "summary": "This week on “Uncanny Valley,” the team unpacks the Nvidia CEO’s affair with an alleged Chinese spy and what that means for the AI industry.",
+   "url": "https://www.wired.com/story/uncanny-valley-podcast-jensen-huangs-dollar470-billion-affair/",
+   "source": "Wired",
+   "tier": "b",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "中国"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-12T14:32:44-07:00",
+   "keys": [
+    "6dfee10bf8487a75",
+    "d52172b5c14af8da"
+   ]
+  },
+  {
+   "id": "2026-11-12-fa698036fdc1e0e9",
+   "date": "2026-11-12",
+   "title": "AI Kill Switches: What Policymakers Should Know",
+   "summary": "Policymakers have recently proposed requiring “AI kill switches” to quickly stop an AI system or limit the impact of a harmful or unwanted AI incident.",
+   "url": "https://cset.georgetown.edu/article/ai-kill-switches-what-policymakers-should-know/",
+   "source": "CSET",
+   "tier": "b",
+   "also": [],
+   "coverage": 1,
+   "category": "安全研究",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-12T14:32:44-07:00",
+   "keys": [
+    "fa698036fdc1e0e9",
+    "ffeb9f5e04bbb101"
+   ]
+  },
+  {
+   "id": "2026-11-12-9a9a94a6bec4ddd9",
+   "date": "2026-11-12",
+   "title": "Beyond a moratorium: Introducing the limits to AI act",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdExnY1o0WDdlYmpvNWFHUzVCUENOT0Q2bFMxUWpDZ25scGZRZ2hnNl9OYmlBZlUydS1uV0dyY1puaVdqTXZCdmN0bDBmQ3lreXk5amVZckNnLXl0MzNpV3VfdEczczdEeWEtdDZrU0k4bzFoWTJIRm84ZGl5MDhTQlNXYXVCSzZLZ3dQM05mTS1UNTJMcUdMVWF4QjZGV0hn?oc=5",
+   "source": "Resilience",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-12T14:32:44-07:00",
+   "keys": [
+    "9505e733e8f96b0d",
+    "9a9a94a6bec4ddd9"
+   ]
+  },
+  {
+   "id": "2026-11-12-54014d7858c94124",
+   "date": "2026-11-12",
+   "title": "探索前沿人工智能发展风险与治理，《前沿人工智能安全与治理2026：风险认知与协同治理》报告发布",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB5ZmFTajNhYlZGc181ZXBNeTQtOFdaa1phTTRGd1p6MFBBR2Z1Q3BnWm9id2hTSjcwQVBwRGx4ZmQ0OHBJTkNSUXZSOFF6RWkwc1FYTzNpYkhERTVRQWNLUVdZejg?oc=5",
+   "source": "光明网",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-12T14:32:44-07:00",
+   "keys": [
+    "39f2253b95614813",
+    "54014d7858c94124",
+    "6777507e291589cd",
+    "7aca40e669c8941d"
+   ]
+  },
+  {
+   "id": "2026-11-12-403531704ee109fd",
+   "date": "2026-11-12",
+   "title": "Vanta launches AI Governance, Risk Quantification and a Vanta Agent for entire jobs",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObnhJZXpUcVJMYkpmOWhmbksxVUJEa3I4TDl3Y05RSVdKOVdnTldjOGNseFBGdno1clFUTjZzQjJkUmNqUTM5WjV0bVBhSlp3WUp6SV95Uk5Sb1RjMjZvcEhEclU0MzczLUE3TEJxRVcwV25xY3prcEl4dW56ZzItTE1FWHlhdERsNURzdlRCTzlnMFdNeWlQM0ZWNURjZ0ZqVTRUa3UtNmlVZTltSjQxQ2xaa28wSmF1d0dr?oc=5",
+   "source": "SiliconANGLE",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-12T14:32:44-07:00",
+   "keys": [
+    "403531704ee109fd",
+    "839ae2e470447318"
+   ]
+  },
+  {
+   "id": "2026-11-12-23a134a84213d41d",
+   "date": "2026-11-12",
+   "title": "Rep Gottheimer Announces New Bipartisan Legislation on AI Safety to Protect Jersey Families, National Security",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZzVXWmtEYWRsXzItbXRQYkgxUldMaGdIbnowX2hwaXg0cE5hVnJkVDlfcEtZTXhyUEs1YjJ5c2xCUkpyQ3YwQzlTd3lvVmJUZW16RmROTTNPajhLMzZ0Y2hsSW5iTlFkbUROb05TWmpza09PaGtZNU5JZVd6REJnOERJTmhTd0lVaHFWbWJRT0lZMlo2alNLMUxfYktSZU93aW5YVXN6YkNEWW44TThQZW5JTXpVV3gxanc2VlpFMGg?oc=5",
+   "source": "Benton Institute for Broadband & Society",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-12T14:32:44-07:00",
+   "keys": [
+    "23a134a84213d41d",
+    "f435073967c843a5"
+   ]
+  },
+  {
+   "id": "2026-11-12-dcb4ffb7f26ff534",
+   "date": "2026-11-12",
+   "title": "From principle to practice: What AI governance actually means for on-chain risk",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWUJIWEx2a29MRjRmb2VGWUpkQV8tSjVXVmZFZGZMT1hsVHNPZ1Uyb0ptNjEtQmZkRTZKdkszdmRydWNCNGhQbVdwNVJlX3dTOFdKOHRhc1o2aTE3WHUwSlp5WjNjRUFXdVYwQ28tMjhBcXgwREVqUDhmajRvNWJTbXRCckFvVUR4ZXdLRUwwbG53cXkxeHBlV29EcmVMQ1FObmw3U01fREhuWkdxLVNyRDd3?oc=5",
+   "source": "Elliptic",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-12T14:32:44-07:00",
+   "keys": [
+    "7bdbc1e789367e71",
+    "dcb4ffb7f26ff534"
+   ]
+  },
+  {
+   "id": "2026-11-12-8b3b5f1d6e9492fd",
+   "date": "2026-11-12",
+   "title": "日本拟加强人工智能监管 恶意违规企业或面临处罚",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQLVNFTUtIcW9RLXc1VU5JcVU5VmRFY09YWW4wNlJxaFRQeEU4dnhaSmpzX0N5Qm5zYTBpb0NlellfX0Y1RksxZGo3Z3M3UHo2TUNrU2RrOFg3MUQ3WWZvbE1aSVRocVZQQkJFY3N4Z256cElJdGlJTWpBUjA3SnZZOXUxRzhNdGc1Smc?oc=5",
+   "source": "旅日侨网",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-12T14:32:44-07:00",
+   "keys": [
+    "8b3b5f1d6e9492fd",
+    "f6bcd17fe7b883a3"
+   ]
+  },
+  {
+   "id": "2026-11-11-33879b5fbfcb6894",
+   "date": "2026-11-11",
+   "title": "Supporting research on AI and children’s safety",
+   "summary": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
+   "url": "https://openai.com/index/children-first-declaration",
+   "source": "OpenAI",
+   "tier": "official",
+   "also": [],
+   "coverage": 1,
+   "category": "安全研究",
+   "regions": [
+    "其他"
+   ],
+   "importance": 2,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-12T14:32:44-07:00",
+   "keys": [
+    "33879b5fbfcb6894",
+    "5b135daab0e14041"
+   ]
+  },
   {
    "id": "2026-11-11-f3d08700eff9db0e",
    "date": "2026-11-11",
@@ -114,6 +514,75 @@
    "keys": [
     "0e711ff488fb1cf0",
     "a7dee7345f1348ac"
+   ]
+  },
+  {
+   "id": "2026-11-11-c937f0b09a822dd1",
+   "date": "2026-11-11",
+   "title": "红果更新AI剧剧本政策：S级保底涨至1.5万元！A级无保底，B级不予合作",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5fcmZGbVJ6aENONkVKRE9od0RXX3lUN0lubGdIRHJhRGxLRWFlcFVHNWxfa1M1ckJYbThqaEV3elZkdU1EVnJtN1g0NmxSN01Tc2R1Mk94M3AwMFo1c1FERw?oc=5",
+   "source": "ThePaper.cn",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "政策与标准",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-12T14:32:44-07:00",
+   "keys": [
+    "aaac346c88376a20",
+    "c937f0b09a822dd1"
+   ]
+  },
+  {
+   "id": "2026-11-11-bec710faeb8efdf8",
+   "date": "2026-11-11",
+   "title": "The AI Act in Practice: Lessons Learnt, Challenges Ahead, and Next Steps for Companies",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPalVQb0MzdURmRUNWdmdMczFGZ0d6RmRHMktHU2xNc1plb0RqUnJxVWQ0U0FWWVUxYnhybGpnV0FEUFBuWm5WUWdXZEJ5QklabHhCLXhVdnVuaFA2VWdwbXFiSW03Y3o2a1V0NVotdlJVRlF1VjczeU5EYTl5U3JWVWp6UGNzQmNxQzhKVFN0VWt6bTNvREtUSEFSbEV4T1YxdTA3aS10Q3pqb18tYnAxbkJqOG5FRHRDYlBYQnhHMmgtVldEcFAtNGt0dXBST0otSDdOMWhWX3hQY3JT?oc=5",
+   "source": "IAPP",
+   "tier": "b",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-12T14:32:44-07:00",
+   "keys": [
+    "bec710faeb8efdf8",
+    "d09ba3e820bcaaac"
+   ]
+  },
+  {
+   "id": "2026-11-11-e660ccd8518827fa",
+   "date": "2026-11-11",
+   "title": "澳新银行CEO警告AI或引发全球就业危机 呼吁建立全球监管框架",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE94a2dlRnhYcHVIU0lQVlo5M0M3M3dYcVdKOWo4M0JseTZReEk1Mk1odnJhbDBUdVRDZ3JRWjJnV1FTSExaek9CdXZNWUVWR1kxT3VoTW1HaHd2RzIzbVljeXpR?oc=5",
+   "source": "观点网",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "全球/多边"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-12T14:32:44-07:00",
+   "keys": [
+    "d993a884c040c3d3",
+    "e660ccd8518827fa"
    ]
   },
   {
@@ -515,8 +984,13 @@
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMWxhMnllSFVxbTdjaGpxUUNORjNwZ0Jfc0hzdk9id3pMWk9oNk15OXY3c050SThLdkRSNlZDVDhBMGpxdmlXOXJjTmswSml3dmxzckVDM1M4SDhhanZlbmladUFVcjFGdEExcVUzc19JeGxFRFBsTzdEN2k1VTBFLUI1WGVtcVpwb1I4WHJlTlBFeHFvcEs5cGRn?oc=5",
    "source": "LinkedIn",
    "tier": "",
-   "also": [],
-   "coverage": 1,
+   "also": [
+    {
+     "source": "CISO Series",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSzhfZzA2LXZ6dW45SlpZc3hWVUoyN0p4UkRNRXBneTI0SE1PdFc3aWw4bDJGUUJrSWI4cVVadlZWNWZRUnNnUlJ1eFZramt6Wk5xdXZYWTdibEw3Uml1ZXItQXJLT2RjblZmREdPTVMxZWNGOF96WGtFQU9qSnVXQm1iMUt5aElONGh0cHREMW9lUWxJbTNTb0hodmFYSGVfRXc?oc=5"
+    }
+   ],
+   "coverage": 2,
    "category": "立法与监管",
    "regions": [
     "其他"
@@ -526,8 +1000,10 @@
    "addedBy": "auto",
    "createdAt": "2026-11-11T14:31:02-07:00",
    "keys": [
+    "0e45dcb753e7a478",
     "810ad9dfd006e881",
-    "b8695266569c2cd9"
+    "b8695266569c2cd9",
+    "beff0eab5f3b7898"
    ]
   },
   {
@@ -668,8 +1144,13 @@
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBEdHBXTHBHczZXOWtsU3M4VjBCYzlfTzloVHJtVGxuVjgwaE5MM182WmRySW1uOGNrSHdmSmlMSmxta3NFYnpSWHpvMHl6bkZOZkRKallrdjlSRXYwZTZDSWtlR1E4UFJZRjBsTg?oc=5",
    "source": "人民网",
    "tier": "a",
-   "also": [],
-   "coverage": 1,
+   "also": [
+    {
+     "source": "人民日报",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYllKYlZsY2FBdElSMnJOdzg0bTh2MUZ1WDVWV1Fpdm83Y2VlVU1vemwzLXBRZENJem1UTHI5Q0xTVWRLalZDanYwWENISlhLdVhVSnZvMFUySTlGcTdJa0NJcVhmTEltSm1RWEM4QjZWZ1dLUFJsa2xOSWtjZk4zMWZsOA?oc=5"
+    }
+   ],
+   "coverage": 2,
    "category": "国际治理",
    "regions": [
     "中国",
@@ -680,8 +1161,10 @@
    "addedBy": "auto",
    "createdAt": "2026-11-11T14:31:02-07:00",
    "keys": [
+    "0c1bf0a5b155069c",
     "59072757aa86cd6b",
-    "5f117ee34a9b63e1"
+    "5f117ee34a9b63e1",
+    "95b1b3d19d9ee1a3"
    ]
   },
   {
