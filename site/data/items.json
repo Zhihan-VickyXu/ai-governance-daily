@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T14:31:05-07:00",
+ "updated": "2026-11-11T18:02:09-07:00",
  "items": [
   {
    "id": "2026-11-11-f3d08700eff9db0e",
@@ -114,6 +114,75 @@
    "keys": [
     "0e711ff488fb1cf0",
     "a7dee7345f1348ac"
+   ]
+  },
+  {
+   "id": "2026-11-11-f29e54df16b4e41e",
+   "date": "2026-11-11",
+   "title": "财晓得｜“AI恶意使用”为何屡禁不止？34起判决里的治理账",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1nWTkyaFpPYnhYVU5jNFJIRGlWRzgwMUtoSzhfM1NKVHpJUzBYeHY2TEF1STltX2lLRzRROVhCSGtsclI0UEdWZGZMSlBzQXdJRVl6dGlONi1jaTlZX2ZMRw?oc=5",
+   "source": "ThePaper.cn",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-11T18:02:07-07:00",
+   "keys": [
+    "3a5f5e8975ab0866",
+    "f29e54df16b4e41e"
+   ]
+  },
+  {
+   "id": "2026-11-11-540f3d0830836f7a",
+   "date": "2026-11-11",
+   "title": "智能体安全互联有了自律公约--经济·科技",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBpQ0wyMDJUc3NvVUpUaFRqV21ZTlBVcVQ2aldta19uRzhjLWRrTlN1MjZ4aFd1N2FjVl84QU5QTXd2U2R1NWR2c19lRDdIb1FiTF9JTWkwTG9nOEw3clJ6aGNVMjZDWGdhNWE1V1JB?oc=5",
+   "source": "人民网财经",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-11T18:02:07-07:00",
+   "keys": [
+    "314330b557034ea6",
+    "540f3d0830836f7a"
+   ]
+  },
+  {
+   "id": "2026-11-11-e53a0c8ef4861857",
+   "date": "2026-11-11",
+   "title": "United won’t let your AI agent book your flight",
+   "summary": "United says it won't let personal AI assistants book tickets on the airline, citing both privacy and regulatory concerns.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
+   "source": "The Verge",
+   "tier": "b",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-11T18:02:07-07:00",
+   "keys": [
+    "98a8d4ece41f0d8b",
+    "e53a0c8ef4861857"
    ]
   },
   {
