@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T13:57:34-07:00",
+ "updated": "2026-11-13T16:53:04-07:00",
  "items": [
   {
    "id": "2026-11-13-9c309e92370a3b72",
@@ -45,6 +45,52 @@
    "keys": [
     "99888f2a0a934e9f",
     "fe83c6e579790892"
+   ]
+  },
+  {
+   "id": "2026-11-13-4307249591f1f0aa",
+   "date": "2026-11-13",
+   "title": "美国非营利组织起诉五家企业 要求禁止先进AI研发",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5JNGEyZE9RMnBXaW1iZzRqX0JJbUxUb28yM3BmRFUyeE1ycDZNNW04aHpwelZpa28tSTZzeDNXenE2a010S2JOcXZxYk1td3FJVXU4SGk3UUZpSWhnaGZJU3JKS1ktdw?oc=5",
+   "source": "联合早报",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "美国"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-13T16:53:03-07:00",
+   "keys": [
+    "2b0a50e6fcff74d9",
+    "4307249591f1f0aa"
+   ]
+  },
+  {
+   "id": "2026-11-13-986667bce7a5d70f",
+   "date": "2026-11-13",
+   "title": "Just the Docs: Nonprofits Sue Five Frontier AI Companies to Freeze Development, Citing Cyberattack and Catastrophic Risks",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZjc3Y3BiVmpHTjB3VUxkV0VDZkFVaU1TVS1mblhxRmFLSUFKQjZSdEJRaWJqRWtxUC1ObGU0WFk3eU80bWZBZXFUUDhZd2RSMlpDWHBHNUhmb0t4anAybDBObnNCMXF1X0tTdXRaeUFES0VrMWpTZG1BLTBESDIyZWxuekQzdHJ0YmEzcXg4SQ?oc=5",
+   "source": "Just Security",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-13T16:53:03-07:00",
+   "keys": [
+    "986667bce7a5d70f",
+    "c63c5d58b0c8d0d1"
    ]
   },
   {
