@@ -1,6 +1,399 @@
 {
- "updated": "2026-11-12T16:54:02-07:00",
+ "updated": "2026-11-13T13:57:34-07:00",
  "items": [
+  {
+   "id": "2026-11-13-9c309e92370a3b72",
+   "date": "2026-11-13",
+   "title": "Partner Search: Luxembourg SME offers a knowledge management engine and artificial intelligence assistants that turn procedures and expert know-how into a sourced, auditable knowledge model, for research cooperation in European consortia | Enterprise",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYms3V0lCajBEZUNLTFh5Vlg3Z0xBeWhyeXRINU9GQlh4aWY4aTFsS016Nk5mazAxcVJvZEJ2TGN1YU9TTW5XRll5WVZSYmtfMW5zV2NBMGZCVkMzT1F1N0tTRWdkamhzQ0tVMTRYa3N5TldrNlpnNlQtUkxuYldYcmFWQXNyTnFxN0xnREZkazdsT21zYmtUVUsxRDJhYmdhR2NoTDA3a0dmNFlUS29kc21tMTZmclJaRXc?oc=5",
+   "source": "Enterprise Europe Network",
+   "tier": "official",
+   "also": [],
+   "coverage": 1,
+   "category": "安全研究",
+   "regions": [
+    "欧洲"
+   ],
+   "importance": 2,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-13T13:57:32-07:00",
+   "keys": [
+    "9c309e92370a3b72",
+    "ef05b2f4b53a90d7"
+   ]
+  },
+  {
+   "id": "2026-11-13-fe83c6e579790892",
+   "date": "2026-11-13",
+   "title": "不甘在AI竞赛中掉队！欧盟首次举行领导人AI专题峰会 产业竞争力与风险监管成焦点",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9WUjhfVGFNX0hlOUZyXzBicENMYjZvRnI5Y3Q5UVNzR2d2QVd3WFBwTW1IM0xWWlhOaGY4cHZ2eldSMFNUSFhUQw?oc=5",
+   "source": "财联社",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "国际治理",
+   "regions": [
+    "欧洲"
+   ],
+   "importance": 2,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-13T13:57:32-07:00",
+   "keys": [
+    "99888f2a0a934e9f",
+    "fe83c6e579790892"
+   ]
+  },
+  {
+   "id": "2026-11-13-d208e36396904a04",
+   "date": "2026-11-13",
+   "title": "马来西亚拟立法加强数据中心监管 防止先进AI芯片转出口",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9NdmY3VG9UU2JVajNZbzdoWjFWMnF1Rk1Mb3FIdmpjY0MwcHNueVRCVjZzMFdMZ2thTlI1VUwzamQyYkhVY3FiaTE3V2J5b193V2ZTQTNGSzBXNG1VLWFkZmVCSTQ?oc=5",
+   "source": "财新",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-13T13:57:32-07:00",
+   "keys": [
+    "b5023df88bad69e9",
+    "d208e36396904a04"
+   ]
+  },
+  {
+   "id": "2026-11-13-9edc00057f8ffed3",
+   "date": "2026-11-13",
+   "title": "Doctors want liability shield from AI mistakes",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5GSkFKc1NkdlpaU1NIOFNnX0dyUDI5ZjZ6RTdEemNRaTlzQzdtZlRmajlsdXJPSjNkMW5PNmhhQ1FhNmpXLTFXM3ItUHBoSXZ3Y3RlREFOdUt1WVQ5bnNPVFB4SWJUYVFURHJaaUswQktScERWQVE4Vg?oc=5",
+   "source": "Axios",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-13T13:57:32-07:00",
+   "keys": [
+    "335d42b5ecf26e3d",
+    "9edc00057f8ffed3"
+   ]
+  },
+  {
+   "id": "2026-11-13-e86aa2f3b8888e7f",
+   "date": "2026-11-13",
+   "title": "上海出台管理办法，推动科学数据与人工智能融合发展",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5waFpZdjNsWk9ReDNJTFowczRlM2hiRDczMkNMeGZELXdsZi1PajdZNFdiUzVZZWRwcFhUVE5hUFU5UzVmZ1h2SVhsLUN6Si1GVi1J?oc=5",
+   "source": "第一财经",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "政策与标准",
+   "regions": [
+    "中国"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-13T13:57:32-07:00",
+   "keys": [
+    "677bff2f707e4a7b",
+    "e86aa2f3b8888e7f"
+   ]
+  },
+  {
+   "id": "2026-11-13-01c9bb630db8daee",
+   "date": "2026-11-13",
+   "title": "自变量通用具身大模型GreatWall完成“广东省生成式人工智能服务备案”--经济·科技",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1qV1lwSnJSTTBDT1NURXB6QnZscjMxRVlfUkYxcnlRQ1M5cjFsVnB2dTJWWE9fN2lZUHdWMGtrNng4dURXTnZzaE9SQzJOVGF1NlpxM3Jrb184TEFyUHhhLWxITFlLWXVlTF8wNWZB?oc=5",
+   "source": "人民网",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-13T13:57:32-07:00",
+   "keys": [
+    "01c9bb630db8daee",
+    "73d87593a4af5814"
+   ]
+  },
+  {
+   "id": "2026-11-13-fdb3fe5edde504c5",
+   "date": "2026-11-13",
+   "title": "Leading AI safety advocate likely to run for president",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdlNWWFJYZk1JZ0xCZjl2bWtJRmFOaXZBQnVROXJGb2djWWJlNXNsQWFBT05CbUFlV203NW9vWU82S2pudnhLZ3lDVFRsUEdnY1NZLWZubzh5b1pDcEZraXBsZEtCbDM1TVFtVXdNaXZIZE51Nk0zV0J4U2lUenREY1Q2ajUyR2dUUDZEZlZkb0N2Q09sb0VEQWhkN290YXlUVVE?oc=5",
+   "source": "Politico",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-13T13:57:32-07:00",
+   "keys": [
+    "3d21320a480fc180",
+    "fdb3fe5edde504c5"
+   ]
+  },
+  {
+   "id": "2026-11-13-7db47a773987f33c",
+   "date": "2026-11-13",
+   "title": "The AI boom will survive without Jensen Huang, but there's a $500 billion funding hole to fill",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5kQm1obV9OX1pxdExlRTZNYnEzbmtIbTQ5eXpJbEZQMTlYZW1zeUs5eVpuYTF5QVhDMEYtZ3hEYXVkU2dGNFVjdVhkTmFRWFRTbHhncG5sQUJFLXl0VUI0cHRBMmJFb0lqZW5NN29jSTg0Wmt2ZkhR?oc=5",
+   "source": "Axios",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-13T13:57:32-07:00",
+   "keys": [
+    "7db47a773987f33c",
+    "c5a1d0eb08b85f5d"
+   ]
+  },
+  {
+   "id": "2026-11-13-6deee63ffd079df8",
+   "date": "2026-11-13",
+   "title": "How it feels to battle with a flood of AI-generated complaints | Letters",
+   "summary": "An investigator writes that a human-written grievance at least gets to the heart of the issue immediately. Plus letters from Dexter Jandoo and Pete Bibby Re your article ( ‘AI clog’: UK public bodies battle onslaught of…",
+   "url": "https://www.theguardian.com/technology/2026/nov/13/how-it-feels-to-battle-with-a-flood-of-ai-generated-complaints",
+   "source": "The Guardian",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "欧洲"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-13T13:57:32-07:00",
+   "keys": [
+    "6deee63ffd079df8",
+    "e020ee0c2b13da4e"
+   ]
+  },
+  {
+   "id": "2026-11-13-d7f398cdaaf30f51",
+   "date": "2026-11-13",
+   "title": "Why differing views on safety could cloud US-China AI dialogue",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVmJYRGk2SFB5NGFmcWo2MHFKOVFVNFRCbXhGZ3A3Nm1HLXJEcU1xejhRU0Nyb0p2ZEZJbnZqVklmN1UySHg4TEtfMkNsTkRvWmw5UEI0ZldiTVN2ZWZhbFJ4QjJoV21wQ2JnRHFLRzhleEpYMTJpM3lRWUNtdHpVbXR0bEk2b3VaaEZVUzByckF1NmhUWkdUQllxM2IzTTVqdncwSHE2SndIblFLT0NGT1R3WXZJWG90M1J0aHVENU1iSEJOdnFFeC0yUUdTc3Q0RUww?oc=5",
+   "source": "South China Morning Post",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "中国",
+    "美国"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-13T13:57:32-07:00",
+   "keys": [
+    "5aaa8d1c85df4e32",
+    "d7f398cdaaf30f51"
+   ]
+  },
+  {
+   "id": "2026-11-13-9d1510dcd2443869",
+   "date": "2026-11-13",
+   "title": "Building digital trust: How John Deere governs AI, cybersecurity and digital risk",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTHgzWjdQVXhjWFdOdXhHaGtNZG54MlhYeXlzd3E4eFBnZlVYVW1xbTJDUnRrcUdnbklkVXhoY2JFSENPRF9xbGl4SU1jM1RyUVUzMWRNMDh2ZWRlcmxyYklxcklfZEt5dk1NZlZRSzgyOU5uNWI2RWoxQjdmUzB4TS1vR29mZk41emt3ZFJRWUg1TjFxTFc3VGRwMEdIQWFLa2Zz?oc=5",
+   "source": "IAPP",
+   "tier": "b",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-13T13:57:32-07:00",
+   "keys": [
+    "50cba7ecda95e9ca",
+    "9d1510dcd2443869"
+   ]
+  },
+  {
+   "id": "2026-11-13-b33a20b92e1513af",
+   "date": "2026-11-13",
+   "title": "Independent AI auditors have a recruitment problem",
+   "summary": "There’s increasing consensus that frontier AI companies need auditing. But are there enough of the right people to do it?",
+   "url": "https://www.transformernews.ai/p/independent-ai-auditors-have-a-recruitment",
+   "source": "Transformer",
+   "tier": "b",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-13T13:57:32-07:00",
+   "keys": [
+    "b33a20b92e1513af",
+    "bd0fab112924249c"
+   ]
+  },
+  {
+   "id": "2026-11-13-3fe31bcf944cb801",
+   "date": "2026-11-13",
+   "title": "Despite Huang Scandal, US-China AI Safety Dialogue Still Seems on Track",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQkE0SEp5c2tVQ1IwanhVNWU2YkdrYzJLMjY0ZEZEZ0EzLTZuSFFSMHR4MGM1dS05dzQtamFzSjJBUXN3ckhnNWxhRHdmdHkwejNWbnJua3JuNzY1ZkVPSWdNWDRZUzllSzFlRGE0NEJ4b2hCTWlTOXk2djRIcjB4TkctUDY0eFdWSmh4QkdNQUY1Y2VSR1o2amozVXZYY2QzRkE?oc=5",
+   "source": "Tech Policy Press",
+   "tier": "b",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "中国",
+    "美国"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-13T13:57:32-07:00",
+   "keys": [
+    "1e9046ad077b7dd2",
+    "3fe31bcf944cb801"
+   ]
+  },
+  {
+   "id": "2026-11-13-208ab62595b2c460",
+   "date": "2026-11-13",
+   "title": "The AI Safety Debate: Alignment, Loss of Control, and Oversight",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRWcyVzkzOVljWVk2UDh6ZWlfcUI4NEpGUGNSTjRBYjFEN0FFVTVIV1JnMjVfVzdSeXU0X0dLVmw4SEo0Wk9oUkFqUHhDLURKekFZdG5vZWJ6Z1Z6RWppbi1vTUo1U1RvQnIxNk5tRzl6ZTgzMnJ4UXZSQmN4dy1fZzVQQVRsRTh1ODJacm04NU5RSUZscS1uYXk1OFhESURO?oc=5",
+   "source": "orfonline.org",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "安全研究",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-13T13:57:32-07:00",
+   "keys": [
+    "208ab62595b2c460",
+    "da0aac17d15f3841"
+   ]
+  },
+  {
+   "id": "2026-11-13-ffa741b0024e939e",
+   "date": "2026-11-13",
+   "title": "AI Governance, Fulfillment, DPA, Reverse Products; Fed Policy Updates; Webinars Focused on the Primary Market",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4xcDhuYnhLdWlyU2tiSDlBRUIzTy01OXNtYmZVYXhSenczV3VpSzR4NzFrUVZPUkQ0YWVRZVZFeXN0dEVWQTNVTFJFNkc5YjIxRDlHTVVwb2NxUHlGN1NvYnZfYUdNOFJvYUdlNFBUSFY0QdIBdEFVX3lxTE9ETFhGT1B4TGEyUTI1QXNQY29ZNFA5bFVpZXBRamk0UnJTLVZsdHIwbkRoUGs1d2J3dmxjd1YwV2ZEYzNhSEY3U3BGR1g1UG5QTEVOVmpyUVRYZUpEV3hzSzVoMWpZWHUzWDQtWFVPZnJ3aUsx?oc=5",
+   "source": "Mortgage News Daily",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "政策与标准",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-13T13:57:32-07:00",
+   "keys": [
+    "ae24f0c839015498",
+    "ffa741b0024e939e"
+   ]
+  },
+  {
+   "id": "2026-11-13-5f0788b73df09e15",
+   "date": "2026-11-13",
+   "title": "Why Operationalizing Governance Gives Banks an Advantage in Scaling AI: AI Safety and Governance in Banking 2026",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSXp3NjVJNHFnckp5T3ZVVG43YkF2UE5KUnpZX243c1cySF8xYzhBTEkycEpoN0Y5SzlIYVpjMVo2QWYyOTRGQ28yOXVvTVBPME5mUTRRSC0xOTY4T0s2TXJyemJXdS1hNXJ2d2RldWhaOF9Ga1F4ZlJWOEhURXRfRA?oc=5",
+   "source": "Boston Consulting Group",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-13T13:57:32-07:00",
+   "keys": [
+    "5f0788b73df09e15",
+    "6edaa266ee8500fd"
+   ]
+  },
+  {
+   "id": "2026-11-13-e5c9a8797d02269d",
+   "date": "2026-11-13",
+   "title": "A tech expert urged greater ASEAN action on AI regulation as the region pushes for a digital economy framework. #ABSCBNNews",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPN0JXeTJqY3VYc0s3cktqX2pjUjd1NGhkQjdoMm8xODBGczBLeF9UZElFTXBycS1jS1p1WGVSZGFzMnZubzZrRmtEM0hjUDQ3bE1Cb0xSQ2dYaXpGQWttZjlJSHB0bl9GOEtlUWxwdEI2YXA3YzcxcnhsUldKblExVFNnQ0NYZEk3VmRjY24tWTdNclc3TlE3NWhQYkx0MnQ5ZWs1R2MwNXZwYV9PUHJQbWpUZU9fcnN3WHdaRTNEc3p5a2ZqekFCTm5kNWdSNTQtenVIVVVpZw?oc=5",
+   "source": "Facebook",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-13T13:57:32-07:00",
+   "keys": [
+    "e5c9a8797d02269d",
+    "f4bda34ac91d0e03"
+   ]
+  },
   {
    "id": "2026-11-12-a6c1ff9ab6a52935",
    "date": "2026-11-12",
@@ -80,6 +473,76 @@
    ]
   },
   {
+   "id": "2026-11-12-48458bcca064b89e",
+   "date": "2026-11-12",
+   "title": "SpaceX plans over $74 billion investment in Texas, Arizona AI campuses",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdlQwLUxxTENmenRpSFFXVlNUeVkzeURtNWxCZ1RuVEQwdENKV0g3MndreVZsZFYwVGtpT3Q3SDJZU0pHTGI1WFFYWERreFJmbzVjaUtOR2NjUURRMTVHNVlKdGE0VkdRVzRvekpIcHdmRGdOV2kwRXVmbWl1blRIV1VKSjQ4c19FSVFTUWZNM2ptQ0ZaMW96a2UyTFphWjNsSnc3ZmJZdWhHNWpiS19hTDhYSk9vNkpkeng1N3prZ1Y3b1lI?oc=5",
+   "source": "Reuters",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-13T13:57:32-07:00",
+   "keys": [
+    "48458bcca064b89e",
+    "78b1342845c2a7e4"
+   ]
+  },
+  {
+   "id": "2026-11-12-a5897a4f6207e8dd",
+   "date": "2026-11-12",
+   "title": "Five Chinese Experts on How China and the US Should Talk About AI",
+   "summary": "Ahead of the next China-US AI talks, we asked leading experts what success looks like and how to build a lasting diplomatic channel.",
+   "url": "https://aisafetychina.substack.com/p/five-chinese-experts-on-how-china",
+   "source": "AI Safety in China（安远 AI）",
+   "tier": "b",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "中国",
+    "美国"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-13T13:57:32-07:00",
+   "keys": [
+    "a5897a4f6207e8dd",
+    "ad74e575acaf762a"
+   ]
+  },
+  {
+   "id": "2026-11-12-9a28af0db0e8ce15",
+   "date": "2026-11-12",
+   "title": "Australia proposes an AI safety regulator and six duties",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNWRkUzlubFZTaXdVS2gxQ1ZmQ0pMV3A4LVNvNktHVUtQeTE3MGZWNEVlNXZVdERqZ2xPZGpxRVNNRk8ySmNCOW1ZUkJ0N2dCc2ZPdGJCaDdiOEJTT2xfaXRkWXVoX3R2M2pOVEhNbHRCVVJWaUJJaDN4ZFkzcjRZcGNROWxlODJlMGc?oc=5",
+   "source": "NeoTeo",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-13T13:57:32-07:00",
+   "keys": [
+    "9a28af0db0e8ce15",
+    "ff3bae0b0f2fb4d6"
+   ]
+  },
+  {
    "id": "2026-11-12-be475334a8863b18",
    "date": "2026-11-12",
    "title": "Stacklet on AI Governance, Token Custodian, & Policy Control for Cloud and Kubernetes",
@@ -156,8 +619,13 @@
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMC1nbE1RS3dTckJsak1OSF90Ni1Fb2pYX0ZEbnc5NF9vZ2NxRndIOFNna2NGZ29fR3pMNzFKWjJnRTIwVDEtODBsaFZUcW9MRjJMNEkzb3M0X2ZtazJ3TktIZWxKRVo4aXJJeHdYRERSekRaYzFKSnBRU3Qzc2FyMTY1NUo2NWdQ?oc=5",
    "source": "新华网",
    "tier": "a",
-   "also": [],
-   "coverage": 1,
+   "also": [
+    {
+     "source": "人民网",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4xX2Jwd3ZKbnlvUzctNEVlaFJOZGd5a0ZsdDlmVGJMUWNyTkFOQi1CQWJBTURIaHREM25NRGxTcFZsUk02WG5QRTg4ZUUtakRja01XdVB0dWZMNFNmS0hhb1hvSXZpTmFXNnJRTFRB?oc=5"
+    }
+   ],
+   "coverage": 2,
    "category": "国际治理",
    "regions": [
     "全球/多边"
@@ -168,7 +636,9 @@
    "createdAt": "2026-11-12T14:32:44-07:00",
    "keys": [
     "0dfdeb71dac1d0ca",
-    "beebf7b827fb6108"
+    "495e26715eb22888",
+    "beebf7b827fb6108",
+    "f4584de6702f0966"
    ]
   },
   {
@@ -585,6 +1055,75 @@
    "keys": [
     "0e711ff488fb1cf0",
     "a7dee7345f1348ac"
+   ]
+  },
+  {
+   "id": "2026-11-11-c4207c3c0c6beb84",
+   "date": "2026-11-11",
+   "title": "Between Niti and Nyaya: A Society-Centered Framework for AI Governance",
+   "summary": "Governments are making decisions about AI before they can measure its public effects, and those decisions determine whether a person can learn that AI influenced an outcome, challenge it, and see it corrected.",
+   "url": "https://arxiv.org/abs/2611.16173v1",
+   "source": "arXiv",
+   "tier": "b",
+   "also": [],
+   "coverage": 1,
+   "category": "安全研究",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-13T13:57:32-07:00",
+   "keys": [
+    "02787567c67460e3",
+    "c4207c3c0c6beb84"
+   ]
+  },
+  {
+   "id": "2026-11-11-3f1970fb172a82f0",
+   "date": "2026-11-11",
+   "title": "Scaling public input on AI policy with pluralistic agents",
+   "summary": "AI is being deployed across a vast range of application domains, cultural environments, and human stakeholders. Safe and responsible AI development requires continuously accounting for diverse perspectives.",
+   "url": "https://arxiv.org/abs/2611.16028v1",
+   "source": "arXiv",
+   "tier": "b",
+   "also": [],
+   "coverage": 1,
+   "category": "安全研究",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-13T13:57:32-07:00",
+   "keys": [
+    "3f1970fb172a82f0",
+    "c397d9681bcdb041"
+   ]
+  },
+  {
+   "id": "2026-11-11-796568256eaeb1c4",
+   "date": "2026-11-11",
+   "title": "ShadowBench: Exposing Lexical Anchoring and the Illusion of Forgetting in Large Language Models",
+   "summary": "Large Language Models (LLMs) have emerged as primary interfaces for factual retrieval, yet current evaluation paradigms rely almost exclusively on explicit entity names.",
+   "url": "https://arxiv.org/abs/2611.15925v1",
+   "source": "arXiv",
+   "tier": "b",
+   "also": [],
+   "coverage": 1,
+   "category": "安全研究",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-13T13:57:32-07:00",
+   "keys": [
+    "46a2344ad7f531e0",
+    "796568256eaeb1c4"
    ]
   },
   {
@@ -1205,6 +1744,29 @@
    "keys": [
     "edca54d8c7a26172",
     "fda14c874d4391a3"
+   ]
+  },
+  {
+   "id": "2026-11-10-fafe028d730649d3",
+   "date": "2026-11-10",
+   "title": "An Eyring-Kramers Formula for Singular Wells",
+   "summary": "Understanding the persistence of learned behaviors in AI safety motivates an investigation of the dynamical counterpart to the equilibrium geometry studied in singular learning theory.",
+   "url": "https://arxiv.org/abs/2611.14603v1",
+   "source": "arXiv",
+   "tier": "b",
+   "also": [],
+   "coverage": 1,
+   "category": "安全研究",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-13T13:57:32-07:00",
+   "keys": [
+    "85edb28d1262ba80",
+    "fafe028d730649d3"
    ]
   },
   {
