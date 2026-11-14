@@ -1,6 +1,167 @@
 {
- "updated": "2026-11-13T16:53:04-07:00",
+ "updated": "2026-11-14T12:16:57-07:00",
  "items": [
+  {
+   "id": "2026-11-14-ba8a8db71365dcbc",
+   "date": "2026-11-14",
+   "title": "PBBM SIGNS EXECUTIVE ORDER ON AI GOVERNANCE AND COUNCIL President Ferdinand Marcos Jr. has signed the executive order establishing a national artificial intelligence governance framework to promote the safe, ethical, and equitable developm",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVXhkSUNzdkFqaWdFa2pPeXNWLXB1bEZlbzJTTlNiQzZOeEJGZ09mdEw2d1NDMXhpaUtVY2JUYlNldmd0RVZYQWJFWlhPZ2lCZ19DamNfbmpHU3VhRjQxNHRIQnRUVWhMRVBJR0o3RWF4aTl0M2VDRWhLenhOSzc4czBJejZlNXF6cWRhV2VDNXFkZks1U05LUW5rYUNVcTFlTFprOVJzWkVsUEt2TlV4cmZQSlgyb2hzZ3Z2V1ZhZkJDcF9QbkZOQ1VrNkNyWXI3NmRubVkxWU1mak9ibXY0?oc=5",
+   "source": "Facebook",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "政策与标准",
+   "regions": [
+    "其他"
+   ],
+   "importance": 2,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-14T12:16:54-07:00",
+   "keys": [
+    "acfad804c48c75f8",
+    "ba8a8db71365dcbc"
+   ]
+  },
+  {
+   "id": "2026-11-14-43eaea0e2faa064d",
+   "date": "2026-11-14",
+   "title": "AI“唤醒”老照片 回望人民治理黄河80年",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE44YVZpUkFqTUZzQVVZVU1KbmNJbWRtcW4zRnhHUFZfakpFT01qSEYxNERvMUtFVGpHeFhralRPYjN3bElVSlpQdXpwYTFtaWo5cG9zUVN0a2lIVVlGRTJkYVZSQ2lDdWhjb3FaOHc0cS1xX2xhamhJWGZFRFNjdw?oc=5",
+   "source": "新华网",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-14T12:16:54-07:00",
+   "keys": [
+    "43eaea0e2faa064d",
+    "b13be373ebe89f8b"
+   ]
+  },
+  {
+   "id": "2026-11-14-105e1e8854e2bb18",
+   "date": "2026-11-14",
+   "title": "Art ‘must not be sacrificed on the altar of corporate profit’ Liberal senator says as AI policy debate rages",
+   "summary": "Andrew McLachlan says he chooses ‘real forests over virtual ones’ as he urges Labor government to consider AI’s impact on artists and environment Get our daily political email , free app or daily news podcast Outspoken L…",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/15/art-over-profit-ai-policy-debate-andrew-mclachlan",
+   "source": "The Guardian",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "政策与标准",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-14T12:16:54-07:00",
+   "keys": [
+    "105e1e8854e2bb18",
+    "eb921bf7ec3e04c2"
+   ]
+  },
+  {
+   "id": "2026-11-14-290fc0815e142b4d",
+   "date": "2026-11-14",
+   "title": "中期选举后美国数据中心监管趋严，AI基建面临延期、取消与成本上升风险",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9JNkZ3T2syYzhKZHBRNVl1aVVkZW53SlJBRFRTOE9KY1pzVExIRVFqTGpkQzl4cWVDQ1JENFhiUjBCdFluZDRGM0FRQmN4cTBsYk1UMg?oc=5",
+   "source": "虎嗅",
+   "tier": "b",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "美国"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-14T12:16:54-07:00",
+   "keys": [
+    "290fc0815e142b4d",
+    "853c6b3a39552e77"
+   ]
+  },
+  {
+   "id": "2026-11-14-e231f6c775efa01e",
+   "date": "2026-11-14",
+   "title": "Convergent Interests: How America Could Undermine Its Own AI Advantage",
+   "summary": "A convergence of political, commercial, and ideological pressures can impede America’s AI leadership, and public controversies are powerful enough to catalyze that convergence.",
+   "url": "https://cset.georgetown.edu/article/convergent-interests-how-america-could-undermine-its-own-ai-advantage/",
+   "source": "CSET",
+   "tier": "b",
+   "also": [],
+   "coverage": 1,
+   "category": "安全研究",
+   "regions": [
+    "美国"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-14T12:16:54-07:00",
+   "keys": [
+    "b9796248d58fbfcb",
+    "e231f6c775efa01e"
+   ]
+  },
+  {
+   "id": "2026-11-14-14b26c8a8c3b4c58",
+   "date": "2026-11-14",
+   "title": "Marcos signs EO adopting AI governance framework, creating nat’l council",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTTlraENkRUhsWnpBU2lXOUlJUllWejhCMU5RZHd0YVR5Y1hIT1pVQ09XVFhJYzExaE1xWEs5VERROHRwQU1yR0kzX2k1N0psOTB5cXphV3Z4aW43X251UFU3RFhfZXdlVWtvZ3o0MjNXNDdSNnlIZlVEdGxPd3R0TGM1aEk0MnFjR3lyMlNvYjJDVG1oU0R1eXRVLXJBSlZLaXE1Q3lYTlRCZmF50gGyAUFVX3lxTE42b19OdVg1WXdWVGRjZDVkbWlBdzhZdWZFUTZ2ZXpZNE11blpqOFB4WUNvMnI4X3B3b096YnM2SzFpd3NRQmdsdEpCTzIwYWMtTkdHWVZnZU9VeVAyTmdJVDVVdzRwVFNPTEkxN3ljRFZCWjItOE9DUWlJY0prU1hKSWw0U0hBZTY5TWVFelUwT2JrSlBoYWlqdEduRC13UHM3Y3d2VDB2WGViNUpCSkZwU2c?oc=5",
+   "source": "Inquirer.net",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "政策与标准",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-14T12:16:54-07:00",
+   "keys": [
+    "14b26c8a8c3b4c58",
+    "ccd1d81d7c67b998"
+   ]
+  },
+  {
+   "id": "2026-11-14-6a38ebcf1320b80e",
+   "date": "2026-11-14",
+   "title": "EO 131: Philippine AI Governance Framework and Council",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSklUR3NFMU03MVYxYmIycVVXYl9tTzZ5dE5SWUVXWDhZRzd3SUN2NHhqMk96YlpzNDRBbk5xOVhUY2NBTVZ1NlJBQlFENDRKdE9QdW1vLWZPR1F0NWs5ODFfMktBUU5sU29jb0dkaWJJamdUSkZscGxzNjJVazNtRlpIVzcybXFqaWhoWFhzTC1hTE50VUM2bUZZVzdvV1RLRlY3ZUlnUkU3bEVCeG5CVUhGdFBXaVBEeHVrcUk3V0U?oc=5",
+   "source": "Aureada CPA Law Firm",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "政策与标准",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-14T12:16:54-07:00",
+   "keys": [
+    "6a38ebcf1320b80e",
+    "fe08d6988284a690"
+   ]
+  },
   {
    "id": "2026-11-13-9c309e92370a3b72",
    "date": "2026-11-13",
@@ -45,6 +206,98 @@
    "keys": [
     "99888f2a0a934e9f",
     "fe83c6e579790892"
+   ]
+  },
+  {
+   "id": "2026-11-13-0d83211be79742f8",
+   "date": "2026-11-13",
+   "title": "“AI防蚊哨兵”护航APEC 科技赋能城市公共卫生精细化治理",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1NT20tNzZSVUx6OG1Qc1ZDNWI5ZHRCZFZKRUEzamJ4MjhfNWhoV3U1cUx3MFVtTV94anplNTZ1aGxlMHRIMl9LWnBFbHRoeU9laG9GalYzRkx5YnY3OTlkbk1aS2pCWWFUd1FhbzQ1dFVuTl9idG81Mlhn?oc=5",
+   "source": "央视网",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-14T12:16:54-07:00",
+   "keys": [
+    "0d83211be79742f8",
+    "5f6223e3b7f4a043"
+   ]
+  },
+  {
+   "id": "2026-11-13-d6003a5bceea5f27",
+   "date": "2026-11-13",
+   "title": "Exclusive / Trump’s AI task force discusses cyber risks",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPU2gyWXFtVVRzUzJweWo5VGUzbEVScU9HX281QWNqVnVnVENkX1NMS0FWcUdVWUU0aUZRRFRSS09zLUFCV1VxdUk0VGdWUnQ1MXQ1LUkybS1rQ3pPSFFMSVpfUy00ay1EbXdpNHdZNkI5a2xSRXJneEZsa084aFB1RFZUQjE0UXpBTE54Rktn?oc=5",
+   "source": "Semafor",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "美国"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-14T12:16:54-07:00",
+   "keys": [
+    "01578462a771b7cb",
+    "d6003a5bceea5f27"
+   ]
+  },
+  {
+   "id": "2026-11-13-e79c0609f327c72e",
+   "date": "2026-11-13",
+   "title": "第七届中国人工智能大赛在厦门圆满收官，筑牢AI安全底座，推动技术产业融合",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE12WjJrZ05Yd0xBbDlIc0lrc3pEcHdqaExYVlR3UHlzZDRseUtrd0tlZTdiM1ZfRjJFb1FlWHo2cWIwbHlTX2NIdXdjYXNDNnhoM3R4RnJpSWFJVDhXSEViRg?oc=5",
+   "source": "ThePaper.cn",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "中国"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-14T12:16:54-07:00",
+   "keys": [
+    "c8bf98541f104362",
+    "e79c0609f327c72e"
+   ]
+  },
+  {
+   "id": "2026-11-13-fdb778f2e9cf2104",
+   "date": "2026-11-13",
+   "title": "白宫呼吁放宽责任追究，鼓励AI企业上报安全事件",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE43dXhzRFhkcmpjcDRFSnpkal9NZ01KMXhiZ1hESU1KdnlSVS1JeXBjS3Uwbk1WS1VwQlpHM0h1UUtQNVM1di1USU5NOA?oc=5",
+   "source": "新浪网",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "安全事件",
+   "regions": [
+    "美国"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-14T12:16:54-07:00",
+   "keys": [
+    "52410fec693f84b2",
+    "fdb778f2e9cf2104"
    ]
   },
   {
