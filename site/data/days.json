@@ -144,7 +144,11 @@
   "auto": true
  },
  "2026-11-14": {
-  "brief": "当天收录 7 条资讯。按类别分：政策与标准 4 条、行业动态 1 条、立法与监管 1 条、安全研究 1 条。来自官方、权威媒体和专业媒体的 4 条。中文报道 2 条，外文报道 5 条。",
+  "brief": "当天收录 13 条资讯。按类别分：政策与标准 6 条、行业动态 3 条、立法与监管 2 条、国际治理 1 条、安全研究 1 条。报道来源最多的是「PBBM SIGNS EXECUTIVE ORDER ON AI GOVERNANCE AND COUNCIL President Ferdinand Marcos Jr. has signed the executive order establishing a national artificial intelligence governance framework to promote the safe, ethical, and equitable developm」，共 2 家。来自官方、权威媒体和专业媒体的 8 条。中文报道 4 条，外文报道 9 条。",
+  "auto": true
+ },
+ "2026-11-15": {
+  "brief": "当天收录 6 条资讯。按类别分：立法与监管 4 条、行业动态 1 条、安全研究 1 条。报道来源最多的是「Congress moves to pass tighter AI chip export rules following Nvidia scandal」，共 2 家。来自官方、权威媒体和专业媒体的 3 条。中文报道 2 条，外文报道 4 条。",
   "auto": true
  }
 }

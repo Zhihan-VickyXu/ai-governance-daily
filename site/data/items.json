@@ -1,13 +1,159 @@
 {
- "updated": "2026-11-14T15:45:58-07:00",
+ "updated": "2026-11-15T12:53:21-07:00",
  "items": [
   {
-   "id": "2026-11-14-ba8a8db71365dcbc",
-   "date": "2026-11-14",
-   "title": "PBBM SIGNS EXECUTIVE ORDER ON AI GOVERNANCE AND COUNCIL President Ferdinand Marcos Jr. has signed the executive order establishing a national artificial intelligence governance framework to promote the safe, ethical, and equitable developm",
+   "id": "2026-11-15-ea974b7a89eebec8",
+   "date": "2026-11-15",
+   "title": "Congress moves to pass tighter AI chip export rules following Nvidia scandal",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVXhkSUNzdkFqaWdFa2pPeXNWLXB1bEZlbzJTTlNiQzZOeEJGZ09mdEw2d1NDMXhpaUtVY2JUYlNldmd0RVZYQWJFWlhPZ2lCZ19DamNfbmpHU3VhRjQxNHRIQnRUVWhMRVBJR0o3RWF4aTl0M2VDRWhLenhOSzc4czBJejZlNXF6cWRhV2VDNXFkZks1U05LUW5rYUNVcTFlTFprOVJzWkVsUEt2TlV4cmZQSlgyb2hzZ3Z2V1ZhZkJDcF9QbkZOQ1VrNkNyWXI3NmRubVkxWU1mak9ibXY0?oc=5",
-   "source": "Facebook",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVGxvZmxUQ0JxLVJuWmRILTBpbUwwbEMxbDV1bEhkYVdjdnl3WVYzWFBGZFhqckFER1JyYWptWEI3XzAzeEZ1dnZuSUdYVkFCdFZXTjVmMUxtVjJSc0dPZHR2R05TbE1mQzA0OU84TEdXd1I0UkFrS2Z0dDRIUXoxV2Y3b2o?oc=5",
+   "source": "Financial Times",
+   "tier": "a",
+   "also": [
+    {
+     "source": "The Verge",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china"
+    }
+   ],
+   "coverage": 2,
+   "category": "立法与监管",
+   "regions": [
+    "中国",
+    "美国"
+   ],
+   "importance": 2,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-15T12:53:18-07:00",
+   "keys": [
+    "72c740fd3b454a93",
+    "abb7b703a8461647",
+    "b719b0f31643e9e0",
+    "ea974b7a89eebec8"
+   ]
+  },
+  {
+   "id": "2026-11-15-37537796fb75c575",
+   "date": "2026-11-15",
+   "title": "美国会四项法案有望通过 以收紧AI芯片出口及远程访问监管",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxNeER2ZlYxd0ttR0hFMldqQUdXc3dWUG1oNHJ6RW5EcTllQ3BUTURHWE9aSkxhZ0VwYlRyM2JpYlcwTmZOV2tOa09lM1lqalA3OTMtbzB4NjFqdnM3cjAwYm9oT2RJVWZMbnAtUHFxdk02OFJXejNFd3h0dTZ2emJDTEw3WENHZmhjNUNaVlFkWndnTkJDcjQtUExhbUJpS3lJTkdCUWJTTm04akVGSlRpbmZlekdBRlNvZ2JEZ0xjM3ZnMUhKZF9QSnJNZmFBaTN5NnN1RHFuc2xGc3EtTXNhXzNsQl9ac1hVcmxaWmhiekZnVmRFemRTYjdXSHgzWk85VU9GbEt6M2x4MURhVnVmRUFtc0lCSFFVRHNwdDB2MmdLRllVM3dFZWhsQ3BsR2RhUDA1SDBOcXg0VDJXa1Q3cE1oYTUwQUpkWmZkQmZSQXVKUkg3aF9mY0FieXdSWmNoYTB2dzZDem5Gcmc2eVRYZlpyLUs2ZTlSVE9waHlURkxsT2hSWFpoQnFrbTJrQVU?oc=5",
+   "source": "RFI",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "美国"
+   ],
+   "importance": 2,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-15T12:53:18-07:00",
+   "keys": [
+    "1e04c16e88267a31",
+    "37537796fb75c575"
+   ]
+  },
+  {
+   "id": "2026-11-15-6dd49d8ae6634904",
+   "date": "2026-11-15",
+   "title": "VC Firm Run by Madonna’s Manager Has $7 Billion Anthropic Stake",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdEJ1X2RvWFE1cjAwY3lxdndBWkVCQzQ1TU1YdFBXdVphRVBwN3BSdm9YRHlTWVNROUFXaUpYUWFXU2tRbUpSN2VseWYtc2p0Szh4QzBpNFFQWW0yV0t5VnlRTHJLZ183U3l1V2pvM19Wem54aWc2TW1pOE0yRmI4Y2Q4UVZvMXZ0ZGxZOWRGY0xqY2s0Zk9jT3lpaVhUQklZb3dfUjAzdnhGeC1FT0JDQWpkTQ?oc=5",
+   "source": "Bloomberg.com",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-15T12:53:18-07:00",
+   "keys": [
+    "6dd49d8ae6634904",
+    "81c65ef6bbe8a1f7"
+   ]
+  },
+  {
+   "id": "2026-11-15-d4252cdc2274bc0b",
+   "date": "2026-11-15",
+   "title": "美股点金丨英伟达将AI板块带入迷茫期，下周三大风险事件如何搅动美股？",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9kMVp3bW9VTXRUZ0QxOU42cHBCUmd3dTlpTlJSa1JLa01maFNKWWwxWXFkU1l4UUF0MzY4SUd4SmVZbHF2Q182a1hzNmVnSWxWOTVz?oc=5",
+   "source": "第一财经",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-15T12:53:18-07:00",
+   "keys": [
+    "8fbc48031adbe816",
+    "d4252cdc2274bc0b"
+   ]
+  },
+  {
+   "id": "2026-11-15-3893bfe077f57268",
+   "date": "2026-11-15",
+   "title": "EU AI Act Article 50 guidelines published",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBjdmk2M0Q3MmlJR0drNmRSRnd6UlhHSGQwNlp6cDdxOWs4eFhhYnZ4dXllUzFlWkhEQ3RPT1NKM3EwU3lDeDRFWWtYZWpiTXFQY2JZaDdabXNfUC1UM1E5cnpIMGhKQ3pNUmZJZVBmSE8yWHY4SUVpNWpxUkw?oc=5",
+   "source": "CASRAI",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "欧洲"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-15T12:53:18-07:00",
+   "keys": [
+    "3893bfe077f57268",
+    "5f83735db3c437dd"
+   ]
+  },
+  {
+   "id": "2026-11-15-2cc82655e480c5d6",
+   "date": "2026-11-15",
+   "title": "Join the ERA Team: Build a Career in AI Safety, Research and Governance 2026",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBrUkpIVU9XRDNWSUFQR3AxWF81VC1XYjlhZzljR1pvN09VeDY3eERkSzQ0QUo3R3VKckUyNUhKeXVpMk5WQWxQUzYzTm9scUpkbjdSQWhzZXdGa1ZkOE1mb3FCRG5NeWlBYVgtLWd3?oc=5",
+   "source": "Global South Opportunities",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "安全研究",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-15T12:53:18-07:00",
+   "keys": [
+    "2cc82655e480c5d6",
+    "f930b53c948f0262"
+   ]
+  },
+  {
+   "id": "2026-11-14-de40d64d21ce0076",
+   "date": "2026-11-14",
+   "title": "President Marcos signs executive order setting direction for AI governance in PH",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMUVHTFlwVnBMX3QwVTBPR2l6cW0xRVdUQl9SdWh4NFRQTlpuZmdoNHdhQ2l2TGF4WWhlSU1CMG0xRWFzdTBndnRONElLeXFvTGd4dHZrMk11SnB5NXVhWEpkQlh2N2plM2Z2ZjBHMUUyZEtZV1YwU1pmbmlGck9qNWpqM1Vab21YNVVsaHI0OXBDbVoyMEJ4NVhZUEVZcUQzTTVKRF9NanFLTmdRaUtoag?oc=5",
+   "source": "YugaTech",
    "tier": "",
    "also": [],
    "coverage": 1,
@@ -18,10 +164,155 @@
    "importance": 2,
    "lang": "en",
    "addedBy": "auto",
+   "createdAt": "2026-11-15T12:53:18-07:00",
+   "keys": [
+    "9fc0ba179639a146",
+    "de40d64d21ce0076"
+   ]
+  },
+  {
+   "id": "2026-11-14-ba8a8db71365dcbc",
+   "date": "2026-11-14",
+   "title": "PBBM SIGNS EXECUTIVE ORDER ON AI GOVERNANCE AND COUNCIL President Ferdinand Marcos Jr. has signed the executive order establishing a national artificial intelligence governance framework to promote the safe, ethical, and equitable developm",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVXhkSUNzdkFqaWdFa2pPeXNWLXB1bEZlbzJTTlNiQzZOeEJGZ09mdEw2d1NDMXhpaUtVY2JUYlNldmd0RVZYQWJFWlhPZ2lCZ19DamNfbmpHU3VhRjQxNHRIQnRUVWhMRVBJR0o3RWF4aTl0M2VDRWhLenhOSzc4czBJejZlNXF6cWRhV2VDNXFkZks1U05LUW5rYUNVcTFlTFprOVJzWkVsUEt2TlV4cmZQSlgyb2hzZ3Z2V1ZhZkJDcF9QbkZOQ1VrNkNyWXI3NmRubVkxWU1mak9ibXY0?oc=5",
+   "source": "Facebook",
+   "tier": "",
+   "also": [
+    {
+     "source": "SunStar Publishing Inc.",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOb094cWRfMUM1ei14cmpOSkttSmtUcEMtdjNsblpjeEhtUzkxcU9oR21RMi1LclR5SDlRR1NFTC1yQ1V5MzZHaGdPSzltNXM0emlCdzdZRi1LZkV3dDZ1ZWVKbUU4WGszUGlXRDhxdjZwRW1zOXREMmI0SkZzbzZzRUpzTlE1R3c3RmdmdWo4TkXSAZABQVVfeXFMTm9PeHFkXzFDNXoteHJqTkpLbUprVHBDLXYzbG5aY3hIbVM5MXFPaEdtUTItS3JUeUg5UUdTRUwtckNVeTM2R2hnT0s5bTVzNHppQnc3WUYtS2ZFd3Q2dWVlSm1FOFhrM1BpV0Q4cXY2cEVtczl0RDJiNEpGc282c0VKc05RNUd3N0ZnZnVqOE5F?oc=5"
+    }
+   ],
+   "coverage": 2,
+   "category": "政策与标准",
+   "regions": [
+    "其他"
+   ],
+   "importance": 2,
+   "lang": "en",
+   "addedBy": "auto",
    "createdAt": "2026-11-14T12:16:54-07:00",
    "keys": [
+    "335efe934235afc2",
+    "85eee958b4564311",
     "acfad804c48c75f8",
     "ba8a8db71365dcbc"
+   ]
+  },
+  {
+   "id": "2026-11-14-27bafc4281569824",
+   "date": "2026-11-14",
+   "title": "人工智能全球治理重在行动--经济·科技",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE12RWVoTWZKZ3FOM2tDS2lFb0ZnQ3pFbEVPTk9icnBKWWwxWlk5OTg1RTZnUTRNNGN0X2p1NFd1OXNSdHBwcmY2UTgyVl93TXk3NmltcUtVQXJ4Z3UtZTYxZm80eHhJMm1nY2kyM3p3?oc=5",
+   "source": "人民网",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "国际治理",
+   "regions": [
+    "全球/多边"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-15T12:53:18-07:00",
+   "keys": [
+    "27bafc4281569824",
+    "a3bfaae3827c5e64"
+   ]
+  },
+  {
+   "id": "2026-11-14-a0637dfa52e1e160",
+   "date": "2026-11-14",
+   "title": "Can Chinese AI companies curb open-weight cyber risks without losing their edge?",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdVdsanItZFBWdTdDcnJUQ3FWMVIyTkRxTjF2RWpMZ0RZR3FvZzVBWG4tUDVIamVPS1pGZ1hxa1N4SUt1UXpLZ2FoSjd5MHBCM2hiaFkxbEJMbHBMMUI5QXhwVU0yMEN6SUx3SGJ2VHRicldiczd1QmE4Nld6QWhtUWpPQUxQVDdyQnJNa1ZoYXRSVlROSmpRcFJmRmF0ODIwVHZhcmZ5QllvYlBJSEtXVWp1dXVWWFZzNTZJVElZbTZ0VkRVVjNxZjM0ZnltUWE5VjI1emozSdIB1wFBVV95cUxQLWJ6TmNrVE1qSlpzWlBBVDFOb2I3ZFQ4cW91NFZBQlYxRU1iOHVlaEluTmJtYlowU3d6eWJVa0NHT2JOaFpDMUU4Wk0wckZFVVhWWVU0SE14VjNfXzAtSkdtNkVKWU5WTnN3bHNGN3FkSHlZSmhNYzBvRmFmeURudkFvcVFIcXl2d2QteWNidUEzZXl3LWhERmNuSkZ1cEZGVGRIYVBlaVhUZVoyUDJ2ZkdlbW5sRVVNeHg2SzlyZWQtZVVVRWQxaU4teGFLUmNLM0NDWjMxMA?oc=5",
+   "source": "South China Morning Post",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "中国"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-15T12:53:18-07:00",
+   "keys": [
+    "a0637dfa52e1e160",
+    "d0ff501a247521b1"
+   ]
+  },
+  {
+   "id": "2026-11-14-936e81f6359565dc",
+   "date": "2026-11-14",
+   "title": "Hong Kong police to activate AI facial recognition across surveillance network",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNWlI5d282R0FxNjdzdjlRVFI2U3VOcGNmd2VDRWh6dDJVQTJLbkd4U0VVOUpFMWktYWdUakgyVnYwWEFPX0Y3M0pzNlFNQk9BbERYTjA1SUdZajl6ODlmSzJUVFQ5RkFGb2NGeEt2TlRPU2VqRE5rU0N3QU96TU54cnVXU1NScVhkUGRUbmdtWkczOXhyTS1ReS1Od2Z0Z3BzQmpQNW5uVFpFV19VNmVaLTJlNnRzR09sN2pYZ0tVb1FORlBaaXRLb2lSazduVlN0alpjWmhCOHXSAdgBQVVfeXFMTVJlTFdxbVU3QThwYm9obDM4MzQzMGxZcVJuUk56bjAwTFFQVnRPU18wZ2h4RVBUNUtPLTVYcWZNdXdhY3hNQWp6T3B0VDNmTEcxNERvSTFqVUxLbFU1eGVWcjJoTDdoWS1EaE5YVXU5eVJYYTVicC1BYnZKdkxaNC1QRWpvcktTY2NXQjRiUjllUF9kQmhpTkxpc3FTLW1NWS1yRzJGTXdKSk96MW9RZXA4aHpjdU8yNGxRaUcyUGJ4TTJWME1vVFA3S1hhWU5GSUtvNmJURGNK?oc=5",
+   "source": "South China Morning Post",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "政策与标准",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-15T12:53:18-07:00",
+   "keys": [
+    "2f545da0730a7766",
+    "936e81f6359565dc"
+   ]
+  },
+  {
+   "id": "2026-11-14-95d6a996e85459e8",
+   "date": "2026-11-14",
+   "title": "美联储报告：AI风险成美国金融稳定最大隐忧",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1JdVhQamgzaGNzc0l0ZjkyalpUeUhzZHRqLVhCMXRCMzNVeFhpcE81bjMtd3B4TFNZMHZrRzU2OFN4UzVPNU5oNVlrSWpoMzNCa3JoR0drRmlMdkpCRER1YkxqcmE3Zw?oc=5",
+   "source": "联合早报",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "美国"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-15T12:53:18-07:00",
+   "keys": [
+    "95d6a996e85459e8",
+    "e6944a8fb5ebb28e"
+   ]
+  },
+  {
+   "id": "2026-11-14-dbd383ef454a0f2e",
+   "date": "2026-11-14",
+   "title": "AI Governance Bill expected to be tabled in Dewan Rakyat early next year",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5SLTItV19EUS05ZTNONzk0RG8waWhHTkt4aDBNV211RVFIamdTREx6SkVYa0MxSEJjTnFCQmpXcl9wZ0txMWV3X1N0aWNEaThwZ2JWaFMtdF96a3NrSHlSbjFUU1diS09Ma1puOHVxRURQZmoxdTh3RDRfTQ?oc=5",
+   "source": "The Sun Malaysia",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-15T12:53:18-07:00",
+   "keys": [
+    "c8eada0333be5860",
+    "dbd383ef454a0f2e"
    ]
   },
   {
