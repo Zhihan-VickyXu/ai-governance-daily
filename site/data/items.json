@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T12:53:21-07:00",
+ "updated": "2026-11-15T16:10:33-07:00",
  "items": [
   {
    "id": "2026-11-15-ea974b7a89eebec8",
@@ -1186,8 +1186,13 @@
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQWVBMzM0T3FEOXZOOGpCSmxVMkpabjNaaWF6Nm1XTXZlUko2NnpJSXhJYnZwRlN0MHVjNzFaM3Q4ejVOSG0zOW1qd0ZxdzYybG5Ga1UzRGU1dk5MY29SYVRNZEdCeEZFTXZIZUVUUFJ6WERfdmRNeE9scjF1dm5FRnNDbVJuY1pCQXVYNk10em1pSnNwRDI2V201b0xEbjFhdlE?oc=5",
    "source": "Law Society Journal",
    "tier": "",
-   "also": [],
-   "coverage": 1,
+   "also": [
+    {
+     "source": "ChannelLife Australia",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZzB0OVl2VzFHaklKVkRUUkVrWlNBYjZJcW5haWFmWkJuRDc2d0FQY2J6S3drNUZsUzJQSDNUbzVfcDQ2bklpYWN4VnJUVWwwaVdpUlVTVVdzd292aXBRNlFWdGpDNTFOTTBsQ0pGcGVLNnJEalZrTHR0dnc0bUFXTlZKWlJFcVRJVUhSbQ?oc=5"
+    }
+   ],
+   "coverage": 2,
    "category": "立法与监管",
    "regions": [
     "其他"
@@ -1197,7 +1202,9 @@
    "addedBy": "auto",
    "createdAt": "2026-11-12T16:53:58-07:00",
    "keys": [
+    "1e0ba20ed3533b6d",
     "4e0fc2bd77cbfb1b",
+    "596353a2fbe92b9e",
     "dd3cb296017361c4"
    ]
   },
