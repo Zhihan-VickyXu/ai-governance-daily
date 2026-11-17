@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T16:28:11-07:00",
+ "updated": "2026-11-16T19:06:11-07:00",
  "items": [
   {
    "id": "2026-11-16-143c7732c4ad7610",
@@ -251,6 +251,121 @@
    "keys": [
     "4d4b5dc1358df0a2",
     "56fc7db42a9a7a44"
+   ]
+  },
+  {
+   "id": "2026-11-16-3da00b8f30d804f8",
+   "date": "2026-11-16",
+   "title": "鹤壁市山城区上线“互联网+AI”智慧监管平台",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBoX3lJT1hsdkdBZlAtbHBsVWFTUXJyRlV1SmxpWlZjM05OSlB1d3R2MHRRRnhfek1oczFhZFpyT1ROUkxnbWp2Nk9CWHVPXzROZVduVHdpY3B4anFNOTQzRGNLUEN4Xy1Nak5iYm5R?oc=5",
+   "source": "人民网",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-16T19:06:07-07:00",
+   "keys": [
+    "3da00b8f30d804f8",
+    "601dd8743a47ccfe"
+   ]
+  },
+  {
+   "id": "2026-11-16-0c9a7120bcdc0132",
+   "date": "2026-11-16",
+   "title": "Delaware lawyer sanctioned over AI misuse, but law firm escapes punishment",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMWRXU3liMkJTaVV3bTJ3SXZTZ2t5QUdKQ2luQjJ5Q042WUdvWUQtY0kwQnc3V0xmRmo4WExFTlVvN0xnaW5lY2pQMGdWRUJibWplY01Pa0cwMTJvZkk3cXpqMmNYcUxYaTl1UndBaG5XMGtISXMxMVBkRWszVG02Z0ZkLVRLSy1PV1VSVXRsRUxvcUFZci13R21FejV0X1hOQjlNR2hlcmpsZE43YURudXlrRE8tUnBlek41ajFzbw?oc=5",
+   "source": "Reuters",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-16T19:06:07-07:00",
+   "keys": [
+    "0c9a7120bcdc0132",
+    "2e0bd1a2d410f041"
+   ]
+  },
+  {
+   "id": "2026-11-16-00ba2c862b81b84e",
+   "date": "2026-11-16",
+   "title": "ECB VP says AI, debt have become prominent stability risks",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaUIwR3dyWlp4dW42NUJuVC0yU20wNVhiWGJxNTJiVG1WSGlrdjRVTXZ6dm9oYVRmQjZwRDVyZjRFVXhTSzVLMTFoLU9JaUg1MnF3cUZVbTRCUURya1VEdUxEZDJROWhZTkVicVVKay1FSmVWblFoeGQzVVBIWnFTSERNZ1VzLTIxOTh0WjNpNGZ4aVotSEZJTWJwRmtvZUV3aVEyTjEtbzI0bEpQUG5oWXpaYw?oc=5",
+   "source": "Reuters",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-16T19:06:07-07:00",
+   "keys": [
+    "00ba2c862b81b84e",
+    "8b63926b4c806bad"
+   ]
+  },
+  {
+   "id": "2026-11-16-f8d00efd41408843",
+   "date": "2026-11-16",
+   "title": "美联储评估AI对经济三种影响情景：若未能达市场预期或导致经济放缓和失业率上升",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5rdndMXzJIdXdRR1Z5RjFncmM5di1ObW84QXhHY2I2S0lQUlRlNW94N0IybktzYmplVFlnY0dzZGpXTlFoQWU4SUl6TGg5X29IVnptMnBwN1RLOEg5eXpVRQ?oc=5",
+   "source": "ThePaper.cn",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-16T19:06:07-07:00",
+   "keys": [
+    "6b5083b7d6a2ee14",
+    "f8d00efd41408843"
+   ]
+  },
+  {
+   "id": "2026-11-16-4e056537f28d815b",
+   "date": "2026-11-16",
+   "title": "美联储主席沃什重磅讲话：AI对经济很重要，但需要防范这些重大风险",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1iUlVPUUFZNTdDQnA5NUZhaGRIVENaZ21XbEo0c1poM01IX3ptZmR5TlFUZWQtNkJVUDRjX3pqWTVjTldOZmp4N0ZTcEVZMVpnUjhZ?oc=5",
+   "source": "第一财经",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-16T19:06:07-07:00",
+   "keys": [
+    "4e056537f28d815b",
+    "6da36041a986b409"
    ]
   },
   {
@@ -1279,6 +1394,29 @@
    "keys": [
     "99888f2a0a934e9f",
     "fe83c6e579790892"
+   ]
+  },
+  {
+   "id": "2026-11-13-c6ddbab4f59e14f2",
+   "date": "2026-11-13",
+   "title": "Between Rigor and Reality: How AI Safety Benchmark Developers Understand Benchmark Use and Maintenance",
+   "summary": "Safety benchmarks are cited as the primary tool to understand the risks posed by generative AI (GenAI) systems, yet growing evidence suggests they often fail to meet the needs of real-world safety evaluation.",
+   "url": "https://arxiv.org/abs/2611.18930v1",
+   "source": "arXiv",
+   "tier": "b",
+   "also": [],
+   "coverage": 1,
+   "category": "安全研究",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-16T19:06:07-07:00",
+   "keys": [
+    "7297d8ccff02478f",
+    "c6ddbab4f59e14f2"
    ]
   },
   {
