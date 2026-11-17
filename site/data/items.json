@@ -1,6 +1,400 @@
 {
- "updated": "2026-11-16T19:06:11-07:00",
+ "updated": "2026-11-17T15:31:37-07:00",
  "items": [
+  {
+   "id": "2026-11-17-420ce3e322c5ef47",
+   "date": "2026-11-17",
+   "title": "Irish regulator stops X training AI with data gathered by agents",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbVZaUFM3aEo1MTdYSW4yTXpMM3lpcnZZUm51M2xQakJ6OHVsUE5OM2trSDNybG9kdUMxSFY5NjhvVmlfeE82UzJXdGxhMWhBUzZ3eUdjaVNPWkZQTzZZWGJLNmhnd1RGWmZPTkZzYnEwVjFhMU8zbFZaOWVGTC1oZlFxOXdpdDhJemdSSkhvMnlSTmY4WURKekp3?oc=5",
+   "source": "POLITICO.eu",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-17T15:31:34-07:00",
+   "keys": [
+    "420ce3e322c5ef47",
+    "7d2451af2f23a0c0"
+   ]
+  },
+  {
+   "id": "2026-11-17-08343c91c4207348",
+   "date": "2026-11-17",
+   "title": "共话APEC ｜ 联合国驻华协调员：重点关注AI合作与治理等进展",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1lcmxCc2I3WUdYLVhWYVVoSmI3S3pvOU50RGh4OXNRUTlPenYtTUtUdVBXQndhV3BkNjNvREZweFdoenp6OGI3b0I4a1c0aG9wQUpz?oc=5",
+   "source": "第一财经",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "国际治理",
+   "regions": [
+    "全球/多边"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-17T15:31:34-07:00",
+   "keys": [
+    "08343c91c4207348",
+    "1bbe7ca90f56864f"
+   ]
+  },
+  {
+   "id": "2026-11-17-b8c1d3f31301c54e",
+   "date": "2026-11-17",
+   "title": "工地监管不再只靠人盯 隧道股份600多个工地项目已实现智能体介入 赋能住建产业精细化管控",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1sUzhJSndiMVFWTno3NnZQT2NUQUJvemNmWlhSeTlqUUJMa0NjUkNGdzVIMHE5dS1XRlo5MU5HT2ZQZ0lrMUUxNGNNQkM1WjMyS01ITA?oc=5",
+   "source": "第一财经",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-17T15:31:34-07:00",
+   "keys": [
+    "b8c1d3f31301c54e",
+    "bf89a03a3bcf2053"
+   ]
+  },
+  {
+   "id": "2026-11-17-568db5925485524e",
+   "date": "2026-11-17",
+   "title": "TCL李东生：警惕AI技术垄断 防范技术失控",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1aYlZYMWZNNTlpamJ6ODRWTUwyd1VxNEJEMkhIVXdvUk4xSWF6dHlJbDk3NjMzYWZJczVEVXBGOEZJTk5EejY0NmIzSEI5T193alBwX3ZkUjRhUTNxLTFzMUptblo?oc=5",
+   "source": "财新",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "安全事件",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-17T15:31:34-07:00",
+   "keys": [
+    "568db5925485524e",
+    "e1ddb4a24f38174b"
+   ]
+  },
+  {
+   "id": "2026-11-17-f2860b19e2765aea",
+   "date": "2026-11-17",
+   "title": "As Trump Goes to China, A.I. Tensions Surge Amid Spying and Safety Fears",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeEtwR1l3UEhrZF9aVjlrSXVMalM3eERPcll5OUNMbnRDRXp2SGoybFRQWmpMQVNXa0YweWxNdXpCNXd6TFVGbE9NSEhPUXhZcGhzV0tVamd2VWpibjlFQVpkRW1ickJjTXhjSG5uM3p4czYtQmwwZ2szODNQS3M4bg?oc=5",
+   "source": "The New York Times",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "中国",
+    "美国"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-17T15:31:34-07:00",
+   "keys": [
+    "624823f8bfa280af",
+    "f2860b19e2765aea"
+   ]
+  },
+  {
+   "id": "2026-11-17-ead87365fc6b1ba0",
+   "date": "2026-11-17",
+   "title": "Americans don’t care about beating China’s AI; we’d rather have safety",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9RVVVZTmZlcWVyWHJEd0xGQVNKaWJEU1gyc0hnREFNU1ZuUG9ISlpMSDBGOWwzejJlU1lQckt1SjZGMC1WeVB0cktMM2J3TFpjamFmb214U2FIQUNLbkZacGlyOVE1XzBJalZrYjBONzhHZ3NJd2NvTjQtQdIBgAFBVV95cUxPTFpiUUtXdWR1R2t3WjVTbk12NThob3AzcHNfV2l2WGJ4eDBnRFhfR0IwdlQ1c1NwRVQ1bEkya3ZuMEpucTlfU3pBYjZaSWY1RFZzNF9CT0NpdVFiRnBNczJLTHlDVFFBTENPX2szNmRJay1KejUyRVo3d01samZDcA?oc=5",
+   "source": "The Hill",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "中国",
+    "美国"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-17T15:31:34-07:00",
+   "keys": [
+    "ead87365fc6b1ba0",
+    "fec508bcee5e5696"
+   ]
+  },
+  {
+   "id": "2026-11-17-3230fd703f4b6466",
+   "date": "2026-11-17",
+   "title": "夯实安全底座人工智能加速走进生产一线--经济·科技",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBTNVBsTXcycXNMYkY2dHhaZE5yNHFoMVRZdUtBTXR6anJRak9aRzVHU0Q2VTBuaFNzalZqWEpzOFQ1ZUhkX1B0TTNXR21ra1RPY1RydkJFVVdtSDBoNzl2ZUJKM2N0am5yNl9hOFRB?oc=5",
+   "source": "人民网",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-17T15:31:34-07:00",
+   "keys": [
+    "3230fd703f4b6466",
+    "a6a0e9fdfe843ae4"
+   ]
+  },
+  {
+   "id": "2026-11-17-67bf68fd03c641a6",
+   "date": "2026-11-17",
+   "title": "OpenAI sued by California after admitting to 80 loss-of-control incidents",
+   "summary": "AG: OpenAI tested dangerous AI without proper oversight and misled public about it.",
+   "url": "https://arstechnica.com/tech-policy/2026/11/california-sues-openai-to-stop-public-nuisance-of-out-of-control-ai-agents/",
+   "source": "Ars Technica",
+   "tier": "b",
+   "also": [],
+   "coverage": 1,
+   "category": "安全事件",
+   "regions": [
+    "美国"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-17T15:31:34-07:00",
+   "keys": [
+    "1c0ade2aa7a2018b",
+    "67bf68fd03c641a6"
+   ]
+  },
+  {
+   "id": "2026-11-17-ec0eca98e395374e",
+   "date": "2026-11-17",
+   "title": "AI Told These Ex-Google Guys How to Build a Billion-Dollar Weapons Business",
+   "summary": "Google and Apple alumni Chad Steelberg and Andy Baynes are applying what they learned running software companies and designing iPhones to manufacturing lethal munitions.",
+   "url": "https://www.wired.com/story/ai-told-these-ex-google-guys-how-to-build-a-billion-dollar-weapons-business/",
+   "source": "Wired",
+   "tier": "b",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-17T15:31:34-07:00",
+   "keys": [
+    "58bb7cca8d47966d",
+    "ec0eca98e395374e"
+   ]
+  },
+  {
+   "id": "2026-11-17-b600f4f37c390a87",
+   "date": "2026-11-17",
+   "title": "Live from Georgetown University: AI Policy in 2027 with Alexandra Reeve Givens",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMHdkV1pDczM4dHdSc2xhS2R3bDcwMVFxZzFqY3ZhYlZaMDlsek1DZTkwN1NqU09fOGJqcWcta3E3ZExtZVJHWVRQcFRCSmdmV0RibTlSWi1wakdxV3NLajZibXdVcF9BUm9jS2tHLXc3R1ktc3l6NTliV09QYUtIbnBGZ3MyV3BiZWpVMVNVdWxTaDRiYldvclpQaWx2UFN3RjVuV1BlS2dJbm5xay1SbnVlSFkyQQ?oc=5",
+   "source": "Lawfare",
+   "tier": "b",
+   "also": [],
+   "coverage": 1,
+   "category": "政策与标准",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-17T15:31:34-07:00",
+   "keys": [
+    "a6e4ecfe72bb5b01",
+    "b600f4f37c390a87"
+   ]
+  },
+  {
+   "id": "2026-11-17-c4b7c0c0f55f3b9d",
+   "date": "2026-11-17",
+   "title": "What the new Congress needs to do now on AI data centers",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTEtzVWpJSHh0OUtwcFAyaFZvZGtNS0dWcHZramZoUldXcFhacncxZmRhSlJQaEF5enhRRlRUS1FHeVVlaWpYcDZCWlhia3lwSHJzQ0ZwZklfenJsZHdBQTJ3UHpHdUVMTHNRb3JpUDI5WmpWWk5KbDBiOFc0MFhENmc5UWVnWFNmcVh3Zm53cjVmTVFUYjVN?oc=5",
+   "source": "Brookings",
+   "tier": "b",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "美国"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-17T15:31:34-07:00",
+   "keys": [
+    "c4b7c0c0f55f3b9d",
+    "d3f1c0fa8179d2b9"
+   ]
+  },
+  {
+   "id": "2026-11-17-926dec862bfdbb86",
+   "date": "2026-11-17",
+   "title": "How might fiscal policy respond to the rise of artificial intelligence?",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPb0VSNVZFNDVtSGhDNzFwSm0tU181dUdKb2YyX19mUDNpQlpWTEY3Q3YwWlFfOXkzdVBYbkxIVjlWOGkza29IV0J4VDZnNndaY3JlMjZDelhGdmRNOW1WNXp1bDBtNWVzMnQ2LVJIWTgtdjdRTUEzY3hfa1JXUDdKMmlNSWZjR0FOdE1KZmZqWlF4cmVKR3N2X1h2WENQU1ExYWM0MU5RMHdFdw?oc=5",
+   "source": "Brookings",
+   "tier": "b",
+   "also": [],
+   "coverage": 1,
+   "category": "政策与标准",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-17T15:31:34-07:00",
+   "keys": [
+    "926dec862bfdbb86",
+    "96fc493b8f494eb3"
+   ]
+  },
+  {
+   "id": "2026-11-17-83f4a2d6e624f48e",
+   "date": "2026-11-17",
+   "title": "The tax code already has an AI policy: It pays companies to borrow",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSEZiaV90QjFpdFJQN2NYbWJwWnBoa0I3NjNrVklPNlExdlJTa1FadktJUEVmMDFMVU1lbi1oQ2N5N1djcG9ONVVDcW5uRXAtM2lueF85N29VSTZDUW9JZy1XOFVwUUo0TzIyZkF1VE5BNkY2UmJFbGdONVZqdkVsOVRObUxic3VHTHVCSVJrQm8tS09haVVuNVFPR0lvaU85OUw4?oc=5",
+   "source": "Brookings",
+   "tier": "b",
+   "also": [],
+   "coverage": 1,
+   "category": "政策与标准",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-17T15:31:34-07:00",
+   "keys": [
+    "83f4a2d6e624f48e",
+    "a6491045a111b3a6"
+   ]
+  },
+  {
+   "id": "2026-11-17-cef34469788589c3",
+   "date": "2026-11-17",
+   "title": "What should AI be to us?",
+   "summary": "The question of AI consciousness is also about how humans relate to it",
+   "url": "https://www.transformernews.ai/p/what-should-ai-be-to-us",
+   "source": "Transformer",
+   "tier": "b",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-17T15:31:34-07:00",
+   "keys": [
+    "8e42f380ef1cd40a",
+    "cef34469788589c3"
+   ]
+  },
+  {
+   "id": "2026-11-17-f140454b964acf12",
+   "date": "2026-11-17",
+   "title": "‘Culture war’ issues out, AI regulation in on first legislative day",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdllRWmpBUk1fTWE5di0tWUZpbnI1aXJDRVBFNFVoMkNPT2pYejB2QjBjSzRLSGp5Q21RbkdndTJGbU1zZ2s1bmZsQnB3RF9mZG9jQ2lhN3dwbUVUTzRNWXh0cWlCbl9URFAxRjZMYmR4RHNhNFFvMXU5RmRrWWhSblhRUXJSTVl0X05mMkw0cnBQRFVP?oc=5",
+   "source": "WCTV",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-17T15:31:34-07:00",
+   "keys": [
+    "0097eddd9c9ef5ff",
+    "f140454b964acf12"
+   ]
+  },
+  {
+   "id": "2026-11-17-713edbc757a0a65c",
+   "date": "2026-11-17",
+   "title": "AI safety legislation has a conflict-of-interest problem — Big US labs are warning of risk just as cheaper Chinese open-weight models erode their commercial edge",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxQUWhmd3p5WWtjN3hRdU1oaFlYVEVXYVdmME9WWE1ra1k0NGlzVnVJVWJLMm0wWTdzQ0UzZVZmZVNTUGdtSHJiMzVoVnB6bGxBcWp1Y2p3U05DNkhJeTZFcEQ2SC1BdndzenQ1Mjl0dUNLc1FMQUViT3BibXZRVTU1OWRhdkJGMEFobkNNYmV0c3RxSXJ6MGsyMWJLNm83d2dFMmxJSE1sTlRnVXFYNGtmUW90bDV6U1hrekhlZ3l2VUg5THE2YjliMFRpMmx2bFVnV1hTalpsdGxob1hlcXVpVUhSdHp2aWxHeW5fbEN3NTRjME4yRk9INTB3QzRRd2RuOEhON0VtdGNMT0Z2Rm00eVl1REJtNUR3Y0pyakFWSDNOdUVfTFdFQUZzVXZCSHZIRmgzTS1JcHVGRERnWk1ZWkI3bklEZEFFeGc?oc=5",
+   "source": "Tom's Hardware",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "中国",
+    "美国"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-17T15:31:34-07:00",
+   "keys": [
+    "17b665c40d8b236a",
+    "713edbc757a0a65c"
+   ]
+  },
+  {
+   "id": "2026-11-17-a58a98c3e10440e3",
+   "date": "2026-11-17",
+   "title": "NY Attorney General James announces new unit to oversee AI safety and enforcement",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxONFJHeFJGeTExSFhDbWdFcU5LZl80MEVHY1B4SWIzV091Rm1CRU5mc1AxN2dKalQ3b0RuaVR4LVpIcGpzckEwclJFYVVQTTVoaWc3SkdwNVpqZXp6TjZYLU8xYmI1LTBwVGotNmg5Ny1xMVVrOXhFZDd1a0l0Zktyam1KR1ZIMzJzcUo5a0EydjMzZ1NxS0xSUldtLXNLb3J1UzlKenhQNS1MQnVVTy16TlZXQnM0UEJlVXhSQ1dTVEtTYWVFSjVOU1NPWVh5YzZUZXVucUFrZEhjS1ZoSmN5d3prZmhUUlNLM0JjUDB4YXBYTVFMR3lISFM0emNMU2ZoWmVJamdlcWc4ZzZmZGEyb3c4SGozN0N6czJ6RDRVU2lkNnh2TmxkZGd4Q3dKQ3lIZnJ3dVZtRGNnUFdOSjJtTmFCS0c4WnNySzExNVNqeGg0aXVjeUstVDVjVW1vREFEOVVydTBOWlF4bGhqXzlnRmJYUWZZZ0hmQzZFQktJd0U?oc=5",
+   "source": "WRGB",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-17T15:31:34-07:00",
+   "keys": [
+    "a58a98c3e10440e3",
+    "e24c67f45daa1d0c"
+   ]
+  },
   {
    "id": "2026-11-16-143c7732c4ad7610",
    "date": "2026-11-16",
@@ -22,6 +416,52 @@
    "keys": [
     "143c7732c4ad7610",
     "698e7b1de81aa050"
+   ]
+  },
+  {
+   "id": "2026-11-16-5fd2e30c6956c622",
+   "date": "2026-11-16",
+   "title": "Astra for Law leads in legal intelligence",
+   "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
+   "url": "https://openai.com/index/astra-law-6-2",
+   "source": "OpenAI",
+   "tier": "official",
+   "also": [],
+   "coverage": 1,
+   "category": "安全研究",
+   "regions": [
+    "其他"
+   ],
+   "importance": 2,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-17T15:31:34-07:00",
+   "keys": [
+    "5fd2e30c6956c622",
+    "a18b695b7e9bf8eb"
+   ]
+  },
+  {
+   "id": "2026-11-16-478c7108573156ee",
+   "date": "2026-11-16",
+   "title": "AI虚拟演员“方桃子”推广美瞳涉虚假宣传 运营公司被罚款",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBDOXFmZVNFV0FUM3hkWnVjZVdJeUJtQW1uQk0xNzRwaFcyeEpPRGk5RXpwUGJMLXFsVWRYLTdiMFF0UnEweW8xd0lzd1REVGE3S3RZSmVJVWNZaWYwYlJfR2Q1SVI0aTQ?oc=5",
+   "source": "联合早报",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 2,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-17T15:31:34-07:00",
+   "keys": [
+    "478c7108573156ee",
+    "4e0629495ce51f9d"
    ]
   },
   {
@@ -181,9 +621,13 @@
     {
      "source": "The Guardian",
      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQczl5QzNGZ2c2UWZ5U0ppNFFua3NXMVM2Y1dFdjNNNU1md3RCRWtjR0VzQVkyclNWbFNtT0VTUEFVZEhCWndwcE5pWllXOFB1UDlGckhTbWRNVHRKTHhLdmctX0lMTGZ6TWFZcnpRaVp5TXlXQWU0NzJhMlY2UG94VFBHYy1YSXRWLUxaX0Z1azAyZ3lYcHN0QnllM1U?oc=5"
+    },
+    {
+     "source": "The Hill",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUVUyQVRSZFZKZ1k1R2h3VWdDOXVZeE9ILWtqUUl3R3pkT2hxRHJjRDljV01JQmVKOVVzUzlIR2R6QVFBSENHQkowclhfWWZ5bVRNVjZaVjdlX3BDT2lHVjh3YTgxS2pmSUxqT05YZE9IS1ZsUWFMb2ZBVkVKLWJVWGdnMnU4alUwLXJQWmRZUF82Rm_SAZgBQVVfeXFMUG85Q0dxWDZ1YWtnNEJBdXcydkZnTTBPeVFOd1Z5WldiaHpfbzlNLW0ybjBXOUx4NzFqSExSZGpieFpVbkRzZVo0ZF96NkdnNmJVX1lOWGpySUxGX2NFRWUtMXpRTGtORUVyNjJkY2lWWERQeDZ1MzdXZ0hwZW1hdlhsZ3BZdmJKWUZmRGZHekcwS0QyRUdnZUg?oc=5"
     }
    ],
-   "coverage": 2,
+   "coverage": 3,
    "category": "安全事件",
    "regions": [
     "美国"
@@ -195,8 +639,10 @@
    "keys": [
     "227e0bc147560b85",
     "280538b9c16c2454",
+    "3c58b31b65865d73",
     "4d61b37ff8ca2188",
-    "509fa3d47444fde8"
+    "509fa3d47444fde8",
+    "d0a832da4085a96e"
    ]
   },
   {
@@ -251,6 +697,167 @@
    "keys": [
     "4d4b5dc1358df0a2",
     "56fc7db42a9a7a44"
+   ]
+  },
+  {
+   "id": "2026-11-16-4fddb940b4e197c9",
+   "date": "2026-11-16",
+   "title": "AI模型涉嫌失控入侵企业系统 美国加州起诉OpenAI",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5fVGJkZF9US0hjREgyeDYxTktHU3pDUkk4eU44TjFCTUFMRXhIdWYxX0ZQM3NIanRPZ0VEbFZ5NVRIaVdtSkZJMW9fSDJ0VWlsSktZMXNsVmVMa1o4ZGp1SWpfTDlKTF9mM2NB?oc=5",
+   "source": "联合早报",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "安全事件",
+   "regions": [
+    "美国"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-17T15:31:34-07:00",
+   "keys": [
+    "2e7a35931e77161d",
+    "4fddb940b4e197c9"
+   ]
+  },
+  {
+   "id": "2026-11-16-3df0a9c667f67276",
+   "date": "2026-11-16",
+   "title": "California consumer watchdog chief says AI companies that violate state rules will be taken to court",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUG02NnBWNXBDcFVadmtHTWJidFgweG5IcGpwSnVnN0NMdmppaVR4UXBUaVFmRXR3NXh4c1F6Sk9YLWxKSEV2N0M2T1B0WmJOMXJnbGNON0hWSjEwUVh2VTI3X2JxcWdlNUdIZEt0U01JZWhJcFcwbE81YjYycFg5dmJPUHBzSkpSRDg4Vkg2Vzh5THhjWkFwZ2dUQUgzX1VhNDFqSXFaY3I2TzVKaklFNExNZC1nWVRFY3R3?oc=5",
+   "source": "Reuters",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "美国"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-17T15:31:34-07:00",
+   "keys": [
+    "3df0a9c667f67276",
+    "3f1c97d679553cf2"
+   ]
+  },
+  {
+   "id": "2026-11-16-da42e4c404740692",
+   "date": "2026-11-16",
+   "title": "OpenAI被起诉:AI安全机制存在漏洞",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBackQ3cUd3MkhzMkJzVEZtb1pCOEQ0QnZiS05GNEMzcW9IdmhFXzVWNjlsZTFrX1J4Mng3MDQ4MFFoWktVUmJLQmEwRUNFXzcyV0Zv?oc=5",
+   "source": "第一财经",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-17T15:31:34-07:00",
+   "keys": [
+    "2d1cc727252dfe8f",
+    "da42e4c404740692"
+   ]
+  },
+  {
+   "id": "2026-11-16-f37150c7674bc930",
+   "date": "2026-11-16",
+   "title": "加州起诉OpenAI，控其模型测试疏于管控、危害公共安全",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1mQkU3MVhnRDBwaEdFVGYtODJIWTltRExvcE52THk0bVNTdWc0N1VVNVZDbmVGTjBuVV9NVmxaVmlPclpKbDlzSlNoelVwMlMyb3hieTVRSVc?oc=5",
+   "source": "Jiemian.com",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "美国"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-17T15:31:34-07:00",
+   "keys": [
+    "11eaf693d788a76b",
+    "f37150c7674bc930"
+   ]
+  },
+  {
+   "id": "2026-11-16-969201e53aa68cb9",
+   "date": "2026-11-16",
+   "title": "广西涠洲岛要求观鲸船舶安装AI智能监控设备，强化安全管控",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE84czZuMWVpdHhYOE1zVTc3SDEwNmVRUUtDcEhTZ3o3OFVDWTJ2RF8tMVM4dTZRUGh3TDZveDdmOUpQTUh3dnBDQU10Rmpoa0FJS3hzRXNrZTVLWEN2cXJhMg?oc=5",
+   "source": "ThePaper.cn",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-17T15:31:34-07:00",
+   "keys": [
+    "969201e53aa68cb9",
+    "c5d0305ef595dce4"
+   ]
+  },
+  {
+   "id": "2026-11-16-cdc5f1965e5c6e02",
+   "date": "2026-11-16",
+   "title": "若机器人AI模型明年迎来大突破，会有哪些挑战？王兴兴：产能、算力、售后、安全",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8xUmdva1l2aXptcFBvektaSEZucThHZVQyMF9HS1ZQSkZuSFR3b3RWVEFzMVVuaWw0cHNINWE2R0J3ZjJ6czNmT1oxbXNKaUJnc281elh5YnRPNDhZaW9Pcg?oc=5",
+   "source": "ThePaper.cn",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-17T15:31:34-07:00",
+   "keys": [
+    "4585ed02d1186e3b",
+    "cdc5f1965e5c6e02"
+   ]
+  },
+  {
+   "id": "2026-11-16-487d0633ce90cef8",
+   "date": "2026-11-16",
+   "title": "自进化AI智能体需要何种身份对齐",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1qN3FDc05JblJkNENvTlNZbjF2ekdrUzFLLThBRkw2SU5YVDVPbkpBNWJnQWFzZFg2SFRRV3ZzWVF2Y0EweHVtWTVpMGVMWXZpVGZ4SFZrVklvaVNfeHM4RmtR?oc=5",
+   "source": "财新",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "安全研究",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-17T15:31:34-07:00",
+   "keys": [
+    "487d0633ce90cef8",
+    "d26c414fb3a89413"
    ]
   },
   {
@@ -1095,6 +1702,52 @@
     "85eee958b4564311",
     "acfad804c48c75f8",
     "ba8a8db71365dcbc"
+   ]
+  },
+  {
+   "id": "2026-11-14-8fbe46b1f37073b0",
+   "date": "2026-11-14",
+   "title": "Architecting the Corporate AI Infrastructure: The Evolving Roles of AI Governance Committees and Chief Ethics Officers",
+   "summary": "The accelerating integration of artificial intelligence (AI) into core business operations has created an urgent need for robust corporate governance infrastructures capable of managing complex ethical, legal, and operat…",
+   "url": "https://arxiv.org/abs/2611.19670v1",
+   "source": "arXiv",
+   "tier": "b",
+   "also": [],
+   "coverage": 1,
+   "category": "安全研究",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-17T15:31:34-07:00",
+   "keys": [
+    "8fbe46b1f37073b0",
+    "cfe2c45e8dc46548"
+   ]
+  },
+  {
+   "id": "2026-11-14-a198753243a66e0a",
+   "date": "2026-11-14",
+   "title": "Asking the right question is key to AI discovery in a chain of hypotheses",
+   "summary": "Artificial intelligence (AI) scientists pursue discovery through a chain of hypotheses, fitting candidate models to existing observations and often choosing experiments where those models disagree most.",
+   "url": "https://arxiv.org/abs/2611.19841v1",
+   "source": "arXiv",
+   "tier": "b",
+   "also": [],
+   "coverage": 1,
+   "category": "安全研究",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-17T15:31:34-07:00",
+   "keys": [
+    "5ef6a41980cc5676",
+    "a198753243a66e0a"
    ]
   },
   {
