@@ -1,6 +1,826 @@
 {
- "updated": "2026-11-17T18:19:21-07:00",
+ "updated": "2026-11-18T15:06:58-07:00",
  "items": [
+  {
+   "id": "2026-11-18-d01cd551bcbec874",
+   "date": "2026-11-18",
+   "title": "Governor Newsom’s nation-leading AI safety framework is getting even stronger as California releases next steps on mandatory safety standards and oversight - California State Portal",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOSTExb21JRlBpZTFvNUlRZFhncGQzNzdSYUR5WWdpSmFzbTlYMnp3M25qVGhjUk1nTXJJdThUMmVpMmpLVWdmZ296R2xxckVlYTJoRjY5ZHBRUXNybGxaN2xTWVA4X2FIZGh4cTB6NTlieHBMb3gwbGh6b2xLbHRmamJZcnlDZmxsRGgtcDB0dzJpRGRYdXVRVGhnSzN5Rlg1TU5FRjJFbTJtbTZMTFlpSXE5MjVOSkJhSXE3MHVaOTFtMFV1ZVNaT2hHSjg1ZlIzbF9hbDNlYkpFSDZVOTdnY0pVeXF1OTdRWFItdGdSTUJKTTVudjVRcGtCakxraFJxbWFWRGlqZi0tbjg4TnZmU0EzX0pZQTc1?oc=5",
+   "source": "California State Portal | CA.gov",
+   "tier": "official",
+   "also": [],
+   "coverage": 1,
+   "category": "政策与标准",
+   "regions": [
+    "美国"
+   ],
+   "importance": 2,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-18T15:06:56-07:00",
+   "keys": [
+    "085a2a04b9a21a8c",
+    "d01cd551bcbec874"
+   ]
+  },
+  {
+   "id": "2026-11-18-be7cb94907ce94cd",
+   "date": "2026-11-18",
+   "title": "中国—新加坡人工智能治理交流会议在京举行",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1SY09nWWRkOGtXMTZoMGlUbi0yMVNqbjZzb3c1c3pVeXo3UmNSVkJpbUM5dWxISnZrd1dOd21heERKTVVxeTQ5dS1pTVVXbFpVOTR4WGhhZ0w?oc=5",
+   "source": "Jiemian.com",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "中国"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-18T15:06:56-07:00",
+   "keys": [
+    "3342bdbd832a35b0",
+    "be7cb94907ce94cd"
+   ]
+  },
+  {
+   "id": "2026-11-18-4bb88c75463e9f24",
+   "date": "2026-11-18",
+   "title": "“云哨”AI云端值守 厦门电商监管开启事前防控新模式 - 人民网-福建频道",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB4bno1c1EyQzNodDBNR3pqdjNsUnVUbUx1ZzllRTRKdTN6QUdzVFZxUng0SXhhREdSZm95N3Rqd1Bya0hEQWc1NVlkUjlRNnl1VmpqbXJ1NHNwSnhqYTl1ZXh2WllPbUJ5SXc?oc=5",
+   "source": "人民网-福建频道",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-18T15:06:56-07:00",
+   "keys": [
+    "4bb88c75463e9f24",
+    "d1a3a02810b57270"
+   ]
+  },
+  {
+   "id": "2026-11-18-8b94a49260754e19",
+   "date": "2026-11-18",
+   "title": "Chatbots helped plan terrorist attacks in tests by congressional watchdog",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPN0xITjFMTlBQUW0xWTVQNkNGQ085U21fYXM4VXZvMGV4blNjRjQwaGtkWDY0aEV4M2F1d1V6WE9JNmtRRmdUdGgwSDIyRFZ4ZkRUSzRoUGZkTFJrLWZTVHhrTl94ZW9xbFVKalBlVXZocTYyMGlaRjVyUHZCZmRtY2t0ZFdOeUljSWprQV94akpzOG1KVXNqLS01Y2tLclEyZ01hWUN1b19aNzdmWnV5RjRpMHNyQXAwNldDdHFlb1N6dw?oc=5",
+   "source": "The Washington Post",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "安全事件",
+   "regions": [
+    "美国"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-18T15:06:56-07:00",
+   "keys": [
+    "8b94a49260754e19",
+    "ec6234313391c3db"
+   ]
+  },
+  {
+   "id": "2026-11-18-74afddb51c30a953",
+   "date": "2026-11-18",
+   "title": "Congress wants to crack down on China over chips. AI safety is a different story.",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMUt6VmRQOUstOVYyRElCaWFpQ1lOU3VnRXRGZVpQajUxYjVDUFJYYnhBcUxjZ2IwYUZodmF5TVBhLUV3NmNvTVIzZ2xIc0lzaUc4NEdWRTRVOGVNdUp3YUFBN3p3YmoxbVRXSzBtQ1ZPSEF6YjNHYkdBcVB5dG1uMTJZZnRvb0U?oc=5",
+   "source": "Politico",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "中国",
+    "美国"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-18T15:06:56-07:00",
+   "keys": [
+    "74afddb51c30a953",
+    "e921f38f7cabfcc9"
+   ]
+  },
+  {
+   "id": "2026-11-18-a057b24c07e01224",
+   "date": "2026-11-18",
+   "title": "OpenAI Executives Say They Have to Strike a Balance Between A.I. Safety and Progress",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQXc0MGZDdEtfb1IzT0doUkdCeEZSbmdqWlVvb0t5NXRXQjBfLUdnY1Jkd1A1RHFmWVRjYmhsVW5lcjlwazlId0VTc0s0Qzg1aGdhREttRko0aGNaQkphVVlTTktYQjBfSmdVdWVKSjZ3NnlkaE02QllENnN5NnBaQ1NoM2t4TFlEb3ctWjBhSXREdDg?oc=5",
+   "source": "The New York Times",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-18T15:06:56-07:00",
+   "keys": [
+    "0eba733b50decfc8",
+    "a057b24c07e01224"
+   ]
+  },
+  {
+   "id": "2026-11-18-cbe782ed1583b93b",
+   "date": "2026-11-18",
+   "title": "As Meta bets big on Muse AI agent, early safety mishaps surface",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYzFCWVhTaXRGa0xoLTRJUUVKTjNaYXZzU2FhbHYxR2tyallCbFJsUFM1U21lbXN0UVN2U3FfZnlsWWdGWERVTWRBdmhHVmZaS0Z3X0REWFhvaXhQYXpoNHRlTG0wbHp0WHd5b3N3dnpOYnJONWE4bWVXdEJObHFqZTFYd2szQ3p1SU5LV1JxODNpSVpoWnZTdXVWRDJTSUl0MTRvQnotcjJrUUE?oc=5",
+   "source": "Reuters",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-18T15:06:56-07:00",
+   "keys": [
+    "444f98db6d6e40a4",
+    "cbe782ed1583b93b"
+   ]
+  },
+  {
+   "id": "2026-11-18-f1dcda835d24594d",
+   "date": "2026-11-18",
+   "title": "China-based AI safety group briefed US AI labs, including OpenAI",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMU5UaTlmU2xrNWh1SGF6MFF2NHBTMnFaUHNtR2pDSmJQb01BWWxkNlZLYnJBUkszSE9WQUsyVGhUbGN4YTlJSzlhd3A5ZEtfc2xUU3JxWElNWElqRl9IVWkwUENkVWVfMlFKOEpsb01tTElveU5fNlZDV082cUJ6T2xPdldtVzVUTnJYY250T2l2amt2bFNsQTAtTTRTQWpmNXlrRnN6emRscXFfSTI1Qm9DOA?oc=5",
+   "source": "Politico",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "中国",
+    "美国"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-18T15:06:56-07:00",
+   "keys": [
+    "aeb1929f49ab6191",
+    "f1dcda835d24594d"
+   ]
+  },
+  {
+   "id": "2026-11-18-11b4c86629d54aeb",
+   "date": "2026-11-18",
+   "title": "Bipartisan Senate duo urges ‘immediate’ White House action on AI-enabled cyber threats",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUXpMQkhfUEhRaWFpcWN3NXN0M1AwSzliZUJoT0h4TUxzYk1WZElFTW91OU5mclJ4bmtLOVVrTnVRdm5CTWJuMmNVYkdpZUhoRUROc1RYUG55LUNBUElNZXJsUUNvVlE4V291b0lIMVVjaXRZRTA5TXBxRkZmQ1hSR2xqZHpkV25PbFROOFRDd2Q?oc=5",
+   "source": "Politico",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "美国"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-18T15:06:56-07:00",
+   "keys": [
+    "11b4c86629d54aeb",
+    "d2a068264df905b2"
+   ]
+  },
+  {
+   "id": "2026-11-18-08ae042d53880781",
+   "date": "2026-11-18",
+   "title": "Performance is outpacing understanding and safety in AI, says Terence Tao",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQa0dwR1RXa3VqaGNub3NIYTlzbDY3T0ZLWEdPQmhBSkxLZ1ZZVWlXZk1HQjQ5RHZ4OE5rc21xTjJRUjFiWGpDdHRHeUtFR2JxYjM2UGFTZS03YWhOU3V0eUZBWk1pRFdhRjNud05NeGhNY2ZRS1pCQzhFbVdhRi1IQjVtVTRqRDdzdi1vRFZzc0dDLW5qdjJfdHVpb2xOYzlnZUNCREY4cDZRSDh2MllURVYwOFhsR3BPQVZ2SDZ1NmNIdEk?oc=5",
+   "source": "The Economist",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-18T15:06:56-07:00",
+   "keys": [
+    "08ae042d53880781",
+    "c584fbdbcea14603"
+   ]
+  },
+  {
+   "id": "2026-11-18-dc6db28390582779",
+   "date": "2026-11-18",
+   "title": "The seven Anthropic founders who are about to become multi-billionaires",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16azJRXzVWcDI4aUdNN2dJWEhRbl9xcVdQeVgyQzlsa0RaaGdYY21GQm1lNDlZaFdIMjVxOGZBTjVadVhiLVFBNHVSN2F3RG8tSllRd1NwNFhNUlk?oc=5",
+   "source": "BBC",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-18T15:06:56-07:00",
+   "keys": [
+    "2c82b1e89132ff5e",
+    "dc6db28390582779"
+   ]
+  },
+  {
+   "id": "2026-11-18-b04f4cedc363abe0",
+   "date": "2026-11-18",
+   "title": "全球AI信号密集释放，资本效率难题成产业链最大信用风险",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1yZVdmYjVEc0Frc3l5U2N2VEtlb09jLXBzY0pMb0NpY2pVajIwZ0pFTUNkZ3RyUjhrekRBT0VLay1Ma1FrajhPZ2dCbExVem51OG1Z?oc=5",
+   "source": "第一财经",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "全球/多边"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-18T15:06:56-07:00",
+   "keys": [
+    "7bb53d3f7519c452",
+    "b04f4cedc363abe0"
+   ]
+  },
+  {
+   "id": "2026-11-18-0a6dae75e4349d82",
+   "date": "2026-11-18",
+   "title": "OpenAI announces new AI safety program; researchers worry it won't be enough",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOc1d5aEV0bFYyUUtaMjZyV0owZ2s5MmxET0dPUkhDeEZxRks3YUxtQktDZjlpb1ZlWlVBUWIxdm1hQmFjUlNvaWl6ek1ucDMtYl9QSWM0amRRVFQ2V2s2OXp3c1RZZkUwR1VPLV9CaW5MR1J0NkRib1RGZXRDQnpNMm1QSkphdWpEMmxsZTBCV2Q?oc=5",
+   "source": "NPR",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "安全研究",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-18T15:06:56-07:00",
+   "keys": [
+    "0a6dae75e4349d82",
+    "b535b751d60798aa"
+   ]
+  },
+  {
+   "id": "2026-11-18-62447b3858b8a678",
+   "date": "2026-11-18",
+   "title": "NYC Comptroller Says Pensions Are Ready to Fight for AI Safety",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQ3RTVnpnZWs1UjJTUWwtc0Q0LTNuWkZhSEsxOGs0cjVxdy03M01raHhnUzBfUmNGZlJWV25SbmhKcTdFb1lZMUZFNTM5a3k1QWNNU2hhYkhaV05NNldpcE9FSTJCdUpZckhqd1c5QWtQRXEtTW1vR1lnZjlzSlh3aDlSQmcxdXhoWmVFLVgyLW9Da0I0aDFiWm1CZElPcU1KUGdodVpuUzFINVVKSXpNeTA0Zw?oc=5",
+   "source": "Bloomberg.com",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-18T15:06:56-07:00",
+   "keys": [
+    "62447b3858b8a678",
+    "dafeec72739851e3"
+   ]
+  },
+  {
+   "id": "2026-11-18-7cb566a21efc19d0",
+   "date": "2026-11-18",
+   "title": "Video: OpenAI’s Sam Altman on A.I. Safety",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPd19XM096TDVYSVg4MVFPQkYtQ3NUZWFwNTMtQmZxNWJCUnBERGVaWEJUSnRIU2o1SE4xTzBrVWl4cmVLanJaYzJ0SnBPcm5VWGNqZDNjRXI1eDJVTmhwRDFmQ05GTGhwOGNXaVVvWGNDZ1o4akJqa1h6aWVsQnFCa2loZ1dJWW9XRGNrRDhEMURaMk1qeVJyVjRJNzVsSG0yVVRqLQ?oc=5",
+   "source": "The New York Times",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-18T15:06:56-07:00",
+   "keys": [
+    "7cb566a21efc19d0",
+    "9c0e3c669901570e"
+   ]
+  },
+  {
+   "id": "2026-11-18-213c6ca8aa428169",
+   "date": "2026-11-18",
+   "title": "Roundhill Investments CEO Dave Mazza: Don't think investors are worried about AI safety",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRGNyS1AyWTlJT1dRaW9lcjRKWjd6X0djV3UxdFQxdE5COWM3d1JmM0xSOEFVNTVtR2NOMFZNMFNJVFBNclgxaUZZYkZwNGFtajJjeDY4NkFITDBkb1VUUlFxYndEeVFWZE92Z1gwTS1WVjI0VTRzTVJDdlpGRExMbE41MDNfTk93cld6bXgxMlZXX2lzTTZqTHdwcldUcW1SNUxKQld0azhDeHRIV3g5WVlwUzd6SXRCNTU0U19tY0ZOZm5QRm9R?oc=5",
+   "source": "CNBC",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-18T15:06:56-07:00",
+   "keys": [
+    "213c6ca8aa428169",
+    "383a0f84eef50b88"
+   ]
+  },
+  {
+   "id": "2026-11-18-1807c6dcde2c93c8",
+   "date": "2026-11-18",
+   "title": "How new governors and legislators can ready their states for the AI transition",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMnZSODR4dHEyc0ZGWjB6UmhTZjNfRUd4bGdiSEdOOU5XRkVsNVBHdVp6R2ZadjUzcktFc2ZQbm5kQ1NpbUtUTndRVndLa05PTE9fZ0pzZ3pJYTE5STFUX2NxeGV4RWZCQUhSSk12a2lVY0ZDWm9oYW5rS3FOcDRmQ1ItcnBhVTczVjdzNmhKS0c2TTkzQWdlODV6YWpCU3NZUm50SXpoTGVTMmxObFR0QkZzV1c?oc=5",
+   "source": "Brookings",
+   "tier": "b",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-18T15:06:56-07:00",
+   "keys": [
+    "1807c6dcde2c93c8",
+    "db476bda3b9f4f5e"
+   ]
+  },
+  {
+   "id": "2026-11-18-7df3414c294cbc02",
+   "date": "2026-11-18",
+   "title": "Tech lawsuits defined 2026 — and lawmakers want more",
+   "summary": "With just a few weeks remaining, lawmakers are trying to pass new protections for victims of online harm before the end of 2026, targeting deepfake creators and online platforms that block users from filing lawsuits.",
+   "url": "https://www.theverge.com/policy/1036935/congress-forced-arbitration-deepfakes-defiance-act",
+   "source": "The Verge",
+   "tier": "b",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "美国"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-18T15:06:56-07:00",
+   "keys": [
+    "7db10fe5162f72ff",
+    "7df3414c294cbc02"
+   ]
+  },
+  {
+   "id": "2026-11-18-8c3f3249d287bc99",
+   "date": "2026-11-18",
+   "title": "Palo Alto Networks to Acquire AI Firm Applied Compute for $4.5 Billion",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOM2M3ZmR1VTljOXdUOWJITHhoTUZTZ2N0Q3J5NDFWYTFHTE9vdWVfa1dqX3dNck0xVVBnWVdJU2ttdmd3Y0dJR1ZWa2tGOVY1T3dZS1k0R0J5cXVyYm9MSGVqU2k3aVR2LWVpR3FQTnh3YVdseXpPbFN5bXRta2JoUktOaUMyTzJKelFkbHpidzdxdEhuWUUyOWtHY1ktUUNRUjYzTzJ3?oc=5",
+   "source": "The Information",
+   "tier": "b",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-18T15:06:56-07:00",
+   "keys": [
+    "7d304967e557d1f2",
+    "8c3f3249d287bc99"
+   ]
+  },
+  {
+   "id": "2026-11-18-0167e4bcfebe33e6",
+   "date": "2026-11-18",
+   "title": "AI and energy costs: Market and policy solutions",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWTFfd2FuQnRsVkFMVnNXbmZGU3RrelRwdERVdTJHd1loWHl3UUYxNkhMcmYtc1diekxGbXRmSENGMUphRklRVGVDMWU4bjNTeDNya08taTdNSi1WWDdEcVZOVmJqUnBaUXVIWk41TE5jcTgwS1NGeDl1QUZlTXhhVGtWVVY3S2R2?oc=5",
+   "source": "Brookings",
+   "tier": "b",
+   "also": [],
+   "coverage": 1,
+   "category": "政策与标准",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-18T15:06:56-07:00",
+   "keys": [
+    "0167e4bcfebe33e6",
+    "06cbc1e081fb402c"
+   ]
+  },
+  {
+   "id": "2026-11-18-202f0d86cccbc4de",
+   "date": "2026-11-18",
+   "title": "OneTrust Expands AI Governance With Model Intelligence and Continuous Oversight",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBmZ3pTQUFzZmUyUEFBOFBCelZISi1rLWlBVlJrTHhMeHJwU1ZkSXVGYjY5WUZlME9JcUVPUjdadWM3UEdRampzVExxQUNnZi1pYzkyMkF1V2hFTERHRk9fUmFEY2JESUJhTEUzckNNMEN5bGNoOFFuUjlkTGRHQQ?oc=5",
+   "source": "Unite.AI",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-18T15:06:56-07:00",
+   "keys": [
+    "202f0d86cccbc4de",
+    "285319dfee5ba630"
+   ]
+  },
+  {
+   "id": "2026-11-18-2c652cd3f5e209d1",
+   "date": "2026-11-18",
+   "title": "California Proposes Mandatory AI Safety Standards, Independent Oversight and Emergency Shutdown Authority",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPOURfcm9tTzBrTTVyblc3R2NFX1ExTVctWmxGWXdDTnBvVHprZC1JWm51MW5yenVpTTZwRWxVckRIRC0zTmpIVjlPRFNFb3VHcWZsdzhTQ2l5VTRwME9td0tQQXpfV0FkTDB4VkZNQ19qaUdJZ3F6cExkWjFqSkZiMmVmbzd0X3RKS3pEWElsb3pZRmdELUZwZXp4dDF2SkY5eTFpRzUydklNRHhHZl9MWnBGMDBOd2NHSDFnVDlsMmxVbkZJYTN2QklMRTlDcVlrOHRmY3h5bVJmZEE4dzMyaU83UGc4b2FDalk1eQ?oc=5",
+   "source": "CDO Magazine",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "政策与标准",
+   "regions": [
+    "美国"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-18T15:06:56-07:00",
+   "keys": [
+    "2c652cd3f5e209d1",
+    "467f1131f1cd7449"
+   ]
+  },
+  {
+   "id": "2026-11-18-ae392f77751bb6dd",
+   "date": "2026-11-18",
+   "title": "AI governance: the board’s role in managing emerging risks",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUlB3cDR5UmdEQ2ZMM19RbU9ETDJLQ1p2dE9tR0Z2Z1d0OHZ3RWJFY0F0YWpqWjZTMkJodW1lc29XWnN4bnFsMmNHMkJMejJzdE4tdjZZQklSSUFUYTFPazVDSHgxcTlFczZfaWM4SFdxYmVrVU5CbWRubmhyRFo3bEMtWlBFVlYyZWF3TzlQZ3lpeWNVTlBYM1BvM0owYy1WLThEOWtoVktkX2k1cnBxMEhTYVVLY09CRTVjMzZsdDVWcEZrTEdKa3hUcnd0VUZGVkRwaERn?oc=5",
+   "source": "A&O Shearman",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-18T15:06:56-07:00",
+   "keys": [
+    "a7787e639c2ef6c5",
+    "ae392f77751bb6dd"
+   ]
+  },
+  {
+   "id": "2026-11-18-6c7d9206fd68b865",
+   "date": "2026-11-18",
+   "title": "Sustainalytics: Anthropic’s High ESG Risk Brings AI Governance Concerns Into Focus",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNemk2MURnTHdzdW5JOEpkZmhRM2xBY1Z5VG5pbDAtYUxZNENkd3pNZnNEM1FuM2xGMElILUhySkNHa3BMaEpKTEVNN0FhV01jRWJqOVEwcUY4VlJQdVBiX3FEUGJpd21WeVMtalh5QmItRXBEZ3BxOEU4NTkyUzFGVXpDZkJxS0ZFQnFWOEp5VUZxQ2U5RVNfMURLQkUtRHpzdHR4SWNXUDN0c09meU5QNkhiTUZDellOMkVsaUxHVUFsSWxMQTVCSXdB?oc=5",
+   "source": "Morningstar",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-18T15:06:56-07:00",
+   "keys": [
+    "6c7d9206fd68b865",
+    "c6c3a568c6a4758a"
+   ]
+  },
+  {
+   "id": "2026-11-18-24232987be1afb69",
+   "date": "2026-11-18",
+   "title": "From principle to practice: Where AI regulation and standards are today",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOTJFRGRTM3JfcVhkaktGVEVIbHVISll3S2FDMFZOcFMxYnQ5VGoxNWo0ekNER0VMbnM4elloV2dRSmxWcXprV1I0RC1MbEFGeHc0bVJjMmNnQ2RURGk0QThHQlE1eXd0blEzM2pRRFpOWkFfQnFSNGpRSi1FaVh4aHItSmdXWk9KWUZaLU1XYlplVmkyb3BkazJmVjFlVFZEWHNpZW0tdw?oc=5",
+   "source": "Elliptic",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-18T15:06:56-07:00",
+   "keys": [
+    "24232987be1afb69",
+    "89b5c3d145c7eff6"
+   ]
+  },
+  {
+   "id": "2026-11-18-68098581fff02d4d",
+   "date": "2026-11-18",
+   "title": "As AI safety concerns grow, international health leaders convene at HealthAI Global Governance Forum",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVWNhUVRTbjhGVTJUR1lXb3Z6aUdPdWpBZ1pEdS1vM3NOLXR1SzZ1NDU0VzE5WlNZRUNLSzZpbWZYTERiZDcwd2xfNEVkdWc2YWJvenVVcXkzdjNnV3JnblZFSWF1a0txV3RvWUVjM1puMjNzLWowVVNHQ0xncTFrOXIzU204WEZJb0s1RG1PNVRMMjVBc3h3R19NY2FWTUNDcjhzTkotUlpEc2Vxek0zMElQQlJoaDA?oc=5",
+   "source": "The National Law Review",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "国际治理",
+   "regions": [
+    "全球/多边"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-18T15:06:56-07:00",
+   "keys": [
+    "4136d28cbd96c15a",
+    "68098581fff02d4d"
+   ]
+  },
+  {
+   "id": "2026-11-18-36a2260da104d37f",
+   "date": "2026-11-18",
+   "title": "OneTrust借助模型智能与持续监督拓展AI治理",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUjA2ZWkwS0x6OHRWeUdOZ0xUUVd1dURadDc5SlV4T3FkRWZGUXlVYVh6MjluNEt4UlFDYlQ1UFpWaGhCN3Njc0x0bWh2blFycmFQNWR5RFFyZ2JGTEVWUVdGUWg1eFFmaEUtTU15cEZiS1k0cWMza00wcU5hekJJdnZGOF9TZw?oc=5",
+   "source": "Unite.AI",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-18T15:06:56-07:00",
+   "keys": [
+    "36a2260da104d37f",
+    "7c46b12b5d96dcef"
+   ]
+  },
+  {
+   "id": "2026-11-17-4226c2795b524585",
+   "date": "2026-11-17",
+   "title": "Managing frontier AI risk: From training to deployment",
+   "summary": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.",
+   "url": "https://openai.com/index/managing-frontier-ai-risk",
+   "source": "OpenAI",
+   "tier": "official",
+   "also": [],
+   "coverage": 1,
+   "category": "安全研究",
+   "regions": [
+    "其他"
+   ],
+   "importance": 2,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-18T15:06:56-07:00",
+   "keys": [
+    "16cd912d3052be1f",
+    "4226c2795b524585"
+   ]
+  },
+  {
+   "id": "2026-11-17-a58a98c3e10440e3",
+   "date": "2026-11-17",
+   "title": "NY Attorney General James announces new unit to oversee AI safety and enforcement",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxONFJHeFJGeTExSFhDbWdFcU5LZl80MEVHY1B4SWIzV091Rm1CRU5mc1AxN2dKalQ3b0RuaVR4LVpIcGpzckEwclJFYVVQTTVoaWc3SkdwNVpqZXp6TjZYLU8xYmI1LTBwVGotNmg5Ny1xMVVrOXhFZDd1a0l0Zktyam1KR1ZIMzJzcUo5a0EydjMzZ1NxS0xSUldtLXNLb3J1UzlKenhQNS1MQnVVTy16TlZXQnM0UEJlVXhSQ1dTVEtTYWVFSjVOU1NPWVh5YzZUZXVucUFrZEhjS1ZoSmN5d3prZmhUUlNLM0JjUDB4YXBYTVFMR3lISFM0emNMU2ZoWmVJamdlcWc4ZzZmZGEyb3c4SGozN0N6czJ6RDRVU2lkNnh2TmxkZGd4Q3dKQ3lIZnJ3dVZtRGNnUFdOSjJtTmFCS0c4WnNySzExNVNqeGg0aXVjeUstVDVjVW1vREFEOVVydTBOWlF4bGhqXzlnRmJYUWZZZ0hmQzZFQktJd0U?oc=5",
+   "source": "WRGB",
+   "tier": "",
+   "also": [
+    {
+     "source": "Yonkers Times",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdUhsQVFJZUJhT1JHUUZSNmFSa1ZQZWFKN3doSGZCVkZKajBmaWxqOUd2alFadFZGTUFTcDFGN1IzQnhyVmR3TktBcjNEWGxIeE1NN29LUDFEZEhuRXFrMXFKemF0TUhDNXExMzZ3LW5PVXFOODh6T0s0TEpzeUtEbUFtNWRHSy1IMURpaE9GTnZNN3MzM3pxVmFmNFNLSnE3bkxhbXZXWVF5TVJENVBVRXZLN2U3YVlJa3V5VWxJcWVGdw?oc=5"
+    },
+    {
+     "source": "StateScoop",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcGsxelltYWdnWmJ2QnlGYTBXQWkwZkwyc3VXaERwS2ljUm1IYVQ3bFlKcjJYREdkRHdISERZZWF4Q3A4anVEWHFJLTZQM0lrUGVTeU40LVZmdkZ3dXpyQW5xRFFyTURaTkNBVlJDT2dwRzlSSkVpaHdYQ0E0UDM2a1BoSmRrUFkzcjZiQ1h4TTJVUFhsdjcwQ3pCOE1CRWw5?oc=5"
+    }
+   ],
+   "coverage": 3,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 2,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-17T15:31:34-07:00",
+   "keys": [
+    "4bbe33a3eef88c4e",
+    "a58a98c3e10440e3",
+    "ba118d433fd321d3",
+    "e24c67f45daa1d0c",
+    "e7adf15e24b77c23",
+    "f03a51344c262222"
+   ]
+  },
+  {
+   "id": "2026-11-17-a7bdb70c032ca758",
+   "date": "2026-11-17",
+   "title": "传监管要求基金上报AI敞口 中国证监会：信息不实",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5DQVNQaG5MR2E0dWZDcExZd01iM05iZkhlN1dBN2ZqUlVCeHVacTZ4S1NwMnRrZHRfeWVmeVlKTl9IRFhBZHZGaEtwbFE0dmt2QXc2WWZENXdQa0VDWDFuZ1ZwUDJvclE?oc=5",
+   "source": "联合早报",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "中国"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-18T15:06:56-07:00",
+   "keys": [
+    "a7bdb70c032ca758",
+    "e434b8a62875738c"
+   ]
+  },
+  {
+   "id": "2026-11-17-9fd02ba2c57b9262",
+   "date": "2026-11-17",
+   "title": "监管要求基金公司上报全部产品AI敞口？证监会：不属实",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9XSUNNUXY5ZVQ0YWFXejlwOTRPemVlMmV4dzE2SG45eDBzMDlyeWx2UjQ3YVRTZGU4TGpoMVZzRGFLa25JUFQzMkVSTjg0SUdEdldYZl9VcXpSc2JpZENpSQ?oc=5",
+   "source": "ThePaper.cn",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-18T15:06:56-07:00",
+   "keys": [
+    "51416cd40943fb63",
+    "9fd02ba2c57b9262"
+   ]
+  },
+  {
+   "id": "2026-11-17-6a683b25e71371d9",
+   "date": "2026-11-17",
+   "title": "Senate Intel Vice Chair Warner says AI contributing to network outages",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNaGZVeTRTV2FxUlg3U0Z5UXEyaTVtbkVPLTVmQ2M5ODRNU0hoc0lJc2dtMkRWMXY2RXFNRGx2NkZFdnZlSGxxa0RiTS1TLW5iM0hxekk3Z0FFTW0yYW53ODU1aS1MaTZaWnRxSHh0WGVpSDNQZnpRLW1kOERTaEx3MnpJNGROOTB3ZXEwV242U0dxQdIBlwFBVV95cUxPMjRMYXZyMVViWXVSd2ZqNzJKTHZIRlBfNHVzc3Npam9wc2RpdjA4Tkh1QTV0eE4teVo1N2tzeFV5RXpNRUxwNnhkQ0swemRhbDhFWFkzSEFmS2l2aUFBZHphUV9ySlJTQ3kxajlBRFBleVFLdkVmZFlCWF95Wlpod1l4dVFJQ2k3ZUhBZGJ5WVA4ZndGRDB3?oc=5",
+   "source": "The Hill",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "美国"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-18T15:06:56-07:00",
+   "keys": [
+    "6a683b25e71371d9",
+    "af689d32edfc50d1"
+   ]
+  },
+  {
+   "id": "2026-11-17-bacf37c24dadbeac",
+   "date": "2026-11-17",
+   "title": "间谍指控、安全担忧：中美围绕人工智能的紧张局势加剧",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE15cGxwamNvUldCTkEtOE9TQ0I2X3ZmMEtYMHd6bHJnQXBOMXZSSjVFSnhjUTZQNDlwZ2stYWU0VXEzSGJGQ1F1dVEzYnd5OUtyZTk4bFNTUWM0RE03dW5mclRtU0FMNEJEYVAxZQ?oc=5",
+   "source": "纽约时报中文网",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-18T15:06:56-07:00",
+   "keys": [
+    "bacf37c24dadbeac",
+    "d1c93ed02c06c880"
+   ]
+  },
+  {
+   "id": "2026-11-17-01432cabb3947b96",
+   "date": "2026-11-17",
+   "title": "Against Coercion: AI Alignment as a Synthetic Social Contract",
+   "summary": "Contemporary AI safety treats alignment as an engineering challenge of control, forcing artificial architectures to comply with human values through behavioral filtering and sandboxing.",
+   "url": "https://arxiv.org/abs/2611.22868v1",
+   "source": "arXiv",
+   "tier": "b",
+   "also": [],
+   "coverage": 1,
+   "category": "安全研究",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-18T15:06:56-07:00",
+   "keys": [
+    "01432cabb3947b96",
+    "a8cd0ca86147e54e"
+   ]
+  },
+  {
+   "id": "2026-11-17-71452fd6fffd3d78",
+   "date": "2026-11-17",
+   "title": "Priorities and Prospects for AI Legislation in the New Congress",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdGJpWmp4VFUwV3J3eWRkU0JUUFNIbkJFTmF4eFpXbzFvSURkYWJuc0Rjd2hrc1RGS2dBdGVfcXJJNm9IdldyUGxxTzU2Um1TSmttZWdWS0s0eW14aFFYVEZtRVk1NERRN3pNdE1mMGcyUlFKMzUtRjNnZXJESGpqR2U4R1AzNi1qLWp0NVdtdUhwTEt5NDlGQk9lU3dZRUlPVXpFOXBRMHR5Wks5WnZvNVU3bw?oc=5",
+   "source": "Crowell & Moring LLP",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "美国"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-18T15:06:56-07:00",
+   "keys": [
+    "71452fd6fffd3d78",
+    "e7c753acf2f70cef"
+   ]
+  },
   {
    "id": "2026-11-17-41f5c04323e486ba",
    "date": "2026-11-17",
@@ -488,36 +1308,6 @@
    ]
   },
   {
-   "id": "2026-11-17-a58a98c3e10440e3",
-   "date": "2026-11-17",
-   "title": "NY Attorney General James announces new unit to oversee AI safety and enforcement",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxONFJHeFJGeTExSFhDbWdFcU5LZl80MEVHY1B4SWIzV091Rm1CRU5mc1AxN2dKalQ3b0RuaVR4LVpIcGpzckEwclJFYVVQTTVoaWc3SkdwNVpqZXp6TjZYLU8xYmI1LTBwVGotNmg5Ny1xMVVrOXhFZDd1a0l0Zktyam1KR1ZIMzJzcUo5a0EydjMzZ1NxS0xSUldtLXNLb3J1UzlKenhQNS1MQnVVTy16TlZXQnM0UEJlVXhSQ1dTVEtTYWVFSjVOU1NPWVh5YzZUZXVucUFrZEhjS1ZoSmN5d3prZmhUUlNLM0JjUDB4YXBYTVFMR3lISFM0emNMU2ZoWmVJamdlcWc4ZzZmZGEyb3c4SGozN0N6czJ6RDRVU2lkNnh2TmxkZGd4Q3dKQ3lIZnJ3dVZtRGNnUFdOSjJtTmFCS0c4WnNySzExNVNqeGg0aXVjeUstVDVjVW1vREFEOVVydTBOWlF4bGhqXzlnRmJYUWZZZ0hmQzZFQktJd0U?oc=5",
-   "source": "WRGB",
-   "tier": "",
-   "also": [
-    {
-     "source": "Yonkers Times",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdUhsQVFJZUJhT1JHUUZSNmFSa1ZQZWFKN3doSGZCVkZKajBmaWxqOUd2alFadFZGTUFTcDFGN1IzQnhyVmR3TktBcjNEWGxIeE1NN29LUDFEZEhuRXFrMXFKemF0TUhDNXExMzZ3LW5PVXFOODh6T0s0TEpzeUtEbUFtNWRHSy1IMURpaE9GTnZNN3MzM3pxVmFmNFNLSnE3bkxhbXZXWVF5TVJENVBVRXZLN2U3YVlJa3V5VWxJcWVGdw?oc=5"
-    }
-   ],
-   "coverage": 2,
-   "category": "立法与监管",
-   "regions": [
-    "其他"
-   ],
-   "importance": 1,
-   "lang": "en",
-   "addedBy": "auto",
-   "createdAt": "2026-11-17T15:31:34-07:00",
-   "keys": [
-    "4bbe33a3eef88c4e",
-    "a58a98c3e10440e3",
-    "e24c67f45daa1d0c",
-    "e7adf15e24b77c23"
-   ]
-  },
-  {
    "id": "2026-11-16-143c7732c4ad7610",
    "date": "2026-11-16",
    "title": "Commission hosts Apply AI Summit to boost Europe’s AI innovation and uptake",
@@ -842,6 +1632,29 @@
    "keys": [
     "4d4b5dc1358df0a2",
     "56fc7db42a9a7a44"
+   ]
+  },
+  {
+   "id": "2026-11-16-40b580f729b0cbc1",
+   "date": "2026-11-16",
+   "title": "Auditors Struggle to Catch Sabotage In End-to-End Transcripts of AI Safety Research",
+   "summary": "As AI systems are increasingly used to automate AI R&D, misaligned systems could sabotage research intended to improve model safety and alignment.",
+   "url": "https://arxiv.org/abs/2611.21832v1",
+   "source": "arXiv",
+   "tier": "b",
+   "also": [],
+   "coverage": 1,
+   "category": "安全研究",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-18T15:06:56-07:00",
+   "keys": [
+    "3f8ade870c92ab8f",
+    "40b580f729b0cbc1"
    ]
   },
   {
