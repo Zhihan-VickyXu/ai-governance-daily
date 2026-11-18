@@ -1,6 +1,121 @@
 {
- "updated": "2026-11-17T15:31:37-07:00",
+ "updated": "2026-11-17T18:19:21-07:00",
  "items": [
+  {
+   "id": "2026-11-17-41f5c04323e486ba",
+   "date": "2026-11-17",
+   "title": "Nvidia warns chip buyers of legal risks tied to China AI access, CNBC reports",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTkRSdklpUUw5TWMwRC1JeG1YVHFnY0RXSTZwQmQ1MlJQRUhBb05zV2JUSUtiZnJKMktZRHJvdnNMT0l4NDFUaFBTUW1rZmp3ZVhHTkMwWnZNdDJURnpQZ1h1dEU0QkQ0enNEblk0Sjc2T3VXTWJlOW01SXdQY2RwMk5UTTd1RHcwVHlfdDVqd0ptVEdqSUl5ejVvbTZzcU9aUVhVR2FEU21DYWZTZGFzMlNQU1QyeldHTWc?oc=5",
+   "source": "Reuters",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "中国"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-17T18:19:18-07:00",
+   "keys": [
+    "41f5c04323e486ba",
+    "7cf66d4d6b25f826"
+   ]
+  },
+  {
+   "id": "2026-11-17-77bab7f71feb7f2c",
+   "date": "2026-11-17",
+   "title": "微软联合逾40家机构发起AI透明度倡议，推动建立行业通用标准",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5EM0tuUVVPejhIdTY1SjYtdGtaWjBka0pwLW1nNFJoX3dYeHhDd05XajBYOVJHYWM4d1ZtOGM0d3hzWF9NNTJleXZMb1oyc3N0QWZDYTJUR1Y?oc=5",
+   "source": "Jiemian.com",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "政策与标准",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-17T18:19:18-07:00",
+   "keys": [
+    "5cd66cacb7627d6a",
+    "77bab7f71feb7f2c"
+   ]
+  },
+  {
+   "id": "2026-11-17-99504c5fd2f1a5eb",
+   "date": "2026-11-17",
+   "title": "Ofqual urges ‘life-altering’ penalties for students who use tech to cheat",
+   "summary": "England’s exam regulator says those caught using AI or smart glasses face disqualification from GCSEs and A-levels Students in England could suffer “life-altering” penalties if they are caught relying on AI or smart glas…",
+   "url": "https://www.theguardian.com/education/2026/nov/18/ofqual-urges-life-altering-penalties-for-students-who-use-tech-to",
+   "source": "The Guardian",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-17T18:19:18-07:00",
+   "keys": [
+    "99504c5fd2f1a5eb",
+    "cafd18b9e018b397"
+   ]
+  },
+  {
+   "id": "2026-11-17-fc3d2f8dad498bf8",
+   "date": "2026-11-17",
+   "title": "European firms grapple with regulatory uncertainty amid AI takeup",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSjlmOV9QYXItRnJwQk1uaXhYbGhRQVZlam1tYkgxZXh4bkxMSl91ZVVwT0NlRkNrRnFEUmF2ZEg4U1RVQWU4djFPWWFSQk1JTXhLakt1cWl5cTdBaTRYcUNzMUg3dkk4ajUzQzNlVm9MOW4yQnMwa09nZ1k5SWZLYWx0QXAxeTJ3WTJPUzBzTlRLLVN3VHhPMllUYXdCWWh4OXc?oc=5",
+   "source": "Personnel Today",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "欧洲"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-17T18:19:18-07:00",
+   "keys": [
+    "1797c27de97df728",
+    "fc3d2f8dad498bf8"
+   ]
+  },
+  {
+   "id": "2026-11-17-b563ac875d1ac8ab",
+   "date": "2026-11-17",
+   "title": "Ontario Securities Commission flags AI governance gaps among registered firms",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOek81VFo2TnZGb0ktdi1FT2V3UF9LcWJqbTAzWmE4ZUFIZGhfMDdPRXhzQjUyRU5VYmpWMFdjMGNVZVY0QmVXU293S2QwSlNrLWxjcVFma0E5aVV0em5FODRYdWVWd2ZpVWhqZ2RPSk5yUEtSWUxCX2xFblllQktROHhtdTd3R2UtQ01JQWJWWTRMMVNjdDZidmhvTlROSWYyQXFnb1c5bHJiVmUwWl9CWW9ZQzJ4ckJ2QVY5b19LZGdPamlPanc?oc=5",
+   "source": "Lexpert",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-17T18:19:18-07:00",
+   "keys": [
+    "7cc8b674ef6319ba",
+    "b563ac875d1ac8ab"
+   ]
+  },
   {
    "id": "2026-11-17-420ce3e322c5ef47",
    "date": "2026-11-17",
@@ -380,8 +495,13 @@
    "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxONFJHeFJGeTExSFhDbWdFcU5LZl80MEVHY1B4SWIzV091Rm1CRU5mc1AxN2dKalQ3b0RuaVR4LVpIcGpzckEwclJFYVVQTTVoaWc3SkdwNVpqZXp6TjZYLU8xYmI1LTBwVGotNmg5Ny1xMVVrOXhFZDd1a0l0Zktyam1KR1ZIMzJzcUo5a0EydjMzZ1NxS0xSUldtLXNLb3J1UzlKenhQNS1MQnVVTy16TlZXQnM0UEJlVXhSQ1dTVEtTYWVFSjVOU1NPWVh5YzZUZXVucUFrZEhjS1ZoSmN5d3prZmhUUlNLM0JjUDB4YXBYTVFMR3lISFM0emNMU2ZoWmVJamdlcWc4ZzZmZGEyb3c4SGozN0N6czJ6RDRVU2lkNnh2TmxkZGd4Q3dKQ3lIZnJ3dVZtRGNnUFdOSjJtTmFCS0c4WnNySzExNVNqeGg0aXVjeUstVDVjVW1vREFEOVVydTBOWlF4bGhqXzlnRmJYUWZZZ0hmQzZFQktJd0U?oc=5",
    "source": "WRGB",
    "tier": "",
-   "also": [],
-   "coverage": 1,
+   "also": [
+    {
+     "source": "Yonkers Times",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdUhsQVFJZUJhT1JHUUZSNmFSa1ZQZWFKN3doSGZCVkZKajBmaWxqOUd2alFadFZGTUFTcDFGN1IzQnhyVmR3TktBcjNEWGxIeE1NN29LUDFEZEhuRXFrMXFKemF0TUhDNXExMzZ3LW5PVXFOODh6T0s0TEpzeUtEbUFtNWRHSy1IMURpaE9GTnZNN3MzM3pxVmFmNFNLSnE3bkxhbXZXWVF5TVJENVBVRXZLN2U3YVlJa3V5VWxJcWVGdw?oc=5"
+    }
+   ],
+   "coverage": 2,
    "category": "立法与监管",
    "regions": [
     "其他"
@@ -391,8 +511,10 @@
    "addedBy": "auto",
    "createdAt": "2026-11-17T15:31:34-07:00",
    "keys": [
+    "4bbe33a3eef88c4e",
     "a58a98c3e10440e3",
-    "e24c67f45daa1d0c"
+    "e24c67f45daa1d0c",
+    "e7adf15e24b77c23"
    ]
   },
   {
@@ -416,6 +538,29 @@
    "keys": [
     "143c7732c4ad7610",
     "698e7b1de81aa050"
+   ]
+  },
+  {
+   "id": "2026-11-16-708385ebaf2174e9",
+   "date": "2026-11-16",
+   "title": "AI incidents and hazards in the media",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMk1HX05ac3Fid1pqMTFyMHY2N283RnItekpPZ0RzWkZscGZzaF9qT2pQeEMxUGFoellpZG10WksxZmpnclhvdHU4bXBtUWtVS255c2hGa0N5MXZwbWRBdHZXc0V1ODJsSHRIS2IybDRiTnZIaUpOQkJOckNUWkxvekxNWTVjOU9oNXYzWmdkUnRTaEEwQUE?oc=5",
+   "source": "OECD",
+   "tier": "official",
+   "also": [],
+   "coverage": 1,
+   "category": "安全事件",
+   "regions": [
+    "其他"
+   ],
+   "importance": 2,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-17T18:19:18-07:00",
+   "keys": [
+    "708385ebaf2174e9",
+    "e425b4b7670d2160"
    ]
   },
   {
