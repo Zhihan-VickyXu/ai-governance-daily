@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T15:06:58-07:00",
+ "updated": "2026-11-18T17:46:13-07:00",
  "items": [
   {
    "id": "2026-11-18-d01cd551bcbec874",
@@ -22,6 +22,52 @@
    "keys": [
     "085a2a04b9a21a8c",
     "d01cd551bcbec874"
+   ]
+  },
+  {
+   "id": "2026-11-18-858a5f5972eb6d1c",
+   "date": "2026-11-18",
+   "title": "美联储10月会议纪要：几乎所有官员认为仍需进一步加息，AI投资风险受关注",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1wRG95eU5MUHI2ZTNoeU91VEFSdW5YN3V5Y1RlQzdjQ2dyZ09EcHpuaENMVjBTaW0zVHZqTkpYWDBpT2hDbkVTeW11OTl1ckdIcXR1Sl9QdnBHZWUwbmtWMg?oc=5",
+   "source": "ThePaper.cn",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-18T17:46:11-07:00",
+   "keys": [
+    "84959c1a6155bdc0",
+    "858a5f5972eb6d1c"
+   ]
+  },
+  {
+   "id": "2026-11-18-7a6227fcab1a7b82",
+   "date": "2026-11-18",
+   "title": "Feds Warns of Cybersecurity and AI Governance Risks",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVFB6NVV1eFdQVGRyYXZhRUJQWHFDM21nZndoekJXcktCakQ0bWRyQjJucHd3R3BPNHdRVHQyWmlhbGFPVFhvYUY1c1NEOGVnRTBuU3hDWVlrOVAtbjM0dXBQRUJSNmV5ZGhiNDYyOENFRW1UbjlKRjZuX1pWRlB5TVZRb2wwSXMwdFhDSjlR?oc=5",
+   "source": "BankInfoSecurity",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-18T17:46:11-07:00",
+   "keys": [
+    "7a6227fcab1a7b82",
+    "c3d12df3813f5a1f"
    ]
   },
   {
@@ -714,8 +760,13 @@
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9XSUNNUXY5ZVQ0YWFXejlwOTRPemVlMmV4dzE2SG45eDBzMDlyeWx2UjQ3YVRTZGU4TGpoMVZzRGFLa25JUFQzMkVSTjg0SUdEdldYZl9VcXpSc2JpZENpSQ?oc=5",
    "source": "ThePaper.cn",
    "tier": "a",
-   "also": [],
-   "coverage": 1,
+   "also": [
+    {
+     "source": "Jiemian.com",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9EVFFWelJScDhNYUtoQW5TTWdxN1hUUElWMlZHa2p5cU45Njk0cmhMSERoRHJXWjNlZGdqRXJ5Rjc2RXRibk94Slp0aHhISThvWmF5OURn?oc=5"
+    }
+   ],
+   "coverage": 2,
    "category": "行业动态",
    "regions": [
     "其他"
@@ -725,7 +776,11 @@
    "addedBy": "auto",
    "createdAt": "2026-11-18T15:06:56-07:00",
    "keys": [
+    "122436c021fa4f33",
+    "145505c2aa4308de",
+    "3bd6b13ea78624a5",
     "51416cd40943fb63",
+    "5e86ded47042876a",
     "9fd02ba2c57b9262"
    ]
   },
