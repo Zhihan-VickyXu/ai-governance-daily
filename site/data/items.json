@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T15:17:46-07:00",
+ "updated": "2026-11-19T17:55:57-07:00",
  "items": [
   {
    "id": "2026-11-19-0ac066ea46556cc5",
@@ -139,6 +139,76 @@
    "keys": [
     "3ecba23070f95574",
     "60d9cd64021c6896"
+   ]
+  },
+  {
+   "id": "2026-11-19-fdaa768f82200458",
+   "date": "2026-11-19",
+   "title": "“互联网+AI监管”24小时全自动巡检餐饮后厨有了智慧眼-中新网",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1HYWh6YVZyeWl4eFg3T2c1dS1nSWN6V0h2dy1LTWNsWmUzMzRFVVVIMy1QZnhwS05tR0ZfVUd1cEtWUmdRVlN5OTRhRl9wbHJYeXhIYmJkQmIxMXY1LVlGSDJ0Y2E5VUJa?oc=5",
+   "source": "中国新闻网",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-19T17:55:55-07:00",
+   "keys": [
+    "888aceebab12ab97",
+    "fdaa768f82200458"
+   ]
+  },
+  {
+   "id": "2026-11-19-173007df77133079",
+   "date": "2026-11-19",
+   "title": "Trump, Xi agree on need for AI safety rules, US-China cooperation on regulations",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOQy1nQTRfQWZaT19XVDZXRFp5TFoxamRiaTIzdVlIY1d6LUZzc2dadHVvMDhrMS04NEQ4VHAzSWJlZVFFWWlwQTl5YkV1Zk9HY09GdG85VEg4b2FIMTA2dmNPa3ZBZXhYQldDM0lsMTd2TnNnN05GbXIwQnFHTnhGcnE2YW5MTFduTDd1N0N1Q0t6NnNhcGdVaGhxZGFpYVA4dDZJUlFYVlplSUNVOTJXbWZMbE9lRkkwNjhkQm1YVUJTUzl1YVgxVTZfWTktbC1XSHo2b3pWamIxSTFlbjhqcnhqNA?oc=5",
+   "source": "The Times of India",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "中国",
+    "美国"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-19T17:55:55-07:00",
+   "keys": [
+    "068ec736a1f44e82",
+    "173007df77133079"
+   ]
+  },
+  {
+   "id": "2026-11-19-5628fc9c4310d49d",
+   "date": "2026-11-19",
+   "title": "AI驱动的数据共享与财务分析创新应用及伦理治理：信息系统研究的新兴趋势与未来方向",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBMLWNzMVk5Rl9XaUc1MWhQYWJqbTRYcDg2cE9ucWwzUFdfYl9ha3FvVmU5WERWV2JOSU42WTBnc2plWnkydGIwWi1tRVJuVnphWWJ1YTRDbUoySW1HemZfcUFuZ0IyUFlqZjZJOVZ3?oc=5",
+   "source": "生物通",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "安全研究",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-19T17:55:55-07:00",
+   "keys": [
+    "5628fc9c4310d49d",
+    "5f7e38972db60c59"
    ]
   },
   {
