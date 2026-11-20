@@ -1,6 +1,328 @@
 {
- "updated": "2026-11-19T17:55:57-07:00",
+ "updated": "2026-11-20T14:55:01-07:00",
  "items": [
+  {
+   "id": "2026-11-20-2ce0d6ba29198254",
+   "date": "2026-11-20",
+   "title": "Combatting adversarial distillation",
+   "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
+   "url": "https://openai.com/index/combatting-adversarial-distillation",
+   "source": "OpenAI",
+   "tier": "official",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 2,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-20T14:54:59-07:00",
+   "keys": [
+    "2ce0d6ba29198254",
+    "bab9b9b98c77a1e5"
+   ]
+  },
+  {
+   "id": "2026-11-20-5c144758ffa889f3",
+   "date": "2026-11-20",
+   "title": "2026智慧病媒防制行业竞争格局，物理 AI 开启新一代蚊媒治理",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1pNW9iclBvSDBEM1IxNURNczdkS2g1VzlfUjNsYjNMRUQtNHpmWjRCbVFGU0k2ZWthZng3T3RpYjBlVWtuNFFRbkluS1l4UWlEREk2eEdwV1U?oc=5",
+   "source": "Jiemian.com",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-20T14:54:59-07:00",
+   "keys": [
+    "5c144758ffa889f3",
+    "a255be351b7e9f6d"
+   ]
+  },
+  {
+   "id": "2026-11-20-0a15d2a4311984ef",
+   "date": "2026-11-20",
+   "title": "国家网信办：9—10月新增133款生成式人工智能服务完成备案",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1SZl9CVDNCT2JheXNzUFppM011TS1uOElfT29ZMHhPUGhwQlRWckZJQWItcTRKeEp1RFZEU0lzcGloMXFQM2ZEN1RqdVZkYU9QXzBrNzBIYkRST3pOczZWaU9CMXVKd1FtaldRVUo2eW0xQmNZS3Y5cQ?oc=5",
+   "source": "央视网",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "中国"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-20T14:54:59-07:00",
+   "keys": [
+    "0a15d2a4311984ef",
+    "9d8181d85d180bde"
+   ]
+  },
+  {
+   "id": "2026-11-20-2afaa4ac3f438bbb",
+   "date": "2026-11-20",
+   "title": "Many Etsy Sellers Close Up Shop Over Site’s New A.I. Policy",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0ta1ZyUTJoeFlCYVB6Y3RLT3pUQVBSMGc5WXh5a3R0eDhCRGFYOGs0WHRBZ0c1NENGT25IR3kwd2xvMXEtZ2pLRENIZ1dBclRxVExqOF92emNPWE5XV2lnZl9iejdON002TlNv?oc=5",
+   "source": "The New York Times",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "政策与标准",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-20T14:54:59-07:00",
+   "keys": [
+    "2afaa4ac3f438bbb",
+    "3ae46caacd8b7f5d"
+   ]
+  },
+  {
+   "id": "2026-11-20-bad28c4a76543470",
+   "date": "2026-11-20",
+   "title": "Exclusive / Outages trigger congressional scrutiny of AI-enabled attacks",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOFdsU204SFM4anNCRFctNXVYNDZQWTh3clZPaW96cjdib055R3ByQTBnbmpjSU1jVlB0TFdxVnpoTk1QQVVldWFqZnZQT3ItZ3pmSGhlMlJhc3RqYV9Gd2E3dTBqZlFIZEtQaVFObnVNRFQtcHJCckwyTEViYmg4QjQ3d1IyMXU1VFhGUi1PNXRQMnhLUWg1N0o3QXNkYlBVLTc5dHF3?oc=5",
+   "source": "Semafor",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "安全事件",
+   "regions": [
+    "美国"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-20T14:54:59-07:00",
+   "keys": [
+    "bad28c4a76543470",
+    "d00b241ac71b64d7"
+   ]
+  },
+  {
+   "id": "2026-11-20-9f86d0fe1e79e3d8",
+   "date": "2026-11-20",
+   "title": "Trump threatens ban on US firms building AI data centres overseas",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1LazU5dmNQT2FtWmdoMTJVYWdnNWJHUm9OdmxOSk5DVG96VXMtdGMwelB1eWtiZzU1Zk1sNXE2NURBNS1lcTBaRXlMY2hkXzhLWnB4ZHl2aTJKelk?oc=5",
+   "source": "BBC",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "美国"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-20T14:54:59-07:00",
+   "keys": [
+    "9f86d0fe1e79e3d8",
+    "bfd3b6e608dae3b1"
+   ]
+  },
+  {
+   "id": "2026-11-20-ed9d3d41d6aad0af",
+   "date": "2026-11-20",
+   "title": "Watchdog calls for pause on AI data centres in Wales",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1YOVJkT2ZRV0FIRlJfQUpBTzRaZ092czV6T1hFblIzZ0FQUnNzRFN2YTh0dTV1dlcycmJkUktQV2lKYVJhNDBqVURjRjBEUlRlUkdxTDNGUDBnYVU?oc=5",
+   "source": "BBC",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-20T14:54:59-07:00",
+   "keys": [
+    "1226c60dc8f2bed0",
+    "ed9d3d41d6aad0af"
+   ]
+  },
+  {
+   "id": "2026-11-20-e406c076ac30e142",
+   "date": "2026-11-20",
+   "title": "Watchdog says AI smart glasses may violate your privacy",
+   "summary": "A Dutch privacy watchdog is warning consumers against buying AI-powered smart glasses.",
+   "url": "https://thehill.com/policy/technology/6231902-ai-smart-glasses-privacy-concerns-dutch-study/",
+   "source": "The Hill",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-20T14:54:59-07:00",
+   "keys": [
+    "e406c076ac30e142",
+    "e4b704cf360dc185"
+   ]
+  },
+  {
+   "id": "2026-11-20-50e65fd4b7975980",
+   "date": "2026-11-20",
+   "title": "Forget rogue robots, it’s tech billionaires and AI cricket that should really terrify us | Barney Ronay",
+   "summary": "The encroachment of artificial intelligence smells like the death of sport. Can we find the will and collective backbone to resist?",
+   "url": "https://www.theguardian.com/sport/2026/nov/20/cricket-rogue-robots-tech-billionaires-artificial-intelligence",
+   "source": "The Guardian",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "安全事件",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-20T14:54:59-07:00",
+   "keys": [
+    "040a734ea0c8bcf8",
+    "50e65fd4b7975980"
+   ]
+  },
+  {
+   "id": "2026-11-20-4e24010f64bf6113",
+   "date": "2026-11-20",
+   "title": "Phew! Some Regulatory Relief for AI Hacks",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZlU4NjR1WHU1X1FPalpDcmlPQmdYVGI1aGljM0NKc2N4MDJ4NVBBdHRINDRBYjlZcUREcHVaaEUtYUtuc25aNnNhdmJMR3k3a2MzNFQzZ191VVhCZFZuejRCXy1uM1VDeGQtdXFvbnVUY2hWTzJsOURleWw2WE96T2RpNG4?oc=5",
+   "source": "Lawfare",
+   "tier": "b",
+   "also": [],
+   "coverage": 1,
+   "category": "安全事件",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-20T14:54:59-07:00",
+   "keys": [
+    "4e24010f64bf6113",
+    "718a4c7bfdf7f76a"
+   ]
+  },
+  {
+   "id": "2026-11-20-b3358487ae71d632",
+   "date": "2026-11-20",
+   "title": "美国中期选举后新国会AI立法空间受限 轻触式窄口径路径更可能落地",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB5V2ZVQ2hZWTJKMUdPcEw2M0hJc3NWWkZHdURfeG5IMUk3N1BNaVR3MWhQbkhkTTcwRjNSVTFER2NsQlRZTWFNSWNITW9JN0hPaVhVdw?oc=5",
+   "source": "虎嗅网",
+   "tier": "b",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "美国"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-20T14:54:59-07:00",
+   "keys": [
+    "891c02c32b19165c",
+    "b3358487ae71d632"
+   ]
+  },
+  {
+   "id": "2026-11-20-02b1cd74ade466a6",
+   "date": "2026-11-20",
+   "title": "Policy can still work on short timelines",
+   "summary": "Transformer Weekly: California makes a bid to regulate AI, a new FRONTIER ACT, and Anthropic’s record-breaking IPO",
+   "url": "https://www.transformernews.ai/p/policy-can-still-work-on-short-timelines-california-states-ai",
+   "source": "Transformer",
+   "tier": "b",
+   "also": [],
+   "coverage": 1,
+   "category": "政策与标准",
+   "regions": [
+    "美国"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-20T14:54:59-07:00",
+   "keys": [
+    "02b1cd74ade466a6",
+    "19044c179cffb72b"
+   ]
+  },
+  {
+   "id": "2026-11-20-62d58f987296944e",
+   "date": "2026-11-20",
+   "title": "AI governance in Asia must move beyond regulation to build institutions and regional capability - Eco-Business",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxObnkwTERDcktBOERHYUZYeVJRdUJtTkVuankzVDRjXzUxcHBhMGdoZXp2aGtjOUhUcXg3NUdrS0FzYkxEbEtvN1YwU0VzZ2xqY3cyRmlJQXp2M2hDREwyTlpOWjZjUWNRb1pkYTJHTXBWaUk4c1phbVlXcEtodWFXUkJwMmRRcUZuV2JVNGRGY3lUSThvM2FqczZRRWp5bjJDX0tBQ0lYWHFEcnNjWHRHQ1JVeEpzVFZCZ3U0YlVwYjZ1b2gwSFBBSVo4bVJhby1WNzMwS1hkSQ?oc=5",
+   "source": "Eco-Business",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-20T14:54:59-07:00",
+   "keys": [
+    "62d58f987296944e",
+    "961a398e566f90f1"
+   ]
+  },
+  {
+   "id": "2026-11-20-03872ac55803928f",
+   "date": "2026-11-20",
+   "title": "Senators Introduce AUDIT AI Act to Require Disclosure of Off-Balance-Sheet AI Compute Leases",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQXlYd1J2emRISTAwTHZ4SnNkdHI3b2phcE9wTWx3bEg5RGJKUGdnbWpuc2NBb0xRM1V1NkJ6Vmc3QW80UnFHd19GYWE2b0NKUmNhdFA0RWVLeEV4UmExX2JjUFVORHJOVEV2bndzQnQ0czMyWVlvSE1SU0tyNFE3eUtnZw?oc=5",
+   "source": "CASRAI",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-20T14:54:59-07:00",
+   "keys": [
+    "03872ac55803928f",
+    "1c2f4c456b520c89"
+   ]
+  },
   {
    "id": "2026-11-19-0ac066ea46556cc5",
    "date": "2026-11-19",
@@ -139,6 +461,167 @@
    "keys": [
     "3ecba23070f95574",
     "60d9cd64021c6896"
+   ]
+  },
+  {
+   "id": "2026-11-19-3a0127dbce62752a",
+   "date": "2026-11-19",
+   "title": "火线评论｜治理学术不当使用AI，先从低级洋相抓起",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9NYjdVUUNaS1RCVTFrcVRoUnRGa2hxZFpCbnM2ZnlRcFVab1VEbXc4TDVaUjFVZUM2RjlfZ2EwRWZwbjE1cDlTY0hUSWxKelQ0M1JaRG02NXBLNkw5UkZuMTRR?oc=5",
+   "source": "财新",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-20T14:54:59-07:00",
+   "keys": [
+    "3a0127dbce62752a",
+    "680aabb4e9469244"
+   ]
+  },
+  {
+   "id": "2026-11-19-ba4a31b2d93cafc8",
+   "date": "2026-11-19",
+   "title": "江苏省市场监管局举行全系统第二场“人工智能+”路演活动",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA2anFGZk0ycy1wREZyTXA3cXVSTUwzNElJUXVfU1ZTWjV2VFpkc2duUXBjaDhiSWlTbHJTd1pGaXk5WUk0QkNKNHB4MVhwRWowYU1xU0k0M0hlQTlGY3ZZcDBmeVlOLU5yWnllekRlUEhMLWZOVTVSZU1n?oc=5",
+   "source": "央视网",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-20T14:54:59-07:00",
+   "keys": [
+    "b98394438b94d8a4",
+    "ba4a31b2d93cafc8"
+   ]
+  },
+  {
+   "id": "2026-11-19-e727ae9ce0e539f3",
+   "date": "2026-11-19",
+   "title": "From anti-war physicist to AI power broker, Amodei takes his safety approach public",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZnhhNDVzR1JMenI2MDVJa0lUc1E0T2dZRHpzREt6eUtxTVJfdHdWX3BQcU5nc0w5RUR0VzRFVjVDVDA3ZVo1c2w3Zk9SYlhhd1RoLXNOUjdvN01MQWJjUTNaSGk1Z1p6WWRFM3lwNlUyamYwb0dTNkxweXBhM1JRT1pNQkdtTTFrTjRVTXQzNFpfZXlRVmMxZF9JYlFBZUs3bGU0aVVRWndzcTdNY3B5dGJ2S1lXdW8?oc=5",
+   "source": "Reuters",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-20T14:54:59-07:00",
+   "keys": [
+    "5aab430c58d7743e",
+    "e727ae9ce0e539f3"
+   ]
+  },
+  {
+   "id": "2026-11-19-d105915bed798ae7",
+   "date": "2026-11-19",
+   "title": "This Billionaire Just Made a Bundle Off A.I. But It Could Have Been More.",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeXZ6eE9iLTltOVlCekZVQTRSRUlQYzBvWnk3OGd1UXg3ZnA3elVIYVpDLXZpUVFNMndtVDRrMU40V0hXdnIxUmVOUlBjcGZnYThVSE55NmxFMXh3Q3pmcnNRYVZZVzhrZkJuRTFUT2tIeWM3X1hHYTNBaEVqZm5yb3JuOXY4OFU?oc=5",
+   "source": "The New York Times",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-20T14:54:59-07:00",
+   "keys": [
+    "b87df8285ff28a78",
+    "d105915bed798ae7"
+   ]
+  },
+  {
+   "id": "2026-11-19-b2efeb3dac344a0a",
+   "date": "2026-11-19",
+   "title": "AI cameras have more capability than officers - police",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1uOE1xcGliY09mN2JPeHBKYUcxZTRXdnV5ZWsxenpvREJTclBCN1I1LVpsZ290NC1jUWh3TEdZbGZyY2h2VVlRbzQ3bjJpd2JzRlFzeHU5QS1YR2s?oc=5",
+   "source": "BBC",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "政策与标准",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-20T14:54:59-07:00",
+   "keys": [
+    "b2efeb3dac344a0a",
+    "cbddf634499894b1"
+   ]
+  },
+  {
+   "id": "2026-11-19-1255f66d293e21b3",
+   "date": "2026-11-19",
+   "title": "中国信通院人工智能研究所：个别机构假借名义开展AI数据质量评估技术服务",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5lTTc0UnhsM2owMkpzMWk5U2dveVZLUml6SExrV1VmUnVWQ2tkR1NSaUd0cGIwLU51SHYxT20yZ3VXNXhkR3BPcUp2SlhBRjRtSE9PTWp5ZGZNYU9uYnNjTQ?oc=5",
+   "source": "ThePaper.cn",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "安全研究",
+   "regions": [
+    "中国"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-20T14:54:59-07:00",
+   "keys": [
+    "1255f66d293e21b3",
+    "6154a70967e2862e"
+   ]
+  },
+  {
+   "id": "2026-11-19-94bcef01b177445b",
+   "date": "2026-11-19",
+   "title": "Lawmakers form bipartisan caucus to create meaningful AI safety legislation",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQN3FsRHU0THIxSFhTRjNkcTNXYURfdEJ4c0EwY0dnMUJGMVpySVlIX21tbTNlb0Q0RTVEelVsckx3UlNua1h4VEp2aE9hWm9Udk5GOF9fQ1p6VG1UVEszTEpnOTV4YWpGeFRRV2MwVWdvM3hEM2ZkQ1Fwc1Nsdy12NmNQclltYnc5c096UndfYmJLVGFKempQMmlmVHZyQ2VXZVZWd2ZPbkVXTkRvNjZlVG1B?oc=5",
+   "source": "SiliconANGLE",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-20T14:54:59-07:00",
+   "keys": [
+    "4a9122d95ace2732",
+    "94bcef01b177445b"
    ]
   },
   {
@@ -647,6 +1130,29 @@
    "keys": [
     "085a2a04b9a21a8c",
     "d01cd551bcbec874"
+   ]
+  },
+  {
+   "id": "2026-11-18-3d6b5c047734b07e",
+   "date": "2026-11-18",
+   "title": "Whose Safety? Addressing Anti-Blackness in the Age of AI Safety",
+   "summary": "\"AI safety\" has grown from a niche contingent of actors into the dominant framing for artificial intelligence (AI) assessment and evaluation, overshadowing AI ethics.",
+   "url": "https://arxiv.org/abs/2611.25302v1",
+   "source": "arXiv",
+   "tier": "b",
+   "also": [],
+   "coverage": 1,
+   "category": "安全研究",
+   "regions": [
+    "美国"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-20T14:54:59-07:00",
+   "keys": [
+    "2153f9c006e27d27",
+    "3d6b5c047734b07e"
    ]
   },
   {
