@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T13:38:06-07:00",
+ "updated": "2026-11-21T16:36:44-07:00",
  "items": [
   {
    "id": "2026-11-21-0e823c35df6482d2",
@@ -71,6 +71,29 @@
    ]
   },
   {
+   "id": "2026-11-20-306de7906e453647",
+   "date": "2026-11-20",
+   "title": "UN / AI SAFETY SUMMIT BARBADOS PRESSER",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9vNTNXblNxcjVwQmdYdWVTdFE1TGFGV19sb1o2aW9TSnE2VEloME1qS0ZBMy1IbDZ2T2hiMU1nWUluZkNRN0hWLUJ4RVBMMVY3UmJpQlpWTWNEV0dMNHM3dw?oc=5",
+   "source": "UN Media",
+   "tier": "official",
+   "also": [],
+   "coverage": 1,
+   "category": "国际治理",
+   "regions": [
+    "全球/多边"
+   ],
+   "importance": 3,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-21T16:36:42-07:00",
+   "keys": [
+    "306de7906e453647",
+    "4f2fab5099590a9d"
+   ]
+  },
+  {
    "id": "2026-11-20-2be3c85cccd38084",
    "date": "2026-11-20",
    "title": "Bridgetown AI summit to tackle safety as risks outpace capacity to respond",
@@ -114,6 +137,29 @@
    "keys": [
     "2ce0d6ba29198254",
     "bab9b9b98c77a1e5"
+   ]
+  },
+  {
+   "id": "2026-11-20-0be5c42a63cea24a",
+   "date": "2026-11-20",
+   "title": "21专访丨清华大学苏世民书院院长、人工智能国际治理研究院院长薛澜：AI治理是全球公共产品",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcWdsZDBFdGNucm5hV0lLZmtyclVHQ2ptNzQxYUxJWGFEV1lrTjlLNlR0QzlCMEpTS3JrbzVDc1Q3dk5WTTZfMnhIdkY4M3FoaW5hUTVqVWdJUFpPdWZ0OHhjelZYYjA0QnRpRVRUelNqQkdJNmxmcXZXaXBYMFJDNFJkN2kxQQ?oc=5",
+   "source": "21财经",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "国际治理",
+   "regions": [
+    "全球/多边"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-21T16:36:42-07:00",
+   "keys": [
+    "0be5c42a63cea24a",
+    "bf6a93af5bacd4da"
    ]
   },
   {
