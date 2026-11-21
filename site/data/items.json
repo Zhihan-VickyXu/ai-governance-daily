@@ -1,6 +1,98 @@
 {
- "updated": "2026-11-20T17:13:03-07:00",
+ "updated": "2026-11-21T13:38:06-07:00",
  "items": [
+  {
+   "id": "2026-11-21-0e823c35df6482d2",
+   "date": "2026-11-21",
+   "title": "How AI Is Forcing China to Reshape Industrial Policy",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcDY5cWM2RlItaVozTTVDbjZ2Y0tMelUyVjdHTDVXTlZjN0hLWHFLem0zU1NYUWl6cjZpSmFXNU1tNzZ1WXdDWERnOUttYm9lbU9uRVR0OHFjZURmVG5Vb2ZZdHRaWjZpYnVUV2NJa0h4QWI1Q1pIcW9pd2FtbWQwZG83UENGS1A3YmZJZzVhSlB0LTdfeHpETV93bDBJaE5RWmY2WVhn?oc=5",
+   "source": "Bloomberg.com",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "政策与标准",
+   "regions": [
+    "中国"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-21T13:38:03-07:00",
+   "keys": [
+    "0e823c35df6482d2",
+    "ac3780d0a9da3cde"
+   ]
+  },
+  {
+   "id": "2026-11-21-c9a317da65459a58",
+   "date": "2026-11-21",
+   "title": "London protest calls for stricter AI regulation amid growing safety concerns",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMXJGWmlxTm5pOVR0NnJ6QkRqWFdabTR5N2dWQWhMNUFSdEJrOWtPMWtDLWs1bS1LcWNFQVQ5ems5cm5lXzc3RHRua21HZHFQd095LUpvYlQ0U0IxTzNvZ29WMzVoemt0OVNGYUFHSDZwZ2ZOX21WNXoyQl9ReGJHakJZV2VUOWtKRjUtX0d2TERCTktVaElCemVKVVRlc0JkUkhET3U4WTItV1lJQVp6U1hB?oc=5",
+   "source": "Anadolu Ajansı",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-21T13:38:03-07:00",
+   "keys": [
+    "8064b7a9102f3207",
+    "c9a317da65459a58"
+   ]
+  },
+  {
+   "id": "2026-11-21-4f2f4a245a25ffa7",
+   "date": "2026-11-21",
+   "title": "AI regulation rather than ban is better option: CJI",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPemwwaTFOLWNEQzdNUUpyVGdQeG1fR3NUODZ3NnJiSkZmY1JncFZwTExWLUgyNGZZTGNmXzRnZG5TeEhHSWVBV1JVMkNUMmY5QXBTeWlYVHNUeGJOZVpxNnNFR1pYVlhwR3FRWDNaSjhHajB6QVp0LUY3MmtwNWZQOEJ0dTFXcEFuVVI0ajFtYzZRYXZVUmZjMXVfa21sZ04wT3FtUF9xRllSTmFfclNTX0toMEZaZFNrclhF0gHCAUFVX3lxTFBBRlBDRjRoRG04U1dQYnlDcENrQmtHWm1uaWdGa0ZoSmdQSnhGb0tKY3E3Y1FxQ1VzejNKWlhIaFZGNzA2QXpGSnFfQXRDQW5XcVpXeW5sY2hudnJCUDlDZDRDRlZHTVZMcUR3eWxnZlQxeWh4U1plTk9ZLW1UbG5YMFBmbWs4S0xjQ1I0UlBFMFdELU5udEoyVG50ZDhidnN5UWdjSXdsSEFPNXJ5UC15MkZmRENpWmZ4VDA2Zko2b0hR?oc=5",
+   "source": "The Hindu",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-21T13:38:03-07:00",
+   "keys": [
+    "4f2f4a245a25ffa7",
+    "665053e9ac1a34a4"
+   ]
+  },
+  {
+   "id": "2026-11-20-2be3c85cccd38084",
+   "date": "2026-11-20",
+   "title": "Bridgetown AI summit to tackle safety as risks outpace capacity to respond",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1mdkdEa1pVS1hyMXB3aE91VXg1TVVWRUdLM1JOV3Z6RVdnMGJSaG13dXV2eEhXckR6cVJ3QVZnbmE4ZGRUN3FDeWVGbnQwWVpITXQzZGtxSQ?oc=5",
+   "source": "UN News",
+   "tier": "official",
+   "also": [],
+   "coverage": 1,
+   "category": "国际治理",
+   "regions": [
+    "其他"
+   ],
+   "importance": 3,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-21T13:38:03-07:00",
+   "keys": [
+    "2be3c85cccd38084",
+    "7c2b6ed196dc7785"
+   ]
+  },
   {
    "id": "2026-11-20-2ce0d6ba29198254",
    "date": "2026-11-20",
@@ -22,6 +114,146 @@
    "keys": [
     "2ce0d6ba29198254",
     "bab9b9b98c77a1e5"
+   ]
+  },
+  {
+   "id": "2026-11-20-7b3573cbc172f4be",
+   "date": "2026-11-20",
+   "title": "Russia stalls UN bid to regulate AI 'killer robots' as deadline looms",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNa21kTVJwNThlWG5qTnNKbUdEZ0RTcmpScWtUZV9abElCNHJRS0t4VnNDeFZyTlRJeEhtdUZQcGRRUVAtYVZtRld4WDdxVlREQmQwaDZjQkpuVmdMMWhSSGh0YWVibC1LQ3FWQ3MtUU5KWXhOOU1RWGluRENxZV9LUHd6N0RRN2p0VU93OTI4bHA3T29VaE5VdUpMUVMxSm5JRmx4bzhYVF9oZFo3?oc=5",
+   "source": "Euronews.com",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "国际治理",
+   "regions": [
+    "全球/多边"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-21T13:38:03-07:00",
+   "keys": [
+    "2cdd2cd16de4384e",
+    "7b3573cbc172f4be"
+   ]
+  },
+  {
+   "id": "2026-11-20-ba3c83a43e54ecd3",
+   "date": "2026-11-20",
+   "title": "AI赋能城市建设与治理丨2026世界城市日城市可持续发展全球大会",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1zVk1uc19tRkpfV09Td203aGxXS2hQanFzMFlxTnpibS0zQW9TS3JRMjNicGtPU0xmdUw1RGxJZmNoSjBuQW1UYjJaaUw1Z2J6ZE5abg?oc=5",
+   "source": "第一财经",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "全球/多边"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-21T13:38:03-07:00",
+   "keys": [
+    "b3949ae79494b2ed",
+    "ba3c83a43e54ecd3"
+   ]
+  },
+  {
+   "id": "2026-11-20-27def0ca4725fd9c",
+   "date": "2026-11-20",
+   "title": "关于发布生成式人工智能服务已备案信息的公告（2026年9月至10月）",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1GOEd5ZWpvcG84WDI5NDV1ZjhuVUdOU1dvUmE1WU4wVGpxZ09hb29NdTREZko1d1IzemVXWlpUMUUyVW83V2VyaXFnR0QxNy1iQzBqczNjQjEwRFAzcEU4Zg?oc=5",
+   "source": "ThePaper.cn",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-21T13:38:03-07:00",
+   "keys": [
+    "27def0ca4725fd9c",
+    "a19967362b273c70"
+   ]
+  },
+  {
+   "id": "2026-11-20-462577534d4e2a39",
+   "date": "2026-11-20",
+   "title": "专访薛澜：AI治理是全球公共产品｜亚太中国说",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRDdlTlYtMGtaYzFIQzAzejdMNHVQYTF6NmVkek5kVUgwTVZCelc1ekRHSTNOZDJxMkFrbUd6WWM3N1ZnTmVYRVRaa2x4VUR5NEY3R0J1cDh3TkRPRVVxMkd3Rzh3ZDhfUDM5SVFPbmdkS1pUQVVUQ2NFckpwRGlTNm5BMkY2R05Ic3g4Z0RIMA?oc=5",
+   "source": "21财经",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "中国",
+    "全球/多边"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-21T13:38:03-07:00",
+   "keys": [
+    "462577534d4e2a39",
+    "46e68b76ddfe87db"
+   ]
+  },
+  {
+   "id": "2026-11-20-a19c251897a24678",
+   "date": "2026-11-20",
+   "title": "头部券商齐发声：政策加码创造企稳条件，看好大盘蓝筹、“出海”、AI等",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBlMVdZcHdrUm1keE0yV2s4azBBR3BMbTZuWXN4QnJINERjeWRWZG8tYm5wY2VuODlDclNsLU9mM0pPX0hTcElENk55RTBLT0Vtbkhr?oc=5",
+   "source": "第一财经",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "政策与标准",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-21T13:38:03-07:00",
+   "keys": [
+    "4587c3bf76f59cbe",
+    "a19c251897a24678"
+   ]
+  },
+  {
+   "id": "2026-11-20-3206884621301fbc",
+   "date": "2026-11-20",
+   "title": "European Union AI Act Leverages Regulatory Power for Strategic Global Influence",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQ2pfclVYOUx5T3NBWFNvb2pxQklndGpzaVNoUlQzN1lCU0dneGlvYWc3YldQaWo3azNiMWV2Q1FRVEhwOEZLR2FJV2dwNHVMWGsxRkVhUDhTU0gtZ2hOYTY0dzhPVjg5ZFl0bzdkeWV0aTdWTVkxZTI0N1JvbzF5N192WDgwLTU1NmhCblFXVlR0VEZnYk9IenFIdkxGUGlJQXNVU0FIYw?oc=5",
+   "source": "Bioengineer.org",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "欧洲",
+    "全球/多边"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-21T13:38:03-07:00",
+   "keys": [
+    "3206884621301fbc",
+    "ce34ff1f34cb61be"
    ]
   },
   {
