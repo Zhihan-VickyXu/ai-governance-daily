@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T14:55:01-07:00",
+ "updated": "2026-11-20T17:13:03-07:00",
  "items": [
   {
    "id": "2026-11-20-2ce0d6ba29198254",
@@ -22,6 +22,52 @@
    "keys": [
     "2ce0d6ba29198254",
     "bab9b9b98c77a1e5"
+   ]
+  },
+  {
+   "id": "2026-11-20-d9948a488e742e06",
+   "date": "2026-11-20",
+   "title": "NYC lawmakers seek pole position in AI regulatory race",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQLTZ5dUZ3VzNIWDhwQWNObl9aSXI1emdXN2Z6aGMzaHBGcmRHRXZIX0lwYmx4NWxsR1ZoeWNDc05yZ01pdHJKWHp0S2lYa1ZtTndWbW1jM1I1NFZqLVotaEdhMHpqeTM3T21GV0ZoU0VqR1VLbFdBWFpmbGFxOWwzN1FIbGRtRWR5S1QxVHRSdEp2X19BZzF6aGMzUEZYOXJPZWhvLTdFOA?oc=5",
+   "source": "Politico",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-20T17:13:01-07:00",
+   "keys": [
+    "9ee1e16a811c5b0c",
+    "d9948a488e742e06"
+   ]
+  },
+  {
+   "id": "2026-11-20-403bbf00825daf80",
+   "date": "2026-11-20",
+   "title": "AI当上“质检员”！合燃华润燃气以“智控”筑牢安全防线",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBRaHVhTS1jbms4N2VoZVNyMjBTeHFnb2V2SXFSRlptNlk2M1J3VHdjUC1WeV9ZYzNNcTRyNE83U09HZk9ERGhPQ1duMTZtRmo3cDRCdUZFczlHM2k4VEpSVmR5MGstUXl0Qmc?oc=5",
+   "source": "人民网－安徽频道",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-20T17:13:01-07:00",
+   "keys": [
+    "403bbf00825daf80",
+    "a5fa6165bd1754a1"
    ]
   },
   {
