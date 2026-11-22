@@ -1,6 +1,75 @@
 {
- "updated": "2026-11-22T13:48:43-07:00",
+ "updated": "2026-11-22T16:50:30-07:00",
  "items": [
+  {
+   "id": "2026-11-22-83619003c09d1e3d",
+   "date": "2026-11-22",
+   "title": "新中加强数码合作 推动跨境数据流动与AI治理",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA5QzVWbUhYLURSem1KQThReV9MZWNucWtobEVrbDhtRGdOMm9KenRoNjdCdzllRV8wVS1ZWkN2Y3dKWE9YWnA5ZGtWSF9fNGRwalRFU05RY24zN2VWdDdBbWFHOWVRcGJidXlRZQ?oc=5",
+   "source": "联合早报",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-22T16:50:28-07:00",
+   "keys": [
+    "83619003c09d1e3d",
+    "92bc74c49abb663a"
+   ]
+  },
+  {
+   "id": "2026-11-22-0781f0e2f64fef01",
+   "date": "2026-11-22",
+   "title": "OpenAI首席科学家提议建立行业统一AI安全标准，预计2027年预训练技术或迎重大突破",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9zQmEzUm4xNHpORXNtV1lpRFlXNncyNkZIZHd3RFB0ZHhjOFZHSzRKVEZjTk1HQTUtWHFjMG50SE0zZ244VG5hSXhLNXZOUGRKQ3lKd2pqMlk?oc=5",
+   "source": "Jiemian.com",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "政策与标准",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-22T16:50:28-07:00",
+   "keys": [
+    "0781f0e2f64fef01",
+    "9c56fe0eaf2924ef"
+   ]
+  },
+  {
+   "id": "2026-11-22-d67e2b54d67a4368",
+   "date": "2026-11-22",
+   "title": "Tencent touts independent safety assessments of latest AI model Hy4",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNeXdvN0dZMy1GRUhSR19yaDJRRTZxOFNjRHR0WnJsUU1VUHpvdmRfMzRMVEpBTnFDZ2JhUnFtR0pJMWthbGNyNE8xaUNTYVpUYmNyYzVyWlc4bjE0TGw5bmF0anFKNVVjTUVsdWpLakRvTmNwMkFJNG4yWTlTTWo2MGxySDZucVM0dGxrTF82enR5UzljNzExaGFNVE5Fc0wzeFdRRFdwekFDSjlJUW1PUFp3VUFrNFEwSFV0Ri1PcjJHZ0JSRGxJV0ZR0gHKAUFVX3lxTFBwZ2VCdlY2RllyQllhWGJuZUgtRWIxazhDM1o4bF9Lc21qOEtpLVRCTk9EVDVHdm13YmRUOExkZmNHbURySTJEckZweUVoNEZFckNEMDBPaDN5UGZwRGZEV3V2eHJIUlZfNnlkd2wxQXBzalFaVDFHWTBCbURud001TmxocXZCc25KQ19vRDNPTlNEUEtTalI3eTRLOVp2bEYtZjIyVy1ORmNaN0ZKd0E5ZnR2QmxXWXMzM3E4YzV4RGEySHRwOFRRZWc?oc=5",
+   "source": "South China Morning Post",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-22T16:50:28-07:00",
+   "keys": [
+    "ba978f80e8ff35ba",
+    "d67e2b54d67a4368"
+   ]
+  },
   {
    "id": "2026-11-22-8f1dcf2749d623f7",
    "date": "2026-11-22",
