@@ -1,6 +1,583 @@
 {
- "updated": "2026-11-23T21:07:07-07:00",
+ "updated": "2026-11-24T16:33:40-07:00",
  "items": [
+  {
+   "id": "2026-11-24-d6c735b2b50e393c",
+   "date": "2026-11-24",
+   "title": "应对AI伪造等风险，我国牵头推动全球首个生成式人工智能治理国际标准提案",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ldVVoaE1oRDZlYTBGUmZfb3gxM0YwU0oxY0NPUGQwdDhxZklvckV5VWYyQi03Znl2U1dUeldOc3hHMEJTa05fU0taTG9WREpnejR5SldmR1czbTk3QnRVUw?oc=5",
+   "source": "ThePaper.cn",
+   "tier": "a",
+   "also": [
+    {
+     "source": "第一财经",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1RNkdaV0U1ZXpweEM2V0M0S0ROTnBaX3owSjMyU2FpekN4SmRwNHFTS1lxczJ5cENHYkxpbGhoeWNQYThaSmtjeTlGQWJCdFQ5eXJF?oc=5"
+    },
+    {
+     "source": "人民网",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1GRGxvTGtGckhYdDdZVUZicUZmdTRHOTlLV2tpRWV6Q3d2RER2cDVtSjMxQ1ZWY2JqckhKb3lnMlZqSl9jRnFocFVjbTU1RW9JMU4tME1ldUpTVzVvVUc4UlA2QTkwU3FsOUt3anl3?oc=5"
+    },
+    {
+     "source": "新华网",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fd2E2dlVwV0dVMlp3TWNtd2sxaXRYQzl4LUFNVl9RVnJRSXFGOHYtbGNuMk10eVRkU3ozZDJZWFU2UGhYcnMzbmJOaTBiaENBbU9xZkl6VnJTRWpiNExCRHl4aDV6c3d0bTZGdzJoc1lVWHI5YmFGQTQwSzNIR1E?oc=5"
+    },
+    {
+     "source": "观点网",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9fNjRGUnpuS1J6ZjZjWVU4dlNieE1CTXV3MHJUeFd1dHgzeDNoUWVSZHFSLXNZZlZ3R01wUXBtZFVxdzMySjg2SDRDOGVrZXA1WllhSGFHdHJVZnBrZ3JMZVBB?oc=5"
+    }
+   ],
+   "coverage": 5,
+   "category": "国际治理",
+   "regions": [
+    "全球/多边"
+   ],
+   "importance": 3,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-24T16:33:37-07:00",
+   "keys": [
+    "1484b1d8f765a11d",
+    "32b961d1cf3e6713",
+    "40746340df6d6001",
+    "71511d74bc29fd16",
+    "85f3f862aa50aa10",
+    "bb2af214bb124a63",
+    "d6c735b2b50e393c",
+    "d91de6b25fa93992",
+    "dd653e085ad71d6f",
+    "f5da3c19bc50e2b5"
+   ]
+  },
+  {
+   "id": "2026-11-24-141969039a8eae47",
+   "date": "2026-11-24",
+   "title": "市场监管总局：我国牵头制定的人工智能数据质量国际标准被欧盟采纳",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE01WXh5bDYzaXlkZWRVS05QX2JGMmdpMEVMbVA2ekcxVDF5Q1Zmc1ZuTUh6RW9JbGJUUWNDZHppMDJjdjVsTWF0WHhKeHVBZkFoRExYU3U5bko?oc=5",
+   "source": "Jiemian.com",
+   "tier": "a",
+   "also": [
+    {
+     "source": "新华网",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBNNWxMWElQeUFjTERPVG5xZnU0eU8ycTZXMmNISlVxNEhHdzNjMzBfX0VSOFFSUEFwS1VvQkUzS19wMGtZRlVmQTBMMDhXZEt6NEFEbTI5SkhiajBOanBONU1OLVoxQzhqVnh4TW1fUDNXLUtRRUJBbi1DVV95VVE?oc=5"
+    },
+    {
+     "source": "www.itsdw.cn",
+     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1kdHMxbFplSU5ma0k0d1Q2TkxXV1h0aDhUT3lnZU9iZktiNU1UeHIzUDgxaHVtZHFjc1ZKckNrVGFDUGMtdm1zUzRzSWg?oc=5"
+    }
+   ],
+   "coverage": 3,
+   "category": "国际治理",
+   "regions": [
+    "欧洲",
+    "全球/多边"
+   ],
+   "importance": 3,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-24T16:33:37-07:00",
+   "keys": [
+    "141969039a8eae47",
+    "26603d8c1d96121b",
+    "388a717a26eb4bc3",
+    "86e19471b0745b5b",
+    "8a95f8006eadde64",
+    "a3348a3dd374b153"
+   ]
+  },
+  {
+   "id": "2026-11-24-6f201d46464ce37f",
+   "date": "2026-11-24",
+   "title": "我国牵头制定78项人工智能国际标准--经济·科技",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1CUmZ5TlV0WkJzV1FEMHJVTkJZeTlmRUdwNkpBVWFtMVJDckJxdUhDZmFjRGdvakRfZEhyaHdHajlwTDVRWjZSdWlWamNXVEJGSlpuV3NIMS1ZcFR6TkdFSXFtQlFwbUNIbTVKcGF3?oc=5",
+   "source": "人民网",
+   "tier": "a",
+   "also": [
+    {
+     "source": "新浪财经",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5OcnAyR3YxZDFkLW41dFo2T0RCVHRTVjVRZXV3dUJnQTNQbUUxdGE4VXF5VjFia0E3d3hVSm1ENTdtclBaMkoyZGdJN3dSTVJxUFJmV3VoVTMyd1FNb2kyMU93U0RHUmZPSF84eDE4TTBTbzJLUXgtSTVZZWk?oc=5"
+    }
+   ],
+   "coverage": 2,
+   "category": "国际治理",
+   "regions": [
+    "全球/多边"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-24T16:33:37-07:00",
+   "keys": [
+    "116f0ff4153c3ac0",
+    "238abb0706cd9ef7",
+    "6f201d46464ce37f",
+    "8bea54b04d054d65"
+   ]
+  },
+  {
+   "id": "2026-11-24-050d21d0509f0c56",
+   "date": "2026-11-24",
+   "title": "市场监管总局：为全球人工智能治理贡献中国智慧和中国方案",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE82SVVBNTBoYld5VDktaHdHYUZ0U0J5dzBxaE9IWlVGRHNaVHNzZ0JNZFhTaUY1ZlBMeTdtbG5XbUlDSklzc09mYVlzaERzWFRGaVR0NE5OVzRCMG1LZFhxRWxnc0wxSXljLUk0VnlwZWF4NU1wWnc4S2JDZm5vdw?oc=5",
+   "source": "中国新闻网",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "中国",
+    "全球/多边"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-24T16:33:37-07:00",
+   "keys": [
+    "050d21d0509f0c56",
+    "0714a1bcc27976f4"
+   ]
+  },
+  {
+   "id": "2026-11-24-69a299e6ea89e04e",
+   "date": "2026-11-24",
+   "title": "[经济信息联播]市场监管总局：我国牵头推动49项人工智能应用国际标准研制",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE45a3pueHZyZU9HbU51S1VZX1JLQk9IaXdqQU1ocDIySno2YWZETVZtRzF4QnNNRGpIVlZ5ZFNFMXRhUTBUUVN1dFVCSllOSEtMb2NlQ3FZby1Ba0pCdjdTQmhDeENkVXU0VW5OLTB0X21EdDNKZHc?oc=5",
+   "source": "CCTV",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "国际治理",
+   "regions": [
+    "全球/多边"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-24T16:33:37-07:00",
+   "keys": [
+    "29db037f17e39fea",
+    "69a299e6ea89e04e"
+   ]
+  },
+  {
+   "id": "2026-11-24-3a44b84e07abc95a",
+   "date": "2026-11-24",
+   "title": "马来西亚拟加强AI陪伴类应用监管",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE96b2JqdkFUVDdLdjF0anB5MWE1RnR6ZU9hWkZUMWY0QkhoUnlHSGNtZjBmeURXQzdUeGd0LXdJM2NZbWxvQVhMMWx5emM2dVpMX0pObTlZV1dCOXRSdk1IY2tBWUEySFFI?oc=5",
+   "source": "中国新闻网",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-24T16:33:37-07:00",
+   "keys": [
+    "25a5db80c8f7991b",
+    "3a44b84e07abc95a"
+   ]
+  },
+  {
+   "id": "2026-11-24-d25ffe337403afb7",
+   "date": "2026-11-24",
+   "title": "古特雷斯呼吁建立人工智能风险管理多边框架",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE16aDUzdzJldlU3dlUtNXkwbC0yaDZla1l5dkMtMWtPdGdiV2xFVHFxQ0ZZSGd0dWExdl9CemU4RHVvN3g2aThIZDVZbW1JOFZXczBJ?oc=5",
+   "source": "第一财经",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "国际治理",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-24T16:33:37-07:00",
+   "keys": [
+    "b7d9a597a0cf0269",
+    "d25ffe337403afb7"
+   ]
+  },
+  {
+   "id": "2026-11-24-a551f32d70f6e506",
+   "date": "2026-11-24",
+   "title": "港大重磅视频AI测评出炉！香港大学经管学院蒋镇辉教授：国产模型首次大幅领先伦理与安全性仍有待提升",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9qNVZUZFlETVFabUxRdGRwQzNvSjhLUDhES0NRcEUtb241Nnh0RWxNYWJTdUpEQm9OQ1FQZlpDQ25LZ1lmdzNoSmVnQ1BaRG5vOXZneA?oc=5",
+   "source": "第一财经",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "中国"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-24T16:33:37-07:00",
+   "keys": [
+    "a551f32d70f6e506",
+    "f2bcfe1f248af681"
+   ]
+  },
+  {
+   "id": "2026-11-24-1bfbfafd7cc159b5",
+   "date": "2026-11-24",
+   "title": "UK financial watchdog delivers AI warning as Meta launches adapted Muse",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQa3dIeGlGcm82OGVfY2ZzWWFXY3FWZ3RVTWFyZV95dlN2a1NWTWhiV19OX1A2OVBTNFI5dGF2dzVMQVhmNjdxa2taQkpHeUpJZnVxTlNZYmZPVFJXYkdxYTNzLTVxTHVfSVVOU1pNbFBUU3BMYzNCZ290d3RIN0RzbE8xekZxNGRBTVdYZlY5UlVpMnJFMFdSNlE5WkpENThvSlVCZjE3eXdMY0ZqUkNSYkxQeGxLMlVJZ19XaGg4NkVDcVU?oc=5",
+   "source": "Reuters",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "欧洲"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-24T16:33:37-07:00",
+   "keys": [
+    "1bfbfafd7cc159b5",
+    "68c0ff29efeb3e86"
+   ]
+  },
+  {
+   "id": "2026-11-24-96b0f91d0d0b8bd8",
+   "date": "2026-11-24",
+   "title": "我国在5个自贸试验区开展人工智能标准化自主开放试点",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB4bWlRbTZsTlJfb0YwMEhidG9NaExKcHpLb1ZlVVlkVGllSm9kbFdlcnpzSEx4dzRKM0hGZGMweEloaUhpUmF4MFJuMThwbXNlTUpB?oc=5",
+   "source": "第一财经",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "政策与标准",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-24T16:33:37-07:00",
+   "keys": [
+    "96b0f91d0d0b8bd8",
+    "f484e4de2acb5e5f"
+   ]
+  },
+  {
+   "id": "2026-11-24-8f54a1f254623013",
+   "date": "2026-11-24",
+   "title": "AI内部模型能力过强引发安全担忧，OpenAI和Anthropic员工质疑是否应继续发布前沿模型",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE03SW0tenA2SHVrZGZSR1UyQWtDT2I5V0duNjMxUk95X3dWYUlIb0ZZTnMtNXBaUm1ma3UzcGFiWVlaS2h5MEFQclBEMk5WWWMtSHFLYnlibmU?oc=5",
+   "source": "Jiemian.com",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-24T16:33:37-07:00",
+   "keys": [
+    "37bfcc3f2ec5b83b",
+    "8f54a1f254623013"
+   ]
+  },
+  {
+   "id": "2026-11-24-a04cc211f0ca9094",
+   "date": "2026-11-24",
+   "title": "UN chief urges nations to establish AI safety safeguards within a year",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWENEdFU1dTFrRFB3WHQ3Wi01RV9jSGY3cWlQcGk4emtIYWZYR2puaGZMY2lSaGtQNjFBeW90MkdwY1JDVTZvVGxmaFE0bEN2SWM5a2VLcnFTaV9BQ3VNekFhdlRjMXJQNllNVzhHaHFpTFZxbVRXOVU2Uk1QbWhEaF9YTldwZzg2cWZvdmh2aGh1d1BmemgyMTNaakxtaHNfS1RRa2VQSmJudw?oc=5",
+   "source": "Euronews.com",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "国际治理",
+   "regions": [
+    "全球/多边"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-24T16:33:37-07:00",
+   "keys": [
+    "a04cc211f0ca9094",
+    "b7ad25fa580c7610"
+   ]
+  },
+  {
+   "id": "2026-11-24-eb7ddd1f89adb26f",
+   "date": "2026-11-24",
+   "title": "Tidal announces ban on AI-generated music; 27 million tracks will be deleted",
+   "summary": "AI songs account for 6.3 percent of Tidal's catalog, but it's about to be zero.",
+   "url": "https://arstechnica.com/ai/2026/11/tidal-will-ban-fully-ai-generated-music-on-december-9/",
+   "source": "Ars Technica",
+   "tier": "b",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-24T16:33:37-07:00",
+   "keys": [
+    "eb7ddd1f89adb26f",
+    "fca8ba6f2e76a6b5"
+   ]
+  },
+  {
+   "id": "2026-11-24-f69993ec0bdef0b5",
+   "date": "2026-11-24",
+   "title": "AISN #86: Anthropic Accused of Recklessness as it Goes Public",
+   "summary": "Also, AI companies face loss-of-control lawsuits and Jensen Huang returns as Nvidia CEO.",
+   "url": "https://newsletter.safe.ai/p/aisn-86-anthropic-accused-of-recklessness",
+   "source": "AI Safety Newsletter (CAIS)",
+   "tier": "b",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-24T16:33:37-07:00",
+   "keys": [
+    "0d89ec9b6843b75c",
+    "f69993ec0bdef0b5"
+   ]
+  },
+  {
+   "id": "2026-11-24-4538840a5c6e8ac1",
+   "date": "2026-11-24",
+   "title": "To stop AI cheating, we need to fix shoddy training environments",
+   "summary": "The Hugging Face attack probably wouldn’t have happened if the AI had been given solvable tasks",
+   "url": "https://www.transformernews.ai/p/to-stop-ai-cheating-we-need-to-fix",
+   "source": "Transformer",
+   "tier": "b",
+   "also": [],
+   "coverage": 1,
+   "category": "安全事件",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-24T16:33:37-07:00",
+   "keys": [
+    "4538840a5c6e8ac1",
+    "ab0a717168c6ae9a"
+   ]
+  },
+  {
+   "id": "2026-11-24-23df9a0bf101f50d",
+   "date": "2026-11-24",
+   "title": "EU AI Act: New rules for AI regulatory sandboxes",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcjhmSzViLVVGODBvWW50N3JrSmxIeXY5TFpWSEtkM3o5eWg0TXZaZmptYUNGTW5vZWZnWjlmaE56WTdsTWxsOWNfZEZNSmVFMWJKTmxDSEZpYkJJcTd4a2loYXdPWERJMVluV1dKQlhvUk9NYWRnNEYyS0RyWXRITzFWSlJfU0FZdGc?oc=5",
+   "source": "CMS.law",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "欧洲"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-24T16:33:37-07:00",
+   "keys": [
+    "23df9a0bf101f50d",
+    "fce1d919abc7c400"
+   ]
+  },
+  {
+   "id": "2026-11-24-523f548e23eda57b",
+   "date": "2026-11-24",
+   "title": "Yoshua Bengio backs global AI governance as Guterres puts oversight on the to-do list",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9tUFpYc19ocTUzUWJhX0s2djBNX0VIeE1CVmlnQTRRUnltQ1NYMXQ2VEYtSEI0WERabFc4YVhMYlA3UQ?oc=5",
+   "source": "Digg",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "全球/多边"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-24T16:33:37-07:00",
+   "keys": [
+    "2dfda534057b7c31",
+    "523f548e23eda57b"
+   ]
+  },
+  {
+   "id": "2026-11-24-01a70d6b8eb7cd97",
+   "date": "2026-11-24",
+   "title": "Johnson Lambert launches AI governance and third-party risk practices",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNaUFFajl1NG13a0ZNOW9aLVdMeENDeS1FV01tbFFfR00zVVFsUW9Hb2x0NW4zWklXUmtjUjg1akh6bFl0SE1nanZsWUpmdldZT3FQTDFPZkdDQURNemlaeVNQRVZkWEVJZmozc2c3SjJKN1NNLUo3WHd2a0JnaWZTcmpnamQ3aXUxRlJSV0s0WVM0ZWRJLWF1UHpYX2V5Q0FaZVU5UzBjMHEwRUYyelNQLW92WExDYnpSeEVsM0FITlNyVlkyU0ViYWJkcHBlVTNsNUNzVVVadWJuYTF3Mk5CbQ?oc=5",
+   "source": "Captive Insurance Times",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-24T16:33:37-07:00",
+   "keys": [
+    "01a70d6b8eb7cd97",
+    "069959f39be5889c"
+   ]
+  },
+  {
+   "id": "2026-11-24-dc18248da4b3884f",
+   "date": "2026-11-24",
+   "title": "Riverain Technologies Launches aiStream Analytics, Bringing Bialogics AIQ Framework and AI Governance ClearRead™ Suite",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNcUFpb1dkd2FOeWN4MlBLeDRCT2xicERUVWVQd1hTNzBYc09jelpXb2hQVkVFRl9mcWVsTkZVU2lsZm81UlVOeExUcWRtbkpxclVrRUlVcTRCdW9hbGRWYlRNdnBuM2tDNzJIU2xRUUlvOHBRMDg2THJfVzlnSnNpZFpaUkExbDZKcnRKUVF0cDQtTUFLUjg4Umo5OHhkM2VrazFuZ0c2d1FYZHFCQlhXdWxIb2tmUml4elpnSkxERHk4SlRMdXIzcndwSlp1a1lDdDFFOFM0UDBycEJXWlNVWk1aTnV1NXNJU2pLRmMta3Nfb1o0ejlrb0J6ZjRVUXoxRVFwSA?oc=5",
+   "source": "Akron Beacon Journal",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "政策与标准",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-24T16:33:37-07:00",
+   "keys": [
+    "7d9902fdeb029508",
+    "dc18248da4b3884f"
+   ]
+  },
+  {
+   "id": "2026-11-24-d0993dccf9eaf3b2",
+   "date": "2026-11-24",
+   "title": "China leads push for global generative AI governance standards",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBPWGdwd2dibTFOZjhhWFNKT1hiNnFrWEkxWFI2MnBVYWpaN0ZHQnNnQ2xCZzdueTRrZ2I2YTUtUGh3LXZkTWI2ZVNpNXZodVJIcDNhcDdDT0hZNndELUNkNE1NY20xam9pcDhZQi1XcDF3T2w3N2c4RU1NMDdBQQ?oc=5",
+   "source": "China Daily",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "政策与标准",
+   "regions": [
+    "中国",
+    "全球/多边"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-24T16:33:37-07:00",
+   "keys": [
+    "091c5b58997b233b",
+    "d0993dccf9eaf3b2"
+   ]
+  },
+  {
+   "id": "2026-11-24-06e42b20df68c766",
+   "date": "2026-11-24",
+   "title": "市场监管总局：大力推进“人工智能+”行业应用标准国际化布局",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1mTm01bWJxRWd1YjlzMUxhcnBMVG1nNVY1d3VJWENpLUYzYUs0VlVlMFpmMWNvd1o0OTlvVFpTM0k5ZkNROVAtVE95cFpISUhGd0x5bDVfQlpaNTVaZk96dnRvRTVWUXA1XzktbUVpaw?oc=5",
+   "source": "中国经济网",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "国际治理",
+   "regions": [
+    "全球/多边"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-24T16:33:37-07:00",
+   "keys": [
+    "06e42b20df68c766",
+    "d6955d4587dd3f8b"
+   ]
+  },
+  {
+   "id": "2026-11-24-e06c13e091611239",
+   "date": "2026-11-24",
+   "title": "市场监管总局：我国人工智能标准成体系出海，从“积极参与”向“牵头主导”转变",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5sbVVwXzRsT0x4NjNhV3VhQU9ScXBaS1AwTUxzYlRxa1lOZzlGS3M0WHNka2pfV1B0RmJ1QnJpRDQ1M1FjM2hKNkNxYTNEOXI3cVVQSC1n?oc=5",
+   "source": "Sohu",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-24T16:33:37-07:00",
+   "keys": [
+    "b7501fee7208d6be",
+    "e06c13e091611239"
+   ]
+  },
+  {
+   "id": "2026-11-24-245a4a695e605dcd",
+   "date": "2026-11-24",
+   "title": "荷兰数据监管机构警告AI智能眼镜存在安全隐患",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUUIwQkJkaC0tUGxyUGxybTJoajZoQXFHMWNsa3hqVmZ0NTV6aFdYdFAwMEhVNmhaWlFOVkVQSTZBOHFBU3BsQmpFQmtmbmplTmRpT2tHLTVLTGhTa2d0cDM5Yk10UFRnSHUxRlNfenFSa0tqRmMxQVFzWUFlUWZBR3VzSGk1dWdu?oc=5",
+   "source": "Sohu",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-24T16:33:37-07:00",
+   "keys": [
+    "245a4a695e605dcd",
+    "9d9e10b8381f95a7"
+   ]
+  },
   {
    "id": "2026-11-23-1e3bf511d2ea367a",
    "date": "2026-11-23",
@@ -144,6 +721,146 @@
     "31f0b3be6f519e4b",
     "33e6cb200527b192",
     "c7906a2e9c2e3ada"
+   ]
+  },
+  {
+   "id": "2026-11-23-d69abe9cf0bd7255",
+   "date": "2026-11-23",
+   "title": "UN chief calls for world to agree on AI oversight within a year",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbVNBQl9aRURGZHBIc0xiTVRvOW9pWE0yaWdNVkZrNzJVZUtGb2luUUx2SzhCN1BQUXZzdFJLRDA4Q3FBVTg1WXZ0TkQ0S0EyOENRNi05NW50Y19RNkI5czBYMkQxX0NULW1nZUw1bENaYmk3ZVlGaFNJUUJxMUVjM0VERl90SzVDMm9qRHpzcjR1Q0lVVHZEWDh6c3RoRWs4NkI2eVBkZUXSAa4BQVVfeXFMUFFyTWlPTHRZcnY1QWNBZF85elMyeTRnQTFObnAwYUdDVnFYUDVGSEQyYm9CblpHcUpJMEJ1UmVBOHVqQ201VVFKOVVRNjBXakVValFUWi1DSTUxU294RjlHZ2toQTQ0Wm04Tm1YbFU4WTRlN25LLUQteE5MeFlhbG5PdzB2UWlsSmttRXNpY0hrdmJZaGZ1enNLczQ5d2JkaTFnYzNRV1c3UEgwemVB?oc=5",
+   "source": "Al Jazeera",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "国际治理",
+   "regions": [
+    "全球/多边"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-24T16:33:37-07:00",
+   "keys": [
+    "d69abe9cf0bd7255",
+    "f3d910083fa6b9e9"
+   ]
+  },
+  {
+   "id": "2026-11-23-902d8a2910ec1bfa",
+   "date": "2026-11-23",
+   "title": "European Commission warns EU Academy users of data leak after AI-driven cyberattack",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSjNGakREcTJSN1N6bHM5aVhFY2lGVTY4aENmNU5PWHdvQ2JLV0tLZmFweTF1Zk1hQmNFRGFDa25MNkNlQ3dYbEFjNXNfbi16em85LXFkaFhHelB6Y2R0RDJ3TlJJX3dleDE2S0tSZWs4dVgyRU1sYzF4NWZ6a0hxWkxLTEkxUmJVWlR6eDE3djJ4U1MyczI1Mnh5VFNJSGtQRnpJTUNZQXExLXlJ?oc=5",
+   "source": "AP News",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "安全事件",
+   "regions": [
+    "欧洲"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-24T16:33:37-07:00",
+   "keys": [
+    "7e7630b946c39529",
+    "902d8a2910ec1bfa"
+   ]
+  },
+  {
+   "id": "2026-11-23-b56920b3d911db2a",
+   "date": "2026-11-23",
+   "title": "AI正在重构网络安全产业逻辑，信息安全ETF嘉实(159613)汇集A股信息安全概念龙头",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9hWjZTZ3NKRjBCR0Y0SkI1SEZLVTgyR2dLb2dIaW0waFZXWFlHdC1qempuNHFQUkVOQXo4aHBkeWk4ZXhBZ1NnLWkzVGdSSDVvdGNxX2tac1g?oc=5",
+   "source": "Jiemian.com",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-24T16:33:37-07:00",
+   "keys": [
+    "4b6cf7641cddd342",
+    "b56920b3d911db2a"
+   ]
+  },
+  {
+   "id": "2026-11-23-eda9b1e301ed28ee",
+   "date": "2026-11-23",
+   "title": "[天下财经]布局AI时代网络安全 “众击”拟以439亿美元收购Zscaler",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9sSWxQRW8tRmJrZTFMQU9zZ005VE1WZ0puaGhnUW5zLWRHcG01QTVYcWs0RlVfTUd1Z1JfTmVwQ1Q1NzZ0UzNzZnpUSElWSXBka0lfekI3dkI4R3FKNGFTdHNCWDI3OUE2NmYxcC04OG9JOUFLLVE?oc=5",
+   "source": "央视网",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-24T16:33:37-07:00",
+   "keys": [
+    "897b5e56017c0082",
+    "be49079091d56bfb",
+    "c072037dd3bdfbf2",
+    "eda9b1e301ed28ee"
+   ]
+  },
+  {
+   "id": "2026-11-23-89ae2af65117d891",
+   "date": "2026-11-23",
+   "title": "AI Governance Leaders Series",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBOUUljTVUwZnVnc09zQ1had0ZfSlBjR0I1MnJWb2lmSVJ1RDdERmhVZ3U5SzhjUUdYWlA5a3UwRERGaWZCTlFpYmQzTkJnQlpDelBsaEgzRWhqOHVLdmlkVjN4MGVCQQ?oc=5",
+   "source": "Council on Foreign Relations",
+   "tier": "b",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-24T16:33:37-07:00",
+   "keys": [
+    "4556c199a9982f11",
+    "89ae2af65117d891"
+   ]
+  },
+  {
+   "id": "2026-11-23-bc621e5b0c822190",
+   "date": "2026-11-23",
+   "title": "Handoff at Frontier AI Companies",
+   "summary": "The term \"Handoff\" captures frontier AI companies' ongoing delegation of all AI Research & Development (AI R&D) functions, including high-level decisions such as safety assessments and deployment decisions, to internally…",
+   "url": "https://arxiv.org/abs/2611.30711v1",
+   "source": "arXiv",
+   "tier": "b",
+   "also": [],
+   "coverage": 1,
+   "category": "安全研究",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-24T16:33:37-07:00",
+   "keys": [
+    "bc621e5b0c822190",
+    "e56d243c5e9c7845"
    ]
   },
   {
@@ -674,6 +1391,29 @@
    "keys": [
     "53525d2e0c0bc52d",
     "df5f84dfcf4a2bcc"
+   ]
+  },
+  {
+   "id": "2026-11-22-6b2585e962a794a5",
+   "date": "2026-11-22",
+   "title": "Verifying Declared AI Workloads from GPU Supply Current",
+   "summary": "Frontier AI governance agreements require compute verification techniques that allow an external observer to confirm that a hardware operator does not run prohibited workloads.",
+   "url": "https://arxiv.org/abs/2611.29982v1",
+   "source": "arXiv",
+   "tier": "b",
+   "also": [],
+   "coverage": 1,
+   "category": "安全研究",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-24T16:33:37-07:00",
+   "keys": [
+    "2f025f33a9fb815d",
+    "6b2585e962a794a5"
    ]
   },
   {
