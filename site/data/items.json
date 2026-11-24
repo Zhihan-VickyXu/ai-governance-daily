@@ -1,6 +1,727 @@
 {
- "updated": "2026-11-22T16:50:30-07:00",
+ "updated": "2026-11-23T18:46:59-07:00",
  "items": [
+  {
+   "id": "2026-11-23-1e3bf511d2ea367a",
+   "date": "2026-11-23",
+   "title": "Barbados and United Nations to co-host Special Summit on AI Safety on 23 November",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWVFoMWVXeXZpZlRXS00yRUEwNGJvMjlIVEgzTTBDUmRBUUxOSnFLNHJocjl0dHZjcDd3OXhFbnRtZTI5ZlBzejlNeklYX0ZxbUVUY3M4eUROUEdHTktXTExaRC1ZUTU2V3JFX0NUVVg5XzFxVVAxY3c1VjlCNGxMVm5rbzNjek5oLURjSHBQNFdpRHRLbzFWa3ZSWkpCQzNUbTN4UnNKS3FQUEVEZm9ndUl3ZXMzX0toOG1ER24zc29ZNFBGcEhiLTRNRkI?oc=5",
+   "source": "Welcome to the United Nations",
+   "tier": "official",
+   "also": [],
+   "coverage": 1,
+   "category": "国际治理",
+   "regions": [
+    "全球/多边"
+   ],
+   "importance": 3,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-23T18:46:56-07:00",
+   "keys": [
+    "1e3bf511d2ea367a",
+    "1f94da2d175afbcf"
+   ]
+  },
+  {
+   "id": "2026-11-23-0aa40e56acf0603d",
+   "date": "2026-11-23",
+   "title": "UN chief urges talks on global AI safety framework, warns of historic shift in power",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBLOUE0WFFXblpadU5iSEdheDJ5MlF1V1JNa2k0YzRVSVFXZ2o4S0FSNmt6LTh6d1dPTmhTTzNOZGMtQWpSNjZudldCLW5tN2dIX0lGYnNQcw?oc=5",
+   "source": "UN News",
+   "tier": "official",
+   "also": [],
+   "coverage": 1,
+   "category": "国际治理",
+   "regions": [
+    "全球/多边"
+   ],
+   "importance": 2,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-23T18:46:56-07:00",
+   "keys": [
+    "0aa40e56acf0603d",
+    "e4dc121f29ac2a8d"
+   ]
+  },
+  {
+   "id": "2026-11-23-2c34586dbe274eda",
+   "date": "2026-11-23",
+   "title": "古特雷斯呼吁就全球人工智能安全框架展开磋商，警告将出现历史性的权力转移",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5mczJ0a1MxNENIcnh4WXhBQUtxLWQ1VHZ4b0VQOEEta0RnY19oNW1CaWJINTZ4Vzl5SlhZenlseGRMcGkzczAzbzZKelhYNzEydE1pYnNRSQ?oc=5",
+   "source": "UN News",
+   "tier": "official",
+   "also": [],
+   "coverage": 1,
+   "category": "政策与标准",
+   "regions": [
+    "全球/多边"
+   ],
+   "importance": 2,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-23T18:46:56-07:00",
+   "keys": [
+    "2c34586dbe274eda",
+    "c53a2aabe7be7ec4"
+   ]
+  },
+  {
+   "id": "2026-11-23-8b544b98eb00a017",
+   "date": "2026-11-23",
+   "title": "Multidisciplinary guidelines: artificial intelligence (AI)",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOU1RKSGpkMlFGWmUyMElTc19OVWxYT3ZTeWNod0syRl9xOVV0aGRfeUdMa2NjUGF4dmYzeVI0LTU1ZnlBSU5zMVJvcjl4SWU3dnZWcTQ4d3o4eU9CaFZLc2w0cVB3Z190eEtYOHc4YVI1OVUtVTJVVmc4V0xiUmwtUE1LaWlKSVN0MTMtWFQwVUJxVGlWTHYzVndPS0ZXTG1SY3Z5Sy1yNXQ0Y3hWU09pWXJDekJYZXJCUUZHVy03MXFiNDV1N1hwWFZGS1FqeEptWFl3ME5FVGZlakVIZ3FNdURsdG1GSUJkVG1WcVI3OW5NUm5odUdZVExWeGs4T09mOUx0dkJxR1dRR1BPb1RB?oc=5",
+   "source": "European Medicines Agency (EMA)",
+   "tier": "official",
+   "also": [],
+   "coverage": 1,
+   "category": "政策与标准",
+   "regions": [
+    "其他"
+   ],
+   "importance": 2,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-23T18:46:56-07:00",
+   "keys": [
+    "0aeb42192efdcef6",
+    "8b544b98eb00a017"
+   ]
+  },
+  {
+   "id": "2026-11-23-47bcc1d2c247ce1e",
+   "date": "2026-11-23",
+   "title": "Spatial Heterogeneity in Climate Risk and Human Flourishing: An Exploration with Generative AI",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1tMHRrMC12S2JCTVNCRjZLb2F0bldOXzdFSVlOSzBscUlZRjZLdVZja0FxZUhCOTlmZlNodUVKNmU4alZzY1c0WE90alFpdm5TQ20yOTlKdFVweEpDSGNaUEFzczQzUzhIODJLVUxYa2JSZjg?oc=5",
+   "source": "JRC Publications",
+   "tier": "official",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 2,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-23T18:46:56-07:00",
+   "keys": [
+    "47bcc1d2c247ce1e",
+    "ed183b1296dd9fa0"
+   ]
+  },
+  {
+   "id": "2026-11-23-31f0b3be6f519e4b",
+   "date": "2026-11-23",
+   "title": "江苏仪征：AI赋能医保监管 筑牢基金安全防线",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQlFyN21WQTJhSU52Vl9LdHZUZVRlWjhvVFlYeXJYU21HMmgxS1FBOTdLTlB0ZHlCcEJOZVVOSFY3YndLTXdLU1ZZRGk0ZnVja0pTUEhXbDY5ZFNzUGp1cVpkNTJFTzNnc3pHZWNaTncwSWFxZ3dJUWZWMDh3TXdkU0hndWd1QQ?oc=5",
+   "source": "新华网",
+   "tier": "a",
+   "also": [
+    {
+     "source": "人民网-健康生活",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE96b1cxNDdnZkxESmpMWHVTMXZ0dlVkRFgwNV9qUHdoYllJVlFZT0kyblo1RWEzQURDWDBrakI5LXNtOEd1U0xWRkltaEVJUTRxSUo1MXBma2NwZTVCTVdURnFqZEFKZzZjbEF6a3FB?oc=5"
+    }
+   ],
+   "coverage": 2,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 2,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-23T18:46:56-07:00",
+   "keys": [
+    "10a534a103709e58",
+    "31f0b3be6f519e4b",
+    "33e6cb200527b192",
+    "c7906a2e9c2e3ada"
+   ]
+  },
+  {
+   "id": "2026-11-23-a238846dce9fb00a",
+   "date": "2026-11-23",
+   "title": "模拟法庭拆解AI侵权边界，解码AI治理的上海方案",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5xaVQxci1TV3F5Wkl0aFJzNTA4VmhyNmozS0RZcm5VQk1EUW5Ndy1IQXNRZWhJZ091Z1c2RnNCdnQwYUZvcW5xaGxFQlUtc3hxelp5amJfT3ZTcjUxeXFZTw?oc=5",
+   "source": "ThePaper.cn",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "中国"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-23T18:46:56-07:00",
+   "keys": [
+    "a238846dce9fb00a",
+    "dfe8d386998850ab"
+   ]
+  },
+  {
+   "id": "2026-11-23-3003e460042eb848",
+   "date": "2026-11-23",
+   "title": "以人工智能提升税收治理质效（财经茶座）",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSDYwTnh1VHVhTVNodml4TmhYeDFhMnp4YW1BME1odHFkZTNJNlVTR1RTQ0loaGtfVV82SG4wZXhSNTluZ2FBV1o4ampzTnNIRzVoaFRCVDVIWWVnbElJVUNkLVpRQjFPaXFOVVpTMXVCTUowMEZfeHBJUm55bUJ0bXVWcF9oTjlQQTkzeFhfT0s?oc=5",
+   "source": "人民数据库",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-23T18:46:56-07:00",
+   "keys": [
+    "1029d652674aa4dd",
+    "3003e460042eb848"
+   ]
+  },
+  {
+   "id": "2026-11-23-5f103737e8c1be36",
+   "date": "2026-11-23",
+   "title": "Amazon’s AWS CEO says engineering, not kill switches, is path to AI safety",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNd1h2Mk12TldYZnlQcHE2RU5JcnBHYWExZUx1dFdXMFRfQS15Sk1aOGpUS3k1Y0JTOWNrdWxWTWE2QnU5TU15MGJyakZYQXFJTkNIdVcxbC14aHktNlNsWFA3aW9EVEE3TGFzUTJFZlExTHVmbTBYQnlKLVdLTlNieG41Unc0OEo4UDY4dFVWMERCZVVNLW9aOFk0bG9yZU9IdFZaanZDZ0JwX2I5SEtETDJ5YnltM2podWFHeEZn?oc=5",
+   "source": "Reuters",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-23T18:46:56-07:00",
+   "keys": [
+    "5f103737e8c1be36",
+    "f4b4fb11f1d5651c"
+   ]
+  },
+  {
+   "id": "2026-11-23-58b2ce5e512d8147",
+   "date": "2026-11-23",
+   "title": "Australia to treat AI as key foreign policy challenge",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSmdWRGZRVWl0NVIxT2w5WmpBdjJWM1kyanhqd3hNdGRuME9SWTgwQU5ZTHVVaVdOdm5LTGdtanlicWpzREgyTjRmYzUtOEcyNl9CTWpGNTdiUHJIYjRmT1F0RUEtZ1RoNHRHeVAxZVpadGpOYjBmOHctMUhQWDZWT0ZWWHZLeHFfblhYZHVIdkczZjZpYmNCeFlGS3dtbnpVQVpjRg?oc=5",
+   "source": "Reuters",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "政策与标准",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-23T18:46:56-07:00",
+   "keys": [
+    "58b2ce5e512d8147",
+    "a7ad9bd47c6c176e"
+   ]
+  },
+  {
+   "id": "2026-11-23-408626a8f5afd43a",
+   "date": "2026-11-23",
+   "title": "Anthropic Rolls Out Zero Data Retention Policy for Advanced AI",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbHVtQmttb3BfdnNLS1k2SzNfOXQxSjNtZGV0b2NPS0hhOXVCanpJOVlaaTNha1ZEYzI4V1kwVlNCMHRMalBmWTA3MVZCN0tTcjFiU280cXhBaHNpLTBPQVpOUzJRTmY0Mkx1NGdUNktkc04zdlhoTWJSUEotTG02WENhZEtuZXl5eEtMYndqMjU2dW1YWEpYVE1SUC1CYm91NEQ3b2o1OUtDeGdLOGprZHNyRQ?oc=5",
+   "source": "Bloomberg.com",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "政策与标准",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-23T18:46:56-07:00",
+   "keys": [
+    "408626a8f5afd43a",
+    "e0f421c726ddcd84"
+   ]
+  },
+  {
+   "id": "2026-11-23-049ef1db69c3db05",
+   "date": "2026-11-23",
+   "title": "Child safety groups urge Amazon and eBay to stop selling AI toys until proved safe",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUUVjMFl6NEZwcFFyUDNCWEVEbWNVLUNkLXh3d01KV1h0MDZvTzgxcEpTVkYzUktlNmZ4bnF1VjY5SU1zVktsbm1OOUYzTkVIa00yamJLWm53RlBQSnFNTlBLUktjYS1RUDJ4dWV5MkpSS3FQbndlOTBEb0ZQU2E2Ulh6b0JXVEhmN1E3TElGM0xZSW1VcTVLN2NXNmhBTUZQWnRGZjMybFh3YmJwTGhlZ0JSem81Mlo4aXViaFptWXJBNmtw?oc=5",
+   "source": "The Guardian",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-23T18:46:56-07:00",
+   "keys": [
+    "049ef1db69c3db05",
+    "d80256dd803e247b"
+   ]
+  },
+  {
+   "id": "2026-11-23-3cf26e6b2633665c",
+   "date": "2026-11-23",
+   "title": "Claude cracks famous maths problem, prompting safety warning from Meta",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQ0tmLWRvZmREOGo4bUR3RjVaU2pXbzZFQUloazFfU1BGSXdkWDhSckdvbG9EUWlzWDZ2UGpmVE54aWtVMk1XLW0zUW90SlFhSG5pSk80QWkwZ0dMRjNTek5YWldDWWpVU196UWh5MEpwbHhvckV6MUREOUFzMTlBQmw5Rmx0OGtDdXYybzc0RUVESnNLR0V2OHB3enFFcTFCVEx6aHhVVmVKLXRiM0xF?oc=5",
+   "source": "Euronews.com",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-23T18:46:56-07:00",
+   "keys": [
+    "3cf26e6b2633665c",
+    "aa9c5da0570c0974"
+   ]
+  },
+  {
+   "id": "2026-11-23-c21bc4dd5961440b",
+   "date": "2026-11-23",
+   "title": "原则的延伸与方法的背离——人工智能安全的边沁式审视",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE41a21rNHZGNDAyQ3BJOWxpQ092UU9OYjE0c0lNVlpTcW9CU2VyXzVmTVlrVHcxck1oUmZ2NGVtWTBFMVk0ZGJUd1dtMFVSR21WZnFqNjFqTXU4OGh2UUFlTA?oc=5",
+   "source": "ThePaper.cn",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-23T18:46:56-07:00",
+   "keys": [
+    "2c2588dcf32ff475",
+    "c21bc4dd5961440b"
+   ]
+  },
+  {
+   "id": "2026-11-23-e5b0a0f5a8dd5742",
+   "date": "2026-11-23",
+   "title": "中信建投：国产算力供需共振，AI安全需求持续升级",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9IYW9DRGNaSE9ERnEwUDhxaFNYSXNuaDladmo4TjdTeGEyVVlZSHNsSFlkeENNajZxb1VkUXpDWUhDRkdUNGpFcTE3MDlGZTZoSDhXbWRB?oc=5",
+   "source": "Jiemian.com",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-23T18:46:56-07:00",
+   "keys": [
+    "e5b0a0f5a8dd5742",
+    "f199bc49a8bb4a9b"
+   ]
+  },
+  {
+   "id": "2026-11-23-3f0d2760a064a12d",
+   "date": "2026-11-23",
+   "title": "439亿美元！网络安全行业史上最大并购有望诞生，瞄准AI智能体安全",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5rY1ViWVVuRGV2YU9tTFpCVVRXZExXTFlnSTA4V0pLWVgxbDQ3LVBRXzlyVTNFQlR5b0xPQkstMzJCLVR4RlhvQi1oMlloM0VuRlpSa2dDTU9wTGxXQkhRRQ?oc=5",
+   "source": "ThePaper.cn",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-23T18:46:56-07:00",
+   "keys": [
+    "3f0d2760a064a12d",
+    "a379fe5de0819f85"
+   ]
+  },
+  {
+   "id": "2026-11-23-c1e3b132ab2beb53",
+   "date": "2026-11-23",
+   "title": "美国加州总检察长批OpenAI忽视模型安全",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE44OWQyMjZTbnl5NDItaTdSbjJBMVV1SmpXdE43S29meHV0RmZETHVrdWNuLUxkQmZJUzY5T084ZW5ZeGllQmFBdmVyZHlRa0FWV3hPNzJR?oc=5",
+   "source": "Jiemian.com",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "美国"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-23T18:46:56-07:00",
+   "keys": [
+    "1edef60c087ec307",
+    "c1e3b132ab2beb53"
+   ]
+  },
+  {
+   "id": "2026-11-23-962e125c339acf3b",
+   "date": "2026-11-23",
+   "title": "忽视了显而易见风险的AI投资者们",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9uT2t3YTh2NFRIN0NiMVdFUGhFMjFVeGdOTUR4dFhsbjhkQlRqdEFYYW1tY1NMLTJFT2tOeDNZM0NBNHYwT1JyaWdzdUlreDh5b2Rz?oc=5",
+   "source": "第一财经",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-23T18:46:56-07:00",
+   "keys": [
+    "962e125c339acf3b",
+    "a21ed7b21b882d82"
+   ]
+  },
+  {
+   "id": "2026-11-23-cc2e889061ba1a70",
+   "date": "2026-11-23",
+   "title": "Spectrum Policy and AI Leadership as U.S. Military Advantage - CSIS | Center for Strategic and International Studies",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUFpPQjZZeW9IX2FsT1lTOUFPWVhMZUNjZS1qV19LMDZfR2lGMGxEMzBLWU45OUZkOU5TV3ZrU0VzXy1Sd1A0Q3VkNFV6UVBHVzJiZDZSOFV5RmRzRTdHRS1iSmdHNTBQa0U0MDFmTlNmRlVCQmV5VHpRYjYtLUFBZlJZZld0MG5PWks1bWNR?oc=5",
+   "source": "CSIS | Center for Strategic and International Studies",
+   "tier": "b",
+   "also": [],
+   "coverage": 1,
+   "category": "国际治理",
+   "regions": [
+    "美国",
+    "全球/多边"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-23T18:46:56-07:00",
+   "keys": [
+    "8d636e01759e0c0e",
+    "cc2e889061ba1a70"
+   ]
+  },
+  {
+   "id": "2026-11-23-8f6f18e8c01fabb8",
+   "date": "2026-11-23",
+   "title": "AI赋能工业互联网安全 湖北电信探索智能安全治理新路径",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9kYTR4ZmdteTlSNUw1NGozdzQtN0h5dWE0NUR2NE9qd01GVjZEUzd4N0V3VlhKd2ZNRTlPLV9hT0xELS1MUmFnWklsQTRleE1Wb3dXOS1wczc4NEl6aGRvNGktZnNOR2phRXRHaE05LU5NUQ?oc=5",
+   "source": "荆楚网",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-23T18:46:56-07:00",
+   "keys": [
+    "8f6f18e8c01fabb8",
+    "ed0940ec32550a6d"
+   ]
+  },
+  {
+   "id": "2026-11-23-d9662a976d32ae53",
+   "date": "2026-11-23",
+   "title": "The struggle for AI governance: Workers’ power beyond regulation - المنصة | ما رواه الناس",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5iR0RneFgxc2ZqTzJDY0pvYm83cGt3RXBHQXdmSzVhdmdtV05MQ1g2Y09FUHkycFlIaktuZWd2ZTFTM3k3QURQVGdUTGhxdw?oc=5",
+   "source": "المنصة | ما رواه الناس",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-23T18:46:56-07:00",
+   "keys": [
+    "0bdc1eb2987fbfe8",
+    "d9662a976d32ae53"
+   ]
+  },
+  {
+   "id": "2026-11-23-b3adb10f05256b79",
+   "date": "2026-11-23",
+   "title": "美洲健康人工智能的治理、责任与社区监督：一项区域框架设计提案",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1GanFiQ2Vpemg4UVNXYnoweG15VzY3ZWhxYThxa0o5UXNTNDA2Q004Y2x3SnZxdFRscUxwa2lvQVo0YWZKdDNIMm41bjM3dUYteUJNR29scFBpMnFVVU5naEtudWF1MDlSa1R5ZDB3?oc=5",
+   "source": "生物通",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "政策与标准",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-23T18:46:56-07:00",
+   "keys": [
+    "06bf0db3eca55187",
+    "b3adb10f05256b79"
+   ]
+  },
+  {
+   "id": "2026-11-23-aee1e8f07aeb3572",
+   "date": "2026-11-23",
+   "title": "面向美洲临床人工智能的场景特异性验证与全生命周期算法安全监管框架",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA3dTUyX0MyRWJ1V3VzaXN0azRacHpybFljaExlTGVFb3hoVVVMWWhDZzJSZ1VXMlJCSHRjSE9MeWZ3Tmt4NDB1bnhFU2JyaVVrMFM3dXpsQlZuVHJVanh6MGhTU0VMNnl5RWNIWGxR?oc=5",
+   "source": "生物通",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-23T18:46:56-07:00",
+   "keys": [
+    "aee1e8f07aeb3572",
+    "fe01440dcd6cd78d"
+   ]
+  },
+  {
+   "id": "2026-11-23-03e4e5a2eef26f58",
+   "date": "2026-11-23",
+   "title": "Guterres calls for global AI safety talks on testing, transparency and oversight",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZ0ZMcTAzcGFkdHJ3SXNxTGhiQndTNnJJY1NpamtZYmVnUk02NlRsSUtsMkxleTVVa1h6VTZocVM5bXpvSE5tMTFBWUhOZFdGMFY3U2ZkdnV5cVZKbmI3WTZLZG0zNmJDYUsxWTBTcHFmTlV1MENkRFZFdVl4OGFLZkdKaER0Rm10Y1U4OGNRUk14YzZab25aX2ZYbEVPNjJLSlFEVHI0dHpiRWNMWnlTWnF2OA?oc=5",
+   "source": "Superpower Daily",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "全球/多边"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-23T18:46:56-07:00",
+   "keys": [
+    "03e4e5a2eef26f58",
+    "5e3d87c70b1290ef"
+   ]
+  },
+  {
+   "id": "2026-11-23-84cec61de761ccde",
+   "date": "2026-11-23",
+   "title": "Governors Propose Federal-State Framework for AI Governance, Seek to Preserve State Authority",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOM1Y4dGVqcUlFdTRQUE40ZnBQWDFUdEl5YUlnZG9jMy1YZV9STGtqX3FidmdqTDRjcVZpeW1QaERSalcxMVRNMnNhRXRZd3JQdlNCdjR4SWUzMTVHX0JwM0NOVml4TDRsd2NHa0xySDNLR1FjUFo5LVJNYkhoV2NjMWJ1aEJNLXh2R24zZmZHOEVrSVhxcWVpdzJXSWpUSWZwY0JXTkJOTFBqYVVXZEdsT1lHWTNvSEYxY3FRNmpLbFBaUGRPNjBsMVRSN2kyT2VpUXQ1V0ltVjBQVERp?oc=5",
+   "source": "CDO Magazine",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "政策与标准",
+   "regions": [
+    "美国"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-23T18:46:56-07:00",
+   "keys": [
+    "84cec61de761ccde",
+    "e9a53c55793c3964"
+   ]
+  },
+  {
+   "id": "2026-11-23-5fa4bf37ebc6c3c6",
+   "date": "2026-11-23",
+   "title": "Governing Together: AI Governance in Pakistan: Policies, Progress and Global Relevance (w/ The AI Collective) (w/ The AI Collective)",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPZVlmS0R0MlFfNkwxMkc1UEJQUS1DNEItaDZvdTA4dl92cF9wRmRCVkY0T0NYZXE2QnR2SkdnN1JadmltQnZhTnVDYlJoUjBvTlRDaXVTdEg3S194djFnUnJqaXR4aEMxM1pWVEd4S251ZEFVX0ZhbXRHZzRKakhNZEJGU1c4T1RnQjlkeUhYd3haOWNQZUtmVGloSWxOMFFPWUt1anVRMXg3ejRiMUFzY1o3UWV4dF9SdjZtSEFseDVXNnkyM1ZDLXVTcTc5Y3lhWHNVYWxkaHNpV1dWVVBNY1JVVERmeXMxTVBPaDZWZmFnbWdtd1FVTV9uYW4xV01HYWFMUGN0RlM4ODROODllemxtWnZydWVreUJzOA?oc=5",
+   "source": "Superpower Daily",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "政策与标准",
+   "regions": [
+    "全球/多边"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-23T18:46:56-07:00",
+   "keys": [
+    "5fa4bf37ebc6c3c6",
+    "cc324872c9024105"
+   ]
+  },
+  {
+   "id": "2026-11-22-482ee7e11b25b3e2",
+   "date": "2026-11-22",
+   "title": "亚洲多地监管机构加大力度平息AI引发的市场动荡",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQTE1eHVpUVUyaVFZOFhNZG5ueVZTZFA4V3RPbkxIekZtYzNzRk1ESUlrbzJnZHNsQXBNcGI5V3hJNUR1SHZWRWJSb1B0M1FQRGcyS2Q0MVhhTk5SZmQ1dTN4TlJQNWVDeWYxUWRMb25PdkxIY3B5azl4S1RIcWpxTW5OSlpuaDltbDFuemplVmU4cDlLRW1IektsNlllVUluSEQ3cg?oc=5",
+   "source": "华尔街日报中文网",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-23T18:46:56-07:00",
+   "keys": [
+    "2758870b22670e8e",
+    "482ee7e11b25b3e2"
+   ]
+  },
+  {
+   "id": "2026-11-22-02ca51be06a213e9",
+   "date": "2026-11-22",
+   "title": "Democratic lawmaker says next Congress will focus on using AI to improve healthcare, jobs, agriculture",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1EUnhhYUR0YVhhbXNVY01qeEJSZzZ5MXlUa2FFQUw0Y0E3Y1ZzaDJVb2FIZmhhMjJyQlZ4TkpGWkN2bWY1OGtNLWkzMVhGeHVPYkhFYjVweUt2MzFRYUtZcDVMQld5bmpmWHZnUzJLa9IBdEFVX3lxTE9lR0wxSlZVNTRjMjQ3cHliQnp0WkRJYW0zdnpKVG9ZRkZqcXoxMUdkYXlDTlpaMm9fTm1EWTRJdDM5NWJWYXhjNXREb3NUTldNc1ZRR3hWZTRDWXpkcFNadjZSTVZSOEN5Rkk2alRRbVFnODZR?oc=5",
+   "source": "The Hill",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "美国"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-23T18:46:56-07:00",
+   "keys": [
+    "02ca51be06a213e9",
+    "d4fa056e4412a7e4"
+   ]
+  },
+  {
+   "id": "2026-11-22-925f2e33ee183f06",
+   "date": "2026-11-22",
+   "title": "美国多领域接连发生技术故障，专家：2027年AI网络风险或集中显现",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBQbkU3THZUZVFxR241RlZtQXkycFdFR01xQnF6cEhuT2V6UVdzb29ramZ3U1hpOTNhNmVTRkdKYjhJQXpPazZqZHZRY01CS2RmUnFOQ3F0RjNhQUl5elJ6Mg?oc=5",
+   "source": "ThePaper.cn",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "美国"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-23T18:46:56-07:00",
+   "keys": [
+    "4a04316dbfefdfb9",
+    "925f2e33ee183f06"
+   ]
+  },
+  {
+   "id": "2026-11-22-09fe40e24a3080c5",
+   "date": "2026-11-22",
+   "title": "百图生科发布AI药物安全性评价系统--经济·科技",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBSaU1ETG9RVF9keVJaejZaZXdyYWo1NmpaN2MzZjZ3S0tWUWplWi1tTF9pT2VmazRSRkwyWWZDVjJjSS1QYV9JUEhuQzVQVW5sSGhpU0hjRWJJdVJEeTREX2pZaEZ1UmdvS002QS1R?oc=5",
+   "source": "人民网",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-23T18:46:56-07:00",
+   "keys": [
+    "09fe40e24a3080c5",
+    "d9c1731fddbcaa85"
+   ]
+  },
+  {
+   "id": "2026-11-22-c245fe1baaff52c6",
+   "date": "2026-11-22",
+   "title": "A New Framework for AI Governance by Organizations",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOR1NFV0Ntczk5N2t4LTB6SXFGb1BrWEZURTh2MDN2QWM5SlRxZGplVU84eHBZdFRMdWJCb183Tkd2WVZSSk0tUFlycjNPR2tiZEFNaWQ5MHlRLTh1bjBBNW54TVZVOF95dHRzZmlVbDJIZVhBaHJuaFRaY3daeWdkQXptT1NZN2xyclZMalJHQldJd2FpdmFNZmZBYkZic3FVRGc?oc=5",
+   "source": "The Regulatory Review",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "政策与标准",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-23T18:46:56-07:00",
+   "keys": [
+    "7697c69f341ee4aa",
+    "c245fe1baaff52c6"
+   ]
+  },
   {
    "id": "2026-11-22-83619003c09d1e3d",
    "date": "2026-11-22",
@@ -44,7 +765,9 @@
    "createdAt": "2026-11-22T16:50:28-07:00",
    "keys": [
     "0781f0e2f64fef01",
-    "9c56fe0eaf2924ef"
+    "50d5d5068756a9b8",
+    "9c56fe0eaf2924ef",
+    "a0a075bdd2ff5020"
    ]
   },
   {
