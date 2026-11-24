@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T18:46:59-07:00",
+ "updated": "2026-11-23T21:07:07-07:00",
  "items": [
   {
    "id": "2026-11-23-1e3bf511d2ea367a",
@@ -144,6 +144,52 @@
     "31f0b3be6f519e4b",
     "33e6cb200527b192",
     "c7906a2e9c2e3ada"
+   ]
+  },
+  {
+   "id": "2026-11-23-e4350834464ed285",
+   "date": "2026-11-23",
+   "title": "Applied Digital signs $5.4 billion AI data center lease with hyperscaler",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNenpuUVUwRHpJUWw3X3cxb1dCdk9tcGxNSDdIaGFHNFRRNEs5NUo0N0hNcnp0TmNmaUtOWEUwcmJGT2ktTDBDWEZLbFlNUW5KQnJheUJLb2JVajBqUi1JVDRIbWw0XzNJT0xhOXlINzc0TDlWMnRCNzVEVGQ3SG83ZWtIN0ZvY3FqN3RCd002SjUzd210SE1aRGNlSXZTbEJGbHlxVnlGaWpxdm9ITEpYNllkQWpsUQ?oc=5",
+   "source": "Reuters",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-23T21:07:05-07:00",
+   "keys": [
+    "e4350834464ed285",
+    "e43ea6c375c32929"
+   ]
+  },
+  {
+   "id": "2026-11-23-a06c7dbeb1ad71a0",
+   "date": "2026-11-23",
+   "title": "AI Governance Bill To Supplement Existing Sectoral Laws -- Ministry of Digital",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBoaGFFZktpZllTdjYtRmMwaFZnZVhpU0NVdWc4S3h2ZTU0LTR4RE5SazVuTVNZQ2YzWVU5MTJXR0FiNmdJMGRneTZET1RJZERWZERES1ZzdWw4bkk?oc=5",
+   "source": "BernamaBiz",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-23T21:07:05-07:00",
+   "keys": [
+    "510604ea43bae9d6",
+    "a06c7dbeb1ad71a0"
    ]
   },
   {
@@ -605,6 +651,29 @@
    "keys": [
     "5fa4bf37ebc6c3c6",
     "cc324872c9024105"
+   ]
+  },
+  {
+   "id": "2026-11-22-53525d2e0c0bc52d",
+   "date": "2026-11-22",
+   "title": "Secretary-General, at Special Summit on AI Safety, Stresses Technology, Its Governance Must Work for Every Country, All of Humanity",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBTTG45Y3JTbHVTdFRqYzZlQV9yVXdpaHMxZHB6UXExRnBVUXk5MnR2cnVOTmtRM3QyNmd3OGFRN09Ta0ZWMVFwc2xRT0VPVTJReFNpNXQwbGhsdw?oc=5",
+   "source": "UN Meetings Coverage and Press Releases",
+   "tier": "official",
+   "also": [],
+   "coverage": 1,
+   "category": "国际治理",
+   "regions": [
+    "其他"
+   ],
+   "importance": 3,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-23T21:07:05-07:00",
+   "keys": [
+    "53525d2e0c0bc52d",
+    "df5f84dfcf4a2bcc"
    ]
   },
   {
