@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T16:33:40-07:00",
+ "updated": "2026-11-24T19:48:27-07:00",
  "items": [
   {
    "id": "2026-11-24-d6c735b2b50e393c",
@@ -39,7 +39,9 @@
    "keys": [
     "1484b1d8f765a11d",
     "32b961d1cf3e6713",
+    "336a8d2d419a7a27",
     "40746340df6d6001",
+    "57c6f0c3b2836030",
     "71511d74bc29fd16",
     "85f3f862aa50aa10",
     "bb2af214bb124a63",
@@ -87,6 +89,146 @@
    ]
   },
   {
+   "id": "2026-11-24-8667496b55dce70c",
+   "date": "2026-11-24",
+   "title": "McDonald’s Bets on Crispy Chicken and AI Drive-Thrus. Franchisees Get the Bill",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZy10enJDVlp1Qjhwcm11UHlaYmFKaFZyRFBtQ1QxVVdQS2RTdDJKMnFmSGdLU3oyUm5XUmlRbmFFSUowNXBFRlRoQ0hNd19FV0Q3dXRDQkpfTEM1UlRxTnlaVEstc1JQNFZFVVh3TTd4V3RtZnNFcWNseHJtWHM1cUJTNzB6N1U3TXJFSEJOcFZiUGdMUE1FS1VKbnJzNUVZbDlfTFZjU0o3em5yWkxqTzNhQjdlMjVZYlJ0a20xWXYwZnZJZ0l0ZQ?oc=5",
+   "source": "Bloomberg.com",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-24T19:48:24-07:00",
+   "keys": [
+    "8667496b55dce70c",
+    "b47609f9d437e22d"
+   ]
+  },
+  {
+   "id": "2026-11-24-f133da3740790d01",
+   "date": "2026-11-24",
+   "title": "我国牵头研制29项人工智能基础共性国际标准",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQLXkzSklqbGJ1SlM3U2w0MUp5bWQtck1XbEFQVF9rdVBpcnI3R0xkRVRkYWJKeVpxUjVLNl9HSWFYRlo4NHVlcFlBWUNGTW5CYXNCRXV5UlJCaHlrdGxOelhyWHBtRGdjSkpQME9xVUxEQnVZRVNYeHhheHN5NDZoa2VBd3E?oc=5",
+   "source": "新华网",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "国际治理",
+   "regions": [
+    "全球/多边"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-24T19:48:24-07:00",
+   "keys": [
+    "59417a2db39fa2ab",
+    "f133da3740790d01"
+   ]
+  },
+  {
+   "id": "2026-11-24-edee14b51e20af44",
+   "date": "2026-11-24",
+   "title": "Antitrust after the Midterms: Merger Enforcement, AI Safety Coordination and College Sports Take Center Stage",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNbGY4QmpuYjdvR056aERXQUc5dG8zM0pfUnFUUFJ5TU9CM3M5UUsxVkZvY1UwYjc2UTRSclJCXzJncHZtVWt6aHBpcHJmVW5BcWtpeFpqRzJTQWV5cWF2N0kxNEJRcEhQRGQzNDJ1UWY2THVDQ0xzVDhqXzVuM2psdjdzVTQtdFpzVVl0NEo5Sk9OLXd0R0ptQVpaaEdsNkpVdkNoR3hEQU1DZGc3R2VzYW84Qm5mTUFoREppNDZoSmNrN2pNakZEdC04dHpVVG5BaHlTZ0x5UFJ2UFIxeU50TjJrU2txX1FtYnB2eGxGVHZzV3J6a1c3M0NUODlEQQ?oc=5",
+   "source": "McGuireWoods",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-24T19:48:24-07:00",
+   "keys": [
+    "0c7134b03a3aa2ef",
+    "edee14b51e20af44"
+   ]
+  },
+  {
+   "id": "2026-11-24-5f7dc68f3491d146",
+   "date": "2026-11-24",
+   "title": "全球首发！中国构筑生成式AI全球治理新标准",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5yVlM2M1JReWZvd2cza182NjVCY1V3ZVhpWUluOHdmWHdtaEdaR2ZrcnVXMzhyQllKR3c2YVdEUmtXR2d3bW16TkstYjhnVjhVMlpZVXR4NHV1ZTExSHRIVzJFX25iSkJ6b2dfcnJEYjlfbUU?oc=5",
+   "source": "潮新闻客户端",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "国际治理",
+   "regions": [
+    "中国",
+    "全球/多边"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-24T19:48:24-07:00",
+   "keys": [
+    "5f7dc68f3491d146",
+    "ad9f153c8034678c"
+   ]
+  },
+  {
+   "id": "2026-11-24-d95356b987ffda83",
+   "date": "2026-11-24",
+   "title": "涵盖智能制造及生成式AI监管 中国主导制定78项AI国际标准",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxNaDIyWFF4Q0ZySEpzR1hNN2R4WHROU1lLN2l3WU0xUG1STXVNMzAxZkM5Rzk4dXVFclF6Q1BrR255WkVtb0c0UDAxWUxpUmJtcUpuTDZ3Y0hoc1F1UHR1dWRLOGdoX09VaHNfT2tWQU93RG10OWsycHBIcWZnMktVZGFNdF8ycDhfMmZCMHQ4ckRpb3FMY09kMVRmM0kzcDhEMHRrd1RkSHFpOFFkLU54d1pIem1NRFFHZng2OU13R3Eta01HXzQxRmFqRmxhSWduVXIzTGtRcEppVEdFalprNTIzdUlSZGptcldtSG8wZGFDVjdsd2R1WE0xMlFhelBJR3IxS25Vd0poXzNkZ0gwVEx6cUkwWEdvMmd4WENpSE9jaHlETk44ME5RSTgyVUNhZ0ZtOUxEb1J1Znc1ZjRXY1FabWhhZjd6eGgwT0gxam1uTEI4Vmp2OVhxS1h1d1hBbDRIRWw2azlaMGRwQUpSZE5vb3NtakVsNXozTA?oc=5",
+   "source": "KLSE Screener",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "国际治理",
+   "regions": [
+    "中国",
+    "全球/多边"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-24T19:48:24-07:00",
+   "keys": [
+    "d95356b987ffda83",
+    "de24ea6c30ce1019"
+   ]
+  },
+  {
+   "id": "2026-11-24-568a4408c639eb5a",
+   "date": "2026-11-24",
+   "title": "接入438户！鹤庆县商务和市场监督管理局推进“互联网+AI监管”工作",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPb0lzSFpVMERBV2hRNThqSTVJOGdEa3o4a0FzbUx0SWdiWnREbzFOeENMNXZuTHhmZElmX09aY05qNTlhZEc5ZjZTTXA2NDFxcWdVa09xekRjdEV4TktVelpETFJ2S3pkbV9hN2lvYXR2M0ludVB2SmJ1TVZvZGdhSFhZX1RXWmhlRjhZMA?oc=5",
+   "source": "Sohu",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-24T19:48:24-07:00",
+   "keys": [
+    "568a4408c639eb5a",
+    "9a4987aa7698d852"
+   ]
+  },
+  {
    "id": "2026-11-24-6f201d46464ce37f",
    "date": "2026-11-24",
    "title": "我国牵头制定78项人工智能国际标准--经济·科技",
@@ -112,8 +254,12 @@
    "keys": [
     "116f0ff4153c3ac0",
     "238abb0706cd9ef7",
+    "3c76af49e7388e51",
+    "545dca78a8d5e3fc",
     "6f201d46464ce37f",
-    "8bea54b04d054d65"
+    "8bea54b04d054d65",
+    "c6cef2d0e66a5d1f",
+    "cb9966a1e8ff909f"
    ]
   },
   {
@@ -721,6 +867,29 @@
     "31f0b3be6f519e4b",
     "33e6cb200527b192",
     "c7906a2e9c2e3ada"
+   ]
+  },
+  {
+   "id": "2026-11-23-940345a6889bed40",
+   "date": "2026-11-23",
+   "title": "古特雷斯：AI发展超越安全防护 吁一年内建立全球风险监管框架",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE00UWc3WEZ3WkJSRFlRQWtxc0FWSG9WTlRqMm9odXpHTURvVWFwQk5jcDM5VEIyS3VrYUZaelNvR0xNSjBFRFBXa3J6S09SRTJsTjVscWo3dF9nZ19RZFpvZzBPODg?oc=5",
+   "source": "8world",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "全球/多边"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-24T19:48:24-07:00",
+   "keys": [
+    "940345a6889bed40",
+    "cb4c830a77db06eb"
    ]
   },
   {
