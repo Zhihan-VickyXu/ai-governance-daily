@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T16:12:05-07:00",
+ "updated": "2026-11-25T18:59:18-07:00",
  "items": [
   {
    "id": "2026-11-25-b9786b489efaa07e",
@@ -22,6 +22,29 @@
    "keys": [
     "b9786b489efaa07e",
     "d4ae86eed7cb7513"
+   ]
+  },
+  {
+   "id": "2026-11-25-6fef9130d2e2dfe4",
+   "date": "2026-11-25",
+   "title": "四川97.1%的学校食堂实现“互联网+AI”监管",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1PTXhtOVhCMDMtaG8zZkRaY1JMWWFrYmN6cThDcGZUOUU0UnRwdi1ya3FhS3dNVk9QcW5jZzdydHN3TkgybWEtOGZkSTVWbGY0V1N2dWg3Qk85MTNadzk5NFVzVmo5UkFmdVE?oc=5",
+   "source": "人民网－四川频道",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-25T18:59:15-07:00",
+   "keys": [
+    "6fef9130d2e2dfe4",
+    "9107c6c468beb068"
    ]
   },
   {
@@ -422,9 +445,13 @@
     {
      "source": "手机新浪网",
      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0wY3lyUWZMQ2hjVWhsVGVNa09UdXRmS1puQ2xtc2lUcF9RX0Z5dFpPV0tkWlJpcFBHV2gxelg2X3FzLXY2NmVDWG02ZG4xZm03QzNFSFRVbmEtWGtsZWpMOERKQzE2Z0xjcXBNWGNNdThHNHVkcjBFTGNORVdKR2s?oc=5"
+    },
+    {
+     "source": "央视网",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9OQi1NUGFaRlJ6UE9jd1BrYnF4b2xrYTlzRFc3cEFpT0s4Y3FGQW5hUmpaMUtGSm1ibzFoa1NrNTJpNDUtQk9qRmJyLWtPb1VqbXRWZnpPd0lsd0lrdHhtQnlvNlFJeXVSTlF3NDVSOHM5UGptdkE?oc=5"
     }
    ],
-   "coverage": 6,
+   "coverage": 7,
    "category": "国际治理",
    "regions": [
     "全球/多边"
@@ -438,11 +465,13 @@
     "1484b1d8f765a11d",
     "32b961d1cf3e6713",
     "336a8d2d419a7a27",
+    "362034589f544b5e",
     "40746340df6d6001",
     "57c6f0c3b2836030",
     "71511d74bc29fd16",
     "85f3f862aa50aa10",
     "ac2ad1a3ad4632f0",
+    "b843655e6c09b14b",
     "bb2af214bb124a63",
     "d6c735b2b50e393c",
     "d91de6b25fa93992",
@@ -507,14 +536,18 @@
     {
      "source": "中山网",
      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5nTjBSOGg1NDltaGtLdXE2b2tBazRJaG1BNkE3RVlVU2VJRHNheU1DOHBpdmZwMEZIWGtvMTdvS3JmZlV1NnM1bU56SGxZRWVJYWkwRFVIZ1lFWThobUhhVWhDaUY1Nlk1bHVrMjFfcw?oc=5"
+    },
+    {
+     "source": "Sohu",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVGZFbnhnTnVkRS0tbnFBZlpVVnc0UEphWGhFRFFlb0ZEejhzS1BoMzBLVl8yU2ZLbkhQSUdBWTJiSnY3TG0wZ0hnOWJETzBlZlg1X2Q4ejd1aUVqUi1WZ3dtaUZzUl9MT0hxVEtfOWZpM0ptdjNycmlnbmFpLTBfaHYyalZ6d2R4?oc=5"
     }
    ],
-   "coverage": 4,
+   "coverage": 5,
    "category": "国际治理",
    "regions": [
     "全球/多边"
    ],
-   "importance": 2,
+   "importance": 3,
    "lang": "zh",
    "addedBy": "auto",
    "createdAt": "2026-11-24T16:33:37-07:00",
@@ -525,12 +558,60 @@
     "3d136620671d8939",
     "501f50cce7813ecd",
     "545dca78a8d5e3fc",
+    "5cbf968fe378ed7c",
     "6f201d46464ce37f",
     "8bea54b04d054d65",
+    "b7960d25521b381e",
     "c6cef2d0e66a5d1f",
     "cb9966a1e8ff909f",
     "d51eefa27b3dc544",
     "d9186802ba16cde5"
+   ]
+  },
+  {
+   "id": "2026-11-24-2c19b62debc492cb",
+   "date": "2026-11-24",
+   "title": "朝闻晨评 治理AI带货乱象 不能仅靠“删号”",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBGVWVNVkxWZXBOa1AwbnQ4TUFGeWVFLWZ2OU9seDVuQ180NHFUSk9ZdUQzcnVoQ2ttZjFXNERSTm1iOVlQUnhleVlzUlJmczVhUThBc29ENEU5VFlxaVBIYjNWUWp6UE81SU9LX1k4NVAwc2RTUHRQTg?oc=5",
+   "source": "央视网",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-25T18:59:15-07:00",
+   "keys": [
+    "2c19b62debc492cb",
+    "d00cf26d238bd7ba"
+   ]
+  },
+  {
+   "id": "2026-11-24-ddafa6b567dd6706",
+   "date": "2026-11-24",
+   "title": "AI智能体越界事件频发：全球AI风险事件十年累计2259起，责任认定与治理机制面临挑战",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9uZk9yS25pTnlEMzZOVmo1ZmVOd1lpSnVETWtzaDdyVDhSLVpsUFBkM3pHdXlJV0hUNGdSLWpiaVZ3S0JiUWZLeVp5a0FILXJ5ZkdMcw?oc=5",
+   "source": "虎嗅",
+   "tier": "b",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "全球/多边"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-25T18:59:15-07:00",
+   "keys": [
+    "ddafa6b567dd6706",
+    "f5a1fe85a58ff351"
    ]
   },
   {
