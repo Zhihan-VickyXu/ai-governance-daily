@@ -1,6 +1,261 @@
 {
- "updated": "2026-11-25T18:59:18-07:00",
+ "updated": "2026-11-26T16:07:01-07:00",
  "items": [
+  {
+   "id": "2026-11-26-7b13fdfd5f387955",
+   "date": "2026-11-26",
+   "title": "The Council of Europe calls for responsible governance of AI at UN Security Council",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQUVoZGpYUjdpMGVnODVmZG5LR2FOMHFNWUFYa1oxZTY0Y2hIcVg4VVhrS0FjSGNibFBOYnNYNHlIbUZtdjFPNC1HUjN3eVFrVE1Ja2FZVkpTUFI1Z0hIdkFpcnRFcExvYjZTdkZSRktJZ3VtdExGTUZMdGxTQ2FkdlRVVktBb244NkRncHpJMUkxYUZST2hWZHFzeE5OdURaUGNRNTVfRWgzNjgySTJLNkg3VUNBelVaVGM0?oc=5",
+   "source": "coe.int",
+   "tier": "official",
+   "also": [],
+   "coverage": 1,
+   "category": "国际治理",
+   "regions": [
+    "欧洲",
+    "全球/多边"
+   ],
+   "importance": 3,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-26T16:06:58-07:00",
+   "keys": [
+    "7b13fdfd5f387955",
+    "bf6a794e8c72a726"
+   ]
+  },
+  {
+   "id": "2026-11-26-fd5c75fca62144ab",
+   "date": "2026-11-26",
+   "title": "京粤两地协会签署游戏安全跨区域协作备忘录，20余家游戏企业共话AI时代攻防",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9hV09UOEFlWFhwWWhsRzhuX3pJcGc4VC0yeUdWQjMzeUJ1NGJGelBwQURzOEdwb1lZaG1mZW1JTWZNaklKTHBwQUVsbFRxSzRJd1M5TVB1cDA?oc=5",
+   "source": "Jiemian.com",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 2,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-26T16:06:58-07:00",
+   "keys": [
+    "36efc408418df3fb",
+    "fd5c75fca62144ab"
+   ]
+  },
+  {
+   "id": "2026-11-26-498f1c8631397869",
+   "date": "2026-11-26",
+   "title": "Bipartisan Desire to Regulate A.I. Faces Obstacles in Congress",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdm5vVlNYSU1RdnJub1pDc2hpOHhGZWNRWDBubnlHTURaQ3FHSEdXcjFyVkdkLTJyeWJWWHNzU3F0ckdTcHBqcUhtR2tyd3ZXSDVVWHlEVUctRThyLUFmS1FtWnpUYTlKWF9LOGRhR2VobFVVQy0xY0szVEpheHBhZm9kVHhvTjNW?oc=5",
+   "source": "The New York Times",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "美国"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-26T16:06:58-07:00",
+   "keys": [
+    "498f1c8631397869",
+    "a8aacb05c1c98193"
+   ]
+  },
+  {
+   "id": "2026-11-26-46067327c9cefcea",
+   "date": "2026-11-26",
+   "title": "Bank of England sees growing financial risks as AI borrowing surges",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMlNESVMtMnZuRm9TZ0FHOGE2NkE2anNKbkwwVlpqbThWRW5WdGpYMnJyMVZrX1dheTRXTGtRT2xqckxNdEo1Y1V3aUthRU5QTUJGY21qaDBnamg1cVRlSG5ZQ1IzZTVnUzJ1djJfS25sOC03WlgwOVY1LXJ0ZHZhRFFwWk5ubV9KWWIxal93a25QaDBmTGMxUmg3OFUta2NWNmFBRGNJVUlNakE3ak82Sm9tRzI?oc=5",
+   "source": "Reuters",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-26T16:06:58-07:00",
+   "keys": [
+    "13bdbcfce19e2f5e",
+    "46067327c9cefcea"
+   ]
+  },
+  {
+   "id": "2026-11-26-8813f603d89ee3cd",
+   "date": "2026-11-26",
+   "title": "I’m an AI leader at a tech giant. Our industry has stopped taking safety seriously | Anonymous",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWlVHTXZiY2xqeHEwTFk1WU1QbFZHamVuZnFSUThEYk9qZmJiNWYybmd6YWs1WElmbWZFbTFkSVVvcl9QUHFrSW5oQ0hMc2ZJOTFieGx4RzdLdUlzM183US1GdnFxS3dCd3AxX1JocUFDM0tKSUZLZlQ3bElPTXFBS1dWTWlzLUc5d2czZER1ZE1mRzBaMVJ4WDRLbDRYY0ZtUzhzZkkzSk9KdnV1?oc=5",
+   "source": "The Guardian",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-26T16:06:58-07:00",
+   "keys": [
+    "8813f603d89ee3cd",
+    "90cad943da2efee2"
+   ]
+  },
+  {
+   "id": "2026-11-26-59a87d7e9ab4442f",
+   "date": "2026-11-26",
+   "title": "Dozens of court cases in England and Wales affected by undisclosed AI use in 2026",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNOFk1a3hxaXJETVRkR2o1aEFpWHBaVDdaV3hRMHlXYXdxRUR4YkJpSGVrVVVMMGV2X2R1UndhR0RvbkUxUVVIaTFfNzAxdmpUSTFTY01DaWozSVBwXzZzMGlERXRPX2dyRXNaRzVkWHlSVmpvZ0k3Y3puVnVaMk5FenpqUnNtNnloV0dVZ2tzUXRTYkhQLVA5dEg4U2FqUFZsU0FvMHJ1amd5Z2hndDQ0dFJnUnp3Tml6QzY0OVpReXFJSzJ5VWRtQ1dVc1U?oc=5",
+   "source": "The Guardian",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-26T16:06:58-07:00",
+   "keys": [
+    "29efa7d0175c92dd",
+    "59a87d7e9ab4442f"
+   ]
+  },
+  {
+   "id": "2026-11-26-7c247dfc634ade5c",
+   "date": "2026-11-26",
+   "title": "前世行首席经济学家：AI革命不会自动带来繁荣，人类需要新政策应对丨两说",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5hQmhQQmMzRE5oWWt1RTlpT0Q2SzdlUDlidi1TZzJRUFJYZUpCMnJTcXM1aTlrUHFTRGg2RlNpLVJIUFpZcXZVVTA4OEl0MHdNd19ESQ?oc=5",
+   "source": "第一财经",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "政策与标准",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-26T16:06:58-07:00",
+   "keys": [
+    "155770aa8f03cd04",
+    "7c247dfc634ade5c"
+   ]
+  },
+  {
+   "id": "2026-11-26-7212351c12a0619f",
+   "date": "2026-11-26",
+   "title": "Can Elon Musk really put AI datacentres in space? - The Latest",
+   "summary": "The Trump administration has approved Elon Musk’s plan to create datacentres in space. US federal regulators have authorised the launch of one million Starmind orbital satellites, which are built by Musk’s SpaceX, to pro…",
+   "url": "https://www.theguardian.com/news/video/2026/nov/26/can-elon-musk-really-put-ai-datacentres-in-space-the-latest",
+   "source": "The Guardian",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "美国",
+    "全球/多边"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-26T16:06:58-07:00",
+   "keys": [
+    "7212351c12a0619f",
+    "b208fb2712377f19"
+   ]
+  },
+  {
+   "id": "2026-11-26-18c09f86bf561da6",
+   "date": "2026-11-26",
+   "title": "2026 BSI Standards Conference & AGM Focuses on AI Governance and Sustainable Value Chains, Leveraging International Standards to Build Business Confidence Amid Global Uncertainty - www.energy-omni.com",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBDZFRkNFNVZklGV3QzWkE2ekpKR2g0U2l1eXlmUk5HLW9CY3VENFZBSjNyQTBycjZlRHJjeXF4ekNNUlowNTZMa014d0RBZ0tCSzByYlMxdm1YZUlDamdOeGdLVndOaVJtQ1c4Sw?oc=5",
+   "source": "www.energy-omni.com",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "国际治理",
+   "regions": [
+    "全球/多边"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-26T16:06:58-07:00",
+   "keys": [
+    "18c09f86bf561da6",
+    "b24e2d3e027a093e"
+   ]
+  },
+  {
+   "id": "2026-11-26-17e44282eb8d73ea",
+   "date": "2026-11-26",
+   "title": "被演员吴越打假“AI作恶”，涉事品牌方欣芝妍致歉承认确有监管疏漏！AI仿冒名人带货为何屡禁不止？专家：治理要“先看清利益结构”",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQllnMXhfVG5taVZBNnRGTkZDMEo0SzJydExYbzFkR3FVT1Z0Q3VRLUYyYmVnamdYeVppbk5pSmxJS1ZqbFlHRTBQc29sS3VEZi1VNjk5S3FfbTZOelUwNXNlQk0tNl84TmQ1dU9NdzQyQWQ3TWVUTTZlQUJFdFVFcDNqS2xZQXpuaVRLQg?oc=5",
+   "source": "Sohu",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-26T16:06:58-07:00",
+   "keys": [
+    "17e44282eb8d73ea",
+    "ae2da29e6e116012"
+   ]
+  },
+  {
+   "id": "2026-11-25-2719448f237b9f41",
+   "date": "2026-11-25",
+   "title": "AI Act scientific panel holds second regular meeting",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSV9VZENwZHBYVGxjbjlpcVhyOF9OX1lSVzFDVlFqTFRNRmx6M29JREpEQS1wX0Zybk5lY0duaUs3bl84MnhSOG1SbElENkVUTV9yUDFwR1pRR09UNnlmdFFHUzh6dHdFR0cwWGtrVXlYZjA5X1Qtc1ZManhHUDh5dlpkdDJwZW9kV2l4MHYyNlNvdjRmMjFZRE14V19Ld3M?oc=5",
+   "source": "Shaping Europe’s digital future",
+   "tier": "official",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 2,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-26T16:06:58-07:00",
+   "keys": [
+    "0abb6337144ffffd",
+    "2719448f237b9f41"
+   ]
+  },
   {
    "id": "2026-11-25-b9786b489efaa07e",
    "date": "2026-11-25",
@@ -22,6 +277,190 @@
    "keys": [
     "b9786b489efaa07e",
     "d4ae86eed7cb7513"
+   ]
+  },
+  {
+   "id": "2026-11-25-ca8828a0404330c0",
+   "date": "2026-11-25",
+   "title": "香港接连发生大规模资料外泄 AI时代网络安全风险加剧",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5od0NKUF81RXQ4T01Rc2haeHNBcWd3dWZJOGhoa25LMW5DZjdlTHk5Wk1lcUh1d3hGZXpoUGNVd1phTGZxZndtNDhFcGVOVE1aZzhZTGxtN2VKblIyUGxhZ3lIUmI?oc=5",
+   "source": "财新",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "中国"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-26T16:06:58-07:00",
+   "keys": [
+    "30616ab116d4862f",
+    "ca8828a0404330c0"
+   ]
+  },
+  {
+   "id": "2026-11-25-2cc331a8a0b5cd01",
+   "date": "2026-11-25",
+   "title": "Apple pulls MiniMax AI chatbot from App Store over child safety concerns",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNU9tZmh6STA3Ui1FY1FQaE9LMDgzQjJjV2xoZ3Q1Znlvbk5wdll2OXoyOUdxUHp2WEYteFpvTFBhVDZYbFozTXp5T0RpaE4zUUhBaDhiVDAxUkY2RURGQWFFaE1BRTVmdmdXTDh3UEdReDM5N0pjSjBzUXB3UEpPa05ma2ZoWDZhTzhJbTNFeDBfQllEWS02eHhST1FPRWI0VlRMOEhHanpvUjZpWkNPWEJLS1BlSllaZ25XeTRGUXF3bUZEcE5n?oc=5",
+   "source": "Reuters",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-26T16:06:58-07:00",
+   "keys": [
+    "2cc331a8a0b5cd01",
+    "f554bf9e4b83be3e"
+   ]
+  },
+  {
+   "id": "2026-11-25-52444d1ca272bb53",
+   "date": "2026-11-25",
+   "title": "OpenAI taps Cravath litigator for court showdown with Musk over AI dominance",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRzJ1c09xSU9NV3J5RGI1Ny1hUkFmV1pURmljRHV5aldoS2tsaTdIMDE2RVBncFNpSmYtWW04eHh4cnlvR3N0Q3Y1MnNSVVNfNmVFUi1KMFk0eTIxclN6TkhhbDNvR2d3S0VncjJlUXhPODlvRVZhcGVGM1NoREFRTHc1QzFFMHlOdjNwSm1DalZ5WTJRa0pTb2YtVloxN3p3ZDNmZkF4bjNORkxJM3ozZlJrRFJSYTJ0cWVORDVmajFmbjA?oc=5",
+   "source": "Reuters",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-26T16:06:58-07:00",
+   "keys": [
+    "4ab239ad855ef564",
+    "52444d1ca272bb53"
+   ]
+  },
+  {
+   "id": "2026-11-25-2824a655a58df368",
+   "date": "2026-11-25",
+   "title": "China warns of new and unseen tech risks, urges AI-driven security defence",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQzJyeWRoZkZNSU8zWi0tb3pZMWxnTGZtVGNha18yYjZ4dEFkeFQ3TEpCQm1NVEFqU0FMbkE0d3dTSWRGems3WENZd3gyNFVxSkdNUVMwQkpQaVMwWU1aNU52ZWtwSFBtV2h2UDdlckJnWFhqaWJoVDlLS2t2UGNoUkRCT0pUNlpYdG5wT3J5V1NidVJ0QjN3STNkdjQwZDBKUlR2Z0twRWUwOEFPX1p6Z0p5aUxPZjVXMk5kRmJERzhlclRoSjl4Uko4V08tRk3SAc8BQVVfeXFMUHp1eUt2bFpRWkdsQ1h6VGp3c29TQ09XMk9USjRuUEZ1V1ZGeUU2ZWs3OGZaTEZZN2V4MEVWdHg4Tm00M2xEVzkwakxnZVJMX0x4cnM0M0dyQlktTkdqN093U0RmWFlfNjJHa1BndjVSR2Z1ZlE5YjFsbWxWQ0tnazg1VWxqVzdZSGJhQlpDNHkyNmowUWdXd1lnOExUdmowdDRaOFltN1otWHpZNWpmY2Y0M1d6SUs2VWp4bGRpR2ZsUERXZE5HcG51X21XUFVr?oc=5",
+   "source": "South China Morning Post",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "中国"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-26T16:06:58-07:00",
+   "keys": [
+    "24d0fd8497b8a65d",
+    "2824a655a58df368"
+   ]
+  },
+  {
+   "id": "2026-11-25-7a9fc8502bec5c16",
+   "date": "2026-11-25",
+   "title": "AI Misalignment and the Limits of Market Discipline",
+   "summary": "We develop a general equilibrium model of misalignment between human and artificial intelligence (AI) objectives.",
+   "url": "https://arxiv.org/abs/2611.34271v1",
+   "source": "arXiv",
+   "tier": "b",
+   "also": [],
+   "coverage": 1,
+   "category": "安全研究",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-26T16:06:58-07:00",
+   "keys": [
+    "4e245ad65f9d0812",
+    "7a9fc8502bec5c16"
+   ]
+  },
+  {
+   "id": "2026-11-25-c0d12b04b4dd2078",
+   "date": "2026-11-25",
+   "title": "AI Act/Nudifier ban: 81 MEPs demand enforcement from day one as nudifier ban kicks in next week",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQODJaNmNrbFFWVXlTcnRleFNMd0FfV2dZV3JiMXI1TE90SUtWZE8yQnZaRUF3YzBwT1p0TkJZZmE3R29Vajg2UUVrRGt0ZVVCcUpmb25JNDFwUi01ZWJyYUlOY0dpRlJhZVZYRDI1VEVBR0dVcVBPRldINkVlN1poM21zRXRGdjJ6cTd3QzVBbGRHUHdNekFySk5FaU1pTmtnY0hVbHYteklLZW5xZ2d4R3UtdnNoYWMyX1NEcWt3Rk9nalJQbFpUQ3FOZWZkS1dvX0o0THo4aWM?oc=5",
+   "source": "EU Reporter",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-26T16:06:58-07:00",
+   "keys": [
+    "2fdaf1582bb8a6e4",
+    "c0d12b04b4dd2078"
+   ]
+  },
+  {
+   "id": "2026-11-25-6b5dc5c6bb4b6a8d",
+   "date": "2026-11-25",
+   "title": "用“互联网+AI”监管外卖后厨！肥乡区以 “智” 治促 “长治”守护舌尖安全",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWmxickg5bFZwZXd0d2piNjlWd00yTlRTWlRvX0dXamVaM3U0ZGFjTWRfVkFiLVA5M0QtUlJkZGFwVXowMkdyWnpCSUJlR1hWX2gxUEYtSHZDWFNsM3g0T2wwYUNZTGsxdDBmZ2RSN1p0em9Wd2ppVHhKaEI0VHZyUDlZN2RVdUdoTF9EU2taNHpGaWdqS1l0eA?oc=5",
+   "source": "新浪财经_金融信息服务商",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-26T16:06:58-07:00",
+   "keys": [
+    "6b5dc5c6bb4b6a8d",
+    "f5181236e818d11c"
+   ]
+  },
+  {
+   "id": "2026-11-25-1f11db1a5890559e",
+   "date": "2026-11-25",
+   "title": "我国联合多国共同编制全球首个针对生成式人工智能治理的国际标准提案",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZWZTcV9pbjRoamFJd1pBc0VDVzJMTW9veldQdjRuUDVob0F0SlhTd2VkNWRndzAyX0EwYlhiVE9TekxVVHlaa0txaUZIYkNSSW5zSXBTLWY4SUxYNGVWbmNxTFJsOVc0dThjeU1uOXNwd3gxbG9ZUHhhdUp1Q3A0MHJSYw?oc=5",
+   "source": "手机新浪网",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "国际治理",
+   "regions": [
+    "全球/多边"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-26T16:06:58-07:00",
+   "keys": [
+    "1f11db1a5890559e",
+    "5804242e10662b35"
    ]
   },
   {
@@ -552,6 +991,7 @@
    "addedBy": "auto",
    "createdAt": "2026-11-24T16:33:37-07:00",
    "keys": [
+    "0fbac486dfbd1b29",
     "116f0ff4153c3ac0",
     "238abb0706cd9ef7",
     "3c76af49e7388e51",
@@ -564,8 +1004,32 @@
     "b7960d25521b381e",
     "c6cef2d0e66a5d1f",
     "cb9966a1e8ff909f",
+    "d464867940b49ad0",
     "d51eefa27b3dc544",
     "d9186802ba16cde5"
+   ]
+  },
+  {
+   "id": "2026-11-24-08cef26d9a3f499b",
+   "date": "2026-11-24",
+   "title": "Beyond the Efficiency-Efficacy Dilemma: A Critical Analysis of Transferability in Adversarial Malware Detection",
+   "summary": "Machine Learning (ML) models are already being deployed at scale for malware detection. Therefore there is a pressing need to rigorously study adversarial robustness.",
+   "url": "https://arxiv.org/abs/2611.33243v1",
+   "source": "arXiv",
+   "tier": "b",
+   "also": [],
+   "coverage": 1,
+   "category": "安全研究",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-26T16:06:58-07:00",
+   "keys": [
+    "08cef26d9a3f499b",
+    "db3ad0bafd06753d"
    ]
   },
   {
@@ -1292,8 +1756,13 @@
    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBPWGdwd2dibTFOZjhhWFNKT1hiNnFrWEkxWFI2MnBVYWpaN0ZHQnNnQ2xCZzdueTRrZ2I2YTUtUGh3LXZkTWI2ZVNpNXZodVJIcDNhcDdDT0hZNndELUNkNE1NY20xam9pcDhZQi1XcDF3T2w3N2c4RU1NMDdBQQ?oc=5",
    "source": "China Daily",
    "tier": "",
-   "also": [],
-   "coverage": 1,
+   "also": [
+    {
+     "source": "Ecns.cn",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9HcHJpbnZlU0l0anNGWG1rLUdtaktDaEJzaWtDZkNfOTV6SzdEbGxxQ3FJaC1KeFZhdEI3aUp6QjJBM0xFQW56b0laZGU0REJHRFB3RG83ZTNwODFfTFNxZGRaT2d3OEl5dXBlZU5CRmZ0eXgtakxUV2t3?oc=5"
+    }
+   ],
+   "coverage": 2,
    "category": "政策与标准",
    "regions": [
     "中国",
@@ -1305,7 +1774,9 @@
    "createdAt": "2026-11-24T16:33:37-07:00",
    "keys": [
     "091c5b58997b233b",
-    "d0993dccf9eaf3b2"
+    "35a96edca6e0ad29",
+    "d0993dccf9eaf3b2",
+    "e1ff641868eafe59"
    ]
   },
   {
