@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T16:07:01-07:00",
+ "updated": "2026-11-26T18:57:35-07:00",
  "items": [
   {
    "id": "2026-11-26-7b13fdfd5f387955",
@@ -46,6 +46,29 @@
    "keys": [
     "36efc408418df3fb",
     "fd5c75fca62144ab"
+   ]
+  },
+  {
+   "id": "2026-11-26-35ccbbe475bebabf",
+   "date": "2026-11-26",
+   "title": "Nvidia’s credit rating, the AI trade’s collateral, is at risk",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQX3lvSk9oUUkwaWpDR0h3Sk9QV2dTMlVwWUJGcWxBUXV0eVEyR3Z5enl0czliOV9fSzBkMGl3MEdrWUdUTjNIODVpbE9ISU80RFJtZnhnZDA0NFA4Q2JubGJlTVlCMTRvQXYtell0YVJZQWVGaEJHQzhPRmFKVk1IT0FpUDVIblVQMHg5RlJ3d2RhOTBuSGdtdjRnVDFVZ2dJNUE?oc=5",
+   "source": "Semafor",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-26T18:57:34-07:00",
+   "keys": [
+    "35ccbbe475bebabf",
+    "434affe2e7a19cac"
    ]
   },
   {
@@ -888,9 +911,13 @@
     {
      "source": "央视网",
      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9OQi1NUGFaRlJ6UE9jd1BrYnF4b2xrYTlzRFc3cEFpT0s4Y3FGQW5hUmpaMUtGSm1ibzFoa1NrNTJpNDUtQk9qRmJyLWtPb1VqbXRWZnpPd0lsd0lrdHhtQnlvNlFJeXVSTlF3NDVSOHM5UGptdkE?oc=5"
+    },
+    {
+     "source": "CCTV",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBoc0FwMVhuZ1U4ZFdwVmR4NVNUTklweldIaGRvSWFVLV9vbmdub1FXa3N1NkNnYTU3NE8tV08ybm14dWNKejYwTTJVMU9VUjY2MWFaUlNRckRwbWZzbnRlM0tIS3BuZ0Jkc0ZNMHhIekdZcDJEUnc?oc=5"
     }
    ],
-   "coverage": 7,
+   "coverage": 8,
    "category": "国际治理",
    "regions": [
     "全球/多边"
@@ -907,6 +934,7 @@
     "362034589f544b5e",
     "40746340df6d6001",
     "57c6f0c3b2836030",
+    "690b9d9e84a75e88",
     "71511d74bc29fd16",
     "85f3f862aa50aa10",
     "ac2ad1a3ad4632f0",
@@ -915,6 +943,7 @@
     "d6c735b2b50e393c",
     "d91de6b25fa93992",
     "dd653e085ad71d6f",
+    "ddc3e34aa85c0027",
     "f5da3c19bc50e2b5"
    ]
   },
