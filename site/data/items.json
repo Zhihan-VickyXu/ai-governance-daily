@@ -1,6 +1,283 @@
 {
- "updated": "2026-11-26T18:57:35-07:00",
+ "updated": "2026-11-27T15:48:40-07:00",
  "items": [
+  {
+   "id": "2026-11-27-3b11c255bd1c85c8",
+   "date": "2026-11-27",
+   "title": "International workshop on data-driven labour Inspection: Artificial Intelligence, advanced risk analysis and international best practices",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZDRLbUZ6RjNvakxRZk83YVlmVnNGRlY4T1RmX2FLdmJmeTBkbWVUVjVhb0ZmWG5XeFk1a2xBVlczS2NKOGdiQjN4eHFTZy16UTk0SzdWdDlLc29uNjZYWHg0dm1QMTkyOTBYQy0teVFZR2VLTUdnSGItWGkzdXdmc2RVS1FTNE9Hc0ZRNmt6RkFOd0V4cko2TjJrMGNicWdfZVoyQmVjdTd0Z2JYdVdkczRUWWFNSXhNZko0dHZUV0k?oc=5",
+   "source": "European Labour Authority (ELA)",
+   "tier": "official",
+   "also": [],
+   "coverage": 1,
+   "category": "国际治理",
+   "regions": [
+    "全球/多边"
+   ],
+   "importance": 2,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-27T15:48:37-07:00",
+   "keys": [
+    "3b11c255bd1c85c8",
+    "b1d5eb38bd70bc2e"
+   ]
+  },
+  {
+   "id": "2026-11-27-c5a7f48db4e59800",
+   "date": "2026-11-27",
+   "title": "Meta’s UK rollout for Muse AI agent exposes it to more liability",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeDdDZ2hmbzZSUEhXSmNXY3M1ZUNRcHFsU3pvQXVmdHFucDdwS3p4M25PTm9DdWxKbE4xVzRkd0tIbi1OdU9XcUYtVFN2RnduUjg4eEMybUFsb3I1Rm54dVgyUEctcDBOUDJVTFFzRXRXRVAzTlhkazlLSS13LUdOcmJ3dU5wcDdmd3RoNTUyQnB6S3FYWFF5UWhvcE4?oc=5",
+   "source": "POLITICO.eu",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "欧洲"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-27T15:48:37-07:00",
+   "keys": [
+    "12a372cb8c443e06",
+    "c5a7f48db4e59800"
+   ]
+  },
+  {
+   "id": "2026-11-27-8db14879af710ef5",
+   "date": "2026-11-27",
+   "title": "‘It’s not helping’: calls for guardrails and regulations as AI use rises at US retailers",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOeDNCYVhQbUE2MU94UkxyalQyWkk3aFNpSk53aTRTaG5YZVp4ME5CdU1wcEVIaFhmam9NdVRweks0Q1M4ZUpMTV9pcnVEWlcwT0NKVUNySE9WcHJLYTd1TVpzZXVGdWQ1eUFhQmFTakVZZkNpelIxa2xVdkxZNFJ6eExEN3ZZQQ?oc=5",
+   "source": "The Guardian",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "美国"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-27T15:48:37-07:00",
+   "keys": [
+    "33318cdd6243e3f8",
+    "8db14879af710ef5"
+   ]
+  },
+  {
+   "id": "2026-11-27-926ea6deae3aaa77",
+   "date": "2026-11-27",
+   "title": "Meta whistleblower calls on Burnham to go further with ban on NDAs",
+   "summary": "Sarah Wynn-Williams says tech insiders with concerns about AI are being silenced in system reminiscent of George Orwell’s 1984 The Meta whistleblower who made allegations about the social media company’s treatment of tee…",
+   "url": "https://www.theguardian.com/technology/2026/nov/27/meta-whistleblower-sarah-wynn-williams-calls-on-burnham-to-go-further-with-ban-on-non-disclosure-agreements",
+   "source": "The Guardian",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "政策与标准",
+   "regions": [
+    "全球/多边"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-27T15:48:37-07:00",
+   "keys": [
+    "3cd6b3e358a3c9d5",
+    "926ea6deae3aaa77"
+   ]
+  },
+  {
+   "id": "2026-11-27-a2380d3c3e5f146f",
+   "date": "2026-11-27",
+   "title": "Global AI Regulation: EU AI Act, U.S., UK, China, And Key Compliance Risks For Companies",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNbzB2SU1tR0RNLTVXaE5sdC10Rm9xbXF1QTVYMG9seHpram1oaW1FVlI1TTAxX3Nvam05VTkyajJGOXUzT1VDMFJOdHJPNzlHYjNNTk5JMGVONWhBVkJPSVZ1dFRkSXUwbG03Ri1VR0FVTnhkeFJTSXR5S1JoUDBVQVlvV3VEaTNRNkdPVnVtLXF0bG1HWE83UTBKRDY5WV9hLWNhc3RDWFRxQWduLTJQVVBoMlAtbFlnTG9JQmRvWEFYUFNHMkFvbEFwY3VqdDU0LTd2dzJVNHRoQWQw?oc=5",
+   "source": "Legal 500",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "中国",
+    "美国"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-27T15:48:37-07:00",
+   "keys": [
+    "8bc569eb7491cccc",
+    "a2380d3c3e5f146f"
+   ]
+  },
+  {
+   "id": "2026-11-27-adf9ed7007f7ad2c",
+   "date": "2026-11-27",
+   "title": "AI Regulation Is Evolving: 4 Governance Questions",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWTBWVWZFRVNySTBaYk00dTZXdUgzTjJBUjRWM2xobWtwc3lpTlVXWkhwbXdYR1BMdDVPLWZyVEh6ZGp5X2RjRjVTbUtYNnRkMWFISm5pRGo1UjRYcVJPQzZUWUx0QnlSNmYwN0NuRTNfc20tN3hPRFdWWTFfbDJyV3pBWVRJUzFsSm1xUlRn?oc=5",
+   "source": "shattered.io",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-27T15:48:37-07:00",
+   "keys": [
+    "4484442a82e37cd8",
+    "adf9ed7007f7ad2c"
+   ]
+  },
+  {
+   "id": "2026-11-27-56eb4c2886a46f55",
+   "date": "2026-11-27",
+   "title": "AI regulation is still evolving. Governance cannot wait",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSEFUdUVCMHppdjhQd2V2TTZ5RVZtQng1Z2dXQkdXdUp6ZkxQd2dqN0d1ZnEtMUpsVzdYcjhrRnZtVGtab1MzcjlvQmN2ejQzYWEyRm9FWWVtWE10c0FGR0lwY21rbmgwQzg3RHFLSzR0emdmU0UyelNpY0hUUUxwU0tYb1VMNnJmQzNRUA?oc=5",
+   "source": "TechRadar",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-27T15:48:37-07:00",
+   "keys": [
+    "56eb4c2886a46f55",
+    "ceb23c5d3407a8bc"
+   ]
+  },
+  {
+   "id": "2026-11-27-610fd0335f361ab3",
+   "date": "2026-11-27",
+   "title": "New 2027 Illinois laws address e-bike regulation, AI safety, healthcare | See list",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOVDN2aFZfRVVVNGFubzFuM0tjbW56aEFxRFc2UnZYWkx4OFJLZWc1NFhPRDM1bVdnRjNUSW12NHJYRHUtbkxxdTZkNi1ISkRBdGJRTlhITGl3RmVJZ0RYUlcyZVMwTVdVYmZmQi0xdG44dllDY3daUnRQUDRQZWhBdU96V2g2b3dZamlpSm1NWVF3UEU3TUxvZklwWk5wYjNlcWUxT1RVenloMFQ1bjB6RUlySHZ3S0ZaQm5vc2N5M1p3ZngzWThFWEIxUk1sZkdpaWZ6ZXNZcVh1N2pJR2xCZHBYSE1kQUJTU1pIa2h6Q2IteTQ?oc=5",
+   "source": "ABC7 Chicago",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-27T15:48:37-07:00",
+   "keys": [
+    "610fd0335f361ab3",
+    "68653324fb9a3849"
+   ]
+  },
+  {
+   "id": "2026-11-27-eaf0c9a0ef285c8b",
+   "date": "2026-11-27",
+   "title": "Accountability By Design: TRAI Proposes A New AI Governance Framework For Telecom Operators",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxON0FuOV9nUDQzaXcwOHIzV0JaektGVkNtRlduQ19pc0otLU5EejI3Z3prU0NsN0hrNV9wMVp1WjNtRjQ3c01TeDNEbmd6LXZsM2pyOHJOME1pdmNlV3pOckdlZERZQ1E0cXB3ZXJXbzFsdF9kUTFEdXZ4V3ZhbFMtaktHRTQ1TGd1RXZuSldNV3NvdVdwMllWWTZKaHFqVHFvYmVNMmRTaWVhTHFoNWlCVFVrYWFWZEJfQnN0ZDMwaG15eFlDc3V6Wkl3bG5DZU41bG5PX3lEWVFvMjJnT2c?oc=5",
+   "source": "Legal 500",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "政策与标准",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-27T15:48:37-07:00",
+   "keys": [
+    "dfebf75dfc62ee56",
+    "eaf0c9a0ef285c8b"
+   ]
+  },
+  {
+   "id": "2026-11-27-8d5643d574a0ffba",
+   "date": "2026-11-27",
+   "title": "AI Governance Bill to Supplement Existing Sectoral Laws",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0xZkVtTzhrN2NXYjNWci01ZFk3WkY3NlllUmtBXzByMFNWTUdOdU9VOTlWRDFXZmZZX1dWT0dSejMtMEJmaHJBUEo4MzE5a2Y1UnpKa1lrR1FaeXd4SHl5UEVuZjBKV1R0eDRNSGlEck1lTzJPMTlyUURRZDd3Zw?oc=5",
+   "source": "SME & Entrepreneurship Magazine",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-27T15:48:37-07:00",
+   "keys": [
+    "1f1798e3fcd173a6",
+    "8d5643d574a0ffba"
+   ]
+  },
+  {
+   "id": "2026-11-27-3e3d69b8dd2e1fc0",
+   "date": "2026-11-27",
+   "title": "美国加州政府发布人工智能安全报告：建议强化前沿模型监管与紧急处置机制",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5Nc2NfdlZQZFkyN1VkTklCcGlkaHM3ei1zMTFUUDQzZjFHR2hCOTVhRlVyR1dDOTdZbVNyOGhNZlV3TVBCSHdVcjJmTGV2dw?oc=5",
+   "source": "安全内参",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "美国"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-27T15:48:37-07:00",
+   "keys": [
+    "3e3d69b8dd2e1fc0",
+    "45b42b408a74fd76"
+   ]
+  },
+  {
+   "id": "2026-11-27-a6ae71ea978e9df0",
+   "date": "2026-11-27",
+   "title": "标普19个月最佳一周！美股AI交易巨震背后：黄仁勋回归、特朗普押注与监管风险交织",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1HMFd1b0hUU0R0YmdZX0ZYY3NSRUd6b2RWaFd0WGJJS015UGd1LTdjaEJVTnpDalZDOGpHM2N1bXRKaTdEOTdjeTFR?oc=5",
+   "source": "全天候科技",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "美国"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-27T15:48:37-07:00",
+   "keys": [
+    "68178f595008e65d",
+    "a6ae71ea978e9df0"
+   ]
+  },
   {
    "id": "2026-11-26-7b13fdfd5f387955",
    "date": "2026-11-26",
@@ -26,6 +303,36 @@
    ]
   },
   {
+   "id": "2026-11-26-b09177f9581647a7",
+   "date": "2026-11-26",
+   "title": "从标识到打假、防滥用：小红书将重点治理AI造假、AI刷量",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE85REpDaFBEaWRnRHJGYk9nVmRCdHVDN1NKRTFBTWNYLXVpMkxJZ1c1UnFuQW9WQ1hOSmFnQTc4YkNFM0tkY3g5d1h3cUo1R3FiblV2OHczRmhnUHc3UF9nQQ?oc=5",
+   "source": "ThePaper.cn",
+   "tier": "a",
+   "also": [
+    {
+     "source": "人民网",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE53TTN0R05uVUZDVHlIYVI4YlhYT3FCS3JORnVhN19WWjNYbDY4R2RqOVpLYUtYRlFnVmZyNVdwdzNxT1NrdzZydjhiejVsSW1VRHU4ZmtEeHc0NjA2XzBLcUxFYlFiams0d1FxNUVn?oc=5"
+    }
+   ],
+   "coverage": 2,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 2,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-27T15:48:37-07:00",
+   "keys": [
+    "2edfb5cacd674961",
+    "39af3827ea0130f9",
+    "b09177f9581647a7",
+    "ee7d2acb2cc5074a"
+   ]
+  },
+  {
    "id": "2026-11-26-fd5c75fca62144ab",
    "date": "2026-11-26",
    "title": "京粤两地协会签署游戏安全跨区域协作备忘录，20余家游戏企业共话AI时代攻防",
@@ -46,6 +353,99 @@
    "keys": [
     "36efc408418df3fb",
     "fd5c75fca62144ab"
+   ]
+  },
+  {
+   "id": "2026-11-26-25559810c218c028",
+   "date": "2026-11-26",
+   "title": "AI Firms’ $4 Trillion Web Amplifies Market Risk, BOE Says",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQT1lUYXU1Y3ViSk9EZjJSZXBCcmtnTGNYM1g3TVJMQURPRkpNWVNCSkVSZGlRX3JET3FVdERWcDVpbHl4QkdpNkRPazJNVXJXNkVSOE5zblBib0ZvNzlxTGJiWERDTlkzREtXRVFZelp4SFNHajBXT0N5OURreDdNZ0NHY2lwUkhEOGV4UmhYdjhhMkRRaWxJV25BMDBIMWtLSVo2ZkFCOXFhbGs4aUVYVw?oc=5",
+   "source": "Bloomberg.com",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-27T15:48:37-07:00",
+   "keys": [
+    "25559810c218c028",
+    "46ad84b6bbf3764c"
+   ]
+  },
+  {
+   "id": "2026-11-26-4088adff30f8b546",
+   "date": "2026-11-26",
+   "title": "AI firms with poor safeguards face inspections under Japan draft law",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVFdjR3VNbXhPU1VXRW01VXpYYXBNTG85SmtzZmd4a2l1akw5UkJjQnRJa0lnN0hKa19PQzRuS2czWnl1NGhrc29XN0s5blNSZUxiUVBTZFRPMkw0bmNMcU8yTEtGSWJrQXlOVjBsblVlMEtkSXgxcDVkQ211bkd2Mm5KalBDazVCTXFCN1hCekR4ZnRYN3VVYmxRd1lKbUZZd0xuQWMxS1FjNms3TlpMdVFBZmgyRm12eFlWZ2ZmV1puR19zWnZyeTh1YVJuRXBRY2c?oc=5",
+   "source": "Nikkei Asia",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-27T15:48:37-07:00",
+   "keys": [
+    "4088adff30f8b546",
+    "41ff76cb90851352"
+   ]
+  },
+  {
+   "id": "2026-11-26-c7a630d81914ab04",
+   "date": "2026-11-26",
+   "title": "启明星辰集团AI安全网关首批获大模型安全防护围栏产品（增强级）检测证书！",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAxWVhSY0RBT2gzT3UtaDUzMXlSaDVkdGhOMEFjMGNxWVFDV2l0clBnQmJ1SHF4QVNISFBfV1N6SldhQVp3Wl9HNmJDZ21CVmg0RkZ6bVo1eWE?oc=5",
+   "source": "Jiemian.com",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-27T15:48:37-07:00",
+   "keys": [
+    "c6450c6e5382975c",
+    "c7a630d81914ab04"
+   ]
+  },
+  {
+   "id": "2026-11-26-8fb5e90aba435c82",
+   "date": "2026-11-26",
+   "title": "壹时评：人工智能标准出海，让中国经验惠及全球",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9fSVdFX2l6UV9PUDBZblhibVd0S1RTUV80dks2cG53X0dUWVhTcU9Ib0VWLTlydlRaTElWVnN5dVlTMkZSeUNTeHJGVXpDVmNvQ1FyRDBBU2cwN2NnaHBhNlQ3cHdfMG9LN2tkaVlGcm8?oc=5",
+   "source": "人民网观点",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "政策与标准",
+   "regions": [
+    "中国",
+    "全球/多边"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-27T15:48:37-07:00",
+   "keys": [
+    "8fb5e90aba435c82",
+    "9f9d3b5884f3afde"
    ]
   },
   {
@@ -1008,9 +1408,13 @@
     {
      "source": "Sohu",
      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVGZFbnhnTnVkRS0tbnFBZlpVVnc0UEphWGhFRFFlb0ZEejhzS1BoMzBLVl8yU2ZLbkhQSUdBWTJiSnY3TG0wZ0hnOWJETzBlZlg1X2Q4ejd1aUVqUi1WZ3dtaUZzUl9MT0hxVEtfOWZpM0ptdjNycmlnbmFpLTBfaHYyalZ6d2R4?oc=5"
+    },
+    {
+     "source": "人民网-上海频道",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5yQmtENXNZdmJLUkRKQndUNGR4amd5WU1jamlnSEZFdE9zTUZESUFQbW1Xc1JVNDZPWHVLZExzRmRXX191c3F2Q1RTX3FiTmQyakgxWFBQUDFWX001bDVmLVYzd2FSUkxPalE?oc=5"
     }
    ],
-   "coverage": 5,
+   "coverage": 6,
    "category": "国际治理",
    "regions": [
     "全球/多边"
@@ -1025,12 +1429,14 @@
     "238abb0706cd9ef7",
     "3c76af49e7388e51",
     "3d136620671d8939",
+    "4b9d252abf5c6e10",
     "501f50cce7813ecd",
     "545dca78a8d5e3fc",
     "5cbf968fe378ed7c",
     "6f201d46464ce37f",
     "8bea54b04d054d65",
     "b7960d25521b381e",
+    "bbf6b83b20b988f8",
     "c6cef2d0e66a5d1f",
     "cb9966a1e8ff909f",
     "d464867940b49ad0",
