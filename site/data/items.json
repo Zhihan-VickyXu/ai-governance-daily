@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T15:48:40-07:00",
+ "updated": "2026-11-27T18:41:42-07:00",
  "items": [
   {
    "id": "2026-11-27-3b11c255bd1c85c8",
@@ -22,6 +22,30 @@
    "keys": [
     "3b11c255bd1c85c8",
     "b1d5eb38bd70bc2e"
+   ]
+  },
+  {
+   "id": "2026-11-27-58f58d4c4fc8b1dd",
+   "date": "2026-11-27",
+   "title": "European Parliament Supports EU Cities’ Bids to Host a New UN Structure Dedicated to AI Governance",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSzJQcl9DSFhIbHdZQU1jbnZVSURlOEtrbWZ4TVlUY3BVU2d2MlpBdGVDV3hBRkxpTVdvQXlTNkt1NjdRRmkyaFhIdlVaenhIcExSSV9GSkVTNXQ3MzlnTnQ2RFBPSzQ5YlRxOWJib2dVdlBjTHI5MjhJc01IYVZOTGNDOHZpclh3NzFISHRnaHVJME5xRHlpTV9VVnltNGtiamhrZTN0LS14RWtWc2lBbGgwUXoxald0OVVzUkVZcWFSTklYVHlDc0l3?oc=5",
+   "source": "Informat.ro",
+   "tier": "",
+   "also": [],
+   "coverage": 1,
+   "category": "国际治理",
+   "regions": [
+    "欧洲",
+    "全球/多边"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-27T18:41:39-07:00",
+   "keys": [
+    "58f58d4c4fc8b1dd",
+    "84a1ce49ea562c69"
    ]
   },
   {
@@ -182,8 +206,10 @@
    "addedBy": "auto",
    "createdAt": "2026-11-27T15:48:37-07:00",
    "keys": [
+    "0067954ce48a5a68",
     "610fd0335f361ab3",
-    "68653324fb9a3849"
+    "68653324fb9a3849",
+    "73a4df868a09291f"
    ]
   },
   {
@@ -353,6 +379,52 @@
    "keys": [
     "36efc408418df3fb",
     "fd5c75fca62144ab"
+   ]
+  },
+  {
+   "id": "2026-11-26-c903e3f87a631bee",
+   "date": "2026-11-26",
+   "title": "They Pledged to Give Away 10% of Their Income. Now They’re AI Billionaires.",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOR0RQVG9idG9zbWotXzlaZEU3MXBkLUQ4T2g5OTZiZ3p4c20zTFhVM05BU2l5V3hlNEppc2RfLVpIbGo3XzZLX09jbFhnZW9mRnpNU3BYZGllVF93R19rTTdIbGc0dmtYNDJ1c29vUE5TcUhqdFFqb1NiRHltME9pVUlTZkpBWlZhNXMwSkhQbzk?oc=5",
+   "source": "WSJ",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "立法与监管",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "en",
+   "addedBy": "auto",
+   "createdAt": "2026-11-27T18:41:39-07:00",
+   "keys": [
+    "c903e3f87a631bee",
+    "d4982c698b12f21a"
+   ]
+  },
+  {
+   "id": "2026-11-26-7bec6eeb7a6c2dac",
+   "date": "2026-11-26",
+   "title": "从黄仁勋复职到“马斯克溢价”：华尔街如何重新定价AI巨头的“关键人物风险”",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ZVGh2Q0lTbUozNERNbUtFQjBfcXo3QkswYW1jUnJRRmNFa1NRNzItcFVLOUl5MEo5OHZoRmdUdXU1NExzamg1UlRlQW5tUms0Q0ZF?oc=5",
+   "source": "第一财经",
+   "tier": "a",
+   "also": [],
+   "coverage": 1,
+   "category": "行业动态",
+   "regions": [
+    "其他"
+   ],
+   "importance": 1,
+   "lang": "zh",
+   "addedBy": "auto",
+   "createdAt": "2026-11-27T18:41:39-07:00",
+   "keys": [
+    "0c4ea358c9f90b34",
+    "7bec6eeb7a6c2dac"
    ]
   },
   {
